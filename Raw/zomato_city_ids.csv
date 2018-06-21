@@ -1,0 +1,30 @@
+﻿Country,City,Zomato ID
+USA,New York City,280
+USA,San Francisco,306
+USA,Washington DC,283
+USA,Chicago,292
+USA,Los Angeles,281
+USA,Miami,291
+USA,Houston,277
+Canada,Toronto,89
+Canada,Montreal,294
+United Kingdom,London,61
+United Kingdom,Edinburgh,76
+United Kingdom,Dublin,91
+Italy,Rome,257
+Italy,Milan,258
+India,Delhi,1
+India,Mumbai,3
+Philippines,Manila,63
+Indonesia,Jakarta,74
+Australia,Sydney,260
+Australia,Melbourne,259
+New Zealand,Auckland,70
+New Zealand,Wellington,71
+South Africa,Johannesburg,65
+South Africa,Cape Town,64
+Brazil,Rio De Janeiro,73
+Brazil,Sao Paulo,67
+Chile,Santiago,83
+UAE,Dubai,51
+Qatar,Doha,62
