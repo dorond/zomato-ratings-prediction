@@ -1,0 +1,1195 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,locality_verbose,city,zipcode,country_id,latitude,longitude,has_online_delivery,has_table_booking
+New Horizon,Indian,4.5,Excellent,395,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4380256953,-70.6450966001,0,0
+Maprao Thai,"Thai, Asian",4.3,Very Good,414,$,13000,2,Providencia,"Providencia, Santiago",Santiago,7630290,42,-33.3986251276,-70.5861986428,0,0
+Lai Thai,Thai,4.3,Very Good,139,$,14000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4730473308,-70.6398931146,0,0
+Thai Express,"Thai, Asian",4.1,Very Good,245,$,13000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4379403618,-70.6442097947,0,0
+Crudo y Sin Censura,"Bar Food, Steak",4.1,Very Good,125,$,13500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4269607307,-70.6156057119,0,0
+Panko,"Sushi, Nikkei, Japanese",4.1,Very Good,123,$,24000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4394928598,-70.6412556767,0,0
+La Mechada Nacional,"Sandwich, Chilean",4.1,Very Good,131,$,8000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4222146133,-70.6087600440,0,0
+Garage 0276,Burger,4.1,Very Good,67,$,14000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4144500000,-70.5526970000,0,0
+Verace Pizza,Pizza,4.1,Very Good,100,$,17000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4366505559,-70.6432200596,0,0
+El Remanso,Empanadas,4.1,Very Good,118,$,4000,1,La Florida,"La Florida, Santiago",Santiago,,42,-33.5203999680,-70.5593416840,0,0
+Italita,Pizza,4.1,Very Good,73,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4188145760,-70.6074709073,0,0
+Elkika Ilmenau,"German, Sandwich",4.0,Very Good,359,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4239476016,-70.6105038151,0,0
+La Mensajería,"Empanadas, Sandwich, Healthy Food",4.0,Very Good,299,$,14000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4243113765,-70.6115287542,0,0
+Take a Wok,"Asian, Thai",4.0,Very Good,240,$,10500,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4177136630,-70.6058857217,0,0
+Vegan Bunker,"Healthy Food, Cafe, Pastry",4.0,Very Good,174,$,8000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4475540000,-70.6233440000,0,0
+Soju,"Healthy Food, Sandwich, Bar Food",4.0,Very Good,127,$,12000,2,"Galería Santiago, Santiago Centro","Galería Santiago, Santiago Centro, Santiago",Santiago,,42,-33.4381888081,-70.6485321745,0,0
+Curry & Kabab Indian Restaurant,Indian,4.0,Very Good,79,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4194620000,-70.6073030000,0,0
+Lai Thai,Thai,4.0,Very Good,109,$,22000,2,"Galería Francisco de Aguirre, Providencia","Galería Francisco de Aguirre, Providencia, Santiago",Santiago,,42,-33.4183668246,-70.6040189043,0,0
+Sajj,"Arabian, Fast Food",4.0,Very Good,90,$,9500,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4552163165,-70.5964212120,0,0
+RomAmor,Pizza,4.0,Very Good,89,$,13000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4393582868,-70.6131058931,0,0
+Pizzeria Italia Maestro Pizzero,"Pizza, Italian",4.0,Very Good,65,$,10500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4374434670,-70.6159017608,0,0
+Los Miserables,"Mexican, Fast Food",4.0,Very Good,144,$,9000,1,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4347404328,-70.6353336945,0,0
+Caprioli,"Home-made, Sandwich, Healthy Food, Cafe",3.9,Good,83,$,13000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4117949669,-70.6027777120,0,0
+Niu Sushi,"Sushi, Japanese",3.9,Good,112,$,22000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4239019898,-70.6104203314,0,0
+Bar Nacional 1,"Chilean, Steak, Sandwich, Seafood",3.9,Good,99,$,13000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4397606062,-70.6529199332,0,0
+Buffalo Waffles,"American, Fast Food",3.9,Good,91,$,8000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4184860000,-70.6044660000,0,0
+Sherezade,Arabian,3.9,Good,96,$,12000,2,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4291732209,-70.6427885592,0,0
+Amanda's,"Arabian, Venezuelan",3.9,Good,98,$,8000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4391666667,-70.6581805556,0,0
+"Hola, Bagels",Sandwich,3.9,Good,54,$,9000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4476698046,-70.6247061118,0,0
+DonKame Yoko,Japanese,3.9,Good,59,$,20000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4300000000,-70.6300000000,0,0
+El Palacio del Poroto con Rienda,"Chilean, Home-made",3.9,Good,62,$,10000,2,Estación Central,"Estación Central, Santiago",Santiago,,42,-33.4599807681,-70.6960760057,0,0
+Verde que Te Quiero Verde,"Healthy Food, Home-made, Chilean",3.9,Good,48,$,14000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4424489361,-70.6765421480,0,0
+Waya's Gyros,"Greek, Fast Food",3.9,Good,90,$,7000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4304746100,-70.6226002425,0,0
+Sabores de Mexico,Mexican,3.9,Good,25,$,12000,2,"Mercado de Abastos Tirso de Molina, Recoleta","Mercado de Abastos Tirso de Molina, Recoleta, Santiago",Santiago,,42,-33.4317773786,-70.6504606828,0,0
+InPasta,Italian,3.9,Good,39,$,17000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4500000000,-70.6300000000,0,0
+Fortunata,"Ice Cream, Desserts, Italian",3.9,Good,41,$,8000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.3922611111,-70.5539638889,0,0
+Hogs,"Fast Food, Sandwich",3.8,Good,262,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4204278613,-70.6057348475,0,0
+Tortilla Factory,Mexican,3.8,Good,144,$,15000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.3909303688,-70.5443444476,0,0
+Dominó,"Fast Food, Sandwich",3.8,Good,163,$,13000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4141472134,-70.6006416678,0,0
+W.O.K.,"Chinese, Thai",3.8,Good,126,$,15000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4184765239,-70.6068908796,0,0
+Nippon,"Sushi, Japanese",3.8,Good,76,$,23000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4229119543,-70.6123102829,0,0
+Martuca,"Sandwich, Fast Food",3.8,Good,69,$,13000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4311080000,-70.6186960000,0,0
+Pita House,Arabian,3.8,Good,104,$,12000,2,"Centro Comercial Eve, Vitacura","Centro Comercial Eve, Vitacura, Santiago",Santiago,,42,-33.3939368055,-70.5789251626,0,0
+Luck Thai,Thai,3.8,Good,64,$,12000,2,"Mercado de Abastos Tirso de Molina, Recoleta","Mercado de Abastos Tirso de Molina, Recoleta, Santiago",Santiago,,42,-33.4317502378,-70.6510614976,0,0
+Quick Lunch Alemán,"Bar Food, Sandwich",3.8,Good,88,$,15000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4081563455,-70.5661035329,0,0
+El Tío Manolo,"Fast Food, Sandwich, Burger",3.8,Good,85,$,10000,2,La Reina,"La Reina, Santiago",Santiago,,42,-33.4468222222,-70.5635694444,0,0
+Chicken Tea,"Thai, Fast Food",3.8,Good,63,$,8000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4503371885,-70.6641818583,0,0
+Karai,"Sushi, Japanese",3.8,Good,55,$,25000,3,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3644863236,-70.4945442080,0,0
+Santiago Shawarma,Arabian,3.8,Good,58,$,11000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4305328097,-70.6192189828,0,0
+Voraz Pizza,Pizza,3.8,Good,67,$,11000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4287299999,-70.6199438497,0,0
+Wally's Burgers,Fast Food,3.8,Good,50,$,15000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.3944160000,-70.5157690000,0,0
+Café Haussmann,"Sandwich, Cafe",3.8,Good,53,$,11000,2,"Boulevard Nueva Las Condes, Las Condes","Boulevard Nueva Las Condes, Las Condes, Santiago",Santiago,,42,-33.4053144150,-70.5741015449,0,0
+Da Dino,Pizza,3.8,Good,51,$,10000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4427944444,-70.6468972222,0,0
+Chato's,"Sandwich, Fast Food",3.8,Good,57,$,10000,2,La Reina,"La Reina, Santiago",Santiago,,42,-33.4440063892,-70.5720214918,0,0
+El Taita Peruano,"Pastry, Bakery, Sandwich, Peruvian",3.8,Good,30,$,12000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4607815776,-70.6210321561,0,0
+Capellán/8,"Sandwich, Healthy Food",3.8,Good,52,$,13000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4322773836,-70.6297590584,0,0
+Sawasdee,Thai,3.8,Good,46,$,8000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4324771610,-70.6226448342,0,0
+Sandborja,Sandwich,3.8,Good,33,$,16000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4400000000,-70.6400000000,0,0
+Poker Bar,"Fast Food, Sandwich",3.8,Good,49,$,9000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4409444444,-70.6481027778,0,0
+Papa John's,Pizza,3.8,Good,50,$,12000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3894094753,-70.5689238757,0,0
+Il Romano,"Italian, Pizza",3.8,Good,49,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4470786890,-70.6358429790,0,0
+Rapa Nui,"Chilean, Home-made",3.8,Good,41,$,9500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4439862462,-70.6198553368,0,0
+Green Pizza,Pizza,3.8,Good,34,$,18000,2,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3419320000,-70.5213440000,0,0
+Felipe Didier,"Italian, Pizza, Cafe",3.8,Good,43,$,9000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4284339583,-70.6261186302,0,0
+Pardeshi Tadka,Indian,3.8,Good,34,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4186125285,-70.6043008715,0,0
+Shawarma,"Arabian, Fast Food",3.8,Good,26,$,10000,2,"La Vega Central, Recoleta","La Vega Central, Recoleta, Santiago",Santiago,,42,-33.4301701802,-70.6497452036,0,0
+Iyael,"Empanadas, Cafe",3.8,Good,34,$,6500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4453722222,-70.6204916667,0,0
+Ahlen,Arabian,3.8,Good,18,$,9000,1,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4287003398,-70.6436411664,0,0
+Crepes & Waffles,Cafe,3.7,Good,81,$,24000,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4029023115,-70.5774603412,0,0
+Mr. Fish,Seafood,3.7,Good,66,$,18000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4549374287,-70.5970750004,0,0
+Niu Sushi,"Sushi, Japanese",3.7,Good,62,$,22000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4288872541,-70.6194815040,0,0
+Falafel Asly,Arabian,3.7,Good,68,$,11000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.3967597941,-70.5503358319,0,0
+Oceanika,"Sushi, Nikkei",3.7,Good,54,$,15000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4480214000,-70.6448205000,0,0
+Munich,Sandwich,3.7,Good,62,$,10000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4472378682,-70.6321247667,0,0
+Take A Wok,"Asian, Thai",3.7,Good,44,$,10500,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4019193140,-70.5794800445,0,0
+Ijole,Mexican,3.8,Good,58,$,10000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4569140000,-70.6358940000,0,0
+Tommy Beans,"Fast Food, Mexican",3.7,Good,57,$,8000,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4016441735,-70.5796094611,0,0
+Torremolinos,"Home-made, Sandwich",3.7,Good,40,$,10000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4401226361,-70.6409948319,0,0
+Kimura,"Sushi, Japanese",3.7,Good,58,$,18500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4452569195,-70.6063165516,0,0
+Q'Pasapalo El Merendero Venezolano,"Venezuelan, Home-made",3.7,Good,37,$,12000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4488194444,-70.6231472222,0,0
+Papa John's,Pizza,3.7,Good,47,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4195880612,-70.5999939144,0,0
+Mikan Sushi,"Sushi, Japanese",3.7,Good,58,$,16000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4479290000,-70.6353590000,0,0
+Charly Dog,Fast Food,3.7,Good,46,$,9500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4287411923,-70.6195381656,0,0
+Central Pizza,Pizza,3.7,Good,40,$,6000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4371440978,-70.6472279504,0,0
+El Cumbión,"Chilean, Home-made",3.7,Good,30,$,19000,2,Lo Prado,"Lo Prado, Santiago",Santiago,,42,-33.4530361111,-70.7362055556,0,0
+Empanadas Tinita,Empanadas,3.7,Good,41,$,5000,1,Mercado de Providencia,"Mercado de Providencia, Santiago",Santiago,,42,-33.4269859143,-70.6175419316,0,0
+Dominó,"Fast Food, Sandwich",3.7,Good,43,$,10000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4287277614,-70.6194912270,0,0
+Planta Maestra,Healthy Food,3.7,Good,36,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4395750000,-70.6133194444,0,0
+Sumas,"Italian, Healthy Food",3.6,Good,34,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4377752901,-70.6449118629,0,0
+Dominó,"Fast Food, Sandwich",3.7,Good,36,$,10000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4433240452,-70.6507798657,0,0
+Wasabi,"Sushi, Japanese",3.7,Good,37,$,26000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4304264833,-70.6192940846,0,0
+Arte Vegetal,"Sandwich, Healthy Food",3.7,Good,44,$,5000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4443773537,-70.6564413384,0,0
+Milano's Pizza,Pizza,3.7,Good,45,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4369166667,-70.6569583333,0,0
+Evergreen,Home-made,3.7,Good,40,$,8000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4463015322,-70.6537413597,0,0
+Tutto Pizzas,Pizza,3.7,Good,25,$,11000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4128722222,-70.5402666667,0,0
+Mr. Fish,Seafood,3.7,Good,24,$,18000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4262640000,-70.6144640000,0,0
+Thai Isan,Thai,3.7,Good,21,$,15000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4763434472,-70.6450040638,0,0
+La Micropasta,Italian,3.7,Good,29,$,10000,2,Quinta Normal,"Quinta Normal, Santiago",Santiago,,42,-33.4400000000,-70.6800000000,0,0
+Ginebra Burger Premium,Burger,3.7,Good,31,$,16000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4551936586,-70.5968289077,0,0
+Misotorino,"Sushi, Japanese",3.7,Good,21,$,18500,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4062817006,-70.5438348278,0,0
+Pastelería Lala Leelu,"Pastry, Cafe",4.9,Excellent,161,$,8000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4469944444,-70.6298972222,0,0
+Clementina,"Cafe, Pastry, Healthy Food",4.6,Excellent,283,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4176050000,-70.6137330000,0,0
+Daniel's Bakery & Cafe,"Cafe, Bakery, Pastry",4.5,Excellent,439,$,12000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4402272720,-70.5766798183,0,0
+Xoco Por Tí,Cafe,4.5,Excellent,220,$,6500,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4493611111,-70.6238250000,0,0
+Salvador,"Chilean, Cafe",4.4,Very Good,176,$,20000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4412129134,-70.6516448781,0,0
+Café Forastero,Cafe,4.4,Very Good,157,$,10000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4455114995,-70.6677046046,0,0
+Colmado,"Cafe, Spanish, Sandwich, Pastry",4.3,Very Good,364,$,16000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4377884399,-70.6419191882,0,0
+El Taller,"Cafe, Ice Cream",4.3,Very Good,284,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4279037112,-70.6178057939,0,0
+Metissage,"Cafe, Sandwich, Healthy Food",4.3,Very Good,208,$,13000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4069559393,-70.5994316563,0,0
+La Tetería,"Cafe, Sandwich",4.3,Very Good,195,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4205761757,-70.6097709015,0,0
+Big Boba,"Tea, Asian",4.3,Very Good,215,$,6000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4306472504,-70.6190952659,0,0
+La Resistencia Café,"Cafe, Sandwich, Healthy Food",4.3,Very Good,377,$,16500,2,"Galería Drugstore, Providencia","Galería Drugstore, Providencia, Santiago",Santiago,,42,-33.4219736768,-70.6111609563,0,0
+Rende Bú,"Healthy Food, Cafe, Desserts",4.2,Very Good,293,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4407403777,-70.5919120833,0,0
+Inside Tea Connection,"Healthy Food, Cafe",4.2,Very Good,251,$,15000,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4022789827,-70.5784165487,0,0
+Había Una Vez,"Pastry, Korean, Cafe, Healthy Food",4.2,Very Good,205,$,6500,1,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4316777778,-70.6442861111,0,0
+Mazaccone,"Cafe, Pastry, Healthy Food, Sandwich",4.2,Very Good,116,$,19000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3880008125,-70.5643604323,0,0
+La Florencia,"Cafe, Ice Cream, Sandwich",4.2,Very Good,82,$,15000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3831083874,-70.5727416649,0,0
+Cafetería Trufa Gourmet,Cafe,4.2,Very Good,80,$,12000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4482295844,-70.5814511329,0,0
+Mozart,"Pastry, Cafe",4.2,Very Good,124,$,7000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3885245847,-70.5779092759,0,0
+Sebastian,"Cafe, Healthy Food, Ice Cream",4.2,Very Good,163,$,12000,2,"Galería Drugstore, Providencia","Galería Drugstore, Providencia, Santiago",Santiago,,42,-33.4221295440,-70.6110084057,0,0
+Cinnabon,"Pastry, Cafe",4.2,Very Good,107,$,8000,1,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4177450059,-70.6060121208,0,0
+Café de la Candelaria,"Cafe, Sandwich, Bar Food",4.1,Very Good,292,$,19000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4478407323,-70.6247071177,0,0
+Quererte,Cafe,4.1,Very Good,200,$,13000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4169342843,-70.5605191737,0,0
+El Árbol,"Cafe, Healthy Food, Bar Food",4.1,Very Good,154,$,9500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4313599128,-70.6231024861,0,0
+Coffee Culture,Cafe,4.1,Very Good,93,$,8000,1,Maipú,"Maipú, Santiago",Santiago,,42,-33.5077361231,-70.7599414140,0,0
+Il Maestrale,"Ice Cream, Cafe, Desserts",4.1,Very Good,127,$,12000,2,"Patio Bellavista, Barrio Bellavista, Providencia","Patio Bellavista, Barrio Bellavista, Providencia, Santiago",Santiago,,42,-33.4338274648,-70.6344529241,0,0
+Ubuntu Café,Cafe,4.1,Very Good,87,$,12500,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4380455599,-70.5781453103,0,0
+Etienne Marcel,"Pastry, French, Cafe",4.1,Very Good,75,$,7000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4551158946,-70.6235514209,0,0
+Crepes & Waffles,"French, Cafe, Ice Cream",4.0,Very Good,304,$,20000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4172093764,-70.6065056473,0,0
+La Manzana Confitada,Cafe,4.0,Very Good,249,$,16000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4384350155,-70.6410944089,0,0
+Eric Kayser,"Pastry, Cafe, Bakery",4.0,Very Good,164,$,8000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4165903479,-70.5976909027,0,0
+Survenïr,Cafe,3.9,Good,133,$,10500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4481968537,-70.6246963888,0,0
+Cacao Much,Cafe,4.0,Very Good,110,$,12000,2,Providencia,"Providencia, Santiago",Santiago,7510034,42,-33.4196841390,-70.6062154061,0,0
+Confitería Torres,"Seafood, Steak, Cafe, Bar Food",4.0,Very Good,130,$,30000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4460690552,-70.6581914797,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",4.0,Very Good,175,$,15000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4369748278,-70.6404647604,0,0
+Mosqueto,Cafe,4.0,Very Good,154,$,13000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4375184491,-70.6443606690,0,0
+Cofi,Cafe,4.0,Very Good,100,$,11000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4271739515,-70.6203022599,0,0
+Rende Bú,"Healthy Food, Cafe, Desserts",4.0,Very Good,105,$,13500,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4489460000,-70.6243280000,0,0
+Café Colonia,"Cafe, Pastry, Sandwich",4.0,Very Good,162,$,9000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4413332152,-70.6465751678,0,0
+Leerté,Cafe,4.0,Very Good,139,$,17000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4355166667,-70.6458888889,0,0
+Condi,"Cafe, Pastry",4.0,Very Good,122,$,19000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4544204908,-70.6060895696,0,0
+La Chocolatine,"Cafe, French, Desserts",4.0,Very Good,76,$,15000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3863242165,-70.5635162070,0,0
+Café Ritual,"Cafe, Pastry, Ice Cream",4.0,Very Good,64,$,13000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4164383886,-70.5951863900,0,0
+Fix Café,Cafe,4.1,Very Good,80,$,13000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4166488368,-70.5942197889,0,0
+Doméstico,Cafe,4.0,Very Good,57,$,11000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4398616054,-70.6410354003,0,0
+Wicked Food Truck,"Cafe, Sandwich",4.0,Very Good,64,$,8000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4033078788,-70.5749477819,0,0
+Delice D' Alsace,"Cafe, Pastry, French",4.0,Very Good,58,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4370103605,-70.6064872071,0,0
+Silvestre,Cafe,4.0,Very Good,46,$,15000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4482277778,-70.6234750000,0,0
+Café Diario,Cafe,4.0,Very Good,56,$,8000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4086391342,-70.5707762763,0,0
+Café del Opera,"Cafe, Pastry, Healthy Food, Ice Cream",3.9,Good,226,$,18000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4375399924,-70.6430956721,0,0
+Sabor de Buenos Aires,"Cafe, Healthy Food, Empanadas, Sandwich, Pizza, Pastry",3.9,Good,202,$,8500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4292988558,-70.5927677080,0,0
+7 Alces,"Cafe, Healthy Food",3.9,Good,135,$,10000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4024639945,-70.5985867605,0,0
+Emporio Armani Caffe,"Cafe, Italian",3.9,Good,97,$,38000,3,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4015313740,-70.5775719881,0,0
+Faustina,Cafe,3.9,Good,97,$,8000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4204538863,-70.6113681570,0,0
+Bagels & Co.,"Cafe, Bakery",3.9,Good,60,$,7000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4183883727,-70.5998098478,0,0
+VOP Café,"Cafe, Healthy Food",3.9,Good,94,$,19000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4136275137,-70.5977938324,0,0
+Jengibre Specialty Coffee,"Sandwich, Cafe",3.9,Good,36,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4202611111,-70.6090166667,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.9,Good,72,$,15000,2,"Galería Drugstore, Providencia","Galería Drugstore, Providencia, Santiago",Santiago,,42,-33.4223187111,-70.6114053726,0,0
+Café Zanelli,"Cafe, Sandwich, Pastry",3.9,Good,50,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4422805556,-70.5936666667,0,0
+Café del Barrio,"Cafe, Pastry",3.9,Good,46,$,5000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4532914966,-70.5766288564,0,0
+Caffe Da Lucía,Cafe,3.9,Good,46,$,15000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4370050446,-70.6432646513,0,0
+Nook Café,Cafe,3.9,Good,36,$,9000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4062663069,-70.5997511744,0,0
+La Estación,"Cafe, Sandwich, Healthy Food",3.9,Good,38,$,23000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4031844455,-70.5963357165,0,0
+Club Intenzzo,Cafe,3.9,Good,50,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4430840066,-70.6403356791,0,0
+Café Nicolas,"Cafe, French, Pastry, Bakery",3.9,Good,37,$,14500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4210776445,-70.6065928191,0,0
+The Crêpe Café,"Cafe, Desserts, Healthy Food",3.8,Good,186,$,13500,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4170434257,-70.6067158654,0,0
+Paul Boulangerie,"Cafe, French, Pastry",3.8,Good,165,$,14000,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4020069222,-70.5771572515,0,0
+Café Palermo,"Cafe, Sandwich, Pizza",3.8,Good,124,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4440100261,-70.6197560951,0,0
+Cocteau Café,Cafe,3.8,Good,93,$,12500,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4355739310,-70.6460876763,0,0
+La Fraternal,"Cafe, Healthy Food",3.8,Good,100,$,12000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4494629894,-70.5958670005,0,0
+Café Melba,"Cafe, Healthy Food, Bakery",3.8,Good,139,$,15000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4160057370,-70.6001095846,0,0
+Cafetin,Cafe,3.8,Good,74,$,10000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4143450000,-70.5971750000,0,0
+Café Bistro de La Barra,Cafe,3.8,Good,85,$,16000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4370906588,-70.6436049566,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.8,Good,85,$,15000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4175253254,-70.6061043218,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.8,Good,112,$,15000,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4023517559,-70.5771602690,0,0
+Confitería Torres,"Seafood, Steak, Cafe, Bar Food",3.8,Good,63,$,30000,3,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4140615765,-70.5997008830,0,0
+Rende Bú,"Healthy Food, Cafe, Desserts",3.8,Good,71,$,15000,2,"Galería Drugstore, Providencia","Galería Drugstore, Providencia, Santiago",Santiago,,42,-33.4223058388,-70.6114214659,0,0
+Beppo Cafe,Cafe,3.8,Good,52,$,0,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4222030000,-70.6012690000,0,0
+Malvarosa,"Healthy Food, Cafe",3.8,Good,49,$,10000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4483440000,-70.6241740000,0,0
+Délice,"Cafe, Pastry",3.8,Good,60,$,10000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4482939267,-70.5807095021,0,0
+Filippo,"Cafe, Ice Cream, Pastry",3.8,Good,59,$,10000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4551810709,-70.5943850800,0,0
+Caffe Codice,"Cafe, Sandwich",3.8,Good,64,$,12000,2,San Miguel,"San Miguel, Santiago",Santiago,,42,-33.4980696198,-70.6537819281,0,0
+Café 202,"Cafe, Bar Food",3.8,Good,82,$,13000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4380757763,-70.6384189054,0,0
+De Música Viajera,Cafe,3.8,Good,27,$,8000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4198840000,-70.6072380000,0,0
+Tavelli,"Cafe, Pastry, Ice Cream, Sandwich, Desserts",3.8,Good,66,$,12500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4440900382,-70.6144426391,0,0
+Café Montenegro,"Cafe, Pastry",3.8,Good,44,$,0,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,7790746,42,0.0000000000,0.0000000000,0,0
+Espresso Bar,Cafe,3.8,Good,55,$,13000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4289725965,-70.5931566283,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.8,Good,57,$,15000,2,"Portal La Dehesa, Lo Barnechea","Portal La Dehesa, Lo Barnechea, Santiago",Santiago,,42,-33.3586194444,-70.5159611111,0,0
+Hildegard,"Cafe, Pastry, Sandwich, Ice Cream, Desserts",3.8,Good,31,$,15000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4585651382,-70.6163050979,0,0
+Café Anay,"Cafe, Healthy Food",3.8,Good,43,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4459833333,-70.6248333333,0,0
+Casa Amélie,Cafe,3.8,Good,49,$,15000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4186740943,-70.5902735889,0,0
+Original Green Roasters,Cafe,3.8,Good,33,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4415264763,-70.6330848895,0,0
+Wenger Haus,"Cafe, Pastry",3.8,Good,35,$,12500,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4276647491,-70.5542833731,0,0
+Astor,Cafe,3.8,Good,25,$,9000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4425239138,-70.6554931775,0,0
+Café San Isidro,"Cafe, Sandwich, Pizza",3.8,Good,28,$,15000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4436978103,-70.6445930153,0,0
+C'est Si Bon,"Cafe, Pastry, Sandwich, Ice Cream, Desserts",3.7,Good,144,$,16000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4178759744,-70.6051310152,0,0
+Paul Boulangerie,"Cafe, French, Pastry",3.7,Good,70,$,14000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4143308007,-70.5932830274,0,0
+La Panquequería,"Cafe, Desserts",3.7,Good,85,$,14000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4491919160,-70.5977106839,0,0
+Chiaroscuro,"Cafe, Pastry, Sandwich",3.7,Good,65,$,11000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4170937986,-70.6067443639,0,0
+Melinka,"Cafe, Pastry",3.7,Good,79,$,11000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4374938281,-70.6442081183,0,0
+Le Due Torri,"Italian, Seafood, Steak, Mediterranean",4.8,Excellent,250,$,52000,4,"BordeRío, Vitacura","BordeRío, Vitacura, Santiago",Santiago,,42,-33.3817357378,-70.5799222738,0,0
+Baco,French,4.7,Excellent,640,$,42000,4,"Plaza Del Sol, Providencia","Plaza Del Sol, Providencia, Santiago",Santiago,,42,-33.4204259025,-70.6105121970,0,0
+Osaka - W Santiago,"Nikkei, Peruvian, Japanese",4.6,Excellent,264,$,58000,4,"W Santiago, Las Condes","W Santiago, Las Condes, Santiago",Santiago,,42,-33.4141295823,-70.5986186117,0,0
+La Mar,Seafood,4.5,Excellent,285,$,42000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3956882729,-70.5976489931,0,0
+Rivoli,Italian,4.5,Excellent,278,$,50000,4,"Plaza Del Sol, Providencia","Plaza Del Sol, Providencia, Santiago",Santiago,,42,-33.4209729855,-70.6094674766,0,0
+Boragó,"Chilean, Contemporary",4.5,Excellent,163,$,114000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4041861111,-70.5984194444,0,0
+Zanzibar,"Vietnamese, Thai, Japanese",4.4,Very Good,418,$,40000,4,"BordeRío, Vitacura","BordeRío, Vitacura, Santiago",Santiago,,42,-33.3815145665,-70.5796084553,0,0
+Ambrosia,"Contemporary, International",4.4,Very Good,167,$,49000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3783856315,-70.5299708247,0,0
+Majestic,Indian,4.4,Very Good,243,$,37000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4371136012,-70.6591543928,0,0
+Peumayen,"Chilean, Contemporary",4.4,Very Good,187,$,49000,4,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4327510846,-70.6348760426,0,0
+99,International,4.4,Very Good,158,$,55000,4,Providencia,"Providencia, Santiago",Santiago,,42,-33.4214944444,-70.6115888889,0,0
+Noso - W Santiago,International,4.4,Very Good,153,$,55000,4,"W Santiago, Las Condes","W Santiago, Las Condes, Santiago",Santiago,,42,-33.4139958096,-70.5985793844,0,0
+Jewel Of India,Indian,4.4,Very Good,174,$,40000,4,Providencia,"Providencia, Santiago",Santiago,,42,-33.4379290000,-70.6158440000,0,0
+Mestizo,"Chilean, Spanish",4.3,Very Good,415,$,50000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3943964396,-70.5999211594,0,0
+Aquí Está Coco,Seafood,4.3,Very Good,118,$,50000,4,Providencia,"Providencia, Santiago",Santiago,,42,-33.4240944444,-70.6163861111,0,0
+Ox,Steak,4.3,Very Good,132,$,70000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3977839970,-70.5979644880,0,0
+Azotea Matilde,Contemporary,4.2,Very Good,499,$,39000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4319050000,-70.6344370000,0,0
+KY,"Thai, Contemporary",4.2,Very Good,372,$,45000,4,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4263910000,-70.6397540000,0,0
+Como Agua Para Chocolate,International,4.2,Very Good,305,$,40500,4,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4334833333,-70.6345750000,0,0
+Amicci,Italian,4.2,Very Good,223,$,40000,4,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4085548913,-70.5500873923,0,0
+Temple Asian Lounge - InterContinental Santiago,"Japanese, Korean, Sushi",4.2,Very Good,141,$,45000,4,"InterContinental Santiago, Las Condes","InterContinental Santiago, Las Condes, Santiago",Santiago,,42,-33.4126930000,-70.6029830000,0,0
+Majestic,Indian,4.2,Very Good,190,$,37000,3,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3900972819,-70.5471235514,0,0
+Ichiban,"Japanese, Sushi, Asian",4.2,Very Good,183,$,40000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3852410886,-70.5502332374,0,0
+Happening,"Steak, Grill, Argentine",4.2,Very Good,167,$,40000,4,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4167944444,-70.5973666667,0,0
+"Estro - The Ritz-Carlton, Las Condes","Contemporary, Seafood",4.2,Very Good,64,$,47000,4,"The Ritz-Carlton, Las Condes","The Ritz-Carlton, Las Condes, Santiago",Santiago,,42,-33.4160220000,-70.5953380000,0,0
+Astrid & Gastón,Peruvian,4.2,Very Good,98,$,60000,4,Providencia,"Providencia, Santiago",Santiago,,42,-33.4257499512,-70.6180290878,0,0
+Tanta,Peruvian,4.1,Very Good,520,$,37000,3,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4018512987,-70.5783806741,0,0
+Castillo Forestal,"French, Cafe",4.1,Very Good,294,$,39000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4352314674,-70.6426457316,0,0
+El Ancla,"Seafood, Chilean",4.1,Very Good,254,$,40000,4,Providencia,"Providencia, Santiago",Santiago,,42,-33.4260146620,-70.6186949462,0,0
+Palacio Danubio Azul,Chinese,4.1,Very Good,269,$,35000,3,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4156489237,-70.5963833258,0,0
+El Txoko Alaves,Spanish,4.1,Very Good,227,$,31000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4366421623,-70.6443472579,0,0
+Tanta,Peruvian,4.1,Very Good,198,$,37000,3,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4172160927,-70.6065136939,0,0
+Quitral Fuego & Cava,Chilean,4.1,Very Good,152,$,38000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4395748345,-70.6418444216,0,0
+Tanaka,"Sushi, Nikkei, Peruvian, Japanese",4.1,Very Good,122,$,41000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4032681338,-70.5887779221,0,0
+Squadritto Ristorante,Italian,4.1,Very Good,150,$,37000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4380973195,-70.6416583434,0,0
+Warique,Peruvian,4.1,Very Good,110,$,40000,4,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4566286444,-70.6114372239,0,0
+Cuerovaca,Steak,4.1,Very Good,130,$,55000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4008173471,-70.5922909454,0,0
+Vista Santiago,"Chilean, Contemporary",4.1,Very Good,41,$,50000,4,Providencia,"Providencia, Santiago",Santiago,,42,-33.4171830000,-70.6228460000,0,0
+El Mesón Nerudiano,Mediterranean,4.1,Very Good,99,$,36000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4302071147,-70.6367646530,0,0
+Restaurant - The Singular,"French, Contemporary, Cafe",4.1,Very Good,48,$,60000,4,"The Singular, Santiago Centro","The Singular, Santiago Centro, Santiago",Santiago,,42,-33.4371890000,-70.6409200000,0,0
+Trattoría Rita,"Italian, Steak, Pizza",4.0,Very Good,290,$,37000,3,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4023254456,-70.5783893913,0,0
+Rosso Italiano,"Italian, Pizza",4.0,Very Good,287,$,40000,4,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4019453446,-70.5783458054,0,0
+La Perla del Pacífico,"Cafe, Seafood",4.0,Very Good,258,$,42000,4,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4016091861,-70.5786844343,0,0
+Madam Tusan,"Chifa, Chinese, Peruvian",4.0,Very Good,244,$,36000,3,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4023296441,-70.5785406008,0,0
+Coquinaria,"Mediterranean, International",4.0,Very Good,253,$,45000,4,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4140794875,-70.5991272256,0,0
+Zully,Contemporary,4.0,Very Good,169,$,52000,4,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4455550000,-70.6658840000,0,0
+Confitería Torres,"Seafood, Steak, Cafe, Bar Food",4.0,Very Good,130,$,30000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4460690552,-70.6581914797,0,0
+Coquinaria,"Mediterranean, International",4.0,Very Good,101,$,45000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4012184456,-70.5952869728,0,0
+Ana María Restaurant,"Chilean, Home-made, Steak, Seafood",4.0,Very Good,88,$,36000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4539343202,-70.6650163606,0,0
+De Pablo a Violeta,"Chilean, Steak",4.0,Very Good,30,$,124000,4,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4312510000,-70.6381740000,0,0
+Pinpilinpausha,"Spanish, Seafood, Steak",4.0,Very Good,113,$,42000,4,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4140738903,-70.6016783416,0,0
+Le Due Torri,"Italian, Seafood, Steak, Mediterranean",4.0,Very Good,113,$,50000,4,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4140534606,-70.6015341729,0,0
+Europeo,"French, International",4.0,Very Good,54,$,52000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4016366162,-70.5950405449,0,0
+Miraolas,Seafood,4.0,Very Good,79,$,35000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3997052896,-70.5901153386,0,0
+Cumarú,"Seafood, Sushi, Nikkei, Japanese",4.0,Very Good,64,$,48000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3954349463,-70.5974391103,0,0
+La Vinocracia,"Spanish, Bar Food",3.9,Good,50,$,40000,4,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4551050000,-70.5947580000,0,0
+Da Carla,"Italian, Mediterranean",4.0,Very Good,86,$,58000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4021787794,-70.5981975049,0,0
+Nolita,"Italian, Seafood, Steak",3.9,Good,195,$,35000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4395485354,-70.6413586065,0,0
+Tanta,Peruvian,3.9,Good,151,$,37000,3,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3901070797,-70.5468479544,0,0
+La Cocina de Javier - Restaurant,Spanish,3.9,Good,163,$,35000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3858500000,-70.5613166667,0,0
+Ica,Peruvian,3.9,Good,171,$,44000,4,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4140573786,-70.5998326465,0,0
+La Pescadería de Walker,Seafood,4.0,Very Good,72,$,0,1,"BordeRío, Vitacura","BordeRío, Vitacura, Santiago",Santiago,,42,-33.3816679867,-70.5796087906,0,0
+Emporio Armani Caffe,"Cafe, Italian",3.9,Good,97,$,38000,3,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4015313740,-70.5775719881,0,0
+Don Carlos,"Grill, Argentine, Steak",3.9,Good,135,$,40000,4,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4139398377,-70.6016300619,0,0
+Carnal,"Steak, Steak",3.9,Good,58,$,60000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4006580000,-70.5987060000,0,0
+Café Med - Santiago Marriott Hotel,Mediterranean,3.9,Good,35,$,47000,4,"Santiago Marriott Hotel, Las Condes","Santiago Marriott Hotel, Las Condes, Santiago",Santiago,,42,-33.3994890000,-70.5741820000,0,0
+Balbona,Spanish,3.9,Good,102,$,39000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4004663494,-70.5921917036,0,0
+El Ancla,"Seafood, Chilean",3.9,Good,108,$,40000,4,La Cisterna,"La Cisterna, Santiago",Santiago,,42,-33.5402160000,-70.6514520000,0,0
+Miraolas,Seafood,3.9,Good,85,$,35000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4008041917,-70.5925172567,0,0
+Osadía,"Chilean, Seafood",3.9,Good,89,$,49000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4021861111,-70.5981916667,0,0
+Anakena - Grand Hyatt,Thai,3.9,Good,78,$,39000,3,"Grand Hyatt, Las Condes","Grand Hyatt, Las Condes, Santiago",Santiago,,42,-33.4030993575,-70.5829132721,0,0
+El Ancla,"Seafood, Chilean",3.9,Good,68,$,40000,4,Maipú,"Maipú, Santiago",Santiago,,42,-33.5247220000,-70.7572740000,0,0
+Matsuri - Grand Hyatt,"Japanese, Sushi",3.9,Good,49,$,40000,4,"Grand Hyatt, Las Condes","Grand Hyatt, Las Condes, Santiago",Santiago,,42,-33.4032440000,-70.5835450000,0,0
+Cocoa,Peruvian,3.9,Good,47,$,45000,4,"Paseo Tamarugo, Vitacura","Paseo Tamarugo, Vitacura, Santiago",Santiago,,42,-33.3983280000,-70.5865060000,0,0
+Ocean Pacific's Buque Madre,"Seafood, International, Desserts",3.8,Good,249,$,48000,4,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4400000000,-70.6700000000,0,0
+Los Vikingos,"Steak, Seafood",3.8,Good,170,$,35000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4400000000,-70.6700000000,0,0
+Bautista,"Steak, Mediterranean",3.8,Good,91,$,38000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3977921144,-70.5979229137,0,0
+Giratorio,"International, Steak, Seafood",3.8,Good,154,$,45000,4,Providencia,"Providencia, Santiago",Santiago,,42,-33.4217162293,-70.6082876399,0,0
+Del Beto,"Chilean, Steak, Seafood",3.8,Good,97,$,35000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4443379074,-70.6143739074,0,0
+Ostras Azocar,Seafood,3.8,Good,71,$,40000,4,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4462100521,-70.6691560149,0,0
+Hijo del Sol,Peruvian,3.8,Good,63,$,44500,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4013424415,-70.5931207538,0,0
+Confitería Torres,"Seafood, Steak, Cafe, Bar Food",3.8,Good,63,$,30000,3,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4140615765,-70.5997008830,0,0
+Mezzanotte,"Italian, Pizza",3.8,Good,74,$,38000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3973638485,-70.5978102610,0,0
+Pachamama,Peruvian,3.8,Good,70,$,48000,4,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4475534282,-70.6107395142,0,0
+Cocoa,Peruvian,3.8,Good,78,$,45000,4,"Espacio Urbano La Dehesa, Lo Barnechea","Espacio Urbano La Dehesa, Lo Barnechea, Santiago",Santiago,,42,-33.3521304525,-70.5200037360,0,0
+Del Beto,"Chilean, Steak, Seafood",3.8,Good,60,$,35000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3962593046,-70.5810062215,0,0
+Le Due Torri,"Italian, Seafood, Steak, Mediterranean",3.8,Good,59,$,50000,4,"Galería Salustio Barros, Santiago Centro","Galería Salustio Barros, Santiago Centro, Santiago",Santiago,,42,-33.4398370000,-70.6480840000,0,0
+La Cascade,French,3.8,Good,54,$,42000,4,"BordeRío, Vitacura","BordeRío, Vitacura, Santiago",Santiago,,42,-33.3817897708,-70.5795819685,0,0
+Tierra Noble Restaurant,"Steak, Seafood, Grill",3.8,Good,46,$,39000,3,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4156161808,-70.5958291143,0,0
+Catae Restaurant - Renaissance Santiago Hotel,"Chilean, Steak, Seafood, Desserts",3.8,Good,33,$,52000,4,"Renaissance Santiago Hotel, Las Condes","Renaissance Santiago Hotel, Las Condes, Santiago",Santiago,,42,-33.4026980000,-70.5839640000,0,0
+Restaurant Bristol - Hotel Plaza San Francisco,Chilean,3.8,Good,33,$,56000,4,"Hotel Plaza San Francisco, Santiago Centro","Hotel Plaza San Francisco, Santiago Centro, Santiago",Santiago,,42,-33.4437600000,-70.6482040000,0,0
+Cascarrabia,Italian,3.8,Good,28,$,42000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3999444444,-70.5907055556,0,0
+Caprese,"Pizza, Italian",3.7,Good,201,$,35000,3,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3901193969,-70.5470119044,0,0
+Raul Correa & Familia,"Chilean, Steak, Seafood",3.7,Good,122,$,45000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3824079273,-70.5335462093,0,0
+Costamia,Seafood,3.7,Good,127,$,45000,4,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4171855892,-70.6064543501,0,0
+Ópera Catedral,"Bar Food, International",3.7,Good,151,$,36000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4374361111,-70.6435000000,0,0
+Farina Le Due Torri,"Italian, Seafood, Steak, Desserts",3.7,Good,102,$,45000,4,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4171855892,-70.6064211577,0,0
+El Cid - Sheraton Santiago Hotel & Convention Center,International,3.7,Good,28,$,40000,4,"Sheraton Santiago Hotel & Convention Center, Providencia","Sheraton Santiago Hotel & Convention Center, Providencia, Santiago",Santiago,,42,-33.4220530000,-70.6206860000,0,0
+Museo Peruano,Peruvian,3.7,Good,78,$,32000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3865103821,-70.5646514520,0,0
+Santabrasa,Steak,3.7,Good,104,$,46000,4,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3900750000,-70.5462944444,0,0
+Le Bistrot,French,4.9,Excellent,671,$,29000,3,"Plaza Del Sol, Providencia","Plaza Del Sol, Providencia, Santiago",Santiago,,42,-33.4208361451,-70.6098714843,0,0
+Barrica 94,"Chilean, Contemporary, Steak",4.9,Excellent,344,$,38000,3,"Patio Bellavista, Barrio Bellavista, Providencia","Patio Bellavista, Barrio Bellavista, Providencia, Santiago",Santiago,,42,-33.4344035619,-70.6348978356,0,0
+La Burguesía,Burger,4.8,Excellent,1248,$,23000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4204027778,-70.6096944444,0,0
+Naoki,"Sushi, Japanese",4.7,Excellent,193,$,35000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4004369596,-70.5921058729,0,0
+Tiramisú,"Pizza, Italian",4.6,Excellent,1108,$,28000,3,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4144441433,-70.5974679440,0,0
+Sarita Colonia,Peruvian,4.7,Excellent,462,$,37000,3,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4330250000,-70.6423190000,0,0
+Quinoa,"Healthy Food, Desserts",4.6,Excellent,380,$,25000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3950511761,-70.5820626765,0,0
+Rishtedar,Indian,4.6,Excellent,209,$,28000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3950072286,-70.5790277570,0,0
+Goemon,"Japanese, Sushi, Asian",4.6,Excellent,211,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4290601774,-70.6200568378,0,0
+Uncle Fletch,"Burger, American, Sandwich",4.5,Excellent,1322,$,20000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4328932224,-70.6335631013,0,0
+Köök,"International, Cafe",4.5,Excellent,328,$,32000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3971939411,-70.5978142843,0,0
+La Antojería,"Sandwich, Burger, Peruvian",4.4,Very Good,514,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4338229880,-70.6207719818,0,0
+Vietnam Discovery,"Vietnamese, Asian",4.4,Very Good,613,$,32000,3,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4295814635,-70.6419450045,0,0
+Ciudad Vieja,"Sandwich, Bar Food",4.4,Very Good,787,$,25000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4332337366,-70.6346557662,0,0
+Ciudadano,"Pizza, Italian, Bar Food",4.4,Very Good,495,$,29000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4461527022,-70.6286181137,0,0
+Pastamore,Italian,4.4,Very Good,310,$,35000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3871223463,-70.5530123413,0,0
+Restaurant Japón,"Sushi, Japanese",4.4,Very Good,300,$,30000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4405111111,-70.6349333333,0,0
+Uncle Fletch,"Burger, American, Sandwich",4.4,Very Good,223,$,20000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4538550000,-70.5939160000,0,0
+Quijote Restaurant,"Mediterranean, Chilean, Steak, Cafe",4.4,Very Good,163,$,35000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4424875441,-70.6509585679,0,0
+Golfo Di Nápoli,Italian,4.3,Very Good,1088,$,18000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4555240000,-70.6061760000,0,0
+Kintaro,"Japanese, Sushi, Asian",4.3,Very Good,315,$,28000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4365570000,-70.6439400000,0,0
+Olimpia,"Pizza, Italian, Healthy Food",4.3,Very Good,397,$,21000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4231990000,-70.6119750000,0,0
+Peluquería Francesa - Boulevard Lavaud,International,4.3,Very Good,523,$,35000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4400000000,-70.6700000000,0,0
+Holm,Healthy Food,4.3,Very Good,427,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4256355041,-70.6164063513,0,0
+El Huerto,"Healthy Food, Desserts",4.3,Very Good,414,$,22000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4228249269,-70.6123035774,0,0
+Chicken Story,Korean,4.3,Very Good,311,$,16000,2,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4318182297,-70.6429971009,0,0
+La Fabbrica,"Italian, Pizza",4.3,Very Good,293,$,30000,3,La Reina,"La Reina, Santiago",Santiago,,42,-33.4517157476,-70.5703605339,0,0
+Rishtedar,Indian,4.3,Very Good,258,$,26000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4206111111,-70.6035166667,0,0
+Aldea Nativa,Healthy Food,4.3,Very Good,202,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4292319811,-70.5876443535,0,0
+Signore,"Italian, Pizza",4.3,Very Good,172,$,24000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4169121761,-70.6046847627,0,0
+Santa Pizza,"Pizza, Italian",4.3,Very Good,184,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4226945255,-70.6124920025,0,0
+Zabo,"Sushi, Japanese, Peruvian, Nikkei",4.3,Very Good,115,$,25000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4378242521,-70.6418092176,0,0
+Fuente Mardoqueo,Sandwich,4.2,Very Good,602,$,15000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4389016884,-70.6743859872,0,0
+Tea Connection,"Tea, Healthy Food, Sandwich, Desserts",4.2,Very Good,565,$,28000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4225963046,-70.6135149300,0,0
+Pad Thai,Thai,4.2,Very Good,563,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4307700850,-70.6190942600,0,0
+Vapiano,"Italian, Pizza",4.2,Very Good,514,$,25000,3,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4013234083,-70.5779914185,0,0
+Mistura del Perú,Peruvian,4.2,Very Good,214,$,33000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4459728190,-70.6244321913,0,0
+Bravo.951,"Sandwich, Bar Food",4.2,Very Good,308,$,24000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4339280000,-70.6220080000,0,0
+Eladio,"Steak, Chilean",4.2,Very Good,332,$,30000,3,La Reina,"La Reina, Santiago",Santiago,,42,-33.4322861111,-70.5744388889,0,0
+Margó Gourmet,"Contemporary, International",4.2,Very Good,258,$,32000,3,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3615303939,-70.5445513129,0,0
+La Finestra,"Italian, Pizza",4.2,Very Good,292,$,32000,3,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4554247125,-70.5948853120,0,0
+Luco's Hamburgueseria,"Burger, Bar Food, Healthy Food",4.2,Very Good,253,$,27000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4227960000,-70.6122890000,0,0
+Varanasi,"Asian, Healthy Food, Indian",4.2,Very Good,274,$,30000,3,Providencia,"Providencia, Santiago",Santiago,7630420,42,-33.4010099194,-70.5923402310,0,0
+Sukine,"Korean, Asian",4.2,Very Good,227,$,20000,2,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4317191797,-70.6431798264,0,0
+Brunapoli,"Pizza, Italian",4.2,Very Good,216,$,30000,3,"Mall Vivo Los Trapenses, Lo Barnechea","Mall Vivo Los Trapenses, Lo Barnechea, Santiago",Santiago,,42,-33.3567084510,-70.5396525934,0,0
+El Barrio,"Steak, Seafood, Italian",4.2,Very Good,249,$,42000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4035387909,-70.5883138999,0,0
+La Serrana,"Pizza, Italian",4.2,Very Good,196,$,20000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4466240000,-70.6489930000,0,0
+Hansoban,"Korean, Asian",4.2,Very Good,162,$,24000,2,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4310358997,-70.6433729455,0,0
+Bar Minga,"Pizza, Italian",4.2,Very Good,188,$,24000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4310230287,-70.6183593348,0,0
+Carrer Nou,"Mediterranean, Spanish",4.2,Very Good,167,$,31000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4451690000,-70.6170320000,0,0
+La Percanta,Steak,4.2,Very Good,195,$,29500,3,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3516340000,-70.5121670000,0,0
+Romaria,Pizza,4.2,Very Good,162,$,15000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4050303288,-70.5976463109,0,0
+Hanzo,"Nikkei, Sushi, Japanese",4.2,Very Good,138,$,35000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3826611111,-70.5841666667,0,0
+Kilometro 0,"French, Chilean",4.2,Very Good,166,$,38000,3,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4141010367,-70.5984566733,0,0
+Las Cabras,"Chilean, Home-made, Sandwich",4.1,Very Good,605,$,23000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4179728014,-70.6036956981,0,0
+La Diana,"Pizza, Italian",4.1,Very Good,381,$,30000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4506880000,-70.6490770000,0,0
+La Hacienda Gaucha,"Steak, Grill",4.1,Very Good,335,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4387942531,-70.6082075089,0,0
+P.F. Chang's,"Chinese, Asian",4.1,Very Good,440,$,31000,3,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4015669212,-70.5787022039,0,0
+Tío Tomate,"Pizza, Healthy Food",4.1,Very Good,329,$,16000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4010860525,-70.5921625346,0,0
+Liguria,"Chilean, Bar Food",4.1,Very Good,442,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4182725166,-70.6030563265,0,0
+Liguria,"Chilean, Bar Food",4.1,Very Good,315,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4283222222,-70.6191472222,0,0
+Galindo,"Chilean, Home-made",4.1,Very Good,326,$,18000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4330734125,-70.6349669024,0,0
+Da Noi Restaurant,Italian,4.1,Very Good,322,$,25000,3,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4507361001,-70.6237237528,0,0
+Restaurant Don Peyo,"Chilean, Home-made",4.1,Very Good,288,$,30000,3,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4562991313,-70.6245693192,0,0
+The Pizza Factory,"Pizza, Italian, Healthy Food, Desserts, Cafe",4.1,Very Good,181,$,16000,2,"Patio Bellavista, Barrio Bellavista, Providencia","Patio Bellavista, Barrio Bellavista, Providencia, Santiago",Santiago,,42,-33.4340476636,-70.6355419010,0,0
+Element,Chilean,4.1,Very Good,141,$,35000,3,La Reina,"La Reina, Santiago",Santiago,,42,-33.4392120000,-70.5615350000,0,0
+Luco's Hamburguesería,"Burger, Bar Food, Healthy Food",4.1,Very Good,89,$,27000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4300000000,-70.6200000000,0,0
+Rubaiyat,Steak,4.1,Very Good,85,$,62000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3964450000,-70.5976900000,0,0
+Nueva China,"Chinese, Sushi, Japanese, Asian",4.1,Very Good,147,$,26000,3,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.3936431646,-70.5449885130,0,0
+Brisas del Mar,Peruvian,4.1,Very Good,124,$,30000,3,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4546610575,-70.5821595713,0,0
+Restorán Espacio Gárgola,"Steak, Seafood, Bar Food, Sandwich",4.1,Very Good,64,$,24000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4416524337,-70.6764439121,0,0
+Madam Tusan,"Chifa, Chinese, Peruvian",4.1,Very Good,119,$,36000,3,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4173909983,-70.6062307209,0,0
+Johnny Rockets,"American, Burger",4.0,Very Good,108,$,20000,2,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5171074852,-70.5970283970,0,0
+Dae Jang Kum,"Korean, Japanese",4.1,Very Good,86,$,18000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4321722222,-70.6398861111,0,0
+Etniko,"Sushi, Japanese, Seafood",4.1,Very Good,117,$,30000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4324860000,-70.6348660000,0,0
+Cabildo - Hotel Castillo Rojo,"Chilean, Home-made",4.1,Very Good,52,$,30000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4320910000,-70.6346190000,0,0
+Starnberg,German,4.1,Very Good,100,$,38000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4016424941,-70.5945701525,0,0
+Le Flaubert,French,4.1,Very Good,90,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4220724580,-70.6129821762,0,0
+El Hoyo,"Chilean, Sandwich",4.1,Very Good,99,$,28000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4551640000,-70.6774580000,0,0
+Mr. Jack,"Burger, Sandwich, Bar Food",4.0,Very Good,359,$,26000,3,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4013944444,-70.5775972222,0,0
+Lusitano,"Mediterranean, Bar Food",4.0,Very Good,292,$,28000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4476398713,-70.6255429611,0,0
+Las Vacas Gordas,"Steak, Italian",4.0,Very Good,251,$,32000,3,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4074376151,-70.5646722391,0,0
+Lomit's,"Steak, Sandwich",4.0,Very Good,252,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4237103077,-70.6128856167,0,0
+Johnny Rockets,"American, Burger",4.0,Very Good,249,$,20000,2,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3906725494,-70.5446307734,0,0
+Los Cuates,Mexican,4.0,Very Good,209,$,24000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4308184913,-70.6189490855,0,0
+Mogambo,"Steak, Grill, Sandwich",4.0,Very Good,177,$,25000,3,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3588333984,-70.5175666139,0,0
+Tip y Tap,"Sandwich, Steak",4.0,Very Good,173,$,28000,3,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4174643185,-70.6061636657,0,0
+La Pizza Nostra,"Italian, Pizza",4.0,Very Good,196,$,25000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4240181181,-70.6127665937,0,0
+Meze,"Turkish, Mediterranean",4.0,Very Good,158,$,24000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4309575544,-70.6188371032,0,0
+Machu Picchu,Peruvian,4.0,Very Good,176,$,26000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4394315885,-70.6164566427,0,0
+Taquería El Ranchero,Mexican,4.0,Very Good,190,$,27000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3891440931,-70.5685108155,0,0
+La Sopería,Healthy Food,4.0,Very Good,101,$,10000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4472538140,-70.6240348890,0,0
+Tip y Tap,"Sandwich, Steak",4.0,Very Good,216,$,28000,3,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4061456767,-70.5593634769,0,0
+Soul of India,Indian,4.0,Very Good,141,$,34000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3999460081,-70.5906695500,0,0
+Formentera,Spanish,4.0,Very Good,95,$,31000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4216670000,-70.6125360000,0,0
+Las Vacas Gordas,"Steak, Italian",4.0,Very Good,156,$,32000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4409440000,-70.6636580000,0,0
+Caramagnola,"Bar Food, Pizza, Italian",4.0,Very Good,195,$,13000,2,La Reina,"La Reina, Santiago",Santiago,,42,-33.4313240000,-70.5807450000,0,0
+Perú Mágico,Peruvian,4.0,Very Good,131,$,39000,3,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4530495275,-70.6050113216,0,0
+Blue Jar,"Contemporary, Cafe",4.0,Very Good,119,$,27000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4423747976,-70.6556675211,0,0
+Caperucita,"Pizza, Italian",4.0,Very Good,123,$,27000,3,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4167549002,-70.6001913920,0,0
+Harina Gourmet,Ice Cream,4.7,Excellent,188,$,5000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3883638889,-70.5642861111,0,0
+El Toldo Azul,"Ice Cream, Cafe",4.6,Excellent,228,$,6000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4143727795,-70.5973197520,0,0
+El Taller,"Cafe, Ice Cream",4.3,Very Good,284,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4279037112,-70.6178057939,0,0
+Fortunata,"Ice Cream, Desserts, Italian",4.3,Very Good,111,$,8000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4060004164,-70.5983862653,0,0
+Emporio La Rosa,"Ice Cream, Cafe",4.2,Very Good,267,$,5000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4393294697,-70.6410561875,0,0
+La Florencia,"Cafe, Ice Cream, Sandwich",4.2,Very Good,82,$,15000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3831083874,-70.5727416649,0,0
+Palettas,Ice Cream,4.2,Very Good,141,$,4000,1,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4174094683,-70.6067678332,0,0
+Sebastian,"Cafe, Healthy Food, Ice Cream",4.2,Very Good,163,$,12000,2,"Galería Drugstore, Providencia","Galería Drugstore, Providencia, Santiago",Santiago,,42,-33.4221295440,-70.6110084057,0,0
+Gelatería Mò,"Ice Cream, Cafe",4.1,Very Good,171,$,5000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4363774839,-70.6446650997,0,0
+Il Maestrale,"Ice Cream, Cafe, Desserts",4.1,Very Good,127,$,12000,2,"Patio Bellavista, Barrio Bellavista, Providencia","Patio Bellavista, Barrio Bellavista, Providencia, Santiago",Santiago,,42,-33.4338274648,-70.6344529241,0,0
+Palettas,Ice Cream,4.1,Very Good,41,$,4000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4049715522,-70.5703685805,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",4.0,Very Good,175,$,15000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4369748278,-70.6404647604,0,0
+La Ermita,"Pastry, Ice Cream",4.0,Very Good,43,$,3000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3836237904,-70.5734433979,0,0
+Zenzero,"Ice Cream, Desserts",3.9,Good,103,$,5500,1,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4169955714,-70.6067644805,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.9,Good,72,$,15000,2,"Galería Drugstore, Providencia","Galería Drugstore, Providencia, Santiago",Santiago,,42,-33.4223187111,-70.6114053726,0,0
+Fortunata,"Ice Cream, Desserts, Italian",3.9,Good,41,$,8000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.3922611111,-70.5539638889,0,0
+Vitto,"Ice Cream, Desserts, Cafe",3.9,Good,35,$,5000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4279140000,-70.5935660000,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.8,Good,85,$,15000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4175253254,-70.6061043218,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.8,Good,112,$,15000,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4023517559,-70.5771602690,0,0
+Filippo,"Cafe, Ice Cream, Pastry",3.8,Good,59,$,10000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4551810709,-70.5943850800,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.8,Good,57,$,15000,2,"Portal La Dehesa, Lo Barnechea","Portal La Dehesa, Lo Barnechea, Santiago",Santiago,,42,-33.3586194444,-70.5159611111,0,0
+Pinkberry,Ice Cream,3.8,Good,38,$,5000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3885814128,-70.5676773190,0,0
+Freddo,"Ice Cream, Cafe, Pastry",3.7,Good,83,$,13500,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4019139959,-70.5773191899,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.7,Good,34,$,15000,2,"Mall Espacio M, Santiago Centro","Mall Espacio M, Santiago Centro, Santiago",Santiago,,42,-33.4389696747,-70.6540997699,0,0
+Gigí Bontá,"Ice Cream, Cafe, Pastry",3.7,Good,47,$,9500,1,Peñalolén,"Peñalolén, Santiago",Santiago,,42,-33.4843256486,-70.5477723107,0,0
+Moritz,Ice Cream,3.7,Good,33,$,7000,1,"Casa Costanera, Vitacura","Casa Costanera, Vitacura, Santiago",Santiago,,42,-33.3985240804,-70.5984499678,0,0
+Filippo,"Cafe, Ice Cream, Pastry",3.7,Good,40,$,10000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4243231292,-70.5816298351,0,0
+Marie Pop,Ice Cream,3.7,Good,28,$,4000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4531801629,-70.6234753132,0,0
+Palettas,Ice Cream,3.7,Good,23,$,4000,1,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3900272978,-70.5454656109,0,0
+Mist Ice Cream Roll,"Ice Cream, Desserts",3.7,Good,20,$,0,1,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4334662445,-70.6349172139,0,0
+Freddo,"Ice Cream, Cafe, Pastry",3.5,Good,56,$,13500,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4175493924,-70.6060590595,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.6,Good,48,$,15000,2,La Reina,"La Reina, Santiago",Santiago,,42,-33.4390666667,-70.5566722222,0,0
+Yogurt Life,Ice Cream,3.6,Good,41,$,6000,1,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4173711290,-70.6067450345,0,0
+La Italiana,"Ice Cream, Cafe, Pastry",3.6,Good,26,$,5000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4492680000,-70.6243070000,0,0
+Filippo,"Cafe, Ice Cream, Pastry",3.6,Good,32,$,10000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4407375800,-70.6650948152,0,0
+Emporio La Rosa,"Ice Cream, Cafe",3.6,Good,21,$,5000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4221660000,-70.6096870000,0,0
+Yogurt Life,Ice Cream,3.6,Good,33,$,6000,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4021083333,-70.5784916667,0,0
+Filippo,"Cafe, Ice Cream, Pastry",3.6,Good,25,$,10000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4359505274,-70.5933323130,0,0
+Emporio la Rosa,"Ice Cream, Cafe",3.6,Good,16,$,5000,1,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5171745716,-70.5972305685,0,0
+Coppelia,"Ice Cream, Cafe, Pastry, Sandwich, Desserts",3.6,Good,19,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4220853304,-70.6095368788,0,0
+Palettas,Ice Cream,3.6,Good,17,$,4000,1,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4525474043,-70.5702167004,0,0
+Yogen Früz,Ice Cream,3.6,Good,22,$,6000,1,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4176725254,-70.6059125438,0,0
+Yogen Früz,Ice Cream,3.6,Good,20,$,6000,1,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3903984930,-70.5466199666,0,0
+Sésamo Express,"Sandwich, Home-made, Ice Cream",3.5,Good,58,$,13000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4485174457,-70.6366872042,0,0
+Freddo,"Ice Cream, Cafe, Pastry",3.5,Good,30,$,13500,2,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3902442484,-70.5460275337,0,0
+Filippo,"Ice Cream, Cafe",3.5,Good,28,$,4000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4554417758,-70.5942499638,0,0
+Llanum,"Ice Cream, Desserts",3.5,Good,21,$,5000,1,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4531191776,-70.5704556847,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.5,Good,19,$,15000,2,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5099972222,-70.6074444444,0,0
+Grido Helado,"Ice Cream, Desserts",3.5,Good,20,$,4000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4467178071,-70.6425843760,0,0
+Yogen Früz,"Ice Cream, Desserts",3.5,Good,13,$,6000,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4025910675,-70.5795082077,0,0
+Thank U,"Cafe, Ice Cream, Healthy Food, Sandwich, Italian",3.4,Average,20,$,13000,2,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3907699666,-70.5454501882,0,0
+Zenzero,"Cafe, Italian, Ice Cream",3.4,Average,18,$,5000,1,"Mall Vivo Los Trapenses, Lo Barnechea","Mall Vivo Los Trapenses, Lo Barnechea, Santiago",Santiago,,42,-33.3567854631,-70.5403261632,0,0
+La Foca,"Ice Cream, Cafe, Pastry",3.4,Average,13,$,8000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4489974923,-70.6493408605,0,0
+Yogen Früz,Ice Cream,3.4,Average,20,$,6000,1,"Mall Vivo Panorámico, Providencia","Mall Vivo Panorámico, Providencia, Santiago",Santiago,,42,-33.4237189824,-70.6101547927,0,0
+Gelato's Café,"Cafe, Ice Cream",3.4,Average,15,$,12000,2,"Portal Ñuñoa, Ñuñoa","Portal Ñuñoa, Ñuñoa, Santiago",Santiago,,42,-33.4647846748,-70.5981257558,0,0
+Pibaz,"Cafe, Ice Cream, Pastry",3.4,Average,18,$,10500,2,"Open Plaza El Bosque, El Bosque","Open Plaza El Bosque, El Bosque, Santiago",Santiago,,42,-33.5536132384,-70.6763037667,0,0
+Grido Café,"Ice Cream, Cafe, Desserts",3.4,Average,13,$,9000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4119914330,-70.5769637972,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.4,Average,10,$,15000,2,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5172662562,-70.5983919650,0,0
+Palettas,Ice Cream,3.4,Average,12,$,4000,1,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5172919727,-70.5982327089,0,0
+Palettas,Ice Cream,3.4,Average,9,$,4000,1,"Mall Arauco Maipú, Maipú","Mall Arauco Maipú, Maipú, Santiago",Santiago,,42,-33.4834341752,-70.7500725612,0,0
+Yogen Früz,Ice Cream,3.4,Average,9,$,6000,1,"Portal La Reina, La Reina","Portal La Reina, La Reina, Santiago",Santiago,,42,-33.4289818303,-70.5402627960,0,0
+Palettas,Ice Cream,3.4,Average,7,$,4000,1,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5107292884,-70.6067252532,0,0
+Bianco Latte,"Cafe, Ice Cream, Desserts",3.3,Average,34,$,13000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4172135741,-70.6067641452,0,0
+Coppelia,"Ice Cream, Cafe, Pastry, Sandwich, Desserts",3.3,Average,21,$,16000,2,"Mall Vivo Panorámico, Providencia","Mall Vivo Panorámico, Providencia, Santiago",Santiago,,42,-33.4232359977,-70.6096230447,0,0
+Heladería Pipiricoco,"Ice Cream, Cafe",3.3,Average,27,$,5000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4499318410,-70.6241324544,0,0
+La Escarcha,"Ice Cream, Cafe, Pastry, Sandwich",3.3,Average,30,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4262491514,-70.6152372435,0,0
+Gelato's Café,"Cafe, Ice Cream",3.3,Average,10,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4416667020,-70.6498944014,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.3,Average,13,$,15000,2,"Mall Plaza Oeste, Cerrillos","Mall Plaza Oeste, Cerrillos, Santiago",Santiago,,42,-33.5163777778,-70.7166888889,0,0
+Doña Cata,"Pastry, Empanadas, Cafe",3.3,Average,12,$,2500,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4670789882,-70.5986333638,0,0
+Yogen Früz,Ice Cream,3.3,Average,12,$,6000,1,"Apumanque, Las Condes","Apumanque, Las Condes, Santiago",Santiago,,42,-33.4092200000,-70.5672250000,0,0
+Yogurt Life,Ice Cream,3.3,Average,10,$,6000,1,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5114127790,-70.6056976318,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.2,Average,51,$,15000,2,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4519020528,-70.5693707988,0,0
+Emporio La Rosa,"Cafe, Ice Cream, Chilean",3.2,Average,9,$,15000,2,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5107921865,-70.6066119298,0,0
+Bravissimo,"Ice Cream, Cafe, Pastry, Sandwich, Desserts",3.2,Average,6,$,15500,2,"Mall Plaza Oeste, Cerrillos","Mall Plaza Oeste, Cerrillos, Santiago",Santiago,,42,-33.5165811347,-70.7168617845,0,0
+Glotón,Ice Cream,3.2,Average,10,$,2500,1,La Florida,"La Florida, Santiago",Santiago,,42,-33.5208972222,-70.6000972222,0,0
+Bravissimo,"Ice Cream, Cafe, Pastry, Sandwich, Desserts",3.2,Average,8,$,15500,2,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5105042525,-70.6081753224,0,0
+Llanum,"Ice Cream, Desserts",3.2,Average,5,$,5000,1,"Mall Plaza Norte, Huechuraba","Mall Plaza Norte, Huechuraba, Santiago",Santiago,,42,-33.3651415654,-70.6790577248,0,0
+Gelato e Café,"Cafe, Pastry, Ice Cream",3.2,Average,7,$,11000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4376720000,-70.6292720000,0,0
+Bianco Latte,"Ice Cream, Cafe, Desserts",3.1,Average,8,$,12000,2,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5100899612,-70.6073421612,0,0
+Yogen Früz,Ice Cream,3.1,Average,11,$,6000,1,"Portal Ñuñoa, Ñuñoa","Portal Ñuñoa, Ñuñoa, Santiago",Santiago,,42,-33.4649071814,-70.5979081616,0,0
+Lecherías San Francisco D Loncomilla,"Ice Cream, Desserts",3.1,Average,5,$,4500,1,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4532383474,-70.5703236535,0,0
+Yogen Früz,Ice Cream,3.1,Average,7,$,6000,1,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4519059691,-70.5688447505,0,0
+Grido Helado,"Ice Cream, Desserts",3.1,Average,6,$,4000,1,"Centro Comercial Plazuela Independencia, Puente Alto","Centro Comercial Plazuela Independencia, Puente Alto, Santiago",Santiago,,42,-33.6012111111,-70.5787500000,0,0
+Yogen Früz,Ice Cream,3.1,Average,5,$,6000,1,"Mall Vivo El Centro, Santiago Centro","Mall Vivo El Centro, Santiago Centro, Santiago",Santiago,,42,-33.4355484701,-70.6513572112,0,0
+Youserv,Ice Cream,3.1,Average,7,$,4000,1,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3903982131,-70.5466890335,0,0
+Helados Madel,Ice Cream,3.1,Average,4,$,2500,1,La Cisterna,"La Cisterna, Santiago",Santiago,,42,-33.5422888889,-70.6657722222,0,0
+Palettas,Ice Cream,3.1,Average,6,$,4000,1,"Mall Paseo Quilín, Peñalolén","Mall Paseo Quilín, Peñalolén, Santiago",Santiago,,42,-33.4873819792,-70.5774744228,0,0
+Barhelado,"Ice Cream, Cafe, Desserts",3.1,Average,6,$,5000,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4526243314,-70.5621620268,0,0
+Monsieur Picolé,Ice Cream,3.1,Average,4,$,2500,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4492290000,-70.6242290000,0,0
+Topach,"Cafe, Ice Cream, Pastry, Home-made, Sandwich, Bar Food, Tea",3.1,Average,4,$,17000,2,Cerrillos,"Cerrillos, Santiago",Santiago,,42,-33.4904700000,-70.7113430000,0,0
+Yogen Früz,Ice Cream,3.1,Average,5,$,6000,1,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5172357879,-70.5982920527,0,0
+Fragola,"Cafe, Desserts, Home-made",3.0,Average,26,$,15000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4152478918,-70.6010614336,0,0
+Gelato's Café,"Cafe, Ice Cream",3.0,Average,11,$,12000,2,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3906095641,-70.5457096919,0,0
+Llanum,"Ice Cream, Desserts",3.0,Average,4,$,5000,1,"Mall Plaza Oeste, Cerrillos","Mall Plaza Oeste, Cerrillos, Santiago",Santiago,,42,-33.5166683476,-70.7167843357,0,0
+Antojos Coffee & Sweets,"Cafe, Ice Cream",3.0,Average,5,$,2500,1,Maipú,"Maipú, Santiago",Santiago,,42,-33.5575055556,-70.7903583333,0,0
+Alegretto,"Ice Cream, Desserts",2.9,Average,7,$,5000,1,"Portal Ñuñoa, Ñuñoa","Portal Ñuñoa, Ñuñoa, Santiago",Santiago,,42,-33.4649589250,-70.5980690941,0,0
+Zenzero,"Ice Cream, Desserts",2.9,Average,6,$,5500,1,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4531242163,-70.5703011900,0,0
+Grido Café,"Ice Cream, Cafe, Desserts",2.9,Average,6,$,9000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4519026123,-70.6001732871,0,0
+McDonald's Helados,Ice Cream,2.9,Average,4,$,2500,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4373972222,-70.6363611111,0,0
+Santogelato,Ice Cream,2.9,Average,4,$,3500,1,"Apumanque, Las Condes","Apumanque, Las Condes, Santiago",Santiago,,42,-33.4094015151,-70.5686308444,0,0
+W.O.K.,"Chinese, Thai",3.8,Good,126,$,15000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4184765239,-70.6068908796,0,0
+Take A Wok,"Asian, Thai",3.7,Good,44,$,10500,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4019193140,-70.5794800445,0,0
+Tommy Beans,"Fast Food, Mexican",3.7,Good,57,$,8000,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4016441735,-70.5796094611,0,0
+Tommy Beans,"Fast Food, Mexican",3.6,Good,20,$,8000,1,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4176691672,-70.6058535352,0,0
+Yogen Früz,Ice Cream,3.6,Good,20,$,6000,1,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3903984930,-70.5466199666,0,0
+El Corral,"Fast Food, Burger, Sandwich",3.6,Good,39,$,12000,2,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3901415119,-70.5465029553,0,0
+Tommy Beans,"Fast Food, Mexican",3.5,Good,24,$,8000,1,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5099384453,-70.6080361828,0,0
+Dominó,"Fast Food, Sandwich",3.5,Good,23,$,9500,1,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3903816969,-70.5465488881,0,0
+Boost,Healthy Food,3.5,Good,19,$,5000,1,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3903948539,-70.5466575176,0,0
+Mamma Mia!,"Fast Food, Italian",3.4,Average,38,$,10000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4184664495,-70.6069006026,0,0
+La Mechada Nacional,"Sandwich, Chilean",3.4,Average,19,$,8000,1,"Mall Espacio M, Santiago Centro","Mall Espacio M, Santiago Centro, Santiago",Santiago,,42,-33.4356531115,-70.6525263190,0,0
+Dominó,"Fast Food, Sandwich",3.4,Average,14,$,10000,2,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5175527702,-70.5979373306,0,0
+Subway,"Fast Food, Sandwich",3.4,Average,18,$,8500,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4022929775,-70.5792456865,0,0
+Dominó,"Fast Food, Sandwich",3.4,Average,17,$,12000,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4020273547,-70.5794129893,0,0
+Burger King,"Fast Food, Burger",3.4,Average,10,$,7000,1,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3904021322,-70.5466085672,0,0
+Juan Maestro,"Fast Food, Sandwich",3.3,Average,12,$,8000,1,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5100086123,-70.6079661101,0,0
+Mamma Mia!,"Fast Food, Italian",3.3,Average,21,$,10000,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4022644280,-70.5790897831,0,0
+Mamma Mia!,"Fast Food, Italian",3.2,Average,20,$,10000,2,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3903870157,-70.5466508120,0,0
+La Mechada Nacional,"Sandwich, Chilean",3.3,Average,16,$,8000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4500000000,-70.6600000000,0,0
+Sushiblues Express,"Sushi, Nikkei",3.3,Average,13,$,12000,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4022059295,-70.5792829022,0,0
+Juan Maestro,"Fast Food, Sandwich",3.3,Average,14,$,8000,1,"Apumanque, Las Condes","Apumanque, Las Condes, Santiago",Santiago,,42,-33.4100083333,-70.5681611111,0,0
+Dominó,"Fast Food, Sandwich",3.2,Average,23,$,11000,2,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4518698830,-70.5689694732,0,0
+"Pedro, Juan & Diego","Fast Food, Sandwich",3.3,Average,16,$,7000,1,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4183010609,-70.6069049612,0,0
+Tommy Beans,"Fast Food, Mexican",3.2,Average,12,$,8000,1,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4517666599,-70.5687877536,0,0
+Dominó,"Fast Food, Sandwich",3.2,Average,13,$,10000,2,"Mall Plaza Norte, Huechuraba","Mall Plaza Norte, Huechuraba, Santiago",Santiago,,42,-33.3646611111,-70.6786888889,0,0
+McDonald's,"Fast Food, Burger",3.2,Average,11,$,9000,1,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3901034405,-70.5464861915,0,0
+Samira Café,"Cafe, Ice Cream",3.2,Average,11,$,6500,1,"Centro Comerical Plaza Puente, Puente Alto","Centro Comerical Plaza Puente, Puente Alto, Santiago",Santiago,,42,-33.6123170000,-70.5764000000,0,0
+Dominó,"Fast Food, Sandwich",3.2,Average,9,$,10000,2,"Mall Plaza Oeste, Cerrillos","Mall Plaza Oeste, Cerrillos, Santiago",Santiago,,42,-33.5168257218,-70.7171692327,0,0
+Juan Maestro,"Fast Food, Sandwich",3.2,Average,9,$,8000,1,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5170954655,-70.5969988927,0,0
+Dominó,"Fast Food, Sandwich",3.2,Average,6,$,10000,2,"Mall Vivo El Centro, Santiago Centro","Mall Vivo El Centro, Santiago Centro, Santiago",Santiago,,42,-33.4351410949,-70.6508884951,0,0
+Domino's Pizza,Pizza,3.2,Average,8,$,14000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4184401440,-70.6069421768,0,0
+La Vianda,Sandwich,3.2,Average,9,$,9000,1,"Plaza del Parque, Ciudad Empresarial, Huechuraba","Plaza del Parque, Ciudad Empresarial, Huechuraba, Santiago",Santiago,,42,-33.3894329867,-70.6190143967,0,0
+Lima Mía,"Fast Food, Peruvian, Sandwich",3.1,Average,29,$,12000,2,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3903114330,-70.5466856807,0,0
+Juan Maestro,"Fast Food, Sandwich",3.1,Average,19,$,8000,1,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4182685988,-70.6065535918,0,0
+Burger King,"Fast Food, Burger",3.1,Average,9,$,7000,1,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4518754778,-70.5689164996,0,0
+Al-Kawzar,"Fast Food, Arabian",3.2,Average,8,$,9000,1,"Santa Isabel, Santiago Centro","Santa Isabel, Santiago Centro, Santiago",Santiago,,42,-33.4500000000,-70.6600000000,0,0
+Taco Bell,"Fast Food, Mexican",3.2,Average,7,$,8000,1,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5097324168,-70.6077599153,0,0
+Wok - Ok,"Chinese, Healthy Food, Fast Food",3.1,Average,7,$,9000,1,"Plaza del Parque, Ciudad Empresarial, Huechuraba","Plaza del Parque, Ciudad Empresarial, Huechuraba, Santiago",Santiago,,42,-33.3894780000,-70.6190330000,0,0
+"Pedro, Juan & Diego","Fast Food, Sandwich",3.1,Average,7,$,7000,1,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5100175579,-70.6076519564,0,0
+Yogen Früz,Ice Cream,3.1,Average,7,$,6000,1,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4519059691,-70.5688447505,0,0
+Johnny Rockets,"American, Burger",3.1,Average,4,$,21000,2,"Aeropuerto Internacional Comodoro Arturo Benítez, Pudahuel","Aeropuerto Internacional Comodoro Arturo Benítez, Pudahuel, Santiago",Santiago,,42,-33.3969630000,-70.7959390000,0,0
+Youserv,Ice Cream,3.1,Average,7,$,4000,1,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3903982131,-70.5466890335,0,0
+Dominó,"Fast Food, Sandwich",3.1,Average,7,$,12000,2,"Mall Arauco Maipú, Maipú","Mall Arauco Maipú, Maipú, Santiago",Santiago,,42,-33.4811509212,-70.7517194375,0,0
+Subway,"Fast Food, Sandwich",3.1,Average,5,$,8500,1,"Mall Paseo Quilín, Peñalolén","Mall Paseo Quilín, Peñalolén, Santiago",Santiago,,42,-33.4875486342,-70.5783290416,0,0
+Dominó,"Fast Food, Sandwich",3.1,Average,5,$,13000,2,"Mall Plaza Alameda, Estación Central","Mall Plaza Alameda, Estación Central, Santiago",Santiago,,42,-33.4526746837,-70.6820081547,0,0
+Natsuki,"Sushi, Japanese",3.1,Average,6,$,10000,2,"Centro Comercial Santa Isabel, Maipú","Centro Comercial Santa Isabel, Maipú, Santiago",Santiago,,42,-33.4916000000,-70.7772055556,0,0
+Dominó,"Fast Food, Sandwich",3.1,Average,7,$,10000,2,"Patio Centro, Santiago Centro","Patio Centro, Santiago Centro, Santiago",Santiago,,42,-33.4419246498,-70.6518282741,0,0
+Burger King,"Fast Food, Burger",3.1,Average,4,$,7000,1,"Mall Plaza Tobalaba, Puente Alto","Mall Plaza Tobalaba, Puente Alto, Santiago",Santiago,,42,-33.5696755114,-70.5574550852,0,0
+La Quincha,"Fast Food, Sandwich, Home-made",3.0,Average,21,$,12000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4184653301,-70.6069408357,0,0
+Burger King,"Fast Food, Burger",3.0,Average,19,$,7000,1,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4182358568,-70.6065985188,0,0
+"Pedro, Juan & Diego","Fast Food, Sandwich",3.0,Average,7,$,7000,1,"Mall Vivo El Centro, Santiago Centro","Mall Vivo El Centro, Santiago Centro, Santiago",Santiago,,42,-33.4351897786,-70.6513847038,0,0
+Juan Maestro,"Fast Food, Sandwich",3.0,Average,10,$,8000,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4022014511,-70.5793187767,0,0
+Tommy Beans,"Fast Food, Mexican",3.0,Average,8,$,10000,2,"Mall Arauco Maipú, Maipú","Mall Arauco Maipú, Maipú, Santiago",Santiago,,42,-33.4813279350,-70.7521375269,0,0
+Sushiblues Express,"Sushi, Nikkei",3.0,Average,6,$,12000,2,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3904015723,-70.5466521531,0,0
+Juan Maestro,"Fast Food, Sandwich",3.0,Average,5,$,8000,1,"Mall Vivo El Centro, Santiago Centro","Mall Vivo El Centro, Santiago Centro, Santiago",Santiago,,42,-33.4351987319,-70.6513900682,0,0
+Subway,"Fast Food, Sandwich",3.0,Average,4,$,8500,1,"Mall Espacio M, Santiago Centro","Mall Espacio M, Santiago Centro, Santiago",Santiago,,42,-33.4390750000,-70.6541750000,0,0
+Pizza Hut Express,Pizza,3.0,Average,4,$,8000,1,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5097774244,-70.6076392159,0,0
+Juan Maestro,"Fast Food, Sandwich",3.0,Average,7,$,8000,1,"Espacio Urbano Gran Avenida, San Miguel","Espacio Urbano Gran Avenida, San Miguel, Santiago",Santiago,,42,-33.5121694444,-70.6561972222,0,0
+Bocadoro,"Italian, Fast Food",3.0,Average,6,$,8000,1,"Patio Centro, Santiago Centro","Patio Centro, Santiago Centro, Santiago",Santiago,,42,-33.4419934730,-70.6517565250,0,0
+El Cántaro,"Peruvian, Fast Food",3.0,Average,6,$,8000,1,"Centro Comerical Plaza Puente, Puente Alto","Centro Comerical Plaza Puente, Puente Alto, Santiago",Santiago,,42,-33.6120710000,-70.5754890000,0,0
+Pizza Hut Express,Pizza,3.0,Average,7,$,8000,1,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3903467049,-70.5466129258,0,0
+Buffet Express,"Home-made, Fast Food",3.0,Average,5,$,9000,1,"Espacio Urbano Maipú, Maipú","Espacio Urbano Maipú, Maipú, Santiago",Santiago,,42,-33.5113555556,-70.7581472222,0,0
+Taco Bell,"Fast Food, Mexican",3.0,Average,9,$,8000,1,"Apumanque, Las Condes","Apumanque, Las Condes, Santiago",Santiago,,42,-33.4102472222,-70.5680472222,0,0
+Juan Maestro,"Fast Food, Sandwich",3.0,Average,6,$,8000,1,"Mall Paseo Quilín, Peñalolén","Mall Paseo Quilín, Peñalolén, Santiago",Santiago,,42,-33.4875841462,-70.5781255290,0,0
+"Pedro, Juan & Diego","Fast Food, Sandwich",3.0,Average,4,$,7000,1,"Espacio Urbano Gran Avenida, San Miguel","Espacio Urbano Gran Avenida, San Miguel, Santiago",Santiago,,42,-33.5119055556,-70.6563638889,0,0
+"Pedro, Juan & Diego","Fast Food, Sandwich",3.0,Average,4,$,7000,1,"Centro Comercial Intermodal La Cisterna, La Cisterna","Centro Comercial Intermodal La Cisterna, La Cisterna, Santiago",Santiago,,42,-33.5384361111,-70.6642611111,0,0
+Fritz,"Fast Food, Sandwich, German",3.0,Average,4,$,8000,1,"Mall Plaza Oeste, Cerrillos","Mall Plaza Oeste, Cerrillos, Santiago",Santiago,,42,-33.5169909225,-70.7170961425,0,0
+"Pedro, Juan & Diego","Fast Food, Sandwich",3.0,Average,5,$,7000,1,"Mall Arauco Maipú, Maipú","Mall Arauco Maipú, Maipú, Santiago",Santiago,,42,-33.4808961662,-70.7512721792,0,0
+Juan Maestro,"Fast Food, Sandwich",3.0,Average,4,$,8000,1,"Paseo Santa Filomena, Recoleta","Paseo Santa Filomena, Recoleta, Santiago",Santiago,,42,-33.4290705304,-70.6444696337,0,0
+Burger King,"Fast Food, Burger",2.9,Average,4,$,7000,1,"Mall Vivo El Centro, Santiago Centro","Mall Vivo El Centro, Santiago Centro, Santiago",Santiago,,42,-33.4352742755,-70.6515446305,0,0
+Bufalo Beef,"Home-made, Fast Food",2.9,Average,8,$,12000,2,"Apumanque, Las Condes","Apumanque, Las Condes, Santiago",Santiago,,42,-33.4102555556,-70.5679638889,0,0
+Sushiblues Express,"Sushi, Nikkei",2.9,Average,6,$,12000,2,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5099152427,-70.6078433990,0,0
+Juan Maestro,"Fast Food, Sandwich",2.9,Average,8,$,8000,1,"Mall Plaza Norte, Huechuraba","Mall Plaza Norte, Huechuraba, Santiago",Santiago,,42,-33.3646694444,-70.6786194444,0,0
+Oh! Salad,Healthy Food,2.9,Average,6,$,7500,1,"Patio Centro, Santiago Centro","Patio Centro, Santiago Centro, Santiago",Santiago,,42,-33.4419243700,-70.6518396735,0,0
+"Pedro, Juan & Diego","Fast Food, Sandwich",2.9,Average,5,$,7000,1,"Espacio Urbano Maipú, Maipú","Espacio Urbano Maipú, Maipú, Santiago",Santiago,,42,-33.5108970000,-70.7577530000,0,0
+Fritz,"Fast Food, Sandwich, German",2.9,Average,4,$,8000,1,"Mall Plaza Tobalaba, Puente Alto","Mall Plaza Tobalaba, Puente Alto, Santiago",Santiago,,42,-33.5693170959,-70.5570973456,0,0
+McDonald's,"Fast Food, Burger",2.9,Average,5,$,9000,1,"Mall Arauco Maipú, Maipú","Mall Arauco Maipú, Maipú, Santiago",Santiago,,42,-33.4813357650,-70.7515397295,0,0
+McDonald's,"Fast Food, Burger",2.8,Average,4,$,9000,1,"Terminal de Buses Santiago, Estación Central","Terminal de Buses Santiago, Estación Central, Santiago",Santiago,,42,-33.4538694444,-70.6885222222,0,0
+Fritz,"Fast Food, Sandwich, German",2.9,Average,6,$,8000,1,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5174202751,-70.5978729576,0,0
+Burger King,"Fast Food, Burger",2.9,Average,5,$,7000,1,"Mall Arauco Maipú, Maipú","Mall Arauco Maipú, Maipú, Santiago",Santiago,,42,-33.4811397355,-70.7516507059,0,0
+Juan Maestro,"Fast Food, Sandwich",2.9,Average,5,$,8000,1,"Santa Isabel, Santiago Centro","Santa Isabel, Santiago Centro, Santiago",Santiago,,42,-33.4500000000,-70.6600000000,0,0
+Frutos,"Home-made, Fast Food",2.9,Average,4,$,7500,1,"Mall Arauco Maipú, Maipú","Mall Arauco Maipú, Maipú, Santiago",Santiago,,42,-33.4813877784,-70.7520302385,0,0
+Juan Maestro,"Fast Food, Sandwich",2.9,Average,4,$,8000,1,"Mall Espacio M, Santiago Centro","Mall Espacio M, Santiago Centro, Santiago",Santiago,,42,-33.4392315474,-70.6558100134,0,0
+Coppelia,"Ice Cream, Cafe, Pastry, Sandwich, Desserts",2.9,Average,4,$,16000,2,"Mall Plaza Norte, Huechuraba","Mall Plaza Norte, Huechuraba, Santiago",Santiago,,42,-33.3653194444,-70.6790916667,0,0
+Bob's Burgers,"Fast Food, Burger",2.9,Average,4,$,8000,1,"Centro Comerical Plaza Puente, Puente Alto","Centro Comerical Plaza Puente, Puente Alto, Santiago",Santiago,,42,-33.6117166667,-70.5763555556,0,0
+Sushiblues Express,"Sushi, Nikkei",2.8,Average,25,$,12000,2,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4184614123,-70.6069575995,0,0
+Sushihana,"Sushi, Japanese",2.8,Average,19,$,26500,3,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4024346054,-70.5793301761,0,0
+Burger King,"Fast Food, Burger",2.8,Average,12,$,7000,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4020114005,-70.5794183537,0,0
+Taco Bell,"Fast Food, Mexican",2.8,Average,9,$,8000,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4021093648,-70.5793620273,0,0
+Dunkin' Donuts,"Cafe, Pastry",2.8,Average,11,$,7000,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4023976590,-70.5794998258,0,0
+Platón,"Home-made, Fast Food",2.7,Average,10,$,9000,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4018960824,-70.5793479457,0,0
+Subway,"Fast Food, Sandwich",2.8,Average,9,$,8500,1,"Patio Centro, Santiago Centro","Patio Centro, Santiago Centro, Santiago",Santiago,,42,-33.4419442336,-70.6518708542,0,0
+Sushiblues Express,"Sushi, Nikkei",2.8,Average,10,$,12000,2,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4518265237,-70.5690321699,0,0
+Bufalo Beef,"Home-made, Fast Food",2.8,Average,5,$,12000,2,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4519319847,-70.5686502904,0,0
+Sushiblues Express,"Sushi, Nikkei",2.8,Average,6,$,12000,2,"Mall Espacio M, Santiago Centro","Mall Espacio M, Santiago Centro, Santiago",Santiago,,42,-33.4388818241,-70.6541500613,0,0
+Buffet Express,"Home-made, Fast Food",2.7,Average,6,$,9000,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4019968458,-70.5795514584,0,0
+Frutos,"Home-made, Fast Food",2.8,Average,5,$,7500,1,"Patio Centro, Santiago Centro","Patio Centro, Santiago Centro, Santiago",Santiago,,42,-33.4418868809,-70.6518289447,0,0
+Tarragona,Fast Food,2.8,Average,5,$,7000,1,"StgoDowntown, Santiago Centro","StgoDowntown, Santiago Centro, Santiago",Santiago,,42,-33.4446638889,-70.6566611111,0,0
+Bravissimo,"Ice Cream, Cafe, Pastry, Sandwich, Desserts",2.8,Average,4,$,15500,2,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5172469689,-70.5971698835,0,0
+La Cazuela,"Fast Food, Home-made",2.8,Average,4,$,7500,1,"Terminal de Buses Santiago, Estación Central","Terminal de Buses Santiago, Estación Central, Santiago",Santiago,,42,-33.4538638889,-70.6884083333,0,0
+Metissage,"Cafe, Sandwich, Healthy Food",4.3,Very Good,208,$,13000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4069559393,-70.5994316563,0,0
+La Panadera,"Bakery, Pastry",4.1,Very Good,66,$,6000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4451861405,-70.6264260784,0,0
+Panadería Tomás Moro,"Cafe, Pastry, Empanadas, Bakery",4.0,Very Good,127,$,2000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4192231472,-70.5515015870,0,0
+Pastelería Tía Lucy,Pastry,4.0,Very Good,98,$,3000,1,La Florida,"La Florida, Santiago",Santiago,,42,-33.5397194444,-70.5847555556,0,0
+Sinfonía del Sabor,"Pastry, Bakery, Empanadas",4.0,Very Good,66,$,4000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4471144973,-70.6299139559,0,0
+Holm - Pan Feliz,Bakery,4.0,Very Good,38,$,8000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4255454013,-70.6165116280,0,0
+Bagels & Co.,"Cafe, Bakery",3.9,Good,60,$,7000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4183883727,-70.5998098478,0,0
+La Punta,"Bakery, Pastry",3.9,Good,84,$,7000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4065870538,-70.5994531140,0,0
+Empanadas Paula A,Empanadas,3.9,Good,68,$,5000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4013611949,-70.5603947863,0,0
+Las Rosas Chicas,"Pastry, Empanadas",3.9,Good,47,$,0,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3815050477,-70.5715366825,0,0
+La Punta,"Bakery, Pastry",3.9,Good,48,$,7000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3887328609,-70.5748820677,0,0
+La Nonna,"Empanadas, Pastry, Bakery",3.9,Good,36,$,3000,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4504277778,-70.5557250000,0,0
+Lo Saldes,"Bakery, Empanadas, Pastry, Cafe",3.7,Good,43,$,8000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4167790000,-70.5624760000,0,0
+Lo Saldes,"Cafe, Pastry, Bakery, Empanadas",3.7,Good,29,$,9000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3874322460,-70.5765232444,0,0
+La Punta,"Bakery, Pastry",3.7,Good,36,$,7000,1,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3535194444,-70.5240638889,0,0
+Lo Saldes,"Cafe, Bakery, Pastry, Sandwich",3.7,Good,24,$,5000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.3924000087,-70.5535129085,0,0
+Lo Saldes,"Cafe, Pastry, Bakery, Empanadas",3.6,Good,47,$,8000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4108551699,-70.5747399107,0,0
+Fabrica de Empanadas Alvaro Monti,"Empanadas, Pastry",3.6,Good,41,$,5000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4563615095,-70.6131206453,0,0
+La Punta,"Bakery, Pastry",3.6,Good,42,$,7000,1,"Paseo Los Domínicos, Las Condes","Paseo Los Domínicos, Las Condes, Santiago",Santiago,,42,-33.4019755736,-70.5146192014,0,0
+Fabrica de Empanadas Alvaro Monti,"Empanadas, Pastry",3.6,Good,25,$,4500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4357023545,-70.6162595004,0,0
+Lo Saldes,"Cafe, Pastry, Bakery, Empanadas",3.6,Good,18,$,8000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4054873852,-70.5975906551,0,0
+Fabrica de Empanadas G. Monti,Empanadas,3.6,Good,26,$,3000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4471089023,-70.6136748567,0,0
+Emporio Zunino,"Empanadas, Home-made",3.6,Good,18,$,4000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4340353526,-70.6518027931,0,0
+La Punta,"Bakery, Pastry",3.5,Good,24,$,7000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.3688816693,-70.5009308830,0,0
+Lo Saldes,"Cafe, Pastry, Bakery, Empanadas",3.5,Good,22,$,8000,1,"Paseo Los Domínicos, Las Condes","Paseo Los Domínicos, Las Condes, Santiago",Santiago,,42,-33.4014219332,-70.5143583566,0,0
+Sabor de Buenos Aires,"Pastry, Bakery, Cafe",3.5,Good,25,$,4000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4530190365,-70.6179006770,0,0
+Semilla,"Bakery, Healthy Food",3.5,Good,17,$,3000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4462763542,-70.5767435208,0,0
+Pastelería Christian,"Pastry, Bakery, French",3.5,Good,10,$,6000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4133929902,-70.5977639928,0,0
+Dulcería Violeta,"Pastry, Bakery",3.5,Good,13,$,6500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4228003017,-70.5905649439,0,0
+Gustapan,"Pastry, Bakery",3.4,Average,18,$,9000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4417923187,-70.6477576867,0,0
+Panadería Tomás Moro,"Cafe, Pastry, Empanadas, Bakery",3.4,Average,12,$,4500,1,"Paseo Tamarugo, Vitacura","Paseo Tamarugo, Vitacura, Santiago",Santiago,,42,-33.3988011902,-70.5865637586,0,0
+Ña Matea,"Empanadas, Pastry",3.4,Average,23,$,6000,1,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4326361111,-70.6386638889,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.4,Average,12,$,5500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4101384209,-70.5722441152,0,0
+La Mini,"Pastry, Empanadas",3.4,Average,12,$,3000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4241549535,-70.5814259872,0,0
+Amasa Bakery,"Pastry, Bakery, Empanadas",3.4,Average,12,$,5000,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4486250000,-70.5437083333,0,0
+El Ingenio,"Pastry, Empanadas, Ice Cream, Bakery",3.4,Average,11,$,2500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4225887492,-70.5647134781,0,0
+La Piccata,Empanadas,3.3,Average,16,$,6000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4461085008,-70.6008679792,0,0
+Caprice Cake,"Pastry, Bakery, Ice Cream",3.3,Average,10,$,2500,1,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4225957450,-70.6421287358,0,0
+Lo Saldes,"Bakery, Pastry, Empanadas, Cafe, Ice Cream",3.3,Average,9,$,3500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4240916667,-70.5833888889,0,0
+Amor y Pan,Bakery,3.3,Average,9,$,4000,1,"Centro Comercial Clorinda Henríquez, La Reina","Centro Comercial Clorinda Henríquez, La Reina, Santiago",Santiago,,42,-33.4513638889,-70.5579916667,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.3,Average,8,$,5500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4315500000,-70.6097416667,0,0
+Crocante,"Bakery, Pastry, Empanadas",3.3,Average,9,$,4000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4103166991,-70.5523823574,0,0
+Dulcería Puerto Varas,Pastry,3.3,Average,7,$,4000,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4387166667,-70.5559611111,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.2,Average,6,$,5500,1,"Boulevard Nueva Las Condes, Las Condes","Boulevard Nueva Las Condes, Las Condes, Santiago",Santiago,,42,-33.4049645550,-70.5745796487,0,0
+Dulcypan,"Pastry, Bakery",3.2,Average,8,$,3000,1,San Miguel,"San Miguel, Santiago",Santiago,,42,-33.5020472222,-70.6546472222,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.2,Average,6,$,5500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4278916791,-70.6175888702,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.2,Average,7,$,5500,1,"Paseo Los Trapenses, Lo Barnechea","Paseo Los Trapenses, Lo Barnechea, Santiago",Santiago,,42,-33.3436000000,-70.5451138889,0,0
+Don Felipe,"Pastry, Empanadas, Bakery",3.2,Average,7,$,3000,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4519611111,-70.5551388889,0,0
+PanOtto,"Bakery, Pastry",3.2,Average,8,$,3000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4461202505,-70.6062193215,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.2,Average,6,$,5500,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4418284090,-70.6557154655,0,0
+Le Pain Dore,"Cafe, Bakery",3.2,Average,9,$,10000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4524713163,-70.6255198270,0,0
+Masitas Ruhue,"Empanadas, Bakery",3.2,Average,5,$,4000,1,Independencia,"Independencia, Santiago",Santiago,,42,-33.4218970000,-70.6514090000,0,0
+Strindberg,"Pastry, Cafe, Empanadas",3.2,Average,8,$,8000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4259138889,-70.6161194444,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.2,Average,7,$,5500,1,"Edificio Matta, Las Condes","Edificio Matta, Las Condes, Santiago",Santiago,,42,-33.4052142152,-70.5733005702,0,0
+Horneados Dulces y Salados,"Pastry, Bakery",3.2,Average,8,$,4000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4539690000,-70.6628620000,0,0
+El Tamiz,"Pastry, Bakery",3.2,Average,6,$,3000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4494845298,-70.5985321105,0,0
+Pastelería Geno,"Pastry, Empanadas, Bakery",3.2,Average,5,$,5000,1,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4218844097,-70.6455562636,0,0
+Abuela Pata,"Pastry, Empanadas, Bakery",3.2,Average,7,$,4000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4519054097,-70.5710448325,0,0
+Le Parnatte,"Empanadas, Pastry, Bakery",3.1,Average,15,$,5000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4465617042,-70.6058863923,0,0
+Gustapan,"Pastry, Bakery",3.1,Average,7,$,9000,1,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4287222222,-70.6468111111,0,0
+San Camilo,Pastry,3.1,Average,5,$,3000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4432527778,-70.6459722222,0,0
+Paradiso,"Bakery, Pastry, Sandwich",3.1,Average,5,$,4000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4443961000,-70.6458190000,0,0
+Praliné,"Bakery, Pastry",3.1,Average,6,$,4000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4489843000,-70.6551334000,0,0
+La Baguette,"Bakery, Pastry",3.1,Average,8,$,6000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4014972222,-70.5608833333,0,0
+Mr. Pretzel,"Bakery, American",3.1,Average,9,$,2500,1,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5101676759,-70.6075205281,0,0
+Pan y Miel,"Pastry, Bakery, Empanadas",3.1,Average,8,$,4000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4447536322,-70.5812677369,0,0
+Fabrica de Empanadas G. Monti,Empanadas,3.1,Average,9,$,4000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4555746455,-70.5900184438,0,0
+Delicias Vasco,"Empanadas, Pastry, Bakery",3.1,Average,7,$,4000,1,La Florida,"La Florida, Santiago",Santiago,,42,-33.5308900000,-70.5784580000,0,0
+Empanadas Pancito,Empanadas,3.1,Average,7,$,2000,1,Estación Central,"Estación Central, Santiago",Santiago,,42,-33.4578770000,-70.7072700000,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.1,Average,4,$,5500,1,"Metro Tobalaba, Providencia","Metro Tobalaba, Providencia, Santiago",Santiago,,42,-33.4187933079,-70.6026821584,0,0
+Tip-Top,Pastry,3.1,Average,5,$,4000,1,"Metro Bellavista de la Florida, La Florida","Metro Bellavista de la Florida, La Florida, Santiago",Santiago,,42,-33.5190255764,-70.5994655192,0,0
+San Camilo,Pastry,3.1,Average,4,$,3000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4334410000,-70.6531940000,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.1,Average,5,$,5500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4114400953,-70.5764649063,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.1,Average,4,$,5500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4283337852,-70.6190419570,0,0
+Macharoas,"Bakery, Pastry",3.1,Average,6,$,3500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4279972222,-70.5936194444,0,0
+Doña Cata,"Pastry, Empanadas, Cafe",3.1,Average,4,$,2500,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4314222222,-70.5719000000,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.1,Average,5,$,5500,1,"Metro Los Dominicos, Las Condes","Metro Los Dominicos, Las Condes, Santiago",Santiago,,42,-33.4079027754,-70.5449982360,0,0
+Mil Maravillas,"Pastry, Empanadas",3.1,Average,5,$,4000,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4449194444,-70.5519944444,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.1,Average,4,$,5500,1,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3611810000,-70.5456220000,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.0,Average,5,$,5500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4161406260,-70.5940089002,0,0
+Los Reyes del Pan,"Pastry, Empanadas, Bakery, Colombian",3.0,Average,6,$,5000,1,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4321455975,-70.6484496966,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.0,Average,4,$,5500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4191235232,-70.6012649462,0,0
+Montreal Bagel,Bakery,3.0,Average,10,$,2000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4456357119,-70.6078081951,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.0,Average,4,$,5500,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4379495946,-70.6550968811,0,0
+Paradiso,"Bakery, Pastry, Sandwich",3.0,Average,7,$,4000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4430555556,-70.6490861111,0,0
+Donde Totito,"Pastry, Bakery",3.0,Average,5,$,6000,1,Peñalolén,"Peñalolén, Santiago",Santiago,,42,-33.4989765993,-70.5616688356,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.0,Average,5,$,5500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4186108494,-70.5905699730,0,0
+Leidipan,Bakery,3.0,Average,5,$,3000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4496111111,-70.5916444444,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.0,Average,4,$,5500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4132580000,-70.5822290000,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.0,Average,5,$,5500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4304102545,-70.6226133183,0,0
+Castaño,"Bakery, Pastry, Empanadas",2.9,Average,4,$,5500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4151102028,-70.6021138653,0,0
+Paradiso,"Bakery, Pastry, Sandwich",2.9,Average,5,$,4000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4426416667,-70.6454083333,0,0
+Tentaciones,"Pastry, Empanadas",2.9,Average,5,$,4000,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4512138889,-70.5524666667,0,0
+San José,Empanadas,2.9,Average,4,$,4000,1,Estación Central,"Estación Central, Santiago",Santiago,,42,-33.4526620000,-70.6965120000,0,0
+Ma Maria,"Pastry, Bakery, Empanadas",2.9,Average,4,$,3000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4401413811,-70.6127608940,0,0
+Mr. Pretzel,"Fast Food, Bakery",2.8,Average,18,$,3000,1,"Mall Alto Las Condes, Las Condes","Mall Alto Las Condes, Las Condes, Santiago",Santiago,,42,-33.3910062308,-70.5462659150,0,0
+Mallorca,"Empanadas, Pastry",2.8,Average,9,$,4000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4460861203,-70.5962274224,0,0
+Castaño,"Bakery, Pastry, Empanadas",2.8,Average,4,$,5500,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4397916667,-70.6567083333,0,0
+Castaño,"Bakery, Pastry, Empanadas",2.8,Average,4,$,5500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4265088240,-70.6169337407,0,0
+Pastelería Natas,"Pastry, Empanadas, Bakery",2.8,Average,5,$,3000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4310859847,-70.5855508894,0,0
+Ruca Bar,"Bar Food, Spanish",4.3,Very Good,275,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4430330892,-70.6269702315,0,0
+La Destilería,"Bar Food, Seafood, Sandwich",4.3,Very Good,211,$,17000,2,"Plaza Ñuñoa, Ñuñoa","Plaza Ñuñoa, Ñuñoa, Santiago",Santiago,,42,-33.4537309557,-70.5930697918,0,0
+De La Ostia,"Bar Food, Spanish",4.2,Very Good,675,$,26000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4227706396,-70.6123803556,0,0
+KY,"Thai, Contemporary",4.2,Very Good,372,$,45000,4,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4263910000,-70.6397540000,0,0
+Bar Minga,"Pizza, Italian",4.2,Very Good,188,$,24000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4310230287,-70.6183593348,0,0
+La Percanta,Steak,4.2,Very Good,195,$,29500,3,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3516340000,-70.5121670000,0,0
+Liguria,"Chilean, Bar Food",4.1,Very Good,442,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4182725166,-70.6030563265,0,0
+Liguria,"Chilean, Bar Food",4.1,Very Good,315,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4283222222,-70.6191472222,0,0
+Taringa,"Bar Food, Pizza, Sandwich, Seafood",4.1,Very Good,209,$,25000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3960639226,-70.5812757835,0,0
+St. Patrick's Day,Bar Food,4.1,Very Good,208,$,23500,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4410420000,-70.6683680000,0,0
+Pepperland,"Bar Food, Pizza",4.1,Very Good,159,$,19000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4468330656,-70.6278613955,0,0
+Etniko,"Sushi, Japanese, Seafood",4.1,Very Good,117,$,30000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4324860000,-70.6348660000,0,0
+Cervecería Rustico,"Bar Food, Pizza",4.1,Very Good,143,$,20000,2,Maipú,"Maipú, Santiago",Santiago,,42,-33.5002333333,-70.7529750000,0,0
+Insert Coin,"Burger, Sandwich, Bar Food",4.0,Very Good,241,$,20000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4535833333,-70.6107861111,0,0
+Mamboleta,Bar Food,4.0,Very Good,151,$,24000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4373419054,-70.6420164183,0,0
+Red Luxury Bar,Bar Food,4.0,Very Good,57,$,0,1,"Patio Bellavista, Barrio Bellavista, Providencia","Patio Bellavista, Barrio Bellavista, Providencia, Santiago",Santiago,,42,-33.4342211362,-70.6353688985,0,0
+Insert Coin,"Burger, Sandwich, Bar Food",3.9,Good,189,$,20000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4275460000,-70.6178540000,0,0
+La Terraza,"Home-made, Sandwich, Bar Food",4.0,Very Good,209,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4387198317,-70.6345779821,0,0
+Tapas Y Birra,"Bar Food, Spanish",3.9,Good,151,$,28000,3,"Plaza Ñuñoa, Ñuñoa","Plaza Ñuñoa, Ñuñoa, Santiago",Santiago,,42,-33.4535452139,-70.5934603885,0,0
+Bar Nacional 1,"Chilean, Steak, Sandwich, Seafood",3.9,Good,99,$,13000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4397606062,-70.6529199332,0,0
+Yungay Viejo,"Burger, Pizza",3.9,Good,98,$,25000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4378231329,-70.6744698063,0,0
+Hookah Troopa,"Sandwich, Bar Food",3.9,Good,84,$,23000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4380264000,-70.6416191000,0,0
+Bajo Llave,Bar Food,3.9,Good,87,$,24000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4385694444,-70.6413805556,0,0
+Cervecería HBH,Bar Food,3.8,Good,397,$,17500,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4548118309,-70.5977495760,0,0
+Loom,"American, Bar Food",3.8,Good,136,$,27000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4327666667,-70.6300583333,0,0
+Barbudo,Bar Food,3.8,Good,187,$,24000,2,"Plaza Ñuñoa, Ñuñoa","Plaza Ñuñoa, Ñuñoa, Santiago",Santiago,,42,-33.4535068906,-70.5939901248,0,0
+Ecléctico,Bar Food,3.8,Good,145,$,25000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4255269331,-70.5922869220,0,0
+Tip y Tap,"Sandwich, Steak",3.8,Good,67,$,28000,3,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4021214004,-70.5788443610,0,0
+Panko,"Sushi, Nikkei, Japanese",3.8,Good,61,$,24000,2,"Patio Bellavista, Barrio Bellavista, Providencia","Patio Bellavista, Barrio Bellavista, Providencia, Santiago",Santiago,,42,-33.4341355191,-70.6348056346,0,0
+Bar Mercado,Bar Food,3.8,Good,98,$,30000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3999333333,-70.5907361111,0,0
+Taxco Cantina,"Bar Food, Mexican",3.8,Good,89,$,28000,3,"Plaza Ñuñoa, Ñuñoa","Plaza Ñuñoa, Ñuñoa, Santiago",Santiago,,42,-33.4537388889,-70.5938722222,0,0
+Cervecería Nacional,"Bar Food, Sandwich, Pizza, Cafe",3.8,Good,109,$,23000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4410300000,-70.6748920000,0,0
+El Toro Restorán,International,3.8,Good,69,$,25000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4332102336,-70.6423302367,0,0
+Roberta,Bar Food,3.8,Good,71,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4467390000,-70.6259070000,0,0
+La Virgen,Bar Food,3.8,Good,63,$,20000,2,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4305870000,-70.6396970000,0,0
+Rubik,Bar Food,3.8,Good,68,$,19000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4472330000,-70.6284740000,0,0
+Café 202,"Cafe, Bar Food",3.8,Good,82,$,13000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4380757763,-70.6384189054,0,0
+Terraza S33W70 - Hotel The Hip,"Bar Food, Spanish",3.8,Good,45,$,25000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4338780000,-70.6355640000,0,0
+California Cantina,"American, Bar Food",3.7,Good,440,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4215750000,-70.6127472222,0,0
+Baires,"Sushi, Bar Food",3.8,Good,110,$,22000,2,"Plaza Ñuñoa, Ñuñoa","Plaza Ñuñoa, Ñuñoa, Santiago",Santiago,,42,-33.4538915214,-70.5937302858,0,0
+Dínamo,Bar Food,3.7,Good,47,$,22000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4435408627,-70.6267472729,0,0
+Fiddlers,"American, Fast Food, Bar Food",3.7,Good,63,$,23000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4290472222,-70.6197444444,0,0
+The Shamrock,"Bar Food, Sandwich",3.7,Good,49,$,24000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4298170626,-70.6224631146,0,0
+Muqueca,Brazilian,3.7,Good,60,$,32000,3,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4479472222,-70.6165861111,0,0
+Bar Mañio,"Bar Food, Spanish",3.7,Good,51,$,20000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4009390000,-70.5926060000,0,0
+Bar Don Rodrigo,"Sandwich, Bar Food",3.7,Good,58,$,23000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4379583333,-70.6431500000,0,0
+Abtao,"Bar Food, Cafe",3.7,Good,29,$,21000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4330832054,-70.6334413961,0,0
+Bar autóctono,"Bar Food, Sandwich",3.7,Good,40,$,18000,2,La Reina,"La Reina, Santiago",Santiago,,42,-33.4399964574,-70.5570024624,0,0
+Trüf,Bar Food,3.7,Good,28,$,18000,2,La Reina,"La Reina, Santiago",Santiago,,42,-33.4520460000,-70.5590230000,0,0
+La Maqueta - Tapas Bar,"Chilean, Bar Food",3.7,Good,27,$,0,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4392123412,-70.5567229445,0,0
+Mourgues,Bar Food,3.7,Good,36,$,25000,3,San Miguel,"San Miguel, Santiago",Santiago,,42,-33.5102694444,-70.6568138889,0,0
+Onaciu,Bar Food,3.7,Good,23,$,20000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4283111111,-70.6411583333,0,0
+Teclados,Bar Food,3.5,Good,201,$,18500,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4003861111,-70.5919500000,0,0
+Barbazul,"Bar Food, Seafood, Mexican",3.6,Good,86,$,26000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3824972222,-70.5473472222,0,0
+El Diablito,"Sandwich, Bar Food",3.6,Good,85,$,22000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4372833333,-70.6413805556,0,0
+The Jazz Corner,"Bar Food, Sandwich, Pizza",3.6,Good,61,$,21000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4461638889,-70.6253361111,0,0
+EGO,Bar Food,3.6,Good,44,$,21000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4323055556,-70.6180638889,0,0
+Hidden Bar,Bar Food,3.6,Good,20,$,20000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4404580860,-70.6355023384,0,0
+Finitezza Bar,"Pizza, Italian, Sandwich",3.6,Good,58,$,20000,2,"Espacio Urbano La Dehesa, Lo Barnechea","Espacio Urbano La Dehesa, Lo Barnechea, Santiago",Santiago,,42,-33.3520545566,-70.5201435462,0,0
+Akbar,"Sushi, Bar Food, Pizza",3.6,Good,35,$,20000,2,"Plaza Ñuñoa, Ñuñoa","Plaza Ñuñoa, Ñuñoa, Santiago",Santiago,,42,-33.4554487689,-70.5946160853,0,0
+Mondo Lounge,"Bar Food, Thai",3.6,Good,30,$,20000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4214044930,-70.5974635854,0,0
+Bar de Rene,"Bar Food, Sandwich, Fast Food",3.6,Good,50,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4465055556,-70.6264944444,0,0
+La Barrica Celta,"Bar Food, Sandwich, Pizza",3.6,Good,33,$,24000,2,La Florida,"La Florida, Santiago",Santiago,,42,-33.5180203000,-70.5582620000,0,0
+Raizu Sushi,"Sushi, Japanese",3.5,Good,24,$,23000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4206390000,-70.6113360000,0,0
+Whiskey Blue - W Santiago,"Bar Food, Sushi, Nikkei",3.6,Good,36,$,40000,4,"W Santiago, Las Condes","W Santiago, Las Condes, Santiago",Santiago,,42,-33.4140993575,-70.5985783786,0,0
+Thelonious,Bar Food,3.6,Good,37,$,18000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4301722222,-70.6393194444,0,0
+La Casa de la Luna Azul,"Sandwich, Pizza, Bar Food",3.6,Good,23,$,23000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4374722222,-70.6389833333,0,0
+Barbazul,"Bar Food, Seafood, Mexican",3.5,Good,83,$,25000,3,"Plaza Ñuñoa, Ñuñoa","Plaza Ñuñoa, Ñuñoa, Santiago",Santiago,,42,-33.4539250000,-70.5935666667,0,0
+Barandiaran,"Peruvian, Seafood, Steak",3.5,Good,76,$,31000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4335736898,-70.6345766410,0,0
+Barbazul Club,"Bar Food, Seafood, Mexican",3.5,Good,61,$,26000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4250950000,-70.5926690000,0,0
+Goodstock,Bar Food,3.5,Good,39,$,24000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4404140000,-70.6277240000,0,0
+Arcano,"Bar Food, Pizza",3.5,Good,33,$,22000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4337527778,-70.6251305556,0,0
+Rockaxis,Bar Food,3.6,Good,45,$,27000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4326215376,-70.6348871067,0,0
+Lobby Bar - Sheraton Santiago Hotel & Convention Center,Bar Food,3.5,Good,11,$,42000,4,"Sheraton Santiago Hotel & Convention Center, Providencia","Sheraton Santiago Hotel & Convention Center, Providencia, Santiago",Santiago,,42,-33.4220530000,-70.6206860000,0,0
+Calabria,"Bar Food, Sandwich",3.5,Good,31,$,27000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4304343179,-70.6192877144,0,0
+Da Capo,Bar Food,3.5,Good,25,$,27000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3820462167,-70.5462719500,0,0
+Cortesano,"Pizza, Bar Food",3.5,Good,25,$,19000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4461638889,-70.6251222222,0,0
+Chorrillanas,Bar Food,3.5,Good,28,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4402305556,-70.6268083333,0,0
+100 Montaditos,"Bar Food, Sandwich, Spanish",3.5,Good,19,$,16000,2,"Mall Plaza Oeste, Cerrillos","Mall Plaza Oeste, Cerrillos, Santiago",Santiago,,42,-33.5163094327,-70.7170984894,0,0
+Sta. Filomena 91,Bar Food,3.5,Good,18,$,24500,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4304774081,-70.6377503648,0,0
+W Lounge - W Santiago,Bar Food,3.5,Good,23,$,37000,3,"W Santiago, Las Condes","W Santiago, Las Condes, Santiago",Santiago,,42,-33.4140389079,-70.5985465273,0,0
+Rey Toro,"Bar Food, Sandwich, Burger",3.5,Good,22,$,24500,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4552277778,-70.5952833333,0,0
+Ambar,"Bar Food, Sushi, Mexican",3.5,Good,22,$,18000,2,"Paseo Orrego Luco, Providencia","Paseo Orrego Luco, Providencia, Santiago",Santiago,,42,-33.4233412136,-70.6114526466,0,0
+Kinsa,Chilean,3.5,Good,16,$,27000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4325941173,-70.6348985061,0,0
+Remolienda,"Sandwich, Bar Food, Home-made",3.5,Good,16,$,22000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4385805556,-70.6646333333,0,0
+The Piano Lounge - The Aubrey Boutique Hotel,Bar Food,3.5,Good,17,$,30000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4306623599,-70.6353692338,0,0
+El Tunel,"Bar Food, Pizza",3.5,Good,24,$,17000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4361140000,-70.6438500000,0,0
+La Picá de los Cuñados,"Bar Food, Fast Food",3.5,Good,18,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4414361111,-70.6648944444,0,0
+Rey Toro,"Bar Food, Sandwich, Burger",3.5,Good,20,$,24500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4302472222,-70.6217500000,0,0
+Bar Candelaria,"Spanish, Bar Food",3.5,Good,17,$,24000,2,"Centro Comercial Plaza Lo Castillo, Vitacura","Centro Comercial Plaza Lo Castillo, Vitacura, Santiago",Santiago,,42,-33.4006149778,-70.5931090191,0,0
+"The Ritz-Carlton Bar - The Ritz-Carlton, Las Condes","Bar Food, International",3.5,Good,12,$,25000,3,"The Ritz-Carlton, Las Condes","The Ritz-Carlton, Las Condes, Santiago",Santiago,,42,-33.4160220000,-70.5953380000,0,0
+Barbazul Tobalaba,"Bar Food, Seafood, Mexican",3.4,Average,152,$,26000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4232250000,-70.5953361111,0,0
+Teclados,Bar Food,3.4,Average,119,$,18500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4340100000,-70.6169830000,0,0
+Berri,Bar Food,3.4,Average,82,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4381730000,-70.6417500000,0,0
+100 Montaditos,"Bar Food, Sandwich, Spanish",3.4,Average,58,$,16000,2,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4533830000,-70.5693860000,0,0
+Bar Nacional 2,"Chilean, Home-made",3.4,Average,40,$,30000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4395611111,-70.6523666667,0,0
+Azul Profundo,Seafood,3.4,Average,46,$,27000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4330798479,-70.6348961592,0,0
+Barbazul Club,"Bar Food, Seafood, Mexican",3.4,Average,32,$,26000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4318950000,-70.6182170000,0,0
+Radicales,"Bar Food, Fast Food",3.4,Average,33,$,21000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4366880000,-70.6455470000,0,0
+El Mesón del Buen Comer,Bar Food,3.4,Average,35,$,18000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4503878218,-70.6526748464,0,0
+Pastelería Lala Leelu,"Pastry, Cafe",4.9,Excellent,161,$,8000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4469944444,-70.6298972222,0,0
+Había Una Vez,"Pastry, Korean, Cafe, Healthy Food",4.2,Very Good,205,$,6500,1,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4316777778,-70.6442861111,0,0
+Mazaccone,"Cafe, Pastry, Healthy Food, Sandwich",4.2,Very Good,116,$,19000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3880008125,-70.5643604323,0,0
+Mozart,"Pastry, Cafe",4.2,Very Good,124,$,7000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3885245847,-70.5779092759,0,0
+Sahtein,"Arabian, Pastry",4.2,Very Good,97,$,13500,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.3923388889,-70.5540000000,0,0
+Cinnabon,"Pastry, Cafe",4.2,Very Good,107,$,8000,1,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4177450059,-70.6060121208,0,0
+Etienne Marcel,"Pastry, French, Cafe",4.1,Very Good,75,$,7000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4551158946,-70.6235514209,0,0
+Galletería de Laura R.,Pastry,4.1,Very Good,61,$,10000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4349277778,-70.6166833333,0,0
+Eric Kayser,"Pastry, Cafe, Bakery",4.0,Very Good,164,$,8000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4165903479,-70.5976909027,0,0
+Café Colonia,"Cafe, Pastry, Sandwich",4.0,Very Good,162,$,9000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4413332152,-70.6465751678,0,0
+Condi,"Cafe, Pastry",4.0,Very Good,122,$,19000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4544204908,-70.6060895696,0,0
+Panadería Tomás Moro,"Cafe, Pastry, Empanadas, Bakery",4.0,Very Good,127,$,2000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4192231472,-70.5515015870,0,0
+Mozart,"Pastry, Cafe",4.0,Very Good,71,$,7000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4504974807,-70.6056024134,0,0
+Delice D' Alsace,"Cafe, Pastry, French",4.0,Very Good,58,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4370103605,-70.6064872071,0,0
+Pastelería Tía Lucy,Pastry,4.0,Very Good,98,$,3000,1,La Florida,"La Florida, Santiago",Santiago,,42,-33.5397194444,-70.5847555556,0,0
+Sinfonía del Sabor,"Pastry, Bakery, Empanadas",4.0,Very Good,66,$,4000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4471144973,-70.6299139559,0,0
+La Ermita,"Pastry, Ice Cream",4.0,Very Good,43,$,3000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3836237904,-70.5734433979,0,0
+La Punta,"Bakery, Pastry",3.9,Good,84,$,7000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4065870538,-70.5994531140,0,0
+La Punta,"Bakery, Pastry",3.9,Good,48,$,7000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3887328609,-70.5748820677,0,0
+Paul Boulangerie,"Cafe, French, Pastry",3.8,Good,165,$,14000,2,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4020069222,-70.5771572515,0,0
+Hildegard,"Cafe, Pastry, Sandwich, Ice Cream, Desserts",3.8,Good,31,$,15000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4585651382,-70.6163050979,0,0
+Angélica,Pastry,3.8,Good,33,$,5000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3933061342,-70.5771934614,0,0
+Pastelería Vienesa,"Pastry, Cafe",3.8,Good,37,$,4000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4491152655,-70.6349662319,0,0
+Strindberg,"Pastry, Cafe, Empanadas",3.8,Good,40,$,8000,1,La Florida,"La Florida, Santiago",Santiago,,42,-33.5223462168,-70.5655610561,0,0
+Wenger Haus,"Cafe, Pastry",3.8,Good,35,$,12500,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4276647491,-70.5542833731,0,0
+La Nonna,"Empanadas, Pastry, Bakery",3.9,Good,36,$,3000,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4504277778,-70.5557250000,0,0
+Galletería de Laura R.,Pastry,3.8,Good,21,$,10000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4050861111,-70.5972444444,0,0
+Paul Boulangerie,"Cafe, French, Pastry",3.7,Good,70,$,14000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4143308007,-70.5932830274,0,0
+Melinka,"Cafe, Pastry",3.7,Good,79,$,11000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4374938281,-70.6442081183,0,0
+Cinnabon,"Pastry, Cafe",3.7,Good,34,$,8000,1,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4524578890,-70.5701848492,0,0
+California,"Cafe, Pastry",3.7,Good,42,$,13000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4530209946,-70.6141496077,0,0
+La Punta,"Bakery, Pastry",3.7,Good,36,$,7000,1,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3535194444,-70.5240638889,0,0
+Holz,"Pastry, Empanadas",3.7,Good,24,$,4000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4205493113,-70.5646672100,0,0
+Pastelería La Colonia,Pastry,3.7,Good,19,$,5500,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4415682228,-70.6578340754,0,0
+Lo Saldes,"Cafe, Bakery, Pastry, Sandwich",3.7,Good,24,$,5000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.3924000087,-70.5535129085,0,0
+Café Colonia,"Cafe, Pastry, Sandwich",3.6,Good,51,$,9000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4408251489,-70.6466871500,0,0
+Pasteles Dhany,Pastry,3.6,Good,16,$,0,1,Puente Alto,"Puente Alto, Santiago",Santiago,,42,-33.5505861111,-70.5654055556,0,0
+La Punta,"Bakery, Pastry",3.6,Good,42,$,7000,1,"Paseo Los Domínicos, Las Condes","Paseo Los Domínicos, Las Condes, Santiago",Santiago,,42,-33.4019755736,-70.5146192014,0,0
+Roggendorf,"Cafe, Pastry",3.6,Good,24,$,14000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4102814353,-70.5702669919,0,0
+La Pajarera,Pastry,3.6,Good,16,$,0,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4466200000,-70.6116700000,0,0
+Fabrica de Empanadas Alvaro Monti,"Empanadas, Pastry",3.6,Good,25,$,4500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4357023545,-70.6162595004,0,0
+Dulcería Montolin,Pastry,3.6,Good,14,$,3000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3850666783,-70.5744110048,0,0
+Pastelería La Colonia,Pastry,3.6,Good,24,$,5500,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4484960000,-70.6352020000,0,0
+Las Vascas,"Empanadas, Pastry, Cafe",3.6,Good,32,$,5000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4514253792,-70.5893157050,0,0
+Cinnamon and Rolls,"Pastry, Cafe",3.6,Good,18,$,8000,1,"Paseo Arauco Estación - Terminal de Buses, Estación Central","Paseo Arauco Estación - Terminal de Buses, Estación Central, Santiago",Santiago,,42,-33.4535919291,-70.6801493838,0,0
+Tammy,Pastry,3.6,Good,20,$,3000,1,Macul,"Macul, Santiago",Santiago,,42,-33.4773722222,-70.5853055556,0,0
+Coquelicot Pastelería,Pastry,3.6,Good,17,$,4000,1,"Centro Comercial Alborada, La Reina","Centro Comercial Alborada, La Reina, Santiago",Santiago,,42,-33.4409333333,-70.5333166667,0,0
+Al Mustafa,"Pastry, Arabian",3.6,Good,15,$,2000,1,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4287549031,-70.6424499303,0,0
+El Ingenio,"Pastry, Empanadas",3.6,Good,18,$,6000,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4387555556,-70.5599972222,0,0
+MY - Café & Patisserie,"Pastry, Cafe",3.6,Good,22,$,0,1,Peñalolén,"Peñalolén, Santiago",Santiago,,42,-33.4806140000,-70.5532630000,0,0
+Nocciola,Cafe,3.5,Good,42,$,13000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4381848912,-70.5960467085,0,0
+Dulcería Las Palmas,"Cafe, Pastry",3.5,Good,28,$,4000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4175603064,-70.5992710590,0,0
+La Punta,"Bakery, Pastry",3.5,Good,24,$,7000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.3688816693,-70.5009308830,0,0
+Tarbush,"Arabian, Pastry",3.5,Good,22,$,10000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4498641429,-70.6131454557,0,0
+Strindberg,"Pastry, Cafe, Empanadas",3.5,Good,19,$,8000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4494358541,-70.6160100549,0,0
+La Mil Hoja,"Pastry, Empanadas",3.5,Good,20,$,5000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4104812633,-70.5744988471,0,0
+Café Nicolas,"Cafe, French, Pastry, Bakery",3.5,Good,23,$,14500,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4398179604,-70.6546791270,0,0
+Dulcería Presidente Riesco,Pastry,3.5,Good,14,$,6000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4125242960,-70.5948890001,0,0
+Sabor de Buenos Aires,"Pastry, Bakery, Cafe",3.5,Good,25,$,4000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4530190365,-70.6179006770,0,0
+De La Barra Patisserie,Pastry,3.5,Good,9,$,5000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4028610000,-70.5951120000,0,0
+Pastelería Candelle,"Pastry, Cafe",3.5,Good,15,$,11000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4362549370,-70.5985549092,0,0
+Pastelería Christian,"Pastry, Bakery, French",3.5,Good,10,$,6000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4133929902,-70.5977639928,0,0
+Pasteles Orientales,Pastry,3.5,Good,18,$,6000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4539102633,-70.6034781039,0,0
+Cosccos Muffin,Pastry,3.5,Good,12,$,3000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4427700000,-70.5937070000,0,0
+Naifi,"Arabian, Pastry",3.5,Good,16,$,10000,2,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3618403848,-70.5150909349,0,0
+Dulcería Violeta,"Pastry, Bakery",3.5,Good,13,$,6500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4228003017,-70.5905649439,0,0
+Kuchen Haus,"Seafood, Steak, Pastry",3.4,Average,30,$,24000,2,Calera de Tango,"Calera de Tango, Santiago",Santiago,,42,-33.5678790000,-70.7648740000,0,0
+Gustapan,"Pastry, Bakery",3.4,Average,18,$,9000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4417923187,-70.6477576867,0,0
+Panadería Tomás Moro,"Cafe, Pastry, Empanadas, Bakery",3.4,Average,12,$,4500,1,"Paseo Tamarugo, Vitacura","Paseo Tamarugo, Vitacura, Santiago",Santiago,,42,-33.3988011902,-70.5865637586,0,0
+Tout París,"Cafe, Pastry",3.4,Average,16,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4406695950,-70.6486471742,0,0
+Ña Matea,"Empanadas, Pastry",3.4,Average,23,$,6000,1,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4326361111,-70.6386638889,0,0
+Café Bovary,"Pastry, Cafe",3.4,Average,17,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4438070000,-70.6215610000,0,0
+Castaño,"Bakery, Pastry, Empanadas",3.4,Average,12,$,5500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4101384209,-70.5722441152,0,0
+Dulcería Las Palmas,"Cafe, Pastry",3.4,Average,11,$,4000,1,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4319298707,-70.6338668615,0,0
+La Tartine,Pastry,3.4,Average,12,$,7000,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3832548059,-70.5504012108,0,0
+La Postrería,Pastry,3.4,Average,16,$,5000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4590501640,-70.5962183699,0,0
+Pastelería Carmencita,Pastry,3.4,Average,13,$,3500,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4512894261,-70.6648319587,0,0
+La Mini,"Pastry, Empanadas",3.4,Average,12,$,3000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4241549535,-70.5814259872,0,0
+Amasa Bakery,"Pastry, Bakery, Empanadas",3.4,Average,12,$,5000,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4486250000,-70.5437083333,0,0
+Dulcería Frutillar,Pastry,3.4,Average,12,$,8000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4183340827,-70.5708500370,0,0
+La Hojarasca,Empanadas,3.4,Average,11,$,3000,1,Peñalolén,"Peñalolén, Santiago",Santiago,,42,-33.4986694444,-70.5644222222,0,0
+Pastelería Sabor y Arte,Pastry,3.4,Average,15,$,3000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4553556202,-70.5898434296,0,0
+Qatir,"Arabian, Pastry",3.4,Average,12,$,12000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3837766469,-70.5505527556,0,0
+Las Bezanilla,"Pastry, Cafe",3.4,Average,8,$,6000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4170781270,-70.5923415720,0,0
+El Ingenio,"Pastry, Empanadas, Ice Cream, Bakery",3.4,Average,11,$,2500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4225887492,-70.5647134781,0,0
+Tip-Top,Pastry,3.4,Average,7,$,4000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4436300000,-70.6499210000,0,0
+Tip-Top,Pastry,3.4,Average,7,$,4000,1,"Galería Drugstore, Providencia","Galería Drugstore, Providencia, Santiago",Santiago,,42,-33.4225383794,-70.6117399782,0,0
+Las Bezanilla,"Pastry, Empanadas, Cafe",3.3,Average,27,$,14000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4019240723,-70.5938412622,0,0
+Brothaus,"Pastry, Cafe",3.3,Average,21,$,11000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4177987366,-70.5874938145,0,0
+Eric Kayser,"Cafe, Pastry, Ice Cream",3.3,Average,10,$,14000,2,"Mall Vivo Los Trapenses, Lo Barnechea","Mall Vivo Los Trapenses, Lo Barnechea, Santiago",Santiago,,42,-33.3611543000,-70.5441436000,0,0
+Sueños de Julian,"Pastry, Cafe",3.3,Average,8,$,8000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4479506741,-70.6136476994,0,0
+Dulcería Don Felipe,Pastry,3.3,Average,10,$,6000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4079583333,-70.5660777778,0,0
+Caprice Cake,"Pastry, Bakery, Ice Cream",3.3,Average,10,$,2500,1,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4225957450,-70.6421287358,0,0
+Dulce Luna,"Cafe, Pastry",3.3,Average,14,$,8000,1,"Mall Paseo Quilín, Peñalolén","Mall Paseo Quilín, Peñalolén, Santiago",Santiago,,42,-33.4882960612,-70.5777154863,0,0
+Pastelería Manjares,Pastry,3.3,Average,8,$,4000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4164554596,-70.5780608207,0,0
+Lo Saldes,"Bakery, Pastry, Empanadas, Cafe, Ice Cream",3.3,Average,9,$,3500,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4240916667,-70.5833888889,0,0
+Pastelería Madame Touré,"Pastry, French",3.3,Average,11,$,10000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4215340568,-70.5580237135,0,0
+El Parrón,Pastry,3.3,Average,9,$,3000,1,La Cisterna,"La Cisterna, Santiago",Santiago,,42,-33.5273388889,-70.6616138889,0,0
+Mangiare,"Cafe, Pastry",3.3,Average,12,$,8000,1,Huechuraba,"Huechuraba, Santiago",Santiago,,42,-33.3477710000,-70.6704140000,0,0
+San Camilo,"Bakery, Pastry, Empanadas, Cafe",3.3,Average,9,$,7000,1,Maipú,"Maipú, Santiago",Santiago,,42,-33.5120277778,-70.7575222222,0,0
+Fuente Alemana,Sandwich,4.5,Excellent,504,$,13000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4372020132,-70.6357460842,0,0
+Fuente Alemana,Sandwich,4.5,Excellent,433,$,13000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4255347681,-70.6116159260,0,0
+Ciudad Vieja,"Sandwich, Bar Food",4.4,Very Good,787,$,25000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4332337366,-70.6346557662,0,0
+Fuente Italia,"Sandwich, Bar Food",4.4,Very Good,156,$,18000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4502110000,-70.6250140000,0,0
+La Maestranza,"Sandwich, Burger, Bar Food",4.3,Very Good,699,$,17000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3946816803,-70.5790374801,0,0
+La Gloria,"Sandwich, Peruvian",4.3,Very Good,533,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4288338100,-70.6200048700,0,0
+Soler,Sandwich,4.3,Very Good,193,$,13000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4048842269,-70.5704175308,0,0
+El Mitico,"Sandwich, Peruvian, Chilean",4.3,Very Good,184,$,13000,2,Providencia,"Providencia, Santiago",Santiago,,42,-13.4249270000,-30.6122850000,0,0
+José Ramón 277,Sandwich,4.2,Very Good,443,$,15000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4392500128,-70.6409981847,0,0
+La Gloria,"Sandwich, Peruvian",4.2,Very Good,173,$,13000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4401816687,-70.6561473012,0,0
+Las Cabras,"Chilean, Home-made, Sandwich",4.1,Very Good,605,$,23000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4179728014,-70.6036956981,0,0
+Fuente Suiza,"Sandwich, Empanadas",4.1,Very Good,456,$,13000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4551805115,-70.5960534140,0,0
+Fuente Mardoqueo,Sandwich,4.1,Very Good,260,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4362913093,-70.5962287635,0,0
+Alemán Experto,Sandwich,4.1,Very Good,131,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4207698236,-70.6093404070,0,0
+Elkika Ilmenau,"German, Sandwich",4.0,Very Good,359,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4239476016,-70.6105038151,0,0
+Elkika Ilmenau,"German, Sandwich",4.0,Very Good,272,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4187255856,-70.6013323367,0,0
+Fuente Mardoqueo,Sandwich,4.0,Very Good,176,$,15000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4155775609,-70.6009226292,0,0
+Danés,"Sandwich, Steak",3.9,Good,356,$,15000,2,"Paseo Tamarugo, Vitacura","Paseo Tamarugo, Vitacura, Santiago",Santiago,,42,-33.3986623555,-70.5867277086,0,0
+Danés,"Sandwich, Steak",3.9,Good,205,$,15000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4235426905,-70.5781684443,0,0
+Fuente Chilena,"Sandwich, Chilean, Desserts",3.9,Good,195,$,15000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4115173388,-70.5776229501,0,0
+Albedrío,"American, Burger, Sandwich",3.9,Good,95,$,16500,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4392928188,-70.6458345428,0,0
+Hockenheim,"Sandwich, Burger, Steak",3.9,Good,53,$,17000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4202658346,-70.6110513210,0,0
+Burgers Beers and Boards,"Burger, American",3.8,Good,96,$,18000,2,"Mall Sport, Las Condes","Mall Sport, Las Condes, Santiago",Santiago,,42,-33.3712191176,-70.5069749057,0,0
+La Tegualda,Sandwich,3.8,Good,70,$,9000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4476444444,-70.6233583333,0,0
+Fuente Chilena,"Sandwich, Chilean, Desserts",3.8,Good,70,$,15000,2,"Boulevard Nueva Las Condes, Las Condes","Boulevard Nueva Las Condes, Las Condes, Santiago",Santiago,,42,-33.4059329640,-70.5749487877,0,0
+La Chola,"Sandwich, Peruvian",3.8,Good,52,$,21000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4252569041,-70.6164884940,0,0
+La Sanguchería,"Sandwich, Burger",3.7,Good,249,$,17000,2,"Plaza San Pío, Vitacura","Plaza San Pío, Vitacura, Santiago",Santiago,,42,-33.3973414555,-70.5824150518,0,0
+Donde Guido,"Sandwich, Peruvian",3.7,Good,134,$,12500,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4379658220,-70.6444863975,0,0
+La Fuente Vitacura,"Sandwich, Bar Food",3.7,Good,125,$,25000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4052433235,-70.5977559462,0,0
+Metropol,"Sandwich, Bar Food, Healthy Food",3.7,Good,116,$,15000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3838810707,-70.5507522449,0,0
+Castillo Hamburger,Burger,3.7,Good,85,$,11000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4583077994,-70.6031324342,0,0
+Herencia Chilena,Sandwich,3.7,Good,89,$,19000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4199560519,-70.6057200953,0,0
+La Pocha Sanguchería Peruana,"Sandwich, Peruvian",3.7,Good,68,$,0,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4237175798,-70.6089078331,0,0
+La Miga,Sandwich,3.7,Good,52,$,15000,2,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.3948451544,-70.6244774535,0,0
+TPM,"Sandwich, Bar Food",3.7,Good,39,$,11000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4204376557,-70.6005213037,0,0
+Mirá Vos!,"Sandwich, Argentine",3.7,Good,42,$,12000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4265748612,-70.6191992014,0,0
+Kzero,"Sandwich, Cafe, Bar Food",3.6,Good,95,$,13000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4190118658,-70.5721616372,0,0
+Donde Guido,"Sandwich, Peruvian",3.6,Good,72,$,12500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4248869771,-70.6156606972,0,0
+Metropol,"Sandwich, Bar Food, Healthy Food",3.6,Good,62,$,15000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4054364458,-70.5578067899,0,0
+Sergio's,Sandwich,3.6,Good,84,$,10000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4133798367,-70.5826447159,0,0
+La Birreria,"Burger, American",3.6,Good,62,$,15000,2,Huechuraba,"Huechuraba, Santiago",Santiago,,42,-33.3554450000,-70.6714240000,0,0
+Emporio El Caramaño,"Chilean, Sandwich",3.5,Good,35,$,21000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4452812585,-70.6178252399,0,0
+Donde Guido,"Sandwich, Peruvian",3.6,Good,35,$,12500,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4364589020,-70.6536944211,0,0
+La Mila,"Sandwich, Burger, Fast Food",3.6,Good,15,$,10000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4559813653,-70.5997471511,0,0
+La Rambla,Sandwich,3.5,Good,119,$,15000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3823054614,-70.5360000953,0,0
+Sésamo Express,"Sandwich, Home-made, Ice Cream",3.5,Good,58,$,13000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4485174457,-70.6366872042,0,0
+Donde Guido,"Sandwich, Peruvian",3.5,Good,41,$,11000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4385886149,-70.6484433264,0,0
+Avenida Santiago,"Sandwich, Burger",3.5,Good,19,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4491994691,-70.6323477253,0,0
+Piero's,"Sandwich, Burger, Peruvian",3.5,Good,26,$,10500,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4463888889,-70.6327138889,0,0
+Puro Chile Sanguchería,Sandwich,3.5,Good,12,$,12000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4233470900,-70.5383373052,0,0
+Dreameat,Sandwich,3.5,Good,20,$,15000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4081233199,-70.5556814745,0,0
+Wiracocha Sanguchería,Peruvian,3.5,Good,22,$,13000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4211204595,-70.6065535918,0,0
+Picantera,"Sandwich, Burger, Bar Food",3.5,Good,23,$,24000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4330969155,-70.6333783641,0,0
+George,"Sandwich, Burger, Healthy Food",3.4,Average,82,$,16000,2,"Mall Plaza Egaña, La Reina","Mall Plaza Egaña, La Reina, Santiago",Santiago,,42,-33.4521174502,-70.5694251135,0,0
+La Fuente Chica,"Sandwich, Bar Food",3.4,Average,79,$,14000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4085232652,-70.5510067195,0,0
+La Ruta de La Milanesa,"Sandwich, Argentine",3.4,Average,33,$,12000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4482329414,-70.5806092545,0,0
+Dominó,"Fast Food, Sandwich",3.4,Average,24,$,9000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4187188694,-70.6013142318,0,0
+Landwich,"Sandwich, Healthy Food",3.4,Average,14,$,10000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4411666667,-70.6454166667,0,0
+Alemán Experto,Sandwich,3.3,Average,77,$,16000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4383633916,-70.6077880785,0,0
+Bar Danés,"Sandwich, Steak",3.3,Average,12,$,18000,2,"Aeropuerto Internacional Comodoro Arturo Benítez, Pudahuel","Aeropuerto Internacional Comodoro Arturo Benítez, Pudahuel, Santiago",Santiago,,42,-33.3967940000,-70.7915410000,0,0
+Subway,"Fast Food, Sandwich",3.3,Average,12,$,8500,1,"Metro Universidad de Chile, Santiago Centro","Metro Universidad de Chile, Santiago Centro, Santiago",Santiago,,42,-33.4438120000,-70.6504070000,0,0
+Lomito Alemán,"Sandwich, Home-made",3.3,Average,10,$,10000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4647136320,-70.5991325900,0,0
+El Rey del Lomito,"Fast Food, Sandwich",3.2,Average,26,$,11000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4394061288,-70.6213355809,0,0
+Felixciano,"Sandwich, Bar Food",3.2,Average,12,$,15000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4366125049,-70.6433685869,0,0
+El Perro Caliente,Sandwich,3.1,Average,13,$,14000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4385483266,-70.6085109338,0,0
+Subway,"Fast Food, Sandwich",3.1,Average,11,$,8500,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4268694444,-70.6130138889,0,0
+Mondo,"Sandwich, Pizza",3.1,Average,10,$,12000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4540222222,-70.5817638889,0,0
+Mesa Brava,"Sandwich, Pizza, Empanadas",3.1,Average,6,$,10000,2,La Florida,"La Florida, Santiago",Santiago,,42,-33.5197260000,-70.5817870000,0,0
+Il Bambino,"Sandwich, Pizza, Italian",3.0,Average,6,$,10500,2,San José de Maipo,"San José de Maipo, Santiago",Santiago,,42,-33.5871410000,-70.4698010000,0,0
+Ciudadela Sanwicheria Gourmet,Sandwich,3.0,Average,8,$,13000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4266260000,-70.6192460000,0,0
+Merkén Cocina Criolla,"Sandwich, Burger, Empanadas, Home-made",3.0,Average,4,$,9000,1,Macul,"Macul, Santiago",Santiago,,42,-33.4898380000,-70.5996300000,0,0
+Rey del As,"Fast Food, Sandwich",3.0,Average,4,$,5500,1,Puente Alto,"Puente Alto, Santiago",Santiago,,42,-33.6044232903,-70.5767498910,0,0
+Donde el Panzón de Bustamante,Sandwich,2.9,Average,24,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4189648521,-70.6008485332,0,0
+Layon,"Sandwich, Healthy Food",2.9,Average,5,$,11000,2,"Plaza Del Sol, Providencia","Plaza Del Sol, Providencia, Santiago",Santiago,,42,-33.4206388889,-70.6103583333,0,0
+Corral Quemado,Sandwich,2.9,Average,4,$,9500,1,La Florida,"La Florida, Santiago",Santiago,,42,-33.5230388393,-70.5958817527,0,0
+Tirana,Sandwich,2.8,Average,20,$,13500,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4319919866,-70.6350091472,0,0
+Sandwich 76,"Sandwich, Fast Food",2.8,Average,22,$,15000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3850613592,-70.5585172400,0,0
+Fuente Central,Sandwich,2.8,Average,4,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4356527778,-70.6482777778,0,0
+Subway,"Fast Food, Sandwich",2.8,Average,4,$,8500,1,"Metro Tobalaba, Providencia","Metro Tobalaba, Providencia, Santiago",Santiago,,42,-33.4188055556,-70.6027361111,0,0
+El Palacio del Sabor,Sandwich,2.8,Average,5,$,10000,2,Huechuraba,"Huechuraba, Santiago",Santiago,,42,-33.3600747940,-70.6706821918,0,0
+Don Sambolio,Sandwich,2.7,Average,22,$,13000,2,"Strip Center, Huechuraba","Strip Center, Huechuraba, Santiago",Santiago,,42,-33.3556056310,-70.6711649895,0,0
+Divina Gula,"Sandwich, Bar Food",2.7,Average,24,$,12000,2,La Reina,"La Reina, Santiago",Santiago,,42,-33.4320664138,-70.5816978961,0,0
+Patagonia Fuente Austral,Sandwich,2.7,Average,11,$,16000,2,"Easton Outlet Mall, Quilicura","Easton Outlet Mall, Quilicura, Santiago",Santiago,,42,-33.3355888970,-70.7127814740,0,0
+Top Sandwich,"Sandwich, Healthy Food",2.7,Average,5,$,10000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4528229000,-70.6650121000,0,0
+Dominó,Sandwich,2.6,Average,53,$,10000,2,"Mall Vivo Los Trapenses, Lo Barnechea","Mall Vivo Los Trapenses, Lo Barnechea, Santiago",Santiago,,42,-33.3564420000,-70.5395060000,0,0
+Toro-Toro,"Sandwich, Burger",2.7,Average,31,$,11000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4530500000,-70.6303722222,0,0
+Fuente Chica,Sandwich,2.6,Average,11,$,13000,2,La Reina,"La Reina, Santiago",Santiago,,42,-33.4314694444,-70.5783472222,0,0
+La Fuente Austral,"Sandwich, Cafe",2.5,Average,14,$,13000,2,"Mall Sport, Las Condes","Mall Sport, Las Condes, Santiago",Santiago,,42,-33.3704522018,-70.5066010728,0,0
+La Fuente Vitacura,"Sandwich, Bar Food",2.3,Poor,51,$,25000,3,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3575121734,-70.5174563080,0,0
+Chinchinero,"Sandwich, Healthy Food",2.2,Poor,46,$,15000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4362210826,-70.6434634700,0,0
+George,"Sandwich, Burger, Healthy Food",0,Not rated,3,$,16000,2,"Mall Plaza Norte, Huechuraba","Mall Plaza Norte, Huechuraba, Santiago",Santiago,,42,-33.3643580000,-70.6783000000,0,0
+Bokata,"Sandwich, Fast Food",0,Not rated,1,$,8000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4548392443,-70.5999432877,0,0
+Costa Piura,"Sandwich, Peruvian",0,Not rated,1,$,10000,2,Maipú,"Maipú, Santiago",Santiago,,42,-33.5102080000,-70.7452120000,0,0
+Fuente Stuttgart,Sandwich,0,Not rated,1,$,15000,2,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4217222222,-70.6407166667,0,0
+Sanguchería Yungay,Fast Food,0,Not rated,0,$,10000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4400000000,-70.6800000000,0,0
+Fuente Cusquera,"Sandwich, Fast Food",0,Not rated,0,$,7000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4515520000,-70.6544180000,0,0
+El Ajedrez,"Sandwich, Burger",0,Not rated,0,$,10000,2,"Arauco Express, Maipú","Arauco Express, Maipú, Santiago",Santiago,,42,-33.4863805556,-70.7497472222,0,0
+Matices,"Sandwich, Peruvian",0,Not rated,0,$,10000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4504400000,-70.6500730000,0,0
+Bocanáriz,"Contemporary, International",4.5,Excellent,351,$,32000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4383832560,-70.6410340592,0,0
+Casaluz,"Spanish, Italian, Bar Food",4.4,Very Good,311,$,0,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4423014984,-70.6262822449,0,0
+La Fuente Reina,"Sandwich, Bar Food, Pizza",4.4,Very Good,324,$,23000,2,La Reina,"La Reina, Santiago",Santiago,,42,-33.4418194444,-70.5432888889,0,0
+Chipe Libre - República Independiente del Pisco,"Bar Food, Peruvian, Seafood",4.3,Very Good,455,$,35000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4383191862,-70.6410910562,0,0
+Luco's Hamburgueseria,"Burger, Bar Food, Healthy Food",4.2,Very Good,253,$,27000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4227960000,-70.6122890000,0,0
+Amadeus,"Pizza, Healthy Food",4.1,Very Good,217,$,28000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4388155164,-70.6321033090,0,0
+St. Patrick's Day,Bar Food,4.1,Very Good,208,$,23500,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4410420000,-70.6683680000,0,0
+Rooftop Bar - The Singular,"Bar Food, Spanish",4.1,Very Good,75,$,26000,3,"The Singular, Santiago Centro","The Singular, Santiago Centro, Santiago",Santiago,,42,-33.4372230000,-70.6407210000,0,0
+Docetrece,"Sandwich, Pizza, Bar Food",4.0,Very Good,254,$,29000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4254740000,-70.5924190000,0,0
+Mossto Brewfood,"American, Steak, International",4.0,Very Good,156,$,24000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4481570000,-70.6255360000,0,0
+Kleine Kneipe,"Sandwich, German, Burger",4.0,Very Good,104,$,25000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4306527778,-70.6226055556,0,0
+Santo Remedio,"Bar Food, Chilean",4.0,Very Good,115,$,28000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4315943878,-70.6214646623,0,0
+La Vinocracia,"Spanish, Bar Food",3.9,Good,50,$,40000,4,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4551050000,-70.5947580000,0,0
+Alonso,"Bar Food, Spanish",4.0,Very Good,53,$,0,1,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.4032190000,-70.5890200000,0,0
+The White Rabbit,American,3.9,Good,185,$,30000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4321750000,-70.6346972222,0,0
+Plaza Victoria,"Bar Food, Pizza, Sandwich, Cafe, Steak, Italian",3.9,Good,172,$,22000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4470700166,-70.6313224509,0,0
+Ramblas,"Bar Food, Sandwich",3.9,Good,170,$,20000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4319388889,-70.6182250000,0,0
+Campeche,"Burger, Pizza, Sandwich, Bar Food",3.9,Good,82,$,25000,3,La Reina,"La Reina, Santiago",Santiago,,42,-33.4519496081,-70.5407764390,0,0
+Baires,"Sushi, Japanese, Bar Food",3.9,Good,96,$,33000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4415203820,-70.6649707630,0,0
+Flannery's,"Bar Food, International",3.8,Good,351,$,22500,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4171732758,-70.6017517671,0,0
+Bar The Clinic,"Bar Food, Chilean",3.8,Good,173,$,25000,3,"Plaza Ñuñoa, Ñuñoa","Plaza Ñuñoa, Ñuñoa, Santiago",Santiago,,42,-33.4545189554,-70.5941788852,0,0
+Liguria,"Chilean, Home-made",3.8,Good,110,$,30000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4230594249,-70.6129674241,0,0
+Kleine Kneipe,"Sandwich, German, Burger",3.8,Good,136,$,25000,3,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4545740619,-70.5796859041,0,0
+Baramu,Contemporary,3.8,Good,59,$,25000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3864160000,-70.5634430000,0,0
+Cosmopolitan,"Bar Food, Sushi, Japanese",3.8,Good,90,$,31000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4411577984,-70.6651343778,0,0
+"Tramonto Bar - Hotel Noi, Vitacura",Bar Food,3.8,Good,70,$,27000,3,"Hotel Noi, Vitacura","Hotel Noi, Vitacura, Santiago",Santiago,,42,-33.4014944444,-70.5982972222,0,0
+Molóko,"Bar Food, Italian",3.8,Good,65,$,29000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3848043623,-70.5537761003,0,0
+100 Montaditos,"Bar Food, Sandwich, Spanish",3.7,Good,330,$,20000,2,"Patio Bellavista, Barrio Bellavista, Providencia","Patio Bellavista, Barrio Bellavista, Providencia, Santiago",Santiago,,42,-33.4344838626,-70.6349769607,0,0
+T'Quila,"American, Mexican",3.7,Good,168,$,28000,3,"Parque Araucano, Las Condes","Parque Araucano, Las Condes, Santiago",Santiago,,42,-33.4034900895,-70.5750436708,0,0
+The Black Rock Pub,Bar Food,3.7,Good,72,$,22000,2,"Galería Francisco de Aguirre, Providencia","Galería Francisco de Aguirre, Providencia, Santiago",Santiago,,42,-33.4189444444,-70.6038750000,0,0
+Kleine Kneipe,"Sandwich, German, Burger",3.7,Good,65,$,25000,3,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4528951144,-70.6125781685,0,0
+Six Lounge Bar,Bar Food,3.7,Good,76,$,45000,4,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3922183345,-70.5759616569,0,0
+Santo Barrio,"Bar Food, Home-made, Sandwich",3.7,Good,45,$,18500,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4432111111,-70.6650166667,0,0
+Xampanyet,"Pizza, Sushi, Sandwich, Bar Food",3.7,Good,31,$,22500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4340527778,-70.6247944444,0,0
+Hard Rock Café,American,3.6,Good,410,$,30000,3,"Costanera Center, Providencia","Costanera Center, Providencia, Santiago",Santiago,,42,-33.4169709446,-70.6067943200,0,0
+La Junta,"Bar Food, Sushi",3.6,Good,169,$,30000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4396481360,-70.6417331100,0,0
+Dublin,"Bar Food, Steak",3.6,Good,192,$,28000,3,"Patio Bellavista, Barrio Bellavista, Providencia","Patio Bellavista, Barrio Bellavista, Providencia, Santiago",Santiago,,42,-33.4337421271,-70.6348710135,0,0
+MosaiCafé,"International, Bar Food",3.6,Good,147,$,25000,3,"Patio Bellavista, Barrio Bellavista, Providencia","Patio Bellavista, Barrio Bellavista, Providencia, Santiago",Santiago,,42,-33.4344055204,-70.6349997595,0,0
+Victorino,"Italian, Bar Food, Sandwich",3.7,Good,108,$,23000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4387190000,-70.6411160000,0,0
+Mexicana Restoran,Mexican,3.6,Good,37,$,30000,3,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4492596145,-70.6280555204,0,0
+Taberna Andaluza Córdoba,"Spanish, Bar Food",3.6,Good,31,$,19500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4452958060,-70.6253773347,0,0
+Light Blue,"Bar Food, Sushi, Japanese",3.7,Good,37,$,34000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3823695726,-70.5470927060,0,0
+Suburbia,"Bar Food, Home-made",3.6,Good,24,$,18000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4363758052,-70.6443009898,0,0
+Pub Los Amigos,"Steak, Sandwich, Pizza, Bar Food, Sushi",3.6,Good,37,$,35000,3,San Miguel,"San Miguel, Santiago",Santiago,,42,-33.5093262289,-70.6569170952,0,0
+Molóko,"Bar Food, Italian",3.5,Good,190,$,29000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4237277778,-70.5946666667,0,0
+La Piojera,"Chilean, Home-made",3.5,Good,254,$,16000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4335012226,-70.6521880254,0,0
+It,"Sandwich, Bar Food",3.5,Good,100,$,17000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4145961061,-70.5969412252,0,0
+Café Utopía,"Sandwich, Bar Food, Cafe",3.5,Good,83,$,19000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4390703951,-70.6408754736,0,0
+Pacto,"Bar Food, Seafood, Steak",3.5,Good,66,$,22000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4312055556,-70.6186527778,0,0
+Barra Norte,"Venezuelan, Bar Food",3.5,Good,65,$,30000,3,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4164935194,-70.6026757881,0,0
+El Gauchito,"Bar Food, Steak",3.5,Good,67,$,0,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4398976966,-70.5572800711,0,0
+Romasanta,"Steak, Seafood, Bar Food",3.5,Good,35,$,24000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4403626830,-70.6574810296,0,0
+Vicious,"Bar Food, Sushi, Sandwich",3.5,Good,26,$,28000,3,"Paseo Orrego Luco, Providencia","Paseo Orrego Luco, Providencia, Santiago",Santiago,,42,-33.4235722222,-70.6113666667,0,0
+Tino's Bar,"Sandwich, Bar Food",3.5,Good,27,$,26000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4330890000,-70.6360570000,0,0
+Restobar En Kmino,Bar Food,3.5,Good,27,$,22000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4327622766,-70.6346624717,0,0
+Mataró,"Seafood, Bar Food, Pizza",3.5,Good,34,$,22000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4076262544,-70.5570135266,0,0
+Evaristo,"International, Bar Food",3.5,Good,19,$,15000,2,Pirque,"Pirque, Santiago",Santiago,,42,-33.6334080000,-70.5674310000,0,0
+Civilo,"Sushi, Nikkei, Bar Food",3.5,Good,27,$,22000,2,Maipú,"Maipú, Santiago",Santiago,,42,-33.4986722222,-70.7572250000,0,0
+Taberna Satira,"Sushi, Pizza, Bar Food",3.5,Good,17,$,32500,3,Lo Barnechea,"Lo Barnechea, Santiago",Santiago,,42,-33.3638604791,-70.4943554476,0,0
+T'Quila,"American, Mexican",3.4,Average,64,$,28000,3,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5170250000,-70.5969777778,0,0
+Club Santiago,"Chilean, Steak, Bar Food",3.4,Average,44,$,30000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4448805556,-70.6654277778,0,0
+D'angelus,"Bar Food, Steak",3.4,Average,38,$,19000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4396055556,-70.6647500000,0,0
+Perpiacere,"Italian, Pizza, Bar Food",3.4,Average,35,$,36000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4400000000,-70.6700000000,0,0
+Eleven,"Bar Food, Sandwich",3.4,Average,30,$,25000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3821416667,-70.5468138889,0,0
+Gennaro's,"Sandwich, Pizza",3.4,Average,32,$,29000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4446434065,-70.5980416015,0,0
+Plaza Jalisco,"Mexican, Bar Food",3.4,Average,32,$,21500,2,La Florida,"La Florida, Santiago",Santiago,,42,-33.5395818692,-70.5779957771,0,0
+W Sushi,"Sushi, Japanese, Nikkei",3.4,Average,24,$,21000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4552767374,-70.5908445641,0,0
+Yungay Viejo Bodega,Bar Food,3.5,Good,12,$,20000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4416270000,-70.6764080000,0,0
+Stadium,Bar Food,3.4,Average,19,$,0,1,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5170085327,-70.5973257869,0,0
+Dublin,"Bar Food, Burger",3.3,Average,46,$,23000,2,"Mall Paseo Quilín, Peñalolén","Mall Paseo Quilín, Peñalolén, Santiago",Santiago,,42,-33.4878794267,-70.5786509067,0,0
+La Picá de Clinton,"Home-made, Sandwich, Chilean, Pizza",3.3,Average,24,$,20000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4410257459,-70.6480477005,0,0
+Junta Nacional,"Steak, Home-made, Chilean, Sandwich",3.3,Average,33,$,20000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4409437726,-70.6325770542,0,0
+El Mordiscón,"Sandwich, Fast Food, Home-made",3.4,Average,30,$,12000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4297180103,-70.5543883145,0,0
+Cautibar,"Bar Food, Pizza, French",3.3,Average,20,$,22000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4537416667,-70.6094444444,0,0
+Mojito,"Bar Food, Fast Food",3.3,Average,13,$,20500,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4249720000,-70.5929980000,0,0
+Nave Tierra,"Bar Food, Sandwich",3.3,Average,12,$,18000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4355683352,-70.6455408409,0,0
+Massatto,Colombian,3.3,Average,11,$,25000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3999577640,-70.5908824503,0,0
+El Banco,"Sandwich, Bar Food",3.2,Average,23,$,24000,2,"Centro Comercial Plazuela Independencia, Puente Alto","Centro Comercial Plazuela Independencia, Puente Alto, Santiago",Santiago,,42,-33.6009972222,-70.5787361111,0,0
+Rustiko Restaurant Pub,Home-made,3.2,Average,18,$,24500,2,Huechuraba,"Huechuraba, Santiago",Santiago,,42,-33.3462660000,-70.6698180000,0,0
+Harry's,Bar Food,3.2,Average,15,$,16000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4334666667,-70.6373361111,0,0
+Charlie's,Bar Food,3.2,Average,13,$,18000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4531400000,-70.6236420000,0,0
+Apunto Rojo,"Steak, Bar Food",3.2,Average,11,$,22000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4319553326,-70.6347104162,0,0
+Vintage,"Bar Food, Steak, Pizza",3.2,Average,6,$,22000,2,"Patio Quilicura, Quilicura","Patio Quilicura, Quilicura, Santiago",Santiago,,42,-33.3553694444,-70.7284555556,0,0
+Santiago Bar,Bar Food,3.2,Average,9,$,24008,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4300764447,-70.6391330436,0,0
+Barbazul,"Bar Food, Seafood, Mexican",3.1,Average,11,$,26000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4320560611,-70.6182453409,0,0
+Menga,"Colombian, Home-made",3.1,Average,6,$,10000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4304939166,-70.6191931665,0,0
+Nómade,"Bar Food, Home-made, Chilean",3.1,Average,8,$,24000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4319060875,-70.6409499049,0,0
+Bianco Pub,"Bar Food, Sandwich, Pizza, Home-made",3.1,Average,5,$,18000,2,La Florida,"La Florida, Santiago",Santiago,,42,-33.5174166667,-70.6053861111,0,0
+El Farolito,"Bar Food, Sandwich, Home-made",3.1,Average,5,$,17000,2,Independencia,"Independencia, Santiago",Santiago,,42,-33.4165900681,-70.6640993804,0,0
+Teclados,Bar Food,3.1,Average,95,$,18500,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4330985943,-70.6335500255,0,0
+Derby,"Steak, Sandwich, Fast Food",3.0,Average,5,$,13000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4429944444,-70.6486750000,0,0
+Quinta Avenida,"Chilean, Bar Food",3.0,Average,8,$,10000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4431743708,-70.6511111185,0,0
+Schopdog,"Bar Food, Sandwich",3.0,Average,5,$,17000,2,"Mall Paseo Quilín, Peñalolén","Mall Paseo Quilín, Peñalolén, Santiago",Santiago,,42,-33.4876277778,-70.5774777778,0,0
+Fados,"Sandwich, Bar Food",3.0,Average,5,$,23000,2,La Cisterna,"La Cisterna, Santiago",Santiago,,42,-33.5362390000,-70.6641080000,0,0
+Donde Mismo,"Bar Food, Arabian",2.9,Average,7,$,20000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4310297440,-70.6372320279,0,0
+Da Robertino,"Fast Food, Sandwich, Bar Food",2.9,Average,6,$,16000,2,La Cisterna,"La Cisterna, Santiago",Santiago,,42,-33.5169305556,-70.6586833333,0,0
+Foku,"Sushi, Japanese, Bar Food, Steak",2.9,Average,8,$,24000,2,Quinta Normal,"Quinta Normal, Santiago",Santiago,,42,-33.4241541140,-70.6883784011,0,0
+Malevo,"Fast Food, Sandwich",2.9,Average,5,$,22000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3850210460,-70.5530441925,0,0
+Barkaza,"Mexican, Grill",2.9,Average,7,$,30000,3,Puente Alto,"Puente Alto, Santiago",Santiago,,42,-33.6007075858,-70.5788436905,0,0
+San Remo,"Sandwich, Burger, Fast Food, Chilean, Bar Food, Pizza",2.9,Average,4,$,16000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4421666667,-70.6461333333,0,0
+Holm,Healthy Food,4.3,Very Good,427,$,12000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4256355041,-70.6164063513,0,0
+Rende Bú,"Healthy Food, Cafe, Desserts",3.8,Good,71,$,15000,2,"Galería Drugstore, Providencia","Galería Drugstore, Providencia, Santiago",Santiago,,42,-33.4223058388,-70.6114214659,0,0
+La Panquequería,"Cafe, Desserts",3.7,Good,85,$,14000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4491919160,-70.5977106839,0,0
+Planta Maestra,Healthy Food,3.7,Good,36,$,15000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4395750000,-70.6133194444,0,0
+El Mote con Yapa,"Desserts, Chilean",3.7,Good,28,$,3500,1,Puente Alto,"Puente Alto, Santiago",Santiago,,42,-33.6179250000,-70.5740277778,0,0
+Tasty Beat,Cafe,3.6,Good,20,$,5000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4176912752,-70.5970488489,0,0
+Boost,Healthy Food,3.5,Good,36,$,5000,1,"Mall Parque Arauco, Las Condes","Mall Parque Arauco, Las Condes, Santiago",Santiago,,42,-33.4017726471,-70.5785389245,0,0
+Piero's,"Sandwich, Burger, Peruvian",3.5,Good,26,$,10500,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4463888889,-70.6327138889,0,0
+Tasty Beat,Cafe,3.5,Good,19,$,5000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4136990000,-70.5937320000,0,0
+Taquería Mi Jugo,"Mexican, Healthy Food",3.5,Good,13,$,8000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4727960000,-70.6395760000,0,0
+Jonadab,Healthy Food,3.4,Average,8,$,4000,1,"Mercado de Abastos Tirso de Molina, Recoleta","Mercado de Abastos Tirso de Molina, Recoleta, Santiago",Santiago,,42,-33.4317418437,-70.6502454355,0,0
+V-Smart,"Sandwich, Healthy Food",3.4,Average,15,$,14000,2,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4051825879,-70.5745223165,0,0
+Planta Maestra,Healthy Food,3.3,Average,12,$,9000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4305641480,-70.6192665920,0,0
+ParaMonga Perú,Healthy Food,3.3,Average,4,$,3000,1,"Mercado de Abastos Tirso de Molina, Recoleta","Mercado de Abastos Tirso de Molina, Recoleta, Santiago",Santiago,,42,-33.4318277778,-70.6506277778,0,0
+Dos y Dos,"Fast Food, Sandwich, Healthy Food",3.2,Average,11,$,11000,2,"Pasaje Agustín Edwards, Santiago Centro","Pasaje Agustín Edwards, Santiago Centro, Santiago",Santiago,,42,-33.4394280000,-70.6521140000,0,0
+Del Caribe,Healthy Food,3.2,Average,8,$,4000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4269531756,-70.6165136397,0,0
+Boost,Healthy Food,3.1,Average,12,$,5000,1,"Portal La Dehesa, Lo Barnechea","Portal La Dehesa, Lo Barnechea, Santiago",Santiago,,42,-33.3582820000,-70.5145430000,0,0
+Ruca Nulan,"Cafe, Healthy Food",3.1,Average,6,$,13000,2,La Reina,"La Reina, Santiago",Santiago,,42,-33.4385000000,-70.5642540000,0,0
+La Pica del Parse,Healthy Food,3.1,Average,4,$,4000,1,Estación Central,"Estación Central, Santiago",Santiago,,42,-33.4512027778,-70.6823361111,0,0
+Café Martín,"Cafe, Sandwich",3.1,Average,5,$,9500,1,La Reina,"La Reina, Santiago",Santiago,,42,-33.4312944444,-70.5781027778,0,0
+Boost,Healthy Food,3.0,Average,6,$,5000,1,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5172438941,-70.5984254926,0,0
+Pinn 6,"Sandwich, Home-made",3.0,Average,4,$,10000,2,"Pasaje Presidente Anibal Pinto, Santiago Centro","Pasaje Presidente Anibal Pinto, Santiago Centro, Santiago",Santiago,,42,-33.4410560000,-70.6511610000,0,0
+La Picá D'Mijael,"Fast Food, Sandwich, Peruvian, Burger, Healthy Food",3.0,Average,6,$,9000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4504861111,-70.6401583333,0,0
+Boost,Healthy Food,2.9,Average,4,$,5000,1,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.5101166667,-70.6074750000,0,0
+Café Santín,"Cafe, Healthy Food",2.9,Average,8,$,4000,1,Las Condes,"Las Condes, Santiago",Santiago,,42,-33.4165119896,-70.6027052924,0,0
+Cafelato,"Cafe, Sandwich",2.8,Average,4,$,8000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4212696122,-70.6104136258,0,0
+Café Sidarte,Cafe,0,Not rated,2,$,6500,1,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4331251000,-70.6371183000,0,0
+La Picá D'Mijael,"Fast Food, Sandwich, Peruvian, Burger, Healthy Food",0,Not rated,3,$,9000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4514416667,-70.6426250000,0,0
+Tio Manuel - Yolita,Healthy Food,0,Not rated,1,$,2000,1,"Mercado de Abastos Tirso de Molina, Recoleta","Mercado de Abastos Tirso de Molina, Recoleta, Santiago",Santiago,,42,-33.4319586902,-70.6504824758,0,0
+Genesis,"Healthy Food, Ice Cream",0,Not rated,1,$,3000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4729470000,-70.6425450000,0,0
+Juguería Jac's,Healthy Food,0,Not rated,1,$,3000,1,Estación Central,"Estación Central, Santiago",Santiago,,42,-33.4522472222,-70.6832500000,0,0
+Carolita,Healthy Food,0,Not rated,1,$,2500,1,"Mercado de Abastos Tirso de Molina, Recoleta","Mercado de Abastos Tirso de Molina, Recoleta, Santiago",Santiago,,42,-33.4316237671,-70.6505421549,0,0
+La Rinconada de Valdivia,Healthy Food,0,Not rated,1,$,4000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4741780000,-70.6483950000,0,0
+Crepería Tambo,Healthy Food,0,Not rated,2,$,3000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4751500000,-70.6395040000,0,0
+Café Paulina,"Fast Food, Sandwich, Healthy Food",0,Not rated,1,$,6000,1,"Mercado de Abastos Tirso de Molina, Recoleta","Mercado de Abastos Tirso de Molina, Recoleta, Santiago",Santiago,,42,-33.4321595875,-70.6500623748,0,0
+OK Delicia,"Fast Food, Mexican",0,Not rated,2,$,5500,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4504805556,-70.6659555556,0,0
+Tulus,"Home-made, Healthy Food",0,Not rated,1,$,9000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4244731159,-70.6131528318,0,0
+Delicias Al Paso,Fast Food,0,Not rated,2,$,8000,1,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4510966855,-70.6050418317,0,0
+Chez Ricardo,"Sandwich, Fast Food, Healthy Food",0,Not rated,1,$,6000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4500000000,-70.6700000000,0,0
+El Cafetero,"Colombian, Home-made",0,Not rated,1,$,7000,1,"Galería Pedro De Valdivia,  Providencia","Galería Pedro De Valdivia,  Providencia, Santiago",Santiago,,42,-33.4241031855,-70.6123511866,0,0
+Premium Dog Burger,"Fast Food, Sandwich, Healthy Food",0,Not rated,0,$,7000,1,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4302946943,-70.6470522657,0,0
+Tropi Jugos,Healthy Food,0,Not rated,0,$,3000,1,"Galería Bahía, Santiago Centro","Galería Bahía, Santiago Centro, Santiago",Santiago,,42,-33.4370640000,-70.6492080000,0,0
+Café al Paso,Fast Food,0,Not rated,0,$,7000,1,"Galería Bahía, Santiago Centro","Galería Bahía, Santiago Centro, Santiago",Santiago,,42,-33.4372720000,-70.6490170000,0,0
+Donde el Jeferson,"Fast Food, Sandwich, Healthy Food",0,Not rated,0,$,5500,1,"La Vega Central, Recoleta","La Vega Central, Recoleta, Santiago",Santiago,,42,-33.4294260000,-70.6483990000,0,0
+Tonto Pinto,Cafe,0,Not rated,0,$,6500,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4400000000,-70.6700000000,0,0
+Montoro,Healthy Food,0,Not rated,0,$,3000,1,"Centro Comerical Plaza Puente, Puente Alto","Centro Comerical Plaza Puente, Puente Alto, Santiago",Santiago,,42,-33.6120111111,-70.5754555556,0,0
+Puerto Lima Jugos y Sandwich,"Fast Food, Sandwich, Healthy Food",0,Not rated,0,$,5500,1,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4247395095,-70.6456467882,0,0
+Nutricion SMR,Fast Food,0,Not rated,0,$,7000,1,Providencia,"Providencia, Santiago",Santiago,,42,-33.4249269920,-70.6173273548,0,0
+Blondie,Drinks Only,3.7,Good,37,$,17000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4494024000,-70.6740247000,0,0
+Club Chocolate,Bar Food,3.5,Good,33,$,23500,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4321861111,-70.6372305556,0,0
+El Clan,Drinks Only,3.4,Average,14,$,18000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4298503598,-70.6388068199,0,0
+Club La Feria,Drinks Only,3.4,Average,13,$,18000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4309250000,-70.6352500000,0,0
+Maestra Vida,Drinks Only,3.4,Average,12,$,22000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4307750000,-70.6362694444,0,0
+Aura,Bar Food,3.2,Average,8,$,27000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3817360178,-70.5453811213,0,0
+Fausto,Drinks Only,3.2,Average,8,$,20000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4297030000,-70.6252520000,0,0
+Mito Urbano,"Bar Food, Sushi",3.1,Average,20,$,24000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4316638889,-70.6184000000,0,0
+Bal Le Duc,Bar Food,3.1,Average,5,$,12000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4557490000,-70.6316350000,0,0
+Club Matta,Drinks Only,3.0,Average,6,$,16000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4581020000,-70.6434470000,0,0
+Havana Salsa,Cuban,2.8,Average,15,$,24000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4285666667,-70.6390750000,0,0
+Las Urracas Multiespacio,Bar Food,2.7,Average,18,$,20000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3821527778,-70.5472805556,0,0
+Barracas Club,Drinks Only,2.7,Average,7,$,0,1,Maipú,"Maipú, Santiago",Santiago,,42,-33.4819460000,-70.7448870000,0,0
+Jammin' Club,Drinks Only,2.7,Average,6,$,20000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4320805556,-70.6376111111,0,0
+Club Eve,Bar Food,2.6,Average,14,$,30000,3,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3946130000,-70.5789100000,0,0
+Kamikaze,Drinks Only,2.6,Average,6,$,20000,2,Vitacura,"Vitacura, Santiago",Santiago,,42,-33.3821555556,-70.5326083333,0,0
+Green Bull,Bar Food,2.2,Poor,21,$,0,1,"Mall Plaza Vespucio, La Florida","Mall Plaza Vespucio, La Florida, Santiago",Santiago,,42,-33.5168095092,-70.5971869826,0,0
+Bunker,Drinks Only,0,Not rated,2,$,18000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4323060000,-70.6398850000,0,0
+Club 3825,Bar Food,0,Not rated,2,$,18000,2,Ñuñoa,"Ñuñoa, Santiago",Santiago,,42,-33.4555777778,-70.5893166667,0,0
+Club Naveluna,Bar Food,0,Not rated,2,$,20000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4368480000,-70.6375440000,0,0
+Club 57,Bar Food,0,Not rated,2,$,25000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4321489551,-70.6357212737,0,0
+Mostra Club,Bar Food,0,Not rated,1,$,15000,2,San Bernardo,"San Bernardo, Santiago",Santiago,,42,-33.6117110000,-70.6970730000,0,0
+Mangos,"Cuban, Bar Food",0,Not rated,3,$,18000,2,Providencia,"Providencia, Santiago",Santiago,,42,-33.4196555556,-70.6077500000,0,0
+Klub Mangosta,Bar Food,0,Not rated,1,$,20000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4648810000,-70.6272060000,0,0
+Glam Multiespacio,Drinks Only,0,Not rated,1,$,16000,2,San Miguel,"San Miguel, Santiago",Santiago,,42,-33.5056944444,-70.6458055556,0,0
+Excalibur Discotheque,Drinks Only,0,Not rated,0,$,15000,2,San Bernardo,"San Bernardo, Santiago",Santiago,,42,-33.6763027800,-70.7245250000,0,0
+Nueva Cero,Drinks Only,0,Not rated,1,$,15000,2,San Miguel,"San Miguel, Santiago",Santiago,,42,-33.4785388889,-70.6495666667,0,0
+Bar Raíces,Drinks Only,0,Not rated,0,$,18000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4348780000,-70.6729380000,0,0
+Punta Brown,Drinks Only,0,Not rated,0,$,18000,2,Recoleta,"Recoleta, Santiago",Santiago,,42,-33.4290170000,-70.6468070000,0,0
+Club Ambar,Bar Food,0,Not rated,0,$,20000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4327388889,-70.6370694444,0,0
+Club Ibiza,Drinks Only,0,Not rated,0,$,18000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4300583333,-70.6389916667,0,0
+Bitacora Club,"Home-made, Bar Food, Sandwich",0,Not rated,0,$,12000,2,Peñalolén,"Peñalolén, Santiago",Santiago,,42,-33.4714310000,-70.5428240000,0,0
+El Vagón,Bar Food,0,Not rated,0,$,29000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4320870000,-70.6359960000,0,0
+Boomerang,Bar Food,0,Not rated,0,$,18000,2,La Florida,"La Florida, Santiago",Santiago,,42,-33.5561722222,-70.5612805556,0,0
+Ghetto Music Club,Drinks Only,0,Not rated,0,$,12000,2,Quinta Normal,"Quinta Normal, Santiago",Santiago,,42,-33.4283222222,-70.7053666667,0,0
+Bar 105,Drinks Only,0,Not rated,0,$,18000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4330570000,-70.6401360000,0,0
+Illuminatti,Drinks Only,0,Not rated,0,$,18000,2,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4318940000,-70.6343710000,0,0
+Barrica 94,"Chilean, Contemporary, Steak",4.9,Excellent,344,$,38000,3,"Patio Bellavista, Barrio Bellavista, Providencia","Patio Bellavista, Barrio Bellavista, Providencia, Santiago",Santiago,,42,-33.4344035619,-70.6348978356,0,0
+Peluquería Francesa - Boulevard Lavaud,International,4.3,Very Good,523,$,35000,3,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4400000000,-70.6700000000,0,0
+La Bifería,Steak,4.0,Very Good,141,$,37000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4229743565,-70.6130532548,0,0
+Izakaya Yoko,"Japanese, Sushi, Steak, Seafood",3.9,Good,93,$,18000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4367861111,-70.6412416667,0,0
+Sabores y Vino,Chilean,0,Not rated,2,$,31000,3,Pirque,"Pirque, Santiago",Santiago,,42,-33.6358070000,-70.5742330000,0,0
+Vinum Chile,"Bar Food, Sandwich",0,Not rated,3,$,22000,2,"Aeropuerto Internacional Comodoro Arturo Benítez, Pudahuel","Aeropuerto Internacional Comodoro Arturo Benítez, Pudahuel, Santiago",Santiago,,42,-33.3974090000,-70.7961000000,0,0
+Loom,"American, Bar Food",3.8,Good,136,$,27000,3,Bellavista,"Bellavista, Santiago",Santiago,,42,-33.4327666667,-70.6300583333,0,0
+Cervecería Nacional,"Bar Food, Sandwich, Pizza, Cafe",3.8,Good,109,$,23000,2,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4410300000,-70.6748920000,0,0
+Plaza Victoria - Gastrobar,Argentine,0,Not rated,2,$,27000,3,Providencia,"Providencia, Santiago",Santiago,,42,-33.4471270000,-70.6312400000,0,0
+Roccos,"Pizza, Argentine",0,Not rated,0,$,5000,1,"Mall Florida Center, La Florida","Mall Florida Center, La Florida, Santiago",Santiago,,42,-33.4241210944,-70.6163570657,0,0
+Sangucho,"Sandwich, Fast Food",3.2,Average,10,$,7000,1,Santiago Centro,"Santiago Centro, Santiago",Santiago,,42,-33.4430062317,-70.6465245411,0,0

@@ -1,0 +1,333 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,locality_verbose,city,zipcode,country_id,latitude,longitude,has_online_delivery,has_table_booking
+Istanbul,"Turkish, Pizza",3.3,Average,11,€,20,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3474403501,-6.2634569407,0,0
+SoMa Burger Co,Burger,3.1,Average,9,€,20,2,"Liffey Valley Shopping Centre, Clondalkin","Liffey Valley Shopping Centre, Clondalkin, Dublin",Dublin,Dublin 22,97,53.3532063895,-6.3903733715,0,0
+Eddie Rocket's,"American, Burger",3.1,Average,5,€,35,3,"The Square Shopping Centre, Tallaght","The Square Shopping Centre, Tallaght, Dublin",Dublin,Dublin 24,97,53.2867277778,-6.3730888889,0,0
+Eddie Rocket's,"American, Burger",2.7,Average,5,€,35,3,"Stephen's Green Shopping Centre, City Centre South","Stephen's Green Shopping Centre, City Centre South, Dublin",Dublin,Dublin 2,97,53.3398500000,-6.2617083333,0,0
+Saburritos,Mexican,2.7,Average,4,€,20,2,"Liffey Valley Shopping Centre, Clondalkin","Liffey Valley Shopping Centre, Clondalkin, Dublin",Dublin,Dublin 22,97,53.3531888889,-6.3906750000,0,0
+El Gringo,Mexican,2.1,Poor,27,€,20,2,"Stephen's Green Shopping Centre, City Centre South","Stephen's Green Shopping Centre, City Centre South, Dublin",Dublin,Dublin 2,97,53.3398250000,-6.2617888889,0,0
+Quigleys,"Cafe, Bakery",0,Not rated,2,€,15,2,"Nutgrove Shopping Centre, Rathfarnham","Nutgrove Shopping Centre, Rathfarnham, Dublin",Dublin,Dublin 14,97,53.2899100000,-6.2675040000,0,0
+Spicy Bite,Indian,0,Not rated,2,€,20,2,"Moore Street Mall, City Centre North","Moore Street Mall, City Centre North, Dublin",Dublin,Dublin 1,97,53.3511416667,-6.2631777778,0,0
+Ginzeng,"Chinese, Thai, Asian",0,Not rated,1,€,20,2,"Blanchardstown Shopping Centre, Blanchardstown","Blanchardstown Shopping Centre, Blanchardstown, Dublin",Dublin,Dublin 15,97,53.3934222222,-6.3909888889,0,0
+Marcos,"Fish and Chips, Fast Food",0,Not rated,1,€,20,2,"Epicurean Food Hall, City Centre North","Epicurean Food Hall, City Centre North, Dublin",Dublin,Dublin 1,97,53.3477055556,-6.2633277778,0,0
+O'Briens,Fast Food,0,Not rated,2,€,15,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3504777778,-6.2562666667,0,0
+Fusion Brazilian Grill,Brazilian,0,Not rated,3,€,40,3,"Epicurean Food Hall, City Centre North","Epicurean Food Hall, City Centre North, Dublin",Dublin,Dublin 1,97,53.3476666667,-6.2631555556,0,0
+Rocket's,"Burger, Fast Food",0,Not rated,1,€,30,3,"Jervis Shopping Centre, City Centre North","Jervis Shopping Centre, City Centre North, Dublin",Dublin,Dublin 1,97,53.3482800000,-6.2656840000,0,0
+Green And Baker,Irish,0,Not rated,2,€,25,2,"Stephen's Green Shopping Centre, City Centre South","Stephen's Green Shopping Centre, City Centre South, Dublin",Dublin,Dublin 2,97,53.3398670000,-6.2612670000,0,0
+Tuk Tuk,"Thai, Asian",0,Not rated,2,€,20,2,"Stephen's Green Shopping Centre, City Centre South","Stephen's Green Shopping Centre, City Centre South, Dublin",Dublin,Dublin 2,97,53.3399555556,-6.2611250000,0,0
+Insomnia,Cafe,0,Not rated,1,€,15,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3334400000,-6.2443910000,0,0
+Insomnia,Cafe,0,Not rated,2,€,15,2,"Stephen's Green Shopping Centre, City Centre South","Stephen's Green Shopping Centre, City Centre South, Dublin",Dublin,Dublin 2,97,53.3399861111,-6.2617055556,0,0
+KFC,Fast Food,0,Not rated,0,€,20,2,"Liffey Valley Shopping Centre, Clondalkin","Liffey Valley Shopping Centre, Clondalkin, Dublin",Dublin,Dublin 22,97,53.3530416667,-6.3906166667,0,0
+Harry Ramsden's,"Fish and Chips, Fast Food",0,Not rated,1,€,35,3,"Liffey Valley Shopping Centre, Clondalkin","Liffey Valley Shopping Centre, Clondalkin, Dublin",Dublin,Dublin 22,97,53.3531333333,-6.3904805556,0,0
+Lasani,"Indian, Malaysian",0,Not rated,1,€,20,2,"Moore Street Mall, City Centre North","Moore Street Mall, City Centre North, Dublin",Dublin,Dublin 1,97,53.3511361111,-6.2631500000,0,0
+KFC,Fast Food,0,Not rated,1,€,20,2,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3462611111,-6.2590805556,0,0
+KFC,Fast Food,0,Not rated,0,€,20,2,"Jervis Shopping Centre, City Centre North","Jervis Shopping Centre, City Centre North, Dublin",Dublin,Dublin 1,97,53.3482472222,-6.2662333333,0,0
+Cafe Frei,Cafe,0,Not rated,0,€,30,3,"Liffey Valley Shopping Centre, Clondalkin","Liffey Valley Shopping Centre, Clondalkin, Dublin",Dublin,Dublin 22,97,53.3531916667,-6.3906750000,0,0
+KFC,Fast Food,0,Not rated,1,€,20,2,"Blanchardstown Shopping Centre, Blanchardstown","Blanchardstown Shopping Centre, Blanchardstown, Dublin",Dublin,Dublin 15,97,53.3922694444,-6.3905861111,0,0
+KFC,Fast Food,0,Not rated,0,€,20,2,Clondalkin,"Clondalkin, Dublin",Dublin,Dublin 22,97,53.3281250000,-6.3916388889,0,0
+Ginzeng,"Chinese, Thai, Asian",0,Not rated,0,€,20,2,"Liffey Valley Shopping Centre, Clondalkin","Liffey Valley Shopping Centre, Clondalkin, Dublin",Dublin,Dublin 22,97,53.3532750000,-6.3905388889,0,0
+McDonald's,"Burger, Fast Food",0,Not rated,0,€,20,2,"Liffey Valley Shopping Centre, Clondalkin","Liffey Valley Shopping Centre, Clondalkin, Dublin",Dublin,Dublin 22,97,53.3529788528,-6.3904307038,0,0
+Netedos,African,0,Not rated,0,€,20,2,"Moore Street Mall, City Centre North","Moore Street Mall, City Centre North, Dublin",Dublin,Dublin 1,97,53.3511583333,-6.2631583333,0,0
+Oriental Pantry,"Chinese, Asian",0,Not rated,0,€,20,2,"Moore Street Mall, City Centre North","Moore Street Mall, City Centre North, Dublin",Dublin,Dublin 1,97,53.3512027778,-6.2631138889,0,0
+Ramos,Greek,0,Not rated,0,€,30,3,"Epicurean Food Hall, City Centre North","Epicurean Food Hall, City Centre North, Dublin",Dublin,Dublin 1,97,53.3476750000,-6.2630000000,0,0
+Asian Fusion,Asian,0,Not rated,0,€,25,2,"Epicurean Food Hall, City Centre North","Epicurean Food Hall, City Centre North, Dublin",Dublin,Dublin 1,97,53.3476333333,-6.2631333333,0,0
+Homemade by Clodagh,"Carvery, Irish",0,Not rated,0,€,35,3,"Arnotts, City Centre North","Arnotts, City Centre North, Dublin",Dublin,Dublin 1,97,53.3488888889,-6.2631222222,0,0
+Brother Hubbard,"Sandwich, Cafe, Healthy Food",4.8,Excellent,160,€,60,4,North City,"North City, Dublin",Dublin,1,97,53.3470970000,-6.2683820000,0,0
+Boojum,Mexican,4.7,Excellent,150,€,20,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3473166667,-6.2655250000,0,0
+Wowburger,Burger,4.6,Excellent,92,€,20,2,The Workmans Club,"The Workmans Club, Dublin",Dublin,Dublin 2,97,53.3452863158,-6.2663815543,0,0
+Bunsen,Burger,4.4,Very Good,201,€,30,3,South City West,"South City West, Dublin",Dublin,2,97,53.3371410000,-6.2658840000,0,0
+Boojum,Mexican,4.2,Very Good,68,€,20,2,South City West,"South City West, Dublin",Dublin,Dublin 8,97,53.3376305556,-6.2666555556,0,0
+Sister Sadie,"Cafe, Sandwich",4.1,Very Good,51,€,25,2,Portobello,"Portobello, Dublin",Dublin,Dublin 8,97,53.3325840000,-6.2653590000,0,0
+Umi Falafel,Lebanese,4.1,Very Good,76,€,25,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3440444444,-6.2653527778,0,0
+147 Deli,"Sandwich, Deli, Juices, Healthy Food",4.1,Very Good,55,€,20,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3533778918,-6.2597082183,0,0
+Chopped,Healthy Food,3.9,Good,53,€,20,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3380480000,-6.2533410000,0,0
+Aungier Danger,"Fast Food, Bakery",3.8,Good,29,€,20,2,South City West,"South City West, Dublin",Dublin,2,97,53.3387370000,-6.2659050000,0,0
+Storm in a Teacup,"Ice Cream, Crepes",3.8,Good,18,€,10,1,Skerries,"Skerries, Dublin",Dublin,,97,53.5854319531,-6.1057018116,0,0
+Tolteca,Mexican,3.7,Good,45,€,20,2,Ballsbridge,"Ballsbridge, Dublin",Dublin,Dublin 3,97,53.3332555556,-6.2431694444,0,0
+Leo Burdock,"Fish and Chips, Fast Food",3.7,Good,45,€,15,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3430220000,-6.2700320000,0,0
+Teddy's Ice Cream,"Ice Cream, Desserts",3.7,Good,38,€,10,1,Dun Laoghaire,"Dun Laoghaire, Dublin",Dublin,,97,53.2903222222,-6.1275916667,0,0
+Chopped,Healthy Food,3.7,Good,18,€,20,2,Fairview,"Fairview, Dublin",Dublin,3,97,53.3632304085,-6.2353148684,0,0
+Beshoff Bros,"Fish and Chips, Fast Food",3.7,Good,19,€,20,2,Howth,"Howth, Dublin",Dublin,,97,53.3876583333,-6.0693194444,0,0
+Kanum,"Thai, Asian",3.6,Good,46,€,35,3,Ballsbridge,"Ballsbridge, Dublin",Dublin,Dublin 4,97,53.3338861111,-6.2455666667,0,0
+Mama's Revenge,Mexican,3.6,Good,50,€,20,2,South City East,"South City East, Dublin",Dublin,2,97,53.3421861111,-6.2536055556,0,0
+Starbucks,Cafe,3.6,Good,17,€,15,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3333985410,-6.2539652735,0,0
+The Punnet Food Emporium,"Juices, Healthy Food, Cafe",3.6,Good,28,€,20,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3383010000,-6.2424580000,0,0
+Sprout,"Juices, Healthy Food",3.6,Good,14,€,25,2,South City East,"South City East, Dublin",Dublin,2,97,0.0000000000,0.0000000000,0,0
+Little Ass Burrito Bar,Mexican,3.6,Good,24,€,20,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3400611111,-6.2585277778,0,0
+K Chido Mexico,Mexican,3.5,Good,58,€,15,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3469390000,-6.2720280000,0,0
+Pablo Picante,Mexican,3.5,Good,46,€,20,2,South City West,"South City West, Dublin",Dublin,2,97,53.3409833333,-6.2630416667,0,0
+Kokoro,"Sushi, Japanese",3.5,Good,36,€,30,3,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3416416667,-6.2629666667,0,0
+Duck,"Chinese, BBQ, Asian",3.5,Good,33,€,25,2,South City West,"South City West, Dublin",Dublin,2,97,53.3418972222,-6.2639583333,0,0
+Burritos & Blues,Mexican,3.5,Good,22,€,25,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3374527778,-6.2656166667,0,0
+Saba To Go,"Thai, Vietnamese, Asian",3.5,Good,27,€,35,3,Rathmines,"Rathmines, Dublin",Dublin,Dublin 6,97,53.3215800000,-6.2670630000,0,0
+Zaytoon,"Kebab, Iranian",3.5,Good,26,€,25,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3338666667,-6.2650888889,0,0
+Camile,"Thai, Asian",3.5,Good,14,€,40,3,Phibsborough,"Phibsborough, Dublin",Dublin,Dublin 7,97,53.3621666667,-6.2726722222,0,0
+Butlers Chocolate Cafe,"Cafe, Desserts",3.5,Good,13,€,15,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3399722222,-6.2606361111,0,0
+Tolteca,Mexican,3.4,Average,19,€,20,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3433194444,-6.2602750000,0,0
+Ray's Pizza,Pizza,3.5,Good,19,€,15,2,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3443500000,-6.2635361111,0,0
+Basil,"Italian, Pizza, Coffee and Tea",3.4,Average,14,€,30,3,Ringsend,"Ringsend, Dublin",Dublin,4,97,53.3415596316,-6.2315520644,0,0
+Zaytoon,"Kebab, Iranian",3.4,Average,17,€,25,2,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3449754710,-6.2673404440,0,0
+Pablo Picante,Mexican,3.4,Average,18,€,20,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3375638889,-6.2514611111,0,0
+Poulet Bonne Femme,Deli,3.4,Average,24,€,15,2,Monkstown,"Monkstown, Dublin",Dublin,,97,53.2939340000,-6.1523190000,0,0
+Caffe Nero,Cafe,3.3,Average,11,€,15,2,IFSC,"IFSC, Dublin",Dublin,Dublin 1,97,53.3485530000,-6.2436360000,0,0
+Saburritos,Mexican,3.2,Average,22,€,20,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3499666667,-6.2594805556,0,0
+The Ugly Duckling,Sandwich,3.3,Average,9,€,25,2,"George's Street Arcade, City Centre South","George's Street Arcade, City Centre South, Dublin",Dublin,Dublin 2,97,53.3425280000,-6.2635350000,0,0
+DiFontaine's Pizzeria,Pizza,3.3,Average,15,€,15,2,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3451522105,-6.2677286938,0,0
+Aobaba,"Vietnamese, Cafe",3.4,Average,17,€,20,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3487635000,-6.2690010667,0,0
+Pablo Picante,Mexican,3.3,Average,16,€,20,2,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3457222222,-6.2619694444,0,0
+Camile,"Thai, Asian",3.3,Average,10,€,40,3,South City East,"South City East, Dublin",Dublin,2,97,53.3441860391,-6.2493344396,0,0
+The Noodle House,Asian,3.3,Average,13,€,20,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3370048201,-6.2656731158,0,0
+Lolly and Cooks,"Irish, Deli",3.3,Average,9,€,25,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3382560000,-6.2533300000,0,0
+The Birdcage Cafe - Avoca,Cafe,3.3,Average,6,€,34,3,Rathcoole,"Rathcoole, Dublin",Dublin,,97,53.2843380000,-6.4562340000,0,0
+Green Beards,Juices,3.3,Average,24,€,15,2,Ranelagh,"Ranelagh, Dublin",Dublin,Dublin 6,97,53.3211580000,-6.2565200000,0,0
+Istanbul,"Turkish, Pizza",3.3,Average,11,€,20,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3474403501,-6.2634569407,0,0
+Starbucks,Cafe,3.2,Average,8,€,15,2,Blackrock,"Blackrock, Dublin",Dublin,,97,53.3021444444,-6.1788777778,0,0
+Minetta Delicatessen,"Cafe, Pizza, Sandwich, Deli",3.2,Average,24,€,25,2,Sutton,"Sutton, Dublin",Dublin,Dublin 13,97,53.3897333333,-6.1105250000,0,0
+Camile,"Thai, Asian",3.2,Average,8,€,40,3,Rathmines,"Rathmines, Dublin",Dublin,Dublin 6,97,53.3254805556,-6.2649750000,0,0
+Beshoff Bros,"Fish and Chips, Fast Food",3.2,Average,9,€,20,2,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3443030000,-6.2660010000,0,0
+Butlers Chocolate Cafe,"Cafe, Desserts",3.2,Average,6,€,15,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3469647986,-6.2633074075,0,0
+Doughboys,Sandwich,3.2,Average,10,€,15,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3337430000,-6.2648460000,0,0
+Zaika,"Indian, Fast Food",3.2,Average,8,€,25,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3410083333,-6.2635472222,0,0
+Cafe Juliano's,Fast Food,3.2,Average,18,€,20,2,South City West,"South City West, Dublin",Dublin,Dublin 8,97,53.3435230000,-6.2893180000,0,0
+Frite Haus,Fast Food,3.1,Average,13,€,25,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3361666667,-6.2653194444,0,0
+Camile,"Thai, Asian",3.1,Average,5,€,40,3,"Nutgrove Shopping Centre, Rathfarnham","Nutgrove Shopping Centre, Rathfarnham, Dublin",Dublin,16,97,53.2903080000,-6.2682180000,0,0
+Joe's Coffee,Cafe,3.1,Average,9,€,20,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3486583333,-6.2642944444,0,0
+Beshoff Bros,"Fish and Chips, Fast Food",3.1,Average,7,€,20,2,Ballsbridge,"Ballsbridge, Dublin",Dublin,Dublin 4,97,53.3339194444,-6.2458666667,0,0
+Chopped,Healthy Food,3.1,Average,7,€,20,2,Ballsbridge,"Ballsbridge, Dublin",Dublin,Dublin 4,97,53.3315990000,-6.2311340000,0,0
+Starbucks,Cafe,3.1,Average,7,€,15,2,"Stillorgan Village Centre, Stillorgan","Stillorgan Village Centre, Stillorgan, Dublin",Dublin,,97,53.2887139066,-6.1999781057,0,0
+Yum Thai,"Thai, Asian",3.1,Average,6,€,15,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3418611111,-6.2584277778,0,0
+Brezzi's Woodfire Pizza,Pizza,3.1,Average,10,€,35,3,Portmarnock,"Portmarnock, Dublin",Dublin,,97,53.4210861111,-6.1368777778,0,0
+Bombay Pantry,Indian,3.1,Average,7,€,30,3,Clonskeagh,"Clonskeagh, Dublin",Dublin,Dublin 14,97,53.3141980000,-6.2381630000,0,0
+Gary's Gourmet Pizza,"Pizza, Fast Food",3.1,Average,8,€,25,2,Dalkey,"Dalkey, Dublin",Dublin,,97,53.2782638889,-6.1073916667,0,0
+Howth Market Deli,"Deli, Desserts",3.1,Average,6,€,15,2,Howth,"Howth, Dublin",Dublin,,97,53.3886111111,-6.0730250000,0,0
+Supermac's,Fast Food,3.1,Average,8,€,20,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3484500000,-6.2600111111,0,0
+Butlers Chocolate Cafe,"Cafe, Desserts",3.1,Average,4,€,15,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3410416667,-6.2622250000,0,0
+Tolteca,Mexican,3.0,Average,18,€,20,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3341770000,-6.2649880000,0,0
+Rick's Burgers,Burger,3.0,Average,11,€,25,2,South City West,"South City West, Dublin",Dublin,2,97,53.3440777778,-6.2642027778,0,0
+Camile,"Thai, Asian",3.0,Average,11,€,40,3,Sutton,"Sutton, Dublin",Dublin,Dublin 13,97,53.3896333333,-6.1095638889,0,0
+Maia,"Deli, Cafe",3.0,Average,7,€,25,2,Ballsbridge,"Ballsbridge, Dublin",Dublin,Dublin 4,97,53.3303555556,-6.2324305556,0,0
+Monto Cafe & Restaurant,"Italian, Cafe, Fast Food",3.0,Average,8,€,30,3,Kimmage,"Kimmage, Dublin",Dublin,Dublin 12,97,53.3208886179,-6.2926427275,0,0
+Wok In,"Thai, Sushi, Japanese, Asian",3.0,Average,6,€,15,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3413055556,-6.2645944444,0,0
+Kokoro,"Sushi, Japanese",3.0,Average,6,€,30,3,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3383210000,-6.2534020000,0,0
+Caffe Nero,Cafe,3.0,Average,6,€,15,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3383444444,-6.2541916667,0,0
+The Good Food Store,Deli,3.0,Average,4,€,15,2,South City West,"South City West, Dublin",Dublin,2,97,53.3423320000,-6.2645720000,0,0
+Leo Burdock,"Fish and Chips, Fast Food",3.0,Average,6,€,15,2,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3452072538,-6.2628494203,0,0
+Wok to Walk,Asian,3.0,Average,6,€,20,2,"The Square Shopping Centre, Tallaght","The Square Shopping Centre, Tallaght, Dublin",Dublin,Dublin 24,97,53.2866974093,-6.3727499172,0,0
+O'Falafel,"Lebanese, Middle Eastern",3.0,Average,7,€,15,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3323638889,-6.2647500000,0,0
+Starbucks,Cafe,3.0,Average,4,€,15,2,"The CHQ Building, IFSC","The CHQ Building, IFSC, Dublin",Dublin,Dublin 1,97,53.3488580000,-6.2480260000,0,0
+Munchies,"Sandwich, Cafe",3.0,Average,6,€,20,2,Grand Canal Dock,"Grand Canal Dock, Dublin",Dublin,Dublin 2,97,53.3461070000,-6.2410360000,0,0
+Donnybrook Fair,Deli,3.0,Average,6,€,25,2,Donnybrook,"Donnybrook, Dublin",Dublin,Dublin 4,97,53.3242810000,-6.2403020000,0,0
+Beshoff Bros,"Fish and Chips, Fast Food",3.0,Average,4,€,20,2,Clontarf,"Clontarf, Dublin",Dublin,Dublin 3,97,53.3594490000,-6.1958950000,0,0
+Butlers Chocolate Cafe,"Cafe, Desserts",3.0,Average,3,€,15,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3429934567,-6.2620367110,0,0
+Salt Cellar,"Cafe, Sandwich",2.9,Average,11,€,20,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3371027157,-6.2447012588,0,0
+Mango Tree,"Thai, Asian",2.9,Average,7,€,30,3,Sandyford,"Sandyford, Dublin",Dublin,Dublin 18,97,53.2772880000,-6.2161300000,0,0
+Starbucks,Cafe,2.9,Average,4,€,15,2,"The Pavilions Shopping Centre, Swords ","The Pavilions Shopping Centre, Swords , Dublin",Dublin,,97,53.4535250000,-6.2184916667,0,0
+Base Pizza,Pizza,2.9,Average,7,€,35,3,"Stillorgan Village Centre, Stillorgan","Stillorgan Village Centre, Stillorgan, Dublin",Dublin,,97,53.2894190000,-6.1995790000,0,0
+Street Food Outlet,Street Food,2.9,Average,6,€,20,2,Shankill,"Shankill, Dublin",Dublin,,97,53.2304948725,-6.1242734268,0,0
+Leo Burdock,"Fish and Chips, Fast Food",2.6,Average,6,€,15,2,"The Square Shopping Centre, Tallaght","The Square Shopping Centre, Tallaght, Dublin",Dublin,Dublin 24,97,53.2870650000,-6.3692930000,0,0
+China Palace,"Chinese, European, Fast Food",2.9,Average,6,€,30,3,Finglas,"Finglas, Dublin",Dublin,11,97,53.3890220000,-6.2996560000,0,0
+Istanbull Kebab & Pizza House,"Kebab, Burger, Pizza, Fast Food",2.9,Average,5,€,20,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3508416667,-6.2553583333,0,0
+Tadka House,Indian,2.9,Average,7,€,40,3,Rathmines,"Rathmines, Dublin",Dublin,Dublin 6,97,53.3254063019,-6.2650391087,0,0
+Siam Thai To Go,"Thai, Asian",2.9,Average,4,€,30,3,Ranelagh,"Ranelagh, Dublin",Dublin,Dublin 6,97,53.3261778590,-6.2560003996,0,0
+Aldo's Diner,"Fish and Chips, Fast Food",2.9,Average,4,€,15,2,Cabinteely,"Cabinteely, Dublin",Dublin,Dublin 18,97,53.2684989330,-6.1665436998,0,0
+Hillbilly's,Fast Food,0,Not rated,3,€,25,2,Walkinstown,"Walkinstown, Dublin",Dublin,Dublin 12,97,53.3170212014,-6.3337794319,0,0
+Caffè Caira,"Fast Food, Cafe",2.9,Average,5,€,20,2,Howth,"Howth, Dublin",Dublin,,97,53.3880500000,-6.0644166667,0,0
+Brother Hubbard,"Sandwich, Cafe, Healthy Food",4.8,Excellent,160,€,60,4,North City,"North City, Dublin",Dublin,1,97,53.3470970000,-6.2683820000,0,0
+The Fumbally,"Cafe, Irish",4.2,Very Good,59,€,25,2,South City West,"South City West, Dublin",Dublin,Dublin 8,97,53.3370555556,-6.2728805556,0,0
+Sister Sadie,"Cafe, Sandwich",4.1,Very Good,51,€,25,2,Portobello,"Portobello, Dublin",Dublin,Dublin 8,97,53.3325840000,-6.2653590000,0,0
+Cornucopia,"Cafe, Healthy Food",4.1,Very Good,92,€,35,3,South City West,"South City West, Dublin",Dublin,2,97,53.3430790000,-6.2613750000,0,0
+Queen of Tarts,"Cafe, Bakery",4.1,Very Good,81,€,30,3,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3440083333,-6.2677611111,0,0
+Eathos,"Cafe, Bakery, Deli",4.0,Very Good,36,€,25,2,Ballsbridge,"Ballsbridge, Dublin",Dublin,Dublin 4,97,53.3335600000,-6.2448600000,0,0
+3FE,"Cafe, Healthy Food",4.0,Very Good,83,€,25,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3399861111,-6.2420416667,0,0
+Avoca Cafe - Avoca Suffolk Street,Cafe,4.0,Very Good,51,€,20,2,"Avoca, Suffolk Street","Avoca, Suffolk Street, Dublin",Dublin,2,97,53.3435730000,-6.2599140000,0,0
+Two Fifty Square,"Cafe, Irish",4.0,Very Good,65,€,20,2,Rathmines,"Rathmines, Dublin",Dublin,Dublin 6,97,53.3253410000,-6.2669800000,0,0
+CoCu,Cafe,4.0,Very Good,36,€,25,2,Ballsbridge,"Ballsbridge, Dublin",Dublin,Dublin 4,97,53.3336770000,-6.2449610000,0,0
+Yogism,"Cafe, Desserts",4.0,Very Good,25,€,20,2,"George's Street Arcade, City Centre South","George's Street Arcade, City Centre South, Dublin",Dublin,2,97,53.3425611111,-6.2635777778,0,0
+Juniors Deli & Cafe,"Sandwich, Italian, Deli, Cafe",3.9,Good,46,€,45,3,Beggars Bush,"Beggars Bush, Dublin",Dublin,Dublin 4,97,53.3374470000,-6.2346220000,0,0
+Green Nineteen,"Sandwich, European, Cafe, Fish and Chips",3.9,Good,59,€,35,3,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3352520000,-6.2650130000,0,0
+Clement & Pekoe,Cafe,3.9,Good,35,€,15,2,South City West,"South City West, Dublin",Dublin,2,97,53.3415792487,-6.2631038949,0,0
+Dolce Sicily,"Desserts, Cafe",3.9,Good,26,€,15,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3406194444,-6.2583888889,0,0
+Bear Market Coffee,"Bakery, Cafe",3.9,Good,51,€,15,2,Blackrock,"Blackrock, Dublin",Dublin,,97,53.3015171748,-6.1777094007,0,0
+The Pepper Pot,Cafe,3.9,Good,24,€,25,2,"Powerscourt Centre, City Centre South","Powerscourt Centre, City Centre South, Dublin",Dublin,2,97,53.3422500000,-6.2617888889,0,0
+Taste Café,"Healthy Food, Cafe",3.8,Good,56,€,45,3,South City West,"South City West, Dublin",Dublin,2,97,53.3411008294,-6.2633798271,0,0
+Sweet Republic,"Cafe, Desserts",3.8,Good,30,€,15,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3470777778,-6.2604500000,0,0
+Hatch & Sons,"Cafe, Irish",3.8,Good,36,€,40,3,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3395620000,-6.2583640000,0,0
+Accents,Cafe,3.8,Good,50,€,10,1,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3414563415,-6.2647148967,0,0
+Staple Foods,"Healthy Food, Juices, Cafe",3.8,Good,18,€,30,3,South City East,"South City East, Dublin",Dublin,2,97,53.3395700000,-6.2437620000,0,0
+Lemon Crepe & Coffee Co,"Crepes, Cafe",3.8,Good,41,€,25,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3424480000,-6.2580420000,0,0
+Green Bench Cafe,"Cafe, Bakery, Healthy Food",3.8,Good,48,€,25,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3365120000,-6.2640630000,0,0
+Oxmantown,"Cafe, Sandwich, Healthy Food",3.8,Good,46,€,15,2,North City,"North City, Dublin",Dublin,Dublin 7,97,53.3471510000,-6.2701730000,0,0
+Butlers Chocolate Cafe,"Cafe, Desserts",3.8,Good,22,€,15,2,Dundrum,"Dundrum, Dublin",Dublin,Dublin 16,97,53.2875555556,-6.2423083333,0,0
+Metro Cafe,Cafe,3.7,Good,44,€,25,2,South City West,"South City West, Dublin",Dublin,2,97,53.3412435550,-6.2633224949,0,0
+Avoca Cafe - Avoca Malahide,Cafe,3.7,Good,40,€,20,2,Malahide,"Malahide, Dublin",Dublin,,97,53.4448770000,-6.1621980000,0,0
+Kaph,Cafe,3.7,Good,46,€,15,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3425916667,-6.2631833333,0,0
+Slice,"Cafe, Irish",3.7,Good,29,€,25,2,Stoneybatter,"Stoneybatter, Dublin",Dublin,Dublin 7,97,53.3521020000,-6.2848270000,0,0
+Andersons Cafe & Creperie,"Crepes, Cafe, Desserts",3.7,Good,28,€,20,2,Drumcondra,"Drumcondra, Dublin",Dublin,Dublin 9,97,53.3662618017,-6.2566417828,0,0
+Bibi's,"Cafe, Irish",3.7,Good,29,€,25,2,Portobello,"Portobello, Dublin",Dublin,Dublin 8,97,53.3337560000,-6.2727240000,0,0
+Seven Wonders,"Sandwich, Juices, Cafe",3.7,Good,20,€,15,2,IFSC,"IFSC, Dublin",Dublin,Dublin 1,97,53.3482750000,-6.2438500000,0,0
+The Bakehouse,"Cafe, Bakery, Desserts",3.7,Good,22,€,30,3,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3467680000,-6.2628670000,0,0
+Yogism,"Cafe, Desserts",3.7,Good,17,€,20,2,South City East,"South City East, Dublin",Dublin,,97,53.3397614270,-6.2583751604,0,0
+KC Peaches,"Cafe, Deli, Healthy Food, Juices",3.6,Good,36,€,20,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3386166667,-6.2553027778,0,0
+Gourmet Food Parlour,Cafe,3.6,Good,24,€,40,3,Malahide,"Malahide, Dublin",Dublin,,97,53.4434666667,-6.1262638889,0,0
+Starbucks,Cafe,3.6,Good,17,€,15,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3333985410,-6.2539652735,0,0
+Gourmet Food Parlour,Cafe,3.6,Good,15,€,40,3,Swords,"Swords, Dublin",Dublin,,97,53.4633750000,-6.2178860000,0,0
+The Cake Cafe,"Cafe, Bakery",3.6,Good,33,€,25,2,South City West,"South City West, Dublin",Dublin,8,97,53.3345040000,-6.2662100000,0,0
+Freshii,"Healthy Food, Cafe",3.6,Good,16,€,20,2,IFSC,"IFSC, Dublin",Dublin,1,97,53.3487740000,-6.2481010000,0,0
+KC Peaches,"Cafe, Deli, Healthy Food, Juices",3.7,Good,31,€,20,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3427100000,-6.2572110000,0,0
+Honest to Goodness,"Cafe, Healthy Food",3.6,Good,23,€,30,3,Honest to Goodness,"Honest to Goodness, Dublin",Dublin,Dublin 2,97,53.3433833333,-6.2637527778,0,0
+Foam Cafe,Cafe,3.6,Good,24,€,30,3,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3469861111,-6.2651805556,0,0
+The Punnet Food Emporium,"Juices, Healthy Food, Cafe",3.6,Good,28,€,20,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3383010000,-6.2424580000,0,0
+Bewley's Cafe,Cafe,3.6,Good,43,€,25,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3416833333,-6.2601472222,0,0
+Nick's Coffee Company,Cafe,3.6,Good,20,€,5,1,Ranelagh,"Ranelagh, Dublin",Dublin,Dublin 6,97,53.3260042448,-6.2555504590,0,0
+Cracked Nut,"Cafe, Juices, Healthy Food",3.6,Good,23,€,20,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3349898019,-6.2653733790,0,0
+Queen of Tarts,"Cafe, Bakery",3.5,Good,51,€,30,3,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3442888889,-6.2689194444,0,0
+Alchemy Juice Co,"Cafe, Healthy Food, Juices",3.5,Good,29,€,25,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3414759586,-6.2602889165,0,0
+Coffeeangel,Cafe,3.5,Good,37,€,15,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3410611111,-6.2587222222,0,0
+Busyfeet and Coco Cafe,Cafe,3.5,Good,17,€,20,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3412041204,-6.2631863728,0,0
+Douglas & Kaldi,"Irish, Cafe",3.5,Good,15,€,45,3,"Dundrum Town Centre, Dundrum","Dundrum Town Centre, Dundrum, Dublin",Dublin,Dublin 16,97,53.2876361111,-6.2425527778,0,0
+Andersons Food Hall & Cafe,"Cafe, European",3.5,Good,20,€,30,3,Glasnevin,"Glasnevin, Dublin",Dublin,Dublin 9,97,53.3792078157,-6.2623488531,0,0
+Oolong Flower Power,"Cafe, Pizza",3.5,Good,13,€,25,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3413472222,-6.2646250000,0,0
+Overends Restaurant,"Irish, European, Cafe",3.5,Good,29,€,55,3,Dundrum,"Dundrum, Dublin",Dublin,Dublin 14,97,53.2876361111,-6.2350805556,0,0
+Il Panorama Cafe,"Italian, Cafe",3.5,Good,17,€,30,3,Howth,"Howth, Dublin",Dublin,,97,53.3876388889,-6.0667444444,0,0
+Le Petit Breton,"Crepes, Cafe",3.5,Good,12,€,50,3,Drumcondra,"Drumcondra, Dublin",Dublin,9,97,53.3619370000,-6.2595490000,0,0
+The Lovely Food Co,"Irish, European",3.5,Good,13,€,55,3,Terenure,"Terenure, Dublin",Dublin,Dublin 6,97,53.3096350000,-6.2857980000,0,0
+Fennel,"Cafe, European",3.5,Good,37,€,30,3,Whitehall,"Whitehall, Dublin",Dublin,Dublin 9,97,53.3778620104,-6.2476335838,0,0
+Tea Garden,Cafe,3.5,Good,27,€,15,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3461920000,-6.2669540000,0,0
+Library Bar - The Central Hotel,"Cafe, Irish",3.5,Good,28,€,40,3,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3429998621,-6.2643598393,0,0
+Terra Madre Cafe,"Italian, Cafe",3.5,Good,16,€,0,1,North City,"North City, Dublin",Dublin,,97,53.3470450000,-6.2619190000,0,0
+Antoinette's Bakery,"Desserts, Cafe, Bakery",3.5,Good,14,€,15,2,South City West,"South City West, Dublin",Dublin,8,97,53.3377775688,-6.2664945424,0,0
+The Wooden Spoon Cafe,Cafe,3.5,Good,13,€,25,2,Blackrock,"Blackrock, Dublin",Dublin,,97,53.3018388889,-6.1776694444,0,0
+Butlers Chocolate Cafe,"Cafe, Desserts",3.5,Good,13,€,15,2,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3399722222,-6.2606361111,0,0
+Forno,"Healthy Food, Italian, Cafe",3.4,Average,38,€,55,3,Donnybrook,"Donnybrook, Dublin",Dublin,Dublin 4,97,53.3218200000,-6.2366350000,0,0
+Lolly and Cooks,"Cafe, Sandwich",3.4,Average,13,€,35,3,Grand Canal Dock,"Grand Canal Dock, Dublin",Dublin,Dublin 2,97,53.3444630000,-6.2383400000,0,0
+Berlin D2,Cafe,3.4,Average,19,€,20,2,"Powerscourt Centre, City Centre South","Powerscourt Centre, City Centre South, Dublin",Dublin,Dublin 2,97,53.3419539733,-6.2615130097,0,0
+Third Space,Cafe,3.4,Average,23,€,20,2,Smithfield,"Smithfield, Dublin",Dublin,Dublin 7,97,53.3485140000,-6.2787720000,0,0
+Food Room,Cafe,3.4,Average,18,€,25,2,Clontarf,"Clontarf, Dublin",Dublin,Dublin 3,97,53.3631709869,-6.2193406373,0,0
+Counter Culture,"Healthy Food, Cafe",3.4,Average,14,€,35,3,"Powerscourt Centre, City Centre South","Powerscourt Centre, City Centre South, Dublin",Dublin,Dublin 2,97,53.3423400000,-6.2619120000,0,0
+Borlottie,"Cafe, Healthy Food",3.4,Average,13,€,20,2,IFSC,"IFSC, Dublin",Dublin,Dublin 1,97,53.3483666667,-6.2437166667,0,0
+The Tramyard Cafe,"Cafe, Irish, Modern European",3.4,Average,17,€,30,3,Dalkey,"Dalkey, Dublin",Dublin,,97,53.2780023923,-6.1046872661,0,0
+The Coffee Shot,Cafe,3.4,Average,12,€,15,2,"Beacon South Quarter, Sandyford","Beacon South Quarter, Sandyford, Dublin",Dublin,Dublin 18,97,53.2772250000,-6.2171944444,0,0
+La Gondola,"Cafe, Italian",3.4,Average,15,€,35,3,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3458820000,-6.2618440000,0,0
+Blazing Salads,"Healthy Food, Deli, Cafe",3.4,Average,35,€,20,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3425470000,-6.2630740000,0,0
+Indigo & Cloth Cafe,Cafe,3.4,Average,7,€,10,1,Temple Bar,"Temple Bar, Dublin",Dublin,2,97,53.3450263112,-6.2659125030,0,0
+Il Valentino,"Bakery, Cafe, Italian",3.4,Average,17,€,25,2,Grand Canal Dock,"Grand Canal Dock, Dublin",Dublin,Dublin 2,97,53.3425330686,-6.2389811128,0,0
+Cinnamon,"Modern European, Cafe",3.4,Average,16,€,60,4,Monkstown,"Monkstown, Dublin",Dublin,,97,53.2939450000,-6.1502020000,0,0
+Borlottie,"Cafe, Healthy Food",3.4,Average,12,€,20,2,Ballsbridge,"Ballsbridge, Dublin",Dublin,Dublin 4,97,53.3333120000,-6.2439570000,0,0
+McMahons of Botanic Avenue,Cafe,3.4,Average,13,€,25,2,Glasnevin,"Glasnevin, Dublin",Dublin,Dublin 9,97,53.3726351864,-6.2681796402,0,0
+The Drawing Rooms - The Merrion Hotel,Cafe,3.4,Average,9,€,80,4,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3385480000,-6.2529370000,0,0
+Peacockgreen,Cafe,3.4,Average,12,€,20,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3435650000,-6.2696590000,0,0
+Bakers,Cafe,3.4,Average,21,€,20,2,Grand Canal Dock,"Grand Canal Dock, Dublin",Dublin,Dublin 2,97,53.3443862007,-6.2374844402,0,0
+Love Supreme Coffee,Cafe,3.4,Average,15,€,10,1,Stoneybatter,"Stoneybatter, Dublin",Dublin,Dublin 7,97,53.3530010000,-6.2853190000,0,0
+Matt The Rashers,"Cafe, Irish",3.4,Average,12,€,25,2,Kimmage,"Kimmage, Dublin",Dublin,Dublin 12,97,53.3203398706,-6.2917103246,0,0
+Butlers Chocolate Cafe,"Cafe, Desserts",3.4,Average,8,€,15,2,"The Pavilions Shopping Centre, Swords ","The Pavilions Shopping Centre, Swords , Dublin",Dublin,,97,53.4545166667,-6.2188833333,0,0
+Cinnamon,"Modern European, Cafe",3.3,Average,61,€,60,4,Ranelagh,"Ranelagh, Dublin",Dublin,Dublin 6,97,53.3240250000,-6.2520250000,0,0
+Caffe Nero,Cafe,3.3,Average,11,€,15,2,IFSC,"IFSC, Dublin",Dublin,Dublin 1,97,53.3485530000,-6.2436360000,0,0
+Wall and Keogh,Cafe,3.3,Average,32,€,15,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3312070000,-6.2646320000,0,0
+Ladurée,"Bakery, Cafe",3.3,Average,10,€,30,3,South City West,"South City West, Dublin",Dublin,2,97,53.3429890000,-6.2621490000,0,0
+Cafe du Journal,"Cafe, Italian",3.3,Average,19,€,35,3,Monkstown,"Monkstown, Dublin",Dublin,,97,53.2938640000,-6.1510590000,0,0
+Vice Coffee,Cafe,3.3,Average,30,€,20,2,"The Twisted Pepper, City Centre North","The Twisted Pepper, City Centre North, Dublin",Dublin,Dublin 1,97,53.3479277778,-6.2623611111,0,0
+Considered Cafe,Cafe,3.3,Average,8,€,20,2,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3427100000,-6.2631630000,0,0
+Lemon Jelly,Cafe,3.3,Average,12,€,30,3,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3472444444,-6.2653638889,0,0
+Le Petit Parisien,"French, Cafe, Bakery",3.4,Average,13,€,30,3,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3430944444,-6.2611916667,0,0
+Aobaba,"Vietnamese, Cafe",3.4,Average,17,€,20,2,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3487635000,-6.2690010667,0,0
+Roly's Cafe,"Irish, European, Cafe",3.3,Average,10,€,50,3,"Roly's, Ballsbridge","Roly's, Ballsbridge, Dublin",Dublin,Dublin 4,97,53.3293830000,-6.2319960000,0,0
+Coffee 2 Go,Cafe,3.3,Average,10,€,15,2,Ballsbridge,"Ballsbridge, Dublin",Dublin,Dublin 4,97,53.3339472222,-6.2455444444,0,0
+Whitefriar Grill,"Steak, BBQ",4.9,Excellent,153,€,70,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3403388889,-6.2655361111,0,0
+Bunsen,Burger,4.6,Excellent,73,€,30,3,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3455540000,-6.2644250000,0,0
+Taco Taco,Mexican,4.5,Excellent,109,€,65,4,South City West,"South City West, Dublin",Dublin,2,97,53.3435720000,-6.2639530000,0,0
+San Lorenzo's,Italian,4.5,Excellent,158,€,70,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3433780000,-6.2646260000,0,0
+Zaragoza,"Tapas, Spanish, European",4.5,Excellent,80,€,50,3,South City West,"South City West, Dublin",Dublin,2,97,53.3420450518,-6.2626328319,0,0
+Featherblade,Steak,4.4,Very Good,59,€,50,3,South City East,"South City East, Dublin",Dublin,,97,53.3416800000,-6.2583300000,0,0
+Las Tapas de Lola,"Tapas, Spanish",4.4,Very Good,67,€,50,3,South City West,"South City West, Dublin",Dublin,2,97,53.3370361111,-6.2654277778,0,0
+Fallon and Byrne,"Irish, European",4.4,Very Good,59,€,75,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3430138889,-6.2633833333,0,0
+Super Miss Sue,"Grill, Steak, Seafood",4.4,Very Good,114,€,75,4,"Super Miss Sue, Dublin","Super Miss Sue, Dublin, Dublin",Dublin,,97,53.3411305556,-6.2640777778,0,0
+My Meat Wagon,BBQ,4.3,Very Good,125,€,35,3,Smithfield,"Smithfield, Dublin",Dublin,Dublin 7,97,53.3489980000,-6.2788120000,0,0
+Elephant & Castle,Modern European,4.3,Very Good,136,€,70,4,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3457290000,-6.2623750000,0,0
+777,Mexican,4.3,Very Good,97,€,70,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3431166667,-6.2644611111,0,0
+Beeftro,"Steak, Burger",4.3,Very Good,42,€,75,4,South City West,"South City West, Dublin",Dublin,2,97,53.3411416667,-6.2615527778,0,0
+Musashi,"Sushi, Japanese, Asian",4.3,Very Good,94,€,40,3,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3469480000,-6.2680410000,0,0
+Saba,"Thai, Vietnamese, Asian",4.3,Very Good,62,€,50,3,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3412472222,-6.2620555556,0,0
+Sophie's - The Dean Hotel,Italian,4.2,Very Good,111,€,65,4,"The Dean Hotel, City Centre South","The Dean Hotel, City Centre South, Dublin",Dublin,Dublin 2,97,53.3349410000,-6.2635670000,0,0
+Herbstreet,Modern European,4.2,Very Good,91,€,60,4,Grand Canal Dock,"Grand Canal Dock, Dublin",Dublin,Dublin 2,97,53.3443830000,-6.2376630000,0,0
+P. Mac's,Pub Food,4.2,Very Good,66,€,50,3,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3412845911,-6.2641851604,0,0
+Ananda,Indian,4.2,Very Good,55,€,75,4,"Dundrum Town Centre, Dundrum","Dundrum Town Centre, Dundrum, Dublin",Dublin,Dublin 16,97,53.2878730000,-6.2415590000,0,0
+Farmer Browns,"Burger, Irish",4.2,Very Good,72,€,45,3,Beggars Bush,"Beggars Bush, Dublin",Dublin,Dublin 4,97,53.3371200000,-6.2319100000,0,1
+Klaw,Seafood,4.2,Very Good,29,€,40,3,Temple Bar,"Temple Bar, Dublin",Dublin,,97,53.3453229445,-6.2628480792,0,0
+Fade Street Social,"Irish, Modern European",4.1,Very Good,119,€,80,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3418916667,-6.2638222222,0,0
+Brasserie Sixty6,"French, European, Seafood",4.1,Very Good,82,€,80,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3425027778,-6.2644222222,0,0
+Stone at Rustic by Dylan McGrath,"Steak, Modern European, Irish",4.1,Very Good,112,€,80,4,Rustic Stone,"Rustic Stone, Dublin",Dublin,2,97,53.3429330000,-6.2642210000,0,0
+Tribeca,Irish,4.1,Very Good,131,€,50,3,Ranelagh,"Ranelagh, Dublin",Dublin,Dublin 6,97,53.3243420000,-6.2530820000,0,0
+Neon,Asian,4.1,Very Good,88,€,45,3,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3353620000,-6.2649210000,0,0
+Coppinger Row,Mediterranean,4.1,Very Good,65,€,50,3,South City West,"South City West, Dublin",Dublin,2,97,53.3420750000,-6.2620270000,0,0
+The Gotham Cafe,European,4.1,Very Good,65,€,45,3,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3411750000,-6.2596500000,0,0
+La Bodega,Spanish,4.1,Very Good,56,€,45,3,Ranelagh,"Ranelagh, Dublin",Dublin,Dublin 6,97,53.3240950000,-6.2520270000,0,0
+Harry's on the Green,"Irish, American",4.1,Very Good,33,€,55,3,South City West,"South City West, Dublin",Dublin,2,97,53.3405038987,-6.2630814314,0,0
+The Counter,Burger,4.0,Very Good,68,€,45,3,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3435166667,-6.2597694444,0,0
+Yamamori Izakaya,"Japanese, Sushi, Asian",4.0,Very Good,86,€,60,4,South City West,"South City West, Dublin",Dublin,2,97,53.3433111111,-6.2644805556,0,0
+Jo' Burger,Burger,4.0,Very Good,99,€,30,3,South City West,"South City West, Dublin",Dublin,2,97,53.3424620083,-6.2628812715,0,0
+Cleaver East - The Clarence Hotel,"Grill, Irish, European",4.0,Very Good,31,€,75,4,"The Clarence Hotel, Temple Bar","The Clarence Hotel, Temple Bar, Dublin",Dublin,Dublin 2,97,53.3452610000,-6.2668150000,0,0
+Bison Bar and BBQ,"BBQ, Steak, Grill",4.0,Very Good,65,€,40,3,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3454160000,-6.2662820000,0,0
+Angelina's,Italian,4.0,Very Good,24,€,60,4,Ballsbridge,"Ballsbridge, Dublin",Dublin,4,97,53.3361420000,-6.2420990000,0,0
+Darwins,"Steak, Seafood",4.0,Very Good,58,€,70,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3412450000,-6.2656240000,0,0
+Yamamori Noodles,"Sushi, Japanese",4.0,Very Good,57,€,65,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3428410000,-6.2645970000,0,0
+The Church Bar & Restaurant,"Irish, European",4.0,Very Good,48,€,65,4,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3487805556,-6.2670277778,0,0
+Peruke & Periwig,Irish,4.0,Very Good,35,€,70,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3400910000,-6.2587590000,0,0
+Taste at Rustic,"Sushi, Japanese, Asian",4.0,Very Good,24,€,90,4,Rustic Stone,"Rustic Stone, Dublin",Dublin,Dublin 2,97,53.3429330000,-6.2642210000,0,0
+The Dog House Blues Tea Rooms,Pizza,4.0,Very Good,41,€,40,3,Howth,"Howth, Dublin",Dublin,,97,53.3889527778,-6.0745722222,0,0
+The Butcher Grill,"Steak, Grill",4.0,Very Good,41,€,80,4,Ranelagh,"Ranelagh, Dublin",Dublin,Dublin 6,97,53.3243444444,-6.2524583333,0,0
+The Winding Stair,Irish,4.0,Very Good,65,€,80,4,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3467670000,-6.2637020000,0,0
+Kinara Kitchen,Pakistani,3.9,Good,22,€,65,4,Kinara Kitchen,"Kinara Kitchen, Dublin",Dublin,Dublin 6,97,53.3258280000,-6.2555270000,0,0
+Peploe's Wine Bistro,European,4.0,Very Good,50,€,100,4,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3393361111,-6.2585361111,0,0
+Dillinger's,American,3.7,Good,82,€,75,4,Ranelagh,"Ranelagh, Dublin",Dublin,Dublin 6,97,53.3247600000,-6.2541240000,0,0
+Bow Lane,"European, Tapas, Steak",3.9,Good,26,€,80,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3402650000,-6.2654940000,0,0
+Asador,Steak,3.9,Good,72,€,80,4,Ballsbridge,"Ballsbridge, Dublin",Dublin,Dublin 4,97,53.3346220000,-6.2437960000,0,0
+Crabby Jo's,Seafood,3.9,Good,55,€,60,4,Howth,"Howth, Dublin",Dublin,,97,53.3901277778,-6.0720027778,0,0
+The Port House,"Tapas, Spanish",3.9,Good,75,€,45,3,South City West,"South City West, Dublin",Dublin,2,97,53.3427868832,-6.2620457634,0,0
+Balfes,Modern European,3.9,Good,54,€,80,4,"The Westbury Hotel, City Centre South","The Westbury Hotel, City Centre South, Dublin",Dublin,2,97,53.3413750000,-6.2613620000,0,0
+Yamamori Sushi,"Sushi, Japanese",3.9,Good,64,€,60,4,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3465388889,-6.2639194444,0,0
+Zakura,"Sushi, Japanese",3.9,Good,66,€,50,3,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3369200000,-6.2654260000,0,0
+Musashi,"Sushi, Japanese, Asian",3.9,Good,64,€,40,3,IFSC,"IFSC, Dublin",Dublin,Dublin 1,97,53.3496440000,-6.2433550000,0,0
+Dublin Wine Rooms,Modern European,4.0,Very Good,28,€,75,4,IFSC,"IFSC, Dublin",Dublin,Dublin 1,97,53.3494861111,-6.2431694444,0,0
+The Green Hen,"Irish, French",3.9,Good,57,€,65,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3431010000,-6.2623720000,0,0
+Catch 22,"Fish and Chips, Seafood",3.9,Good,24,€,65,4,South City West,"South City West, Dublin",Dublin,2,97,53.3410325943,-6.2625207771,0,0
+Wuff,Modern European,3.9,Good,40,€,30,3,Smithfield,"Smithfield, Dublin",Dublin,Dublin 7,97,53.3474500000,-6.2820166667,0,0
+Gallagher's Boxty House,"Irish, Fish and Chips",3.9,Good,40,€,55,3,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3456610079,-6.2619532272,0,0
+Pichet,"French, European",3.9,Good,57,€,80,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3438380000,-6.2622790000,0,0
+Paulie's Pizza,"Italian, Pizza",3.9,Good,53,€,50,3,Beggars Bush,"Beggars Bush, Dublin",Dublin,Dublin 4,97,53.3374220000,-6.2346930000,0,0
+Siam Thai,"Thai, Asian",3.9,Good,23,€,60,4,Malahide,"Malahide, Dublin",Dublin,,97,53.4522638889,-6.1533500000,0,0
+Manifesto,"Italian, Pizza",3.9,Good,32,€,50,3,Rathmines,"Rathmines, Dublin",Dublin,Dublin 6,97,53.3237884496,-6.2654528394,0,0
+The Old Spot,"Irish, Carvery",3.9,Good,37,€,85,4,Beggars Bush,"Beggars Bush, Dublin",Dublin,Dublin 4,97,53.3372600000,-6.2332020000,0,0
+F.X. Buckley,Steak,3.9,Good,43,€,90,4,South City East,"South City East, Dublin",Dublin,2,97,53.3371805556,-6.2519500000,0,0
+Forest Avenue,Modern European,3.9,Good,39,€,60,4,Ballsbridge,"Ballsbridge, Dublin",Dublin,4,97,53.3314950000,-6.2515720000,0,0
+L'Gueuleton,"French, European, Carvery",3.9,Good,46,€,55,3,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3419420000,-6.2643500000,0,0
+The Farm,European,3.9,Good,41,€,60,4,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3424222222,-6.2579777778,0,0
+Pitt Bros,"BBQ, American",3.9,Good,137,€,40,3,South City West,"South City West, Dublin",Dublin,2,97,53.3436500000,-6.2646560000,0,0
+The Counter,Burger,3.8,Good,78,€,45,3,"Dundrum Town Centre, Dundrum","Dundrum Town Centre, Dundrum, Dublin",Dublin,Dublin 16,97,53.2885890000,-6.2441690000,0,0
+Jamie's Italian,"Italian, European",3.8,Good,78,€,55,3,"Dundrum Town Centre, Dundrum","Dundrum Town Centre, Dundrum, Dublin",Dublin,Dublin 16,97,53.2888416667,-6.2440250000,0,0
+House Dublin,"Irish, Modern European",3.8,Good,35,€,70,4,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3340890000,-6.2551450000,0,0
+KOH,Asian,3.8,Good,60,€,50,3,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3474222222,-6.2654000000,0,0
+Ruby's Pizza and Grill,"Pizza, Grill, American",3.8,Good,29,€,50,3,"The Pavilions Shopping Centre, Swords ","The Pavilions Shopping Centre, Swords , Dublin",Dublin,,97,53.4544130000,-6.2192880000,0,0
+Mao,"Thai, Asian",3.8,Good,34,€,50,3,South City West,"South City West, Dublin",Dublin,2,97,53.3411006292,-6.2626837939,0,0
+Riba,"Irish, European",3.8,Good,48,€,50,3,Stillorgan,"Stillorgan, Dublin",Dublin,,97,53.2884305556,-6.1992000000,0,0
+37 Dawson St,"Irish, European, Mediterranean",3.8,Good,55,€,55,3,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3404583333,-6.2584583333,0,0
+Generator Hostel,"Burger, American",3.8,Good,27,€,30,3,Smithfield,"Smithfield, Dublin",Dublin,7,97,53.3483600000,-6.2779250000,0,0
+J.W Sweetman,"Irish, Carvery",3.8,Good,80,€,60,4,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3470798842,-6.2582061812,0,0
+The Vanilla Pod Eatery,"Pizza, Irish",3.8,Good,31,€,30,3,"The Park, Carrickmines","The Park, Carrickmines, Dublin",Dublin,Dublin 18,97,53.2519388889,-6.1848500000,0,0
+Carluccio's,Italian,3.8,Good,43,€,55,3,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3418722222,-6.2581722222,0,0
+Beeftro,"Steak, Burger",3.8,Good,50,€,75,4,"Dundrum Town Centre, Dundrum","Dundrum Town Centre, Dundrum, Dublin",Dublin,Dublin 16,97,53.2885210000,-6.2440830000,0,0
+Mongolian BBQ,"Mongolian, Grill",3.8,Good,54,€,40,3,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3449250000,-6.2618194444,0,0
+Banyi Japanese Dining,"Sushi, Japanese",3.8,Good,45,€,65,4,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3459272134,-6.2616816536,0,0
+Suesey Street,"Irish, European",3.8,Good,18,€,90,4,South City East,"South City East, Dublin",Dublin,2,97,53.3327790000,-6.2527380000,0,0
+Skinflint,"Pizza, European",3.8,Good,41,€,35,3,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3443250000,-6.2668777778,0,0
+Siam Thai,"Thai, Asian",3.8,Good,24,€,55,3,"Dundrum Town Centre, Dundrum","Dundrum Town Centre, Dundrum, Dublin",Dublin,Dublin 16,97,53.2881916667,-6.2429388889,0,0
+Bach 16,Mediterranean,3.8,Good,30,€,45,3,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3470194444,-6.2616833333,0,0
+Staple Foods,"Healthy Food, Juices, Cafe",3.8,Good,18,€,30,3,South City East,"South City East, Dublin",Dublin,2,97,53.3395700000,-6.2437620000,0,0
+Hard Rock Cafe,"American, Burger",3.8,Good,21,€,65,4,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3457694919,-6.2606288865,0,0
+The Porterhouse Temple Bar,"Pub Food, Fish and Chips",3.8,Good,43,€,55,3,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3450805556,-6.2673833333,0,0
+Alfie Byrne's - Conrad Dublin,Pub Food,3.8,Good,28,€,50,3,"Conrad Dublin, City Centre South","Conrad Dublin, City Centre South, Dublin",Dublin,2,97,53.3347380000,-6.2575200000,0,0
+The Vintage Kitchen,European,3.8,Good,23,€,55,3,South City East,"South City East, Dublin",Dublin,Dublin 2,97,53.3469465851,-6.2557107210,0,0
+The Port House Pintxo,"Tapas, Spanish",3.8,Good,31,€,50,3,Temple Bar,"Temple Bar, Dublin",Dublin,Dublin 2,97,53.3451388889,-6.2648138889,0,0
+Seagrass Restaurant,Modern European,3.8,Good,17,€,65,4,South City West,"South City West, Dublin",Dublin,Dublin 2,97,53.3306805556,-6.2642944444,0,0
+Harbour Master Bar & Restaurant,European,3.8,Good,33,€,65,4,IFSC,"IFSC, Dublin",Dublin,Dublin 1,97,53.3496444444,-6.2491666667,0,0
+Nando's,"Portuguese, African",4.0,Very Good,24,€,45,3,North City,"North City, Dublin",Dublin,Dublin 1,97,53.3485500000,-6.2673222222,0,0
+Fish Shop,"Fish and Chips, Seafood",3.8,Good,22,€,25,2,Smithfield,"Smithfield, Dublin",Dublin,Dublin 7,97,53.3470900000,-6.2800580000,0,0
+Da Mimmo,"Pizza, Italian",3.8,Good,24,€,45,3,North Strand,"North Strand, Dublin",Dublin,Dublin 3,97,53.3574640000,-6.2427160000,0,0

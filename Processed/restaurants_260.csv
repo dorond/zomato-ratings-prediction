@@ -1,0 +1,1206 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,locality_verbose,city,zipcode,country_id,latitude,longitude,has_online_delivery,has_table_booking
+Café Cre Asion,"Desserts, Cafe Food, Coffee and Tea",4.7,Excellent,767,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8780559000,151.2105775997,0,0
+Trio,"Mediterranean, Cafe Food, Coffee and Tea",4.7,Excellent,574,$,70,3,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8933384422,151.2726928666,0,0
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",4.7,Excellent,1953,$,30,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8895111054,151.2149925157,0,0
+The Grounds of Alexandria Cafe,"Coffee and Tea, Salad, Poké, Cafe Food",4.6,Excellent,3092,$,80,3,"The Grounds of Alexandria, Alexandria","The Grounds of Alexandria, Alexandria, Sydney",Sydney,2015,14,-33.9108453718,151.1942721158,0,0
+La Renaissance Cafe Patisserie,"Desserts, Bakery, French, Patisserie, Cafe Food, Coffee and Tea",4.6,Excellent,759,$,40,2,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8592169881,151.2084536254,0,0
+Circa,"Cafe Food, Coffee and Tea",4.6,Excellent,887,$,45,2,Parramatta,"Parramatta, Sydney",Sydney,2150,14,-33.8187161886,151.0051136836,0,0
+Revolver,"Coffee and Tea, Cafe Food",4.5,Excellent,741,$,45,2,Annandale,"Annandale, Sydney",Sydney,02038,14,-33.8760219365,151.1720925942,0,0
+Social Brew Cafe,"Cafe Food, Coffee and Tea",4.5,Excellent,255,$,70,3,Pyrmont,"Pyrmont, Sydney",Sydney,2009,14,-33.8716167514,151.1952286586,0,0
+Rustic Pearl,"Turkish, Cafe Food, Coffee and Tea",4.5,Excellent,592,$,50,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8863209702,151.2137395889,0,0
+John Smith Cafe,"Cafe Food, Coffee and Tea",4.5,Excellent,504,$,40,2,Alexandria,"Alexandria, Sydney",Sydney,2017,14,-33.9004407695,151.2007509917,0,0
+Black Star Pastry,"Bakery, Desserts, Coffee and Tea",4.5,Excellent,258,$,30,2,"The Galeries, CBD","The Galeries, CBD, Sydney",Sydney,2000,14,-33.8721478910,151.2079486996,0,0
+Campos Coffee,"Cafe Food, Coffee and Tea",4.5,Excellent,706,$,20,1,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8932992012,151.1831664294,0,0
+The Mews,"Cafe Food, Coffee and Tea",4.5,Excellent,78,$,45,2,"Myahgah Mews, Mosman","Myahgah Mews, Mosman, Sydney",Sydney,2088,14,-33.8249417953,151.2409489229,0,1
+Devon,"Coffee and Tea, Cafe Food",4.4,Very Good,1429,$,60,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8860604548,151.2076989189,0,0
+Three Williams,"Cafe Food, Coffee and Tea",4.4,Very Good,1260,$,55,2,Surry Hills,"Surry Hills, Sydney",Sydney,2016,14,-33.8919630476,151.2074615434,0,0
+Mad Spuds Cafe,"Irish, Healthy Food, Salad, Cafe Food, Coffee and Tea",4.4,Very Good,840,$,65,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8880730266,151.2134770677,0,0
+Cuckoo Callay,"Coffee and Tea, Cafe Food",4.4,Very Good,612,$,50,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8983500122,151.1791394278,0,0
+Pasticceria Papa,"Coffee and Tea, Italian, Cafe Food",4.4,Very Good,471,$,20,1,Haberfield,"Haberfield, Sydney",Sydney,2045,14,-33.8805772014,151.1390843242,0,0
+The Wedge Espresso,"Coffee and Tea, Cafe Food",4.4,Very Good,427,$,40,2,Glebe,"Glebe, Sydney",Sydney,2037,14,-33.8829901547,151.1914628372,0,0
+Flour and Stone,"Bakery, Coffee and Tea, Desserts, Cafe Food",4.4,Very Good,233,$,35,2,Woolloomooloo,"Woolloomooloo, Sydney",Sydney,2011,14,-33.8736037755,151.2154384330,0,0
+The Q on Harris,"Cafe Food, Coffee and Tea",4.4,Very Good,130,$,35,2,Ultimo,"Ultimo, Sydney",Sydney,2007,14,-33.8796447350,151.1993720010,0,0
+Blackwood Pantry,"Coffee and Tea, Cafe Food",4.4,Very Good,100,$,60,3,Cronulla,"Cronulla, Sydney",Sydney,,14,-34.0537741615,151.1528393626,0,0
+Single O,"Cafe Food, Coffee and Tea",4.3,Very Good,494,$,60,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8813278991,151.2097726017,0,0
+Le Monde,Modern Australian,4.3,Very Good,564,$,40,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8845649811,151.2112458050,0,0
+West Juliett,"Healthy Food, Burger, Juices, Beverages, Bakery, Coffee and Tea, Cafe Food",4.3,Very Good,384,$,50,2,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9045812248,151.1719903350,0,0
+Element 6,"Cafe Food, Coffee and Tea",4.3,Very Good,363,$,30,2,West Ryde,"West Ryde, Sydney",Sydney,2114,14,-33.8067037848,151.0912270099,0,0
+XS Espresso,"Cafe Food, Coffee and Tea",4.3,Very Good,102,$,45,2,Parramatta,"Parramatta, Sydney",Sydney,2151,14,-33.7923890441,150.9977714717,0,0
+Wicks Park Cafe,"Cafe Food, Coffee and Tea",4.3,Very Good,317,$,45,2,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9094624685,151.1623078957,0,0
+Chez Sun,"French, Cafe Food, Coffee and Tea",4.3,Very Good,119,$,45,2,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8800488978,151.2150206789,0,1
+The Tea Cosy,"Desserts, Cafe Food, Coffee and Tea",4.3,Very Good,236,$,30,2,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8573387708,151.2087268755,0,0
+Harry's Bondi,"Coffee and Tea, Cafe Food",4.3,Very Good,184,$,85,3,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8886254944,151.2782815844,0,1
+Brasserie Bread,"Bakery, Cafe Food, Coffee and Tea",4.3,Very Good,225,$,40,2,Botany Bay,"Botany Bay, Sydney",Sydney,,14,-33.9593121036,151.2096391618,0,0
+Bambini Trust Wine Room,"Italian, Cafe Food, Coffee and Tea",4.3,Very Good,271,$,120,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8724070570,151.2101699039,0,1
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",4.3,Very Good,256,$,30,2,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9080286217,151.1628875881,0,0
+Vine And Grind,"Coffee and Tea, Cafe Food",4.3,Very Good,66,$,30,2,Liverpool,"Liverpool, Sydney",Sydney,2170,14,-33.9197340940,150.9243114665,0,0
+Coffee Alchemy,Coffee and Tea,4.3,Very Good,205,$,30,2,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9036281504,151.1671261489,0,0
+Bogota Coffee Mascot,"Cafe Food, Coffee and Tea",4.3,Very Good,65,$,40,2,Mascot,"Mascot, Sydney",Sydney,2020,14,-33.9306237196,151.1943006143,0,0
+Flower Child,"Bakery, Cafe Food, Coffee and Tea",4.2,Very Good,360,$,50,2,"Westfield Chatswood, Chatswood","Westfield Chatswood, Chatswood, Sydney",Sydney,,14,-33.7965024194,151.1840512231,0,0
+Auvers Cafe,"Cafe Food, Coffee and Tea",4.2,Very Good,166,$,60,3,Rhodes,"Rhodes, Sydney",Sydney,2138,14,-33.8283740449,151.0869711792,0,0
+Brewtown Newtown,"Cafe Food, Coffee and Tea",4.2,Very Good,1106,$,40,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8940996031,151.1823154986,0,0
+Cornersmith,"Coffee and Tea, Cafe Food",4.2,Very Good,516,$,55,2,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9125629788,151.1541248113,0,1
+KIN by us.,"Salad, Asian, Australian, Healthy Food, Vegetarian, Modern Australian, Cafe Food, Coffee and Tea",4.2,Very Good,342,$,40,2,Macquarie Park,"Macquarie Park, Sydney",Sydney,2113,14,-33.7792758013,151.1158094555,0,1
+Flour Drum Newtown,"Cafe Food, Coffee and Tea",4.2,Very Good,105,$,45,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.9035805660,151.1796262488,0,0
+The Fine Food Store,"Cafe Food, Coffee and Tea",4.2,Very Good,416,$,50,2,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8585554683,151.2086527795,0,0
+The Copper Mill,"Sandwich, Cafe Food, Coffee and Tea",4.2,Very Good,286,$,30,2,Alexandria,"Alexandria, Sydney",Sydney,2043,14,-33.9063665759,151.1884523928,0,0
+Bangbang Cafe,"Cafe Food, Coffee and Tea",4.2,Very Good,272,$,40,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8814314431,151.2123850733,0,0
+Cavalier Specialty Coffee,"Cafe Food, Coffee and Tea",4.2,Very Good,155,$,40,2,St Leonards,"St Leonards, Sydney",Sydney,2065,14,-33.8243476929,151.1983145401,0,0
+The Wooden Whisk,"Cafe Food, Coffee and Tea",4.2,Very Good,174,$,62,3,St Leonards,"St Leonards, Sydney",Sydney,,14,-33.8239402026,151.1987654865,0,0
+Shenkin Espresso Bar,"Cafe Food, Coffee and Tea",4.2,Very Good,319,$,30,2,Newtown,"Newtown, Sydney",Sydney,2043,14,-33.8956973232,151.1812365800,0,0
+Cafe Felix,"Coffee and Tea, Cafe Food",4.2,Very Good,287,$,50,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8930876890,151.1831422895,0,0
+Le Trader,"French, Healthy Food, Cafe Food, Coffee and Tea",4.2,Very Good,132,$,100,4,Pyrmont,"Pyrmont, Sydney",Sydney,2009,14,-33.8706758357,151.1946496368,0,0
+Cafe Kentaro,"Japanese, Fusion, Cafe Food, Coffee and Tea",4.2,Very Good,76,$,40,2,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8906853190,151.2147112191,0,0
+Room 10,"Cafe Food, Coffee and Tea",4.2,Very Good,159,$,40,2,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8724911257,151.2243021280,0,0
+John Montagu,"Sandwich, Cafe Food, Coffee and Tea",4.2,Very Good,135,$,40,2,Woolloomooloo,"Woolloomooloo, Sydney",Sydney,2011,14,-33.8726108260,151.2182721868,0,0
+The Reformatory Caffeine Lab,"Cafe Food, Coffee and Tea",4.2,Very Good,91,$,25,1,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8840943176,151.2100555748,0,0
+Welcome Dose,"Cafe Food, Coffee and Tea",4.2,Very Good,47,$,40,2,The Cannery Rosebery,"The Cannery Rosebery, Sydney",Sydney,2018,14,-33.9168625485,151.2028776482,0,0
+Monty's Sandwich Shop,"Coffee and Tea, Sandwich, Cafe Food",4.2,Very Good,58,$,25,1,Bondi Junction,"Bondi Junction, Sydney",Sydney,2022,14,-33.8923755013,151.2477476522,0,0
+Oh! Matcha,"Japanese, Cafe Food, Coffee and Tea",4.1,Very Good,737,$,25,1,"Regent Place Arcade, CBD","Regent Place Arcade, CBD, Sydney",Sydney,2000,14,-33.8748792547,151.2061221153,0,0
+Cafe Oratnek,"Japanese, Asian, Cafe Food, Coffee and Tea",4.1,Very Good,281,$,35,2,Redfern,"Redfern, Sydney",Sydney,,14,-33.8901039197,151.2042046711,0,0
+Celsius Coffee Co,"Cafe Food, Coffee and Tea",4.1,Very Good,295,$,50,2,Kirribilli,"Kirribilli, Sydney",Sydney,2061,14,-33.8495066663,151.2201882899,0,0
+Bread & Circus,"Coffee and Tea, Cafe Food",4.1,Very Good,538,$,60,3,Alexandria,"Alexandria, Sydney",Sydney,,14,-33.9022022755,151.1953848973,0,0
+Reuben Hills,"Cafe Food, Coffee and Tea",4.1,Very Good,1464,$,55,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8828782624,151.2110305578,0,0
+Orto Trading Co.,"Modern Australian, Cafe Food, Coffee and Tea",4.1,Very Good,530,$,60,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8865578269,151.2105601654,0,1
+Bowery Lane,Modern Australian,4.1,Very Good,529,$,80,3,"Wintergarden, CBD","Wintergarden, CBD, Sydney",Sydney,2000,14,-33.8649571832,151.2100837380,0,1
+Wild Pear Cafe,"Cafe Food, Coffee and Tea",4.1,Very Good,304,$,50,2,Dural,"Dural, Sydney",Sydney,2158,14,-33.6775347110,151.0262947530,0,0
+Four ate Five,"Cafe Food, Coffee and Tea",4.1,Very Good,550,$,55,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8881529050,151.2134502456,0,0
+Clipper Café,"Cafe Food, Coffee and Tea",4.1,Very Good,512,$,45,2,Glebe,"Glebe, Sydney",Sydney,2037,14,-33.8840698241,151.1923151091,0,0
+Joe Black,"Sandwich, Australian, Modern Australian, Coffee and Tea, Cafe Food",4.1,Very Good,266,$,30,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8779584757,151.2110486627,0,0
+Workshop Espresso,"Coffee and Tea, Cafe Food",4.1,Very Good,352,$,25,1,CBD,"CBD, Sydney",Sydney,2000,14,-33.8726183421,151.2068996206,0,0
+Indigo,"Modern Australian, Coffee and Tea, Cafe Food",4.1,Very Good,189,$,50,2,Double Bay,"Double Bay, Sydney",Sydney,2028,14,-33.8763977237,151.2440177053,0,0
+The Weston Eatery,"Cafe Food, Coffee and Tea",4.1,Very Good,108,$,50,2,Canley Vale,"Canley Vale, Sydney",Sydney,2166,14,-33.8872850927,150.9431268275,0,0
+Sub-Station Cafe,"Sandwich, Cafe Food, Coffee and Tea",4.1,Very Good,133,$,35,2,Alexandria,"Alexandria, Sydney",Sydney,,14,-33.9034378125,151.1956065148,0,0
+A Brewer's Tale Café,"Coffee and Tea, Cafe Food",4.1,Very Good,91,$,45,2,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8789872704,151.2192032486,0,1
+Gumption by Coffee Alchemy,Coffee and Tea,4.1,Very Good,190,$,20,1,"The Strand Arcade, CBD","The Strand Arcade, CBD, Sydney",Sydney,2000,14,-33.8695161010,151.2077361345,0,0
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",4.1,Very Good,225,$,30,2,Alexandria,"Alexandria, Sydney",Sydney,,14,-33.9210275237,151.1938322336,0,0
+The Rusty Rabbit,"Healthy Food, Burger, Australian, Modern Australian, Coffee and Tea, Cafe Food",4.1,Very Good,77,$,45,2,Burwood,"Burwood, Sydney",Sydney,,14,-33.8783445535,151.1024071276,0,0
+Roastville Coffee,"Cafe Food, Coffee and Tea",4.1,Very Good,82,$,45,2,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9078836497,151.1634169892,0,0
+Tripod Cafe,"Coffee and Tea, Modern Australian, Cafe Food",4.1,Very Good,131,$,40,2,Redfern,"Redfern, Sydney",Sydney,2008,14,-33.8915706303,151.1958120391,0,0
+Vargabar Espresso,"Cafe Food, Coffee and Tea",4.1,Very Good,210,$,60,3,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8968041045,151.1804278940,0,0
+Fleetwood Macchiato,"Cafe Food, Coffee and Tea",4.1,Very Good,154,$,45,2,Erskineville,"Erskineville, Sydney",Sydney,2043,14,-33.8993142771,151.1828522757,0,0
+Palomino Espresso,"Sandwich, Cafe Food, Coffee and Tea",4.1,Very Good,144,$,25,1,CBD,"CBD, Sydney",Sydney,2000,14,-33.8675253627,151.2059400603,0,0
+Espresso on Sussex Lane,"Cafe Food, Coffee and Tea",4.1,Very Good,32,$,45,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8663589038,151.2039119750,0,1
+Bertoni,"Italian, Coffee and Tea, Cafe Food",4.1,Very Good,96,$,90,3,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8574849425,151.1811131984,0,0
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",4.1,Very Good,41,$,30,2,Barangaroo,"Barangaroo, Sydney",Sydney,,14,-33.8647275049,151.2015647069,0,0
+La Piadina,"Italian, Pizza, Cafe Food, Coffee and Tea",4.1,Very Good,100,$,35,2,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8862730978,151.2735209987,0,0
+Swallow Coffee Traders,"Cafe Food, Coffee and Tea, Healthy Food, Juices, Sandwich, Tea, Vegan, Vegetarian",4.1,Very Good,68,$,30,2,Rockdale,"Rockdale, Sydney",Sydney,2216,14,-33.9527094448,151.1370927841,0,0
+The Grounds of the City,"Cafe Food, Coffee and Tea",4.0,Very Good,249,$,70,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8721350858,151.2069649994,0,0
+Haven Specialty Coffee,"Cafe Food, Coffee and Tea",4.0,Very Good,561,$,40,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8847792978,151.2071309611,0,1
+Bills,"Cafe Food, Coffee and Tea",4.0,Very Good,887,$,110,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8842059299,151.2141932175,0,1
+Concrete Jungle,"Cafe Food, Coffee and Tea",4.0,Very Good,157,$,55,2,Chippendale,"Chippendale, Sydney",Sydney,,14,-33.8852922639,151.2017843127,0,0
+The Paramount Coffee Project,"Cafe Food, Coffee and Tea",4.0,Very Good,755,$,50,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8793427250,151.2110409513,0,0
+Kusuka,"Fusion, Indonesian, Cafe Food, Coffee and Tea",4.0,Very Good,206,$,40,2,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8826464056,151.2034727633,0,0
+Cooh,"Healthy Food, Salad, Cafe Food, Salad, Coffee and Tea",4.0,Very Good,181,$,55,2,Alexandria,"Alexandria, Sydney",Sydney,2015,14,-33.9107849920,151.1956806108,0,1
+Cook & Archie's,"Modern Australian, Coffee and Tea, Cafe Food",4.0,Very Good,193,$,60,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8867000520,151.2076784670,0,1
+The Baron,"Australian, Cafe Food, Coffee and Tea",4.0,Very Good,258,$,50,2,Castle Hill,"Castle Hill, Sydney",Sydney,2154,14,-33.7316261204,151.0066267848,0,0
+Black Star Pastry,"Bakery, Desserts, Coffee and Tea",4.0,Very Good,254,$,30,2,The Cannery Rosebery,"The Cannery Rosebery, Sydney",Sydney,2018,14,-33.9175608986,151.2020270526,0,0
+The Rabbit Hole Organic Tea Bar,"Cafe Food, Coffee and Tea",4.0,Very Good,132,$,50,2,Redfern,"Redfern, Sydney",Sydney,2016,14,-33.8892767617,151.1986823380,0,0
+Earth to Table,"Healthy Food, Vegetarian, Vegan, Cafe Food, Coffee and Tea",4.0,Very Good,231,$,60,3,Bondi Junction,"Bondi Junction, Sydney",Sydney,2022,14,-33.8951351607,151.2503383309,0,0
+The Usual Cafe,"Cafe Food, Coffee and Tea",4.0,Very Good,147,$,35,2,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8939790980,150.9343600273,0,0
+Mentmore & Morley,"Cafe Food, Coffee and Tea",4.0,Very Good,122,$,45,2,Rosebery,"Rosebery, Sydney",Sydney,2018,14,-33.9161408213,151.2031009421,0,0
+Restaurant Hubert,"French, European",4.9,Excellent,290,$,150,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8653714379,151.2100612745,0,0
+Bare Grill,"Burger, Modern Australian, American",4.9,Excellent,168,$,50,2,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8827262891,151.2157921493,0,1
+KOI Dessert Bar,"Desserts, Modern Australian",4.7,Excellent,684,$,150,4,"Kensington Street, Chippendale","Kensington Street, Chippendale, Sydney",Sydney,2008,14,-33.8854523042,151.2018107995,0,1
+Chat Thai,"Thai, Salad",4.6,Excellent,1730,$,55,2,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8791322916,151.2063893303,0,1
+Mappen Noodle Restaurant,"Japanese, Asian",4.6,Excellent,1121,$,25,1,"SkyView Shopping Plaza, CBD","SkyView Shopping Plaza, CBD, Sydney",Sydney,2000,14,-33.8761872830,151.2060503662,0,0
+Chophouse,"Steak, Modern Australian",4.6,Excellent,676,$,130,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8655078520,151.2102721632,0,0
+Bistro Papillon,French,4.6,Excellent,433,$,80,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8678477368,151.2053704262,0,1
+Felix Bistro and Bar,French,4.6,Excellent,644,$,120,4,"Ivy, CBD","Ivy, CBD, Sydney",Sydney,2000,14,-33.8667208140,151.2078507990,0,0
+Mamak,Malaysian,4.5,Excellent,2268,$,70,3,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8774827653,151.2042291462,0,0
+Ms. G's,"Asian, Vietnamese, Salad",4.5,Excellent,1280,$,100,4,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8726626033,151.2225848436,0,0
+Ryo's,"Japanese, Ramen",4.5,Excellent,697,$,50,2,Crows Nest,"Crows Nest, Sydney",Sydney,2065,14,-33.8286483661,151.2065951899,0,0
+Kepos Street Kitchen,Middle Eastern,4.5,Excellent,681,$,55,2,Redfern,"Redfern, Sydney",Sydney,2016,14,-33.8971466834,151.2127589062,0,0
+Five Points Burgers,"Burger, American",4.5,Excellent,309,$,40,2,North Sydney,"North Sydney, Sydney",Sydney,2060,14,-33.8372646586,151.2089501694,0,0
+SaltVine,"Bar Food, Lebanese, Tapas",4.5,Excellent,70,$,80,3,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8900284961,151.2130995467,0,1
+Contessa Balmain,Modern Australian,4.5,Excellent,161,$,60,3,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8563893450,151.1776119098,0,0
+Cappello Pizzeria,"Italian, Pizza",4.5,Excellent,187,$,60,3,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8574601629,151.1925373972,0,1
+Il Grappolo,"Italian, Pizza",4.5,Excellent,130,$,100,4,Rozelle,"Rozelle, Sydney",Sydney,2039,14,-33.8606407974,151.1674084514,0,1
+Song Kitchen,"Mediterranean, Modern Australian",4.5,Excellent,34,$,50,2,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8773783814,151.2118667364,0,1
+Mr. Wong,"Cantonese, Chinese, Yum Cha",4.4,Very Good,1383,$,120,4,"Establishment, CBD","Establishment, CBD, Sydney",Sydney,2000,14,-33.8641846264,151.2081629410,0,0
+Ippudo,"Japanese, Ramen",4.4,Very Good,1626,$,70,3,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,2000,14,-33.8697905860,151.2090554461,0,0
+Home Thai,"Thai, Salad",4.4,Very Good,1180,$,60,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8746203746,151.2042267993,0,0
+Toko,Japanese,4.4,Very Good,1232,$,100,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8868712227,151.2136661634,0,1
+Nomad,Mediterranean,4.4,Very Good,552,$,105,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8798880123,151.2102503702,0,1
+Manpuku,"Japanese, Ramen",4.4,Very Good,227,$,30,2,Chatswood,"Chatswood, Sydney",Sydney,2067,14,-33.7946465072,151.1896318942,0,0
+Gojima,"Japanese, Burger",4.4,Very Good,214,$,55,2,"The Star, Pyrmont","The Star, Pyrmont, Sydney",Sydney,,14,-33.8692967351,151.1958334968,0,0
+Thai Pothong,Thai,4.4,Very Good,860,$,100,4,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8970356446,151.1795726046,0,1
+Hartsyard,American,4.4,Very Good,719,$,100,4,Enmore,"Enmore, Sydney",Sydney,2042,14,-33.8983244096,151.1768582091,0,0
+Malay Chinese Takeaway,"Chinese, Malaysian",4.4,Very Good,336,$,35,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8659282286,151.2095818296,0,0
+The Sultan's Table,"Turkish, Kebab",4.4,Very Good,565,$,50,2,Enmore,"Enmore, Sydney",Sydney,2042,14,-33.8988929517,151.1722310633,0,0
+Hugos Manly,"Modern Australian, Tapas",4.4,Very Good,430,$,130,4,"Manly Wharf, Manly","Manly Wharf, Manly, Sydney",Sydney,,14,-33.7998310355,151.2838096172,0,1
+Tan Viet Noodle House,"Asian, Vietnamese",4.4,Very Good,381,$,35,2,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8949517613,150.9341789782,0,0
+Bar H Dining,Japanese,4.4,Very Good,370,$,100,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8800923201,151.2098943070,0,1
+Bloodwood,Modern Australian,4.4,Very Good,574,$,100,4,Enmore,"Enmore, Sydney",Sydney,2042,14,-33.9000584093,151.1781275645,0,0
+Buffalo Dining Club,Italian,4.4,Very Good,460,$,70,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,02010,14,-33.8775595917,151.2219947577,0,0
+Phamish,Vietnamese,4.4,Very Good,512,$,75,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8781836648,151.2167859078,0,0
+Embers Mezze Bar,Lebanese,4.4,Very Good,238,$,100,4,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8786039790,151.2144621089,0,0
+Nourishing Quarter,"Vietnamese, Pho, Vegetarian, Vegan",4.4,Very Good,253,$,40,2,Surry Hills,"Surry Hills, Sydney",Sydney,2016,14,-33.8905556247,151.2094973400,0,1
+Inferno Grill & Cafe,"Burger, Sandwich",4.4,Very Good,111,$,65,3,Maroubra,"Maroubra, Sydney",Sydney,2035,14,-33.9435009643,151.2400567532,0,0
+Vina Vegan Restaurant,"Vietnamese, Vegetarian, Vegan",4.4,Very Good,141,$,45,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8999818815,151.1778429151,0,1
+Moim Japanese Kitchen,Japanese,4.4,Very Good,159,$,60,3,Kirrawee,"Kirrawee, Sydney",Sydney,2232,14,-34.0340611270,151.0712301359,0,0
+Masuya Japanese Seafood Restaurant,"Japanese, Hot Pot, Sushi",4.3,Very Good,608,$,80,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8650585199,151.2098124996,0,0
+Chefs Gallery,Chinese,4.3,Very Good,1519,$,70,3,"Regent Place Arcade, CBD","Regent Place Arcade, CBD, Sydney",Sydney,2000,14,-33.8745393700,151.2063722313,0,1
+Suminoya Japanese,Japanese BBQ,4.3,Very Good,389,$,80,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8671264300,151.2092029676,0,0
+Bar Luca,"Burger, Modern Australian",4.3,Very Good,453,$,60,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8638967601,151.2115200609,0,0
+Encasa,Spanish,4.3,Very Good,617,$,80,3,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8785321639,151.2072459608,0,1
+Miso Japanese Restaurant,Japanese,4.3,Very Good,458,$,60,3,"World Square, CBD","World Square, CBD, Sydney",Sydney,2000,14,-33.8775114360,151.2071618065,0,0
+Yulli's,"Australian, Asian, Vegan",4.3,Very Good,563,$,75,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8864456610,151.2137687579,0,0
+Belly Bao,"Asian, Taiwanese",4.3,Very Good,295,$,40,2,Newtown,"Newtown, Sydney",Sydney,2000,14,-33.8947402532,151.1826269701,0,0
+The Winery,Modern Australian,4.3,Very Good,1106,$,100,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8814180826,151.2143303454,0,1
+Longrain Restaurant,"Thai, Fusion",4.3,Very Good,1042,$,100,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8793830858,151.2109168991,0,1
+Bodega,"Latin American, Tapas",4.3,Very Good,807,$,80,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8835061933,151.2099184468,0,0
+Ayam Goreng 99,Indonesian,4.3,Very Good,372,$,40,2,Kingsford,"Kingsford, Sydney",Sydney,2032,14,-33.9223117529,151.2270933017,0,0
+Churrasco,"BBQ, Brazilian",4.3,Very Good,270,$,110,4,Coogee,"Coogee, Sydney",Sydney,,14,-33.9207150881,151.2556635216,0,0
+Do Dee Paidang Thai,"Thai, Asian, Vegetarian",4.3,Very Good,244,$,35,2,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8805716345,151.2030459568,0,0
+Fratelli Paradiso,Italian,4.3,Very Good,455,$,70,3,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8688994810,151.2253572419,0,0
+Malacca Straits on Broadway,"Asian, Malaysian",4.3,Very Good,316,$,40,2,"The Quadrant, Ultimo","The Quadrant, Ultimo, Sydney",Sydney,2007,14,-33.8839946735,151.1969663948,0,0
+Toriciya Japanese,"Japanese, Sushi",4.3,Very Good,240,$,100,4,Cammeray,"Cammeray, Sydney",Sydney,2062,14,-33.8229639449,151.2191519514,0,0
+Gigi Pizzeria,"Italian, Pizza, Vegan",4.3,Very Good,416,$,80,3,Enmore,"Enmore, Sydney",Sydney,2042,14,-33.8992486016,151.1777886003,0,0
+Claire's Kitchen at Le Salon,French,4.3,Very Good,319,$,120,4,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8777146362,151.2130666897,0,1
+Betty's Burgers and Concrete Co.,"Burger, American",4.3,Very Good,141,$,40,2,Darling Harbour,"Darling Harbour, Sydney",Sydney,,14,-33.8751938069,151.2009545043,0,0
+A Tavola,Italian,4.3,Very Good,429,$,90,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8780809519,151.2217650935,0,1
+Brown Sugar,"Mediterranean, Modern Australian",4.3,Very Good,316,$,115,4,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8881954883,151.2731568888,0,0
+Bare Grill,"Burger, Modern Australian, American",4.3,Very Good,127,$,50,2,La Perouse,"La Perouse, Sydney",Sydney,2036,14,-33.9881731819,151.2327299640,0,0
+The Rice Den,"Cantonese, Chinese",4.3,Very Good,265,$,80,3,St Leonards,"St Leonards, Sydney",Sydney,2065,14,-33.8219751417,151.1962693557,0,0
+Malabar,Indian,4.3,Very Good,262,$,80,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8761641791,151.2220410258,0,1
+Salmon & Bear,"Seafood, Poké",4.3,Very Good,135,$,65,3,"East Village Shopping Centre, Zetland","East Village Shopping Centre, Zetland, Sydney",Sydney,,14,-33.9068480000,151.2127710000,0,0
+Radio Cairo,"African, Caribbean, Indian, Sri Lankan",4.3,Very Good,313,$,60,3,Cremorne,"Cremorne, Sydney",Sydney,2090,14,-33.8285074369,151.2303055823,0,0
+Yang San Park,Korean BBQ,4.3,Very Good,153,$,40,2,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8772659251,151.2038643658,0,0
+Bishop Sessa,"European, Modern Australian",4.3,Very Good,230,$,150,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8897045359,151.2130653486,0,0
+Lucio Pizzeria,"Italian, Pizza",4.3,Very Good,282,$,75,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8781538808,151.2167346105,0,0
+LP's Quality Meats,Australian,4.3,Very Good,180,$,75,3,Chippendale,"Chippendale, Sydney",Sydney,2008,14,-33.8874996809,151.2007288635,0,0
+Masala Theory,Indian,4.3,Very Good,82,$,75,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8903741637,151.2129553780,0,1
+Mjølner,"BBQ, Modern Australian",4.3,Very Good,66,$,80,3,Redfern,"Redfern, Sydney",Sydney,,14,-33.8901754467,151.2075118348,0,0
+Bambini Trust Wine Room,"Italian, Cafe Food, Coffee and Tea",4.3,Very Good,271,$,120,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8724070570,151.2101699039,0,1
+Chester White Cured Diner,Italian,4.3,Very Good,106,$,80,3,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8718937350,151.2233442441,0,0
+Jasmins Lebanese Restaurant,Lebanese,4.3,Very Good,144,$,30,2,Lakemba,"Lakemba, Sydney",Sydney,2195,14,-33.9188513009,151.0762103275,0,0
+Big Bite on Pitt,Sandwich,4.3,Very Good,113,$,20,1,CBD,"CBD, Sydney",Sydney,2000,14,-33.8732488538,151.2086048350,0,0
+Sydney Madang,"Hot Pot, Korean BBQ, BBQ, Korean",4.2,Very Good,1035,$,50,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8761054449,151.2074695900,0,1
+Din Tai Fung,"Chinese, Taiwanese, Yum Cha",4.2,Very Good,2101,$,70,3,"World Square, CBD","World Square, CBD, Sydney",Sydney,2000,14,-33.8776386450,151.2067413703,0,1
+Masuya Suisan,"Sushi, Japanese",4.2,Very Good,335,$,80,3,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8796283123,151.2070763111,0,0
+Kanzo,"Japanese, Sushi",4.2,Very Good,291,$,40,2,Parramatta,"Parramatta, Sydney",Sydney,2150,14,-33.8139960000,151.0048100000,0,0
+Sushi Rio,"Japanese, Sushi",4.2,Very Good,440,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8761903450,151.2043263763,0,0
+The Potting Shed,Modern Australian,4.2,Very Good,428,$,65,3,"The Grounds of Alexandria, Alexandria","The Grounds of Alexandria, Alexandria, Sydney",Sydney,,14,-33.9114577932,151.1942962557,0,0
+Ze Pickle,"American, Burger",4.2,Very Good,127,$,55,2,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8840392072,151.2099948898,0,1
+Spice I Am,Thai,4.2,Very Good,706,$,60,3,Surry Hills,"Surry Hills, Sydney",Sydney,2000,14,-33.8794863538,151.2093280256,0,0
+Chat Thai,"Thai, Salad",4.2,Very Good,628,$,55,2,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,,14,-33.8698724302,151.2090812624,0,1
+Hurricane's Grill,"Steak, Modern Australian, Salad",4.2,Very Good,809,$,120,4,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8905116510,151.2746864185,0,0
+Sushi Hotaru,"Japanese, Sushi",4.2,Very Good,525,$,30,2,"The Galeries, CBD","The Galeries, CBD, Sydney",Sydney,2000,14,-33.8724969715,151.2079191953,0,0
+New Shanghai,"Chinese, Dumplings",4.2,Very Good,431,$,50,2,Ashfield,"Ashfield, Sydney",Sydney,2131,14,-33.8882778715,151.1244642735,0,0
+Jazushi,"Japanese, Sushi",4.2,Very Good,463,$,60,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8870348784,151.2094547600,0,0
+Busshari Authentic Japanese Restaurant,"Japanese, Sushi, Teriyaki",4.2,Very Good,240,$,50,2,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8725729673,151.2250256538,0,1
+Chiswick,Modern Australian,4.2,Very Good,505,$,110,4,Woollahra,"Woollahra, Sydney",Sydney,2025,14,-33.8859112705,151.2399407476,0,0
+Oiden Bowl Restaurant,"Japanese, Salad, Poké",4.2,Very Good,432,$,30,2,"SkyView Shopping Plaza, CBD","SkyView Shopping Plaza, CBD, Sydney",Sydney,2000,14,-33.8760656392,151.2061361969,0,0
+Ester,Modern Australian,4.2,Very Good,286,$,150,4,Chippendale,"Chippendale, Sydney",Sydney,2008,14,-33.8876182468,151.2008643150,0,1
+Chinese Noodle Restaurant,"Chinese, Vegetarian, Salad",4.2,Very Good,340,$,40,2,"Prince Centre, Chinatown","Prince Centre, Chinatown, Sydney",Sydney,2000,14,-33.8808190844,151.2038647011,0,0
+Pastizzi Cafe,"European, Italian",4.2,Very Good,333,$,65,3,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.9034241772,151.1796225607,0,0
+La Rosa The Strand,"Italian, Grill",4.2,Very Good,323,$,150,4,"The Strand Arcade, CBD","The Strand Arcade, CBD, Sydney",Sydney,2000,14,-33.8697204337,151.2076003477,0,0
+The Butler,"Contemporary, Modern Australian",4.2,Very Good,186,$,95,3,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8716434755,151.2228148431,0,1
+Tapavino,"Spanish, Tapas",4.2,Very Good,285,$,85,3,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8626609288,151.2092338130,0,1
+Il Baretto,Italian,4.2,Very Good,384,$,70,3,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8875962593,151.2153703719,0,0
+Tea Journal,Tea,4.0,Very Good,48,$,20,1,Chatswood,"Chatswood, Sydney",Sydney,,14,-33.7980066790,151.1810930818,0,0
+T Totaler,"Beverages, Tea",4.0,Very Good,39,$,12,1,"The Galeries, CBD","The Galeries, CBD, Sydney",Sydney,,14,-33.8724677423,151.2078209594,0,0
+Top Juice,"Juices, Healthy Food, Salad",3.8,Good,76,$,15,1,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,2000,14,-33.8703069827,151.2090631574,0,0
+No Fail Fruit And Bubble Tea,Bubble Tea,3.7,Good,21,$,20,1,CBD,"CBD, Sydney",Sydney,2000,14,-33.8776745529,151.2049372494,0,0
+Tea Shop Express,"Bubble Tea, Crepes, Tea",3.6,Good,36,$,10,1,"HSBC Centre, CBD","HSBC Centre, CBD, Sydney",Sydney,2000,14,-33.8743734635,151.2070598826,0,0
+Beau Tea,Beverages,3.6,Good,29,$,15,1,Cabramatta,"Cabramatta, Sydney",Sydney,,14,-33.8941135182,150.9355790913,0,0
+Teabags,Tea,3.6,Good,24,$,15,1,Canley Heights,"Canley Heights, Sydney",Sydney,2166,14,-33.8838769375,150.9255751222,0,0
+Cafe Nho,"Beverages, Desserts, Vietnamese, Coffee and Tea",3.4,Average,15,$,25,1,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8954282092,150.9358188137,0,0
+Gong Cha,Bubble Tea,3.4,Average,18,$,10,1,Cabramatta,"Cabramatta, Sydney",Sydney,,14,-33.8949715206,150.9359482303,0,0
+PaletTé,"Bubble Tea, Tea",3.3,Average,20,$,20,1,CBD,"CBD, Sydney",Sydney,,14,-33.8769104619,151.2057982385,0,0
+Chatime,Bubble Tea,3.3,Average,23,$,15,1,"Sussex Centre, Chinatown","Sussex Centre, Chinatown, Sydney",Sydney,2000,14,-33.8783195017,151.2039213628,0,0
+Chatime,Bubble Tea,3.3,Average,22,$,15,1,"Event Cinemas, CBD","Event Cinemas, CBD, Sydney",Sydney,2000,14,-33.8752976367,151.2063819543,0,0
+Stone & Peel,"Juices, Healthy Food",3.3,Average,16,$,30,2,"Chatswood Interchange, Chatswood","Chatswood Interchange, Chatswood, Sydney",Sydney,,14,-33.7968554311,151.1810116097,0,0
+Chatime,Bubble Tea,3.2,Average,19,$,15,1,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8952726403,150.9364900366,0,0
+ShareTea,Bubble Tea,3.2,Average,11,$,15,1,"Westfield Parramatta, Parramatta","Westfield Parramatta, Parramatta, Sydney",Sydney,,14,-33.8174047730,151.0032394901,0,0
+Cafe Nho,"Beverages, Desserts, Vietnamese, Coffee and Tea",3.2,Average,8,$,25,1,Canley Heights,"Canley Heights, Sydney",Sydney,,14,-33.8842137233,150.9273688495,0,0
+Gong Cha,Bubble Tea,3.2,Average,7,$,10,1,CBD,"CBD, Sydney",Sydney,,14,-33.8748260869,151.2066387758,0,0
+The Moment,Bubble Tea,3.1,Average,16,$,0,1,Chinatown,"Chinatown, Sydney",Sydney,,14,-33.8773995366,151.2047323957,0,0
+Top Juice,"Juices, Healthy Food",3.1,Average,10,$,15,1,"MLC Tower, CBD","MLC Tower, CBD, Sydney",Sydney,2000,14,-33.8680328648,151.2093970925,0,0
+Cafe Nho,"Beverages, Desserts, Vietnamese, Coffee and Tea",3.1,Average,11,$,25,1,Bankstown,"Bankstown, Sydney",Sydney,2200,14,-33.9184673540,151.0330743715,0,0
+Top Juice,"Juices, Healthy Food",3.1,Average,9,$,15,1,"Central Park, Chippendale","Central Park, Chippendale, Sydney",Sydney,2008,14,-33.8847804111,151.2005508319,0,0
+Chatime,Bubble Tea,3.1,Average,7,$,15,1,"Chatswood Chase, Chatswood","Chatswood Chase, Chatswood, Sydney",Sydney,,14,-33.7951221217,151.1862633750,0,0
+Crazy Ray's Beverage Depot,Juices,3.1,Average,6,$,15,1,Maroubra,"Maroubra, Sydney",Sydney,2035,14,-33.9465048368,151.2564319745,0,0
+Chatime,Bubble Tea,3.1,Average,10,$,15,1,Eastwood,"Eastwood, Sydney",Sydney,,14,-33.7915879675,151.0812458396,0,0
+Chatime,Bubble Tea,3.1,Average,5,$,15,1,"QVB, CBD","QVB, CBD, Sydney",Sydney,,14,-33.8726030316,151.2067075074,0,0
+Tamayaki,Japanese,3.0,Average,50,$,15,1,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8765043356,151.2038167566,0,0
+Coco,Bubble Tea,3.0,Average,16,$,10,1,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8838964210,151.2025869638,0,0
+Happy Cup,Beverages,3.0,Average,13,$,10,1,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8952122495,150.9383706003,0,0
+Boost Juice,"Juices, Beverages",3.0,Average,7,$,15,1,"The Galeries, CBD","The Galeries, CBD, Sydney",Sydney,2000,14,-33.8723419176,151.2075413391,0,0
+Sharetea,Bubble Tea,3.0,Average,11,$,15,1,Chinatown,"Chinatown, Sydney",Sydney,,14,-33.8784542249,151.2040350214,0,0
+Chatime,Bubble Tea,3.0,Average,13,$,15,1,Kingsford,"Kingsford, Sydney",Sydney,2032,14,-33.9200537669,151.2264177203,0,0
+Chatime,Bubble Tea,3.0,Average,11,$,15,1,"Central Station, Chinatown","Central Station, Chinatown, Sydney",Sydney,2000,14,-33.8839387281,151.2041892484,0,0
+Top Juice,"Juices, Healthy Food",3.0,Average,4,$,15,1,"Top Ryde Shopping Centre, Ryde","Top Ryde Shopping Centre, Ryde, Sydney",Sydney,,14,-33.8122240952,151.1061672494,0,0
+Chatime,Bubble Tea,3.0,Average,9,$,15,1,"Castle Towers, Castle Hill","Castle Towers, Castle Hill, Sydney",Sydney,,14,-33.7319704768,151.0044776648,0,0
+Chatime,Bubble Tea,3.0,Average,11,$,15,1,"World Square, CBD","World Square, CBD, Sydney",Sydney,,14,-33.8773945262,151.2066367641,0,0
+Durga Paan and Falooda House,Beverages,3.0,Average,10,$,0,1,Parramatta,"Parramatta, Sydney",Sydney,2150,14,-33.8218715257,151.0083608329,0,0
+Chatime,Bubble Tea,3.0,Average,9,$,15,1,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8797382604,151.2037574127,0,0
+Chatime,Bubble Tea,3.0,Average,5,$,15,1,T1 Sydney International Airport,"T1 Sydney International Airport, Sydney",Sydney,,14,-33.9374060000,151.1660490000,0,0
+Top Juice,"Juices, Healthy Food",3.0,Average,4,$,15,1,"World Square, CBD","World Square, CBD, Sydney",Sydney,2000,14,-33.8774616102,151.2069810927,0,0
+Chatime,Bubble Tea,3.0,Average,4,$,15,1,"Westfield Hurstville, Hurstville","Westfield Hurstville, Hurstville, Sydney",Sydney,2220,14,-33.9663358002,151.1056173965,0,0
+Chatime,Bubble Tea,3.0,Average,5,$,15,1,"Stockland Merrylands Shopping Centre, Holroyd","Stockland Merrylands Shopping Centre, Holroyd, Sydney",Sydney,2160,14,-33.8349286703,150.9895766527,0,0
+King-T,"Bubble Tea, Desserts",2.9,Average,8,$,10,1,Burwood,"Burwood, Sydney",Sydney,2134,14,-33.8778334941,151.1030176655,0,0
+Früt Marbled Juicery,Juices,2.9,Average,17,$,15,1,Burwood,"Burwood, Sydney",Sydney,2134,14,-33.8777975862,151.1035413668,0,0
+Teabags,Tea,2.9,Average,19,$,15,1,Cabramatta,"Cabramatta, Sydney",Sydney,,14,-33.8947163194,150.9341296926,0,0
+Top Juice,"Juices, Healthy Food",2.9,Average,9,$,15,1,"Broadway Shopping Centre, Glebe","Broadway Shopping Centre, Glebe, Sydney",Sydney,,14,-33.8837942717,151.1944900453,0,0
+Top Juice ,"Juices, Healthy Food",2.9,Average,4,$,15,1,"Castle Towers, Castle Hill","Castle Towers, Castle Hill, Sydney",Sydney,,14,-33.7298281952,151.0065852106,0,0
+Comebuy,Bubble Tea,2.9,Average,7,$,15,1,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8948905353,150.9367072955,0,0
+Top Juice,"Juices, Healthy Food",2.9,Average,5,$,15,1,"Westfield Eastgardens, Eastgardens","Westfield Eastgardens, Eastgardens, Sydney",Sydney,2036,14,-33.9447010000,151.2233750000,0,0
+Thanh Thuy,Juices,2.9,Average,4,$,10,1,Cabramatta,"Cabramatta, Sydney",Sydney,,14,-33.8953038098,150.9376202524,0,0
+Boost Juice,"Juices, Beverages",2.9,Average,5,$,15,1,"Macquarie Centre, Macquarie Park","Macquarie Centre, Macquarie Park, Sydney",Sydney,,14,-33.7768139360,151.1199474335,0,0
+Top Juice,"Juices, Healthy Food",2.9,Average,5,$,15,1,Hurstville,"Hurstville, Sydney",Sydney,2220,14,-33.9660621822,151.1052251235,0,0
+Top Juice,"Juices, Healthy Food",2.9,Average,9,$,15,1,"Westfield Chatswood, Chatswood","Westfield Chatswood, Chatswood, Sydney",Sydney,2067,14,-33.7968097374,151.1844401434,0,0
+Fresh Blend,Healthy Food,2.9,Average,7,$,35,2,Mosman,"Mosman, Sydney",Sydney,2088,14,-33.8309967804,151.2447398901,0,0
+Tenfourteen,Juices,2.9,Average,7,$,12,1,Kingsford,"Kingsford, Sydney",Sydney,2032,14,-33.9223871479,151.2267486379,0,0
+Gong Cha,Bubble Tea,2.9,Average,4,$,10,1,"The Galeries, CBD","The Galeries, CBD, Sydney",Sydney,,14,-33.8729070140,151.2072590366,0,0
+Thu Phung N,Beverages,2.9,Average,6,$,10,1,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8943255845,150.9370834753,0,0
+De Juice,Juices,2.9,Average,4,$,20,1,"Dixon House Food Court, CBD","Dixon House Food Court, CBD, Sydney",Sydney,,14,-33.8788940225,151.2041979656,0,0
+Boost Juice,"Juices, Beverages",2.9,Average,4,$,15,1,"Broadway Shopping Centre, Glebe","Broadway Shopping Centre, Glebe, Sydney",Sydney,,14,-33.8837789632,151.1947844178,0,0
+Crush Juice Bar,Juices,2.9,Average,5,$,20,1,"Colonial Centre, CBD","Colonial Centre, CBD, Sydney",Sydney,,14,-33.8672801014,151.2109316513,0,0
+Top Juice,"Juices, Healthy Food",2.8,Average,7,$,15,1,"DFO Homebush, Homebush","DFO Homebush, Homebush, Sydney",Sydney,2140,14,-33.8550411978,151.0772225261,0,0
+Top Juice,"Juices, Healthy Food",2.8,Average,5,$,15,1,"East Village Shopping Centre, Zetland","East Village Shopping Centre, Zetland, Sydney",Sydney,,14,-33.9050670000,151.2131790000,0,0
+ShareTea,Bubble Tea,2.8,Average,4,$,15,1,"Westfield Liverpool, Liverpool","Westfield Liverpool, Liverpool, Sydney",Sydney,,14,-33.9188707764,150.9243272245,0,0
+Chatime,Bubble Tea,2.8,Average,4,$,15,1,"Broadway Shopping Centre, Glebe","Broadway Shopping Centre, Glebe, Sydney",Sydney,,14,-33.8838944727,151.1942637339,0,0
+Boost Juice,"Juices, Beverages",2.8,Average,4,$,15,1,"World Square, CBD","World Square, CBD, Sydney",Sydney,,14,-33.8769970313,151.2063866481,0,0
+Gong Cha,Bubble Tea,2.8,Average,5,$,10,1,Kingsford,"Kingsford, Sydney",Sydney,2032,14,-33.9216676932,151.2266772240,0,0
+Boost Juice,"Juices, Beverages",2.8,Average,4,$,15,1,"Westfield Bondi Junction, Bondi Junction","Westfield Bondi Junction, Bondi Junction, Sydney",Sydney,,14,-33.8916151600,151.2501727045,0,0
+Boost Juice,"Juices, Beverages",2.8,Average,5,$,15,1,Blacktown,"Blacktown, Sydney",Sydney,,14,-33.7701712285,150.9059031308,0,0
+Pressed Juices,Juices,2.8,Average,4,$,20,1,"MLC Tower, CBD","MLC Tower, CBD, Sydney",Sydney,2000,14,-33.8685637483,151.2090722099,0,0
+Jane's Juice,Juices,2.8,Average,4,$,20,1,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8748272004,151.2224175409,0,0
+Juice Circle,"Juices, Beverages",2.8,Average,4,$,20,1,"Westfield Miranda, Miranda","Westfield Miranda, Miranda, Sydney",Sydney,,14,-34.0352636316,151.1020772159,0,0
+Boost Juice,"Juices, Beverages",2.8,Average,4,$,15,1,"Westfield Miranda, Miranda","Westfield Miranda, Miranda, Sydney",Sydney,,14,-34.0351752781,151.1022425070,0,0
+Chatime,Bubble Tea,2.7,Average,9,$,15,1,"Strathfield Plaza, Strathfield","Strathfield Plaza, Strathfield, Sydney",Sydney,2135,14,-33.8729663071,151.0942227021,0,0
+Sharetea,Bubble Tea,2.7,Average,8,$,15,1,"Westfield Hurstville, Hurstville","Westfield Hurstville, Hurstville, Sydney",Sydney,,14,-33.9673732604,151.1035520956,0,0
+Beau Tea,Beverages,2.7,Average,5,$,15,1,Chatswood,"Chatswood, Sydney",Sydney,,14,-33.7964765077,151.1824197695,0,0
+EasyWay Tea,Bubble Tea,2.7,Average,7,$,15,1,"Macquarie Centre, Macquarie Park","Macquarie Centre, Macquarie Park, Sydney",Sydney,,14,-33.7769295901,151.1200805381,0,0
+Sexy Tea,"Tea, Chinese",2.7,Average,7,$,0,1,Burwood,"Burwood, Sydney",Sydney,,14,-33.8787907538,151.1029197648,0,0
+ShareTea,Bubble Tea,2.7,Average,5,$,15,1,"SkyView Shopping Plaza, CBD","SkyView Shopping Plaza, CBD, Sydney",Sydney,,14,-33.8760275037,151.2061247975,0,0
+ShareTea,Bubble Tea,2.7,Average,4,$,15,1,Eastwood,"Eastwood, Sydney",Sydney,,14,-33.7906837869,151.0805846751,0,0
+Sharetea,Bubble Tea,2.7,Average,7,$,15,1,"UNSW Campus, Kensington","UNSW Campus, Kensington, Sydney",Sydney,,14,-33.9156525252,151.2280867249,0,0
+Chatime,Bubble Tea,2.7,Average,9,$,15,1,"Westfield Bondi Junction, Bondi Junction","Westfield Bondi Junction, Bondi Junction, Sydney",Sydney,,14,-33.8928539118,151.2501757219,0,0
+Gong Cha,Bubble Tea,2.7,Average,5,$,10,1,Burwood,"Burwood, Sydney",Sydney,2134,14,-33.8749162773,151.1041676626,0,0
+ShareTea,Bubble Tea,2.7,Average,6,$,15,1,Cabramatta,"Cabramatta, Sydney",Sydney,,14,-33.8946233669,150.9368326888,0,0
+OneZo Handcrafted Tea,Bubble Tea,2.7,Average,4,$,0,1,Cabramatta,"Cabramatta, Sydney",Sydney,,14,-33.8950508360,150.9347814694,0,0
+Pressed Juices,Juices,2.7,Average,5,$,20,1,Bondi Beach,"Bondi Beach, Sydney",Sydney,,14,-33.8909424804,151.2736587971,0,0
+Coco,Bubble Tea,2.6,Average,9,$,10,1,CBD,"CBD, Sydney",Sydney,,14,-33.8777986997,151.2054770440,0,0
+EasyWay Tea,Bubble Tea,2.6,Average,5,$,15,1,"Westfield Hurstville, Hurstville","Westfield Hurstville, Hurstville, Sydney",Sydney,2220,14,-33.9658436208,151.1054966971,0,0
+Fresh & Juicy,"Juices, Ice Cream",2.6,Average,5,$,15,1,Maroubra,"Maroubra, Sydney",Sydney,,14,-33.9461262991,151.2564618141,0,0
+Gong Cha,Bubble Tea,2.6,Average,4,$,10,1,"Macquarie Centre, Macquarie Park","Macquarie Centre, Macquarie Park, Sydney",Sydney,2113,14,-33.7769059019,151.1201737449,0,0
+Gong Cha,Bubble Tea,2.6,Average,4,$,10,1,Ashfield,"Ashfield, Sydney",Sydney,2131,14,-33.8885400500,151.1255988479,0,0
+Gong Cha,Bubble Tea,2.5,Average,11,$,10,1,"Lemon Grove Shopping Centre, Chatswood","Lemon Grove Shopping Centre, Chatswood, Sydney",Sydney,2067,14,-33.7963026482,151.1823473498,0,0
+Comebuy,Bubble Tea,2.5,Average,12,$,15,1,"Hurstville Central, Hurstville ","Hurstville Central, Hurstville , Sydney",Sydney,,14,-33.9677519817,151.1025278270,0,0
+Top Juice,"Juices, Healthy Food",2.5,Average,11,$,15,1,"Macquarie Centre, Macquarie Park","Macquarie Centre, Macquarie Park, Sydney",Sydney,2113,14,-33.7766294465,151.1207993701,0,0
+Chatime,Bubble Tea,2.5,Average,18,$,15,1,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,,14,-33.8704236240,151.2076258287,0,0
+Black Ball,Beverages,2.5,Average,12,$,15,1,Hurstville,"Hurstville, Sydney",Sydney,,14,-33.9677058234,151.1044784635,0,0
+Holy Shake,Beverages,2.4,Poor,20,$,10,1,Chinatown,"Chinatown, Sydney",Sydney,,14,-33.8786590929,151.2057586759,0,0
+Gong Cha,Bubble Tea,2.4,Poor,10,$,10,1,"Westfield Chatswood, Chatswood","Westfield Chatswood, Chatswood, Sydney",Sydney,,14,-33.7965709601,151.1840254068,0,0
+Gong Cha,Bubble Tea,2.4,Poor,11,$,10,1,Chinatown,"Chinatown, Sydney",Sydney,,14,-33.8831699614,151.2073555961,0,0
+Gong Cha,Bubble Tea,2.4,Poor,8,$,10,1,"Eastwood Shopping Centre, Eastwood","Eastwood Shopping Centre, Eastwood, Sydney",Sydney,,14,-33.7917414962,151.0811864957,0,0
+Chatime,Bubble Tea,2.3,Poor,12,$,15,1,"MetCentre, CBD","MetCentre, CBD, Sydney",Sydney,2000,14,-33.8650178739,151.2063266337,0,0
+Waterside Fruit Connection,Beverages,0,Not rated,3,$,15,1,Pyrmont,"Pyrmont, Sydney",Sydney,,14,-33.8735049543,151.1924099922,0,0
+Gumshara Ramen,"Ramen, Japanese",4.2,Very Good,1021,$,35,2,"Harbour Plaza, Chinatown","Harbour Plaza, Chinatown, Sydney",Sydney,2000,14,-33.8776069123,151.2035361305,0,0
+Ito's Malaysian,Malaysian,4.2,Very Good,60,$,35,2,"Foodbase, CBD","Foodbase, CBD, Sydney",Sydney,2000,14,-33.8735375236,151.2096710131,0,0
+Rice Workshop,Japanese,4.0,Very Good,273,$,20,1,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,,14,-33.8699183631,151.2090648338,0,0
+Din Tai Fung,"Chinese, Taiwanese, Yum Cha",4.0,Very Good,173,$,70,3,"The Star, Pyrmont","The Star, Pyrmont, Sydney",Sydney,2009,14,-33.8689788206,151.1955270544,0,0
+Ichi-ban Boshi,"Japanese, Ramen",3.9,Good,599,$,30,2,"The Galeries, CBD","The Galeries, CBD, Sydney",Sydney,2000,14,-33.8721812959,151.2074451149,0,0
+Din Tai Fung,"Chinese, Taiwanese, Yum Cha",3.9,Good,381,$,70,3,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,2000,14,-33.8703083746,151.2092529237,0,0
+Chat Thai,"Thai, Salad",3.9,Good,262,$,55,2,"The Galeries, CBD","The Galeries, CBD, Sydney",Sydney,2000,14,-33.8722018956,151.2073307857,0,0
+Peter's Seafood,Seafood,3.9,Good,88,$,65,3,"Sydney Fish Market, Pyrmont","Sydney Fish Market, Pyrmont, Sydney",Sydney,,14,-33.8732747422,151.1921803281,0,0
+Sabbaba,"Middle Eastern, Vegetarian",3.9,Good,72,$,40,2,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,2000,14,-33.8699228172,151.2091057375,0,0
+Alice's Makan,"Malaysian, Satay, Street Food, Desserts",3.8,Good,126,$,25,1,"Pavilion On George, CBD","Pavilion On George, CBD, Sydney",Sydney,2000,14,-33.8747219782,151.2070427835,0,0
+Happy Chef - Sussex Centre,"Asian, Dumplings",3.8,Good,53,$,40,2,"Sussex Centre, Chinatown","Sussex Centre, Chinatown, Sydney",Sydney,2000,14,-33.8782507482,151.2044715509,0,0
+Top Juice,"Juices, Healthy Food, Salad",3.8,Good,76,$,15,1,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,2000,14,-33.8703069827,151.2090631574,0,0
+Gozleme Turkish house,Turkish,3.8,Good,38,$,20,1,"Birkenhead Point Shopping Centre, Drummoyne","Birkenhead Point Shopping Centre, Drummoyne, Sydney",Sydney,2047,14,-33.8557294738,151.1634900793,0,0
+Grill'd - World Square,Burger,3.7,Good,158,$,50,2,"World Square, CBD","World Square, CBD, Sydney",Sydney,,14,-33.8776606351,151.2069639936,0,0
+Sassy's Red,Malaysian,3.7,Good,113,$,40,2,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,2000,14,-33.8699161361,151.2091090903,0,0
+Grape Garden Beijing Cuisine,Chinese,3.7,Good,67,$,30,2,"Lemon Grove Shopping Centre, Chatswood","Lemon Grove Shopping Centre, Chatswood, Sydney",Sydney,,14,-33.7961148572,151.1822377145,0,0
+Ribs & Burgers,"BBQ, Burger",3.7,Good,67,$,70,3,"The Star, Pyrmont","The Star, Pyrmont, Sydney",Sydney,2009,14,-33.8691759166,151.1956832930,0,0
+Sayong Curry & Laksa,Malaysian,3.7,Good,36,$,30,2,Pittsway Arcade,"Pittsway Arcade, Sydney",Sydney,2000,14,-33.8736051674,151.2079064548,0,0
+CBD Cakes by Alexander's Patisserie,"Desserts, Bakery",3.7,Good,28,$,25,1,"MLC Tower, CBD","MLC Tower, CBD, Sydney",Sydney,2000,14,-33.8687366257,151.2092361599,0,0
+Harry's Cafe de Wheels,"Meat Pie, Fast Food",3.6,Good,87,$,30,2,"Capitol Square, Chinatown","Capitol Square, Chinatown, Sydney",Sydney,2000,14,-33.8798445898,151.2056661397,0,0
+Sushi Hub,"Sushi, Japanese",3.6,Good,44,$,30,2,"The Galeries, CBD","The Galeries, CBD, Sydney",Sydney,,14,-33.8706104166,151.2069254369,0,0
+Guzman Y Gomez,Mexican,3.6,Good,77,$,25,1,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,2000,14,-33.8702373877,151.2090467289,0,0
+Guzman Y Gomez,Mexican,3.6,Good,60,$,25,1,"Australia Square Food Court, CBD","Australia Square Food Court, CBD, Sydney",Sydney,2000,14,-33.8651097450,151.2083232030,0,0
+David's Kitchen,"Malaysian, Thai",3.6,Good,24,$,55,2,"The Passage, CBD","The Passage, CBD, Sydney",Sydney,2000,14,-33.8762195729,151.2085035816,0,0
+East West Gourmet,"Asian, Chinese",3.6,Good,38,$,40,2,"Mandarin Centre, Chatswood","Mandarin Centre, Chatswood, Sydney",Sydney,,14,-33.7979386968,151.1823999882,0,0
+Momiji Japanese Takeaway,Japanese,3.6,Good,20,$,30,2,Pittsway Arcade,"Pittsway Arcade, Sydney",Sydney,2000,14,-33.8735430910,151.2078809738,0,0
+Four Frogs Creperie,"French, Crepes",3.5,Good,80,$,60,3,"Gateway, Circular Quay","Gateway, Circular Quay, Sydney",Sydney,,14,-33.8618691410,151.2099033594,0,0
+Madame Nhu,"Vietnamese, Pho",3.5,Good,110,$,35,2,"The Galeries, CBD","The Galeries, CBD, Sydney",Sydney,2000,14,-33.8722684269,151.2073096633,0,0
+Nicholas Seafood,"Seafood, Fish and Chips",3.5,Good,58,$,60,3,"Sydney Fish Market, Pyrmont","Sydney Fish Market, Pyrmont, Sydney",Sydney,2009,14,-33.8734481669,151.1923010275,0,0
+Burger Project,"Burger, American",3.5,Good,61,$,45,2,"MLC Tower, CBD","MLC Tower, CBD, Sydney",Sydney,2000,14,-33.8678881031,151.2094436958,0,0
+Victoria Noodle Restaurant,Chinese,3.5,Good,44,$,40,2,Chatswood,"Chatswood, Sydney",Sydney,,14,-33.7955603979,151.1856115982,0,0
+Poke Bros.,Poké,3.5,Good,49,$,45,2,Cabramatta Plaza,"Cabramatta Plaza, Sydney",Sydney,,14,-33.8936523697,150.9383320436,0,0
+Belles Hot Chicken,American,3.5,Good,42,$,45,2,"Tramsheds, Harold Park","Tramsheds, Harold Park, Sydney",Sydney,2037,14,-33.8765455329,151.1785899103,0,1
+Crisp CBD,"Burger, Sandwich, Healthy Food, Salad",3.5,Good,65,$,40,2,"The Passage, CBD","The Passage, CBD, Sydney",Sydney,2000,14,-33.8759679343,151.2085857242,0,0
+Mad Mex,Mexican,3.5,Good,59,$,30,2,"Macquarie Centre, Macquarie Park","Macquarie Centre, Macquarie Park, Sydney",Sydney,,14,-33.7762704991,151.1193670705,0,0
+Samosorn,"Thai, Salad",3.5,Good,44,$,60,3,"Westfield Sydney Central Plaza, CBD","Westfield Sydney Central Plaza, CBD, Sydney",Sydney,2000,14,-33.8700606159,151.2080603465,0,0
+Pho 76,"Chinese, Vietnamese, Pho",3.5,Good,39,$,35,2,"Stockland Wetherill Park Shopping Centre, Wetherill Park","Stockland Wetherill Park Shopping Centre, Wetherill Park, Sydney",Sydney,,14,-33.8591159229,150.8990443870,0,0
+Din Tai Fung,"Chinese, Taiwanese, Yum Cha",3.5,Good,16,$,70,3,"Broadway Shopping Centre, Glebe","Broadway Shopping Centre, Glebe, Sydney",Sydney,,14,-33.8837650464,151.1939495802,0,0
+Bang Luck - Spice Alley,Thai,3.5,Good,30,$,25,1,"Kensington Street, Chippendale","Kensington Street, Chippendale, Sydney",Sydney,2008,14,-33.8850133755,151.2016619369,0,0
+CBD Noodle,Asian,3.5,Good,41,$,40,2,"Wintergarden, CBD","Wintergarden, CBD, Sydney",Sydney,2000,14,-33.8645170355,151.2100210413,0,0
+Saigon Pho,"Vietnamese, Pho",3.5,Good,39,$,35,2,"Sussex Centre, Chinatown","Sussex Centre, Chinatown, Sydney",Sydney,2000,14,-33.8782423976,151.2045101076,0,0
+Guzman Y Gomez,Mexican,3.5,Good,32,$,25,1,"MLC Tower, CBD","MLC Tower, CBD, Sydney",Sydney,2000,14,-33.8682461094,151.2092465535,0,0
+North Sandwiches,Sandwich,3.5,Good,29,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8646556781,151.2079500407,0,0
+Uni Bros,"Pizza, Middle Eastern, Turkish, Burger",3.5,Good,19,$,35,2,"Wentworth Building, Newton","Wentworth Building, Newton, Sydney",Sydney,2008,14,-33.8895339274,151.1910222843,0,0
+Stir Crazy Noodle Bar,Asian,3.5,Good,26,$,40,2,Penrith,"Penrith, Sydney",Sydney,2750,14,-33.7512789896,150.6945624948,0,0
+Guzman Y Gomez,Mexican,3.5,Good,17,$,25,1,"Greenwood Plaza, North Sydney","Greenwood Plaza, North Sydney, Sydney",Sydney,2060,14,-33.8405334870,151.2077857554,0,0
+Thr1ve,Healthy Food,3.4,Average,98,$,50,2,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,,14,-33.8704071995,151.2092173845,0,0
+Ichi-Ban Boshi Express,Japanese,3.4,Average,64,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8722127522,151.2074471265,0,0
+Zeus,Greek,3.4,Average,39,$,55,2,"Broadway Shopping Centre, Glebe","Broadway Shopping Centre, Glebe, Sydney",Sydney,,14,-33.8838574540,151.1947327852,0,0
+DoDee Chatswood,Thai,3.4,Average,29,$,30,2,"Westfield Chatswood, Chatswood","Westfield Chatswood, Chatswood, Sydney",Sydney,,14,-33.7970847346,151.1837974191,0,0
+Yang Guo Fu Malatang,Chinese,3.4,Average,23,$,35,2,"Dixon House Food Court, CBD","Dixon House Food Court, CBD, Sydney",Sydney,2000,14,-33.8788859503,151.2042760849,0,0
+Flying Fish and Chips,Fish and Chips,3.4,Average,49,$,60,3,"The Star, Pyrmont","The Star, Pyrmont, Sydney",Sydney,,14,-33.8690303217,151.1954392120,0,0
+Taste Of Cho,Taiwanese,3.4,Average,31,$,30,2,"Market City, Chinatown","Market City, Chinatown, Sydney",Sydney,2000,14,-33.8796611576,151.2034989148,0,0
+Costi's Fish & Chips,"Seafood, Fish and Chips, Healthy Food",3.4,Average,39,$,30,2,"Greenwood Plaza, North Sydney","Greenwood Plaza, North Sydney, Sydney",Sydney,2060,14,-33.8404463236,151.2078970671,0,0
+Schnitz,"European, Burger",3.4,Average,23,$,60,3,"World Square, CBD","World Square, CBD, Sydney",Sydney,2000,14,-33.8763353710,151.2069928274,0,0
+Hokkaido Cheese Tart,Desserts,3.4,Average,14,$,10,1,"Macquarie Centre, Macquarie Park","Macquarie Centre, Macquarie Park, Sydney",Sydney,,14,-33.7769192788,151.1200211942,0,0
+Luxe,"Cafe Food, Coffee and Tea",3.4,Average,23,$,40,2,"Westfield Miranda, Miranda","Westfield Miranda, Miranda, Sydney",Sydney,,14,-34.0340730743,151.1001145095,0,0
+Soul Origin,"Healthy Food, Salad, Coffee and Tea",3.4,Average,17,$,35,2,"Westfield Hurstville, Hurstville","Westfield Hurstville, Hurstville, Sydney",Sydney,2220,14,-33.9668477193,151.1038561910,0,0
+Blackwattle Deli,"Cafe Food, Coffee and Tea",3.4,Average,15,$,20,1,"Sydney Fish Market, Pyrmont","Sydney Fish Market, Pyrmont, Sydney",Sydney,,14,-33.8734534559,151.1923905462,0,0
+Soul Origin,"Healthy Food, Salad, Coffee and Tea",3.4,Average,19,$,35,2,"Greenwood Plaza, North Sydney","Greenwood Plaza, North Sydney, Sydney",Sydney,2060,14,-33.8399394930,151.2075513974,0,0
+Iku Wholefood,"Healthy Food, Cafe Food, Coffee and Tea",3.4,Average,25,$,30,2,"MetCentre, CBD","MetCentre, CBD, Sydney",Sydney,2000,14,-33.8650432081,151.2064121291,0,0
+Iku Wholefood,"Healthy Food, Cafe Food, Coffee and Tea",3.4,Average,17,$,30,2,"MLC Tower, CBD","MLC Tower, CBD, Sydney",Sydney,2000,14,-33.8678989602,151.2094390020,0,0
+Charlie & Co. Burgers,Burger,3.3,Average,408,$,45,2,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,2000,14,-33.8703186747,151.2092804164,0,0
+Arisun World Square,"Asian, Korean",3.3,Average,91,$,60,3,"World Square, CBD","World Square, CBD, Sydney",Sydney,2000,14,-33.8767431681,151.2071121857,0,0
+Chum Tang,Thai,3.3,Average,64,$,60,3,"Chatswood Interchange, Chatswood","Chatswood Interchange, Chatswood, Sydney",Sydney,2067,14,-33.7973165451,151.1809452251,0,0
+Christie's Seafood Excellence,Seafood,3.3,Average,56,$,50,2,"Sydney Fish Market, Pyrmont","Sydney Fish Market, Pyrmont, Sydney",Sydney,2009,14,-33.8731149574,151.1921233311,0,0
+Lok Lok Dumpling Bar,"Chinese, Taiwanese, Dumplings",3.3,Average,52,$,30,2,"Rhodes Waterside, Rhodes","Rhodes Waterside, Rhodes, Sydney",Sydney,2138,14,-33.8344663665,151.0853754357,0,0
+District 8,Asian,3.3,Average,16,$,50,2,"Cabra-Vale Diggers, Canley Vale","Cabra-Vale Diggers, Canley Vale, Sydney",Sydney,2166,14,-33.8899040888,150.9397948533,0,0
+Chachu's,Indian,3.3,Average,49,$,20,1,"Westfield Chatswood, Chatswood","Westfield Chatswood, Chatswood, Sydney",Sydney,,14,-33.7967601431,151.1842342839,0,0
+Zeus,Greek,3.3,Average,32,$,55,2,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,,14,-33.8699567798,151.2090960145,0,0
+Ramen O-San,Ramen,3.3,Average,28,$,30,2,Chinatown,"Chinatown, Sydney",Sydney,,14,-33.8782348820,151.2044162303,0,0
+My Donut Box,Desserts,3.3,Average,17,$,35,2,"Broadway Shopping Centre, Glebe","Broadway Shopping Centre, Glebe, Sydney",Sydney,,14,-33.8837324811,151.1944561824,0,0
+Soul Origin,"Healthy Food, Salad, Coffee and Tea",3.3,Average,18,$,35,2,"Westfield Parramatta, Parramatta","Westfield Parramatta, Parramatta, Sydney",Sydney,,14,-33.8176058878,151.0015952960,0,0
+Crafty Cuts Roastery,American,3.3,Average,21,$,40,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8680083667,151.2092539296,0,0
+Croutons Soup Bar,Healthy Food,3.3,Average,24,$,35,2,"MetCentre, CBD","MetCentre, CBD, Sydney",Sydney,2000,14,-33.8645933168,151.2066900730,0,0
+Grill'd - Broadway,Burger,3.3,Average,16,$,50,2,"Broadway Shopping Centre, Glebe","Broadway Shopping Centre, Glebe, Sydney",Sydney,,14,-33.8835468305,151.1943609640,0,0
+Hero Sushi,"Sushi, Japanese",3.3,Average,13,$,35,2,"Gateway, Circular Quay","Gateway, Circular Quay, Sydney",Sydney,2000,14,-33.8620411968,151.2099486217,0,0
+Wok 'n' Roll Noodle Bar,Chinese,3.3,Average,13,$,30,2,"Carlingford Court Shopping Centre, Carlingford","Carlingford Court Shopping Centre, Carlingford, Sydney",Sydney,2118,14,-33.7768788695,151.0525488854,0,0
+Bangkok Wok,"Thai, Asian, Fast Food, Salad, Satay, Seafood, Street Food",3.3,Average,14,$,20,1,"Hunter Connection, CBD","Hunter Connection, CBD, Sydney",Sydney,2000,14,-33.8660635282,151.2078880146,0,0
+Bar Fino,"Modern Australian, Cafe Food, Coffee and Tea",3.3,Average,17,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8685737702,151.2095238268,0,0
+Soul Origin,"Healthy Food, Salad, Coffee and Tea",3.3,Average,14,$,35,2,"Marrickville Metro Shopping Centre, Marrickville","Marrickville Metro Shopping Centre, Marrickville, Sydney",Sydney,2204,14,-33.9064024717,151.1715548113,0,0
+Spice Boys @ Hunter Connection,"Indian, Nepalese",3.3,Average,7,$,30,2,"Hunter Connection, CBD","Hunter Connection, CBD, Sydney",Sydney,2000,14,-33.8662183152,151.2079590932,0,0
+Aqua S,"Desserts, Ice Cream",3.2,Average,45,$,15,1,"Macquarie Centre, Macquarie Park","Macquarie Centre, Macquarie Park, Sydney",Sydney,2113,14,-33.7775608078,151.1205143854,0,0
+Old Jim Kee - Spice Alley,Malaysian,3.2,Average,24,$,35,2,"Kensington Street, Chippendale","Kensington Street, Chippendale, Sydney",Sydney,2008,14,-33.8848764359,151.2016857415,0,0
+Yatai Ozeki,Japanese,3.2,Average,25,$,20,1,Macquarie Park,"Macquarie Park, Sydney",Sydney,,14,-33.7769736222,151.1198803783,0,0
+1Ton Noodle,"Asian, Chinese",3.2,Average,20,$,25,1,"Chatswood Interchange, Chatswood","Chatswood Interchange, Chatswood, Sydney",Sydney,2067,14,-33.7971853159,151.1807906628,0,0
+Lok Lok Dumpling Bar,"Chinese, Taiwanese, Dumplings",3.2,Average,17,$,30,2,"Westfield Parramatta, Parramatta","Westfield Parramatta, Parramatta, Sydney",Sydney,2150,14,-33.8171309554,151.0014437512,0,0
+Pasta Pantry,Italian,3.2,Average,11,$,60,3,"Westfield Bondi Junction, Bondi Junction","Westfield Bondi Junction, Bondi Junction, Sydney",Sydney,,14,-33.8912408313,151.2516140565,0,0
+Sushi Bar at the Fish Market,"Japanese, Sushi",3.2,Average,21,$,30,2,"Sydney Fish Market, Pyrmont","Sydney Fish Market, Pyrmont, Sydney",Sydney,2009,14,-33.8733151059,151.1922353134,0,0
+Workshop Espresso,"Coffee and Tea, Cafe Food",3.2,Average,16,$,25,1,"Gateway, Circular Quay","Gateway, Circular Quay, Sydney",Sydney,,14,-33.8622566836,151.2099891901,0,0
+At Thai Cuisine (ร้านกินปลา),Thai,3.2,Average,14,$,35,2,"Harbour Plaza, Chinatown","Harbour Plaza, Chinatown, Sydney",Sydney,2000,14,-33.8776088608,151.2035361305,0,0
+PappaRoti,"Malaysian, Coffee and Tea",3.2,Average,13,$,30,2,"Macquarie Centre, Macquarie Park","Macquarie Centre, Macquarie Park, Sydney",Sydney,2113,14,-33.7769917367,151.1199695617,0,0
+Thr1ve,Healthy Food,3.2,Average,17,$,50,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8680559710,151.2093950808,0,0
+The Gozleme Co.,Turkish,3.2,Average,12,$,25,1,"MLC Tower, CBD","MLC Tower, CBD, Sydney",Sydney,,14,-33.8679980663,151.2092576176,0,0
+Brasserie Bread,"Sandwich, Cafe Food, Coffee and Tea",3.2,Average,19,$,30,2,T2 Sydney Domestic Airport,"T2 Sydney Domestic Airport, Sydney",Sydney,2020,14,-33.9343650000,151.1787510000,0,0
+Soul Origin,"Healthy Food, Salad, Coffee and Tea",3.2,Average,12,$,35,2,"Harbourside Shopping Centre, Darling Harbour","Harbourside Shopping Centre, Darling Harbour, Sydney",Sydney,,14,-33.8718998593,151.1989653111,0,0
+Bun Me,Vietnamese,3.2,Average,15,$,40,2,"Broadway Shopping Centre, Glebe","Broadway Shopping Centre, Glebe, Sydney",Sydney,,14,-33.8836937923,151.1938121170,0,0
+Guzman Y Gomez,Mexican,3.2,Average,13,$,25,1,"Top Ryde Shopping Centre, Ryde","Top Ryde Shopping Centre, Ryde, Sydney",Sydney,,14,-33.8113599684,151.1062343046,0,0
+German Schnitzel Haus,German,3.2,Average,17,$,25,1,CBD,"CBD, Sydney",Sydney,2000,14,-33.8638121261,151.2069636583,0,0
+Nando's,Portuguese,3.2,Average,22,$,35,2,"Pacific Square, Maroubra","Pacific Square, Maroubra, Sydney",Sydney,2035,14,-33.9406135310,151.2386931852,0,0
+Marrickville Pork Roll,"Sandwich, Vietnamese",4.7,Excellent,392,$,20,1,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9148275627,151.1523776874,0,0
+El Jannah,Lebanese,4.6,Excellent,979,$,35,2,Granville,"Granville, Sydney",Sydney,2142,14,-33.8330426780,151.0110946745,0,0
+Mr Crackles,"Sandwich, Fast Food, Salad",4.3,Very Good,569,$,35,2,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8802643392,151.2160945684,0,0
+King's Hot Bread,"Bakery, Fast Food",4.3,Very Good,136,$,15,1,Hurstville,"Hurstville, Sydney",Sydney,2220,14,-33.9677505914,151.1041978374,0,0
+Butter Sydney,Fast Food,4.2,Very Good,165,$,35,2,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8791219926,151.2105226144,0,0
+Harry's Cafe de Wheels,"Meat Pie, Fast Food",4.2,Very Good,299,$,30,2,Woolloomooloo,"Woolloomooloo, Sydney",Sydney,2011,14,-33.8693023028,151.2209319323,0,0
+The Yeeros Shop,Greek,4.2,Very Good,141,$,20,1,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9156319360,151.1506084353,0,0
+Paul's Famous Hamburgers,Burger,4.1,Very Good,176,$,30,2,Sylvania,"Sylvania, Sydney",Sydney,2224,14,-34.0067526275,151.1122873798,0,0
+Clem's Chicken Shop,"Fast Food, Charcoal Chicken",4.1,Very Good,107,$,35,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8952228249,151.1820747703,0,0
+Hot Star Large Fried Chicken,"Fast Food, Taiwanese",4.0,Very Good,369,$,25,1,CBD,"CBD, Sydney",Sydney,2000,14,-33.8766805373,151.2066029012,0,0
+Frango's,"Portuguese, Charcoal Chicken",4.0,Very Good,240,$,40,2,Petersham,"Petersham, Sydney",Sydney,2049,14,-33.8963079053,151.1533439532,0,0
+Thirsty Bird,"American, Fast Food",4.0,Very Good,81,$,30,2,Potts Point,"Potts Point, Sydney",Sydney,,14,-33.8751242158,151.2228832394,0,0
+Red Lea,"Fast Food, Charcoal Chicken",4.0,Very Good,60,$,20,1,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8951243070,150.9369423240,0,0
+Burger Patch,Burger,4.0,Very Good,25,$,20,1,Chatswood,"Chatswood, Sydney",Sydney,2067,14,-33.7975252297,151.1794840917,0,0
+Brothers Kebabs,Kebab,4.0,Very Good,43,$,35,2,Rockdale,"Rockdale, Sydney",Sydney,2216,14,-33.9450376808,151.1415298283,0,0
+BurgerFuel,Burger,3.9,Good,210,$,35,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8943979429,151.1831282079,0,0
+Juicy Lucy,"Charcoal Chicken, Burger, Asian",3.9,Good,77,$,35,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8810874094,151.2088033184,0,0
+Guzman Y Gomez,Mexican,3.9,Good,195,$,25,1,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8942763251,151.1826799437,0,0
+Burgers by Josh,Burger,3.9,Good,70,$,40,2,Annandale,"Annandale, Sydney",Sydney,,14,-33.8874017107,151.1714391410,0,0
+Mario Brothers Pizza & Pasta,"Italian, Pizza",3.9,Good,91,$,30,2,Crows Nest,"Crows Nest, Sydney",Sydney,2065,14,-33.8272468623,151.2005692720,0,0
+Al Barakeh Charcoal Chicken,Lebanese,3.9,Good,99,$,35,2,Liverpool,"Liverpool, Sydney",Sydney,2170,14,-33.9250178631,150.9239208698,0,0
+Fish Market Cafe,"Seafood, Fish and Chips",3.8,Good,178,$,50,2,"Sydney Fish Market, Pyrmont","Sydney Fish Market, Pyrmont, Sydney",Sydney,2009,14,-33.8728997763,151.1925099045,0,0
+Marukame Udon,"Japanese, Fast Food",3.8,Good,190,$,30,2,Chatswood,"Chatswood, Sydney",Sydney,2067,14,-33.7959003181,151.1849363521,0,0
+El Jannah,Lebanese,3.8,Good,131,$,35,2,Punchbowl,"Punchbowl, Sydney",Sydney,2196,14,-33.9246603733,151.0558389500,0,0
+Burgers Anonymous,"Burger, American",3.8,Good,63,$,45,2,Darlinghurst,"Darlinghurst, Sydney",Sydney,,14,-33.8791194874,151.2150501832,0,0
+BenBry Burgers,Burger,3.8,Good,101,$,30,2,Manly,"Manly, Sydney",Sydney,2095,14,-33.7971610761,151.2867556885,0,0
+Guzman Y Gomez,Mexican,3.8,Good,74,$,25,1,"Rhodes Waterside, Rhodes","Rhodes Waterside, Rhodes, Sydney",Sydney,2138,14,-33.8344485427,151.0851692408,0,0
+Mad Mex,Mexican,3.8,Good,122,$,30,2,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8797204461,151.2149901688,0,0
+Grill'd - Crown Street,Burger,3.8,Good,96,$,50,2,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8796528071,151.2150448188,0,0
+Radley's Rotisserie Chicken & Burgers,"Fast Food, Burger",3.8,Good,15,$,35,2,"Chatswood Chase, Chatswood","Chatswood Chase, Chatswood, Sydney",Sydney,2067,14,-33.7950588737,151.1864169315,0,0
+Hole in the Wall Sandwich Factory,Sandwich,3.8,Good,50,$,25,1,CBD,"CBD, Sydney",Sydney,2000,14,-33.8685985465,151.2120152637,0,0
+Pablo's Charcoal Chicken & Ribs,"BBQ, Burger, Charcoal Chicken",3.8,Good,45,$,25,1,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8913062346,151.2128065154,0,0
+Upper Crust Pies,Meat Pie,3.8,Good,35,$,30,2,Collaroy,"Collaroy, Sydney",Sydney,,14,-33.7384505320,151.3025173545,0,0
+Rosso Cavallino,"Italian, Pizza",3.8,Good,33,$,60,3,Mosman,"Mosman, Sydney",Sydney,2088,14,-33.8311466177,151.2440552563,0,0
+Royal Stacks,Burger,3.7,Good,101,$,45,2,"Westfield Chatswood, Chatswood","Westfield Chatswood, Chatswood, Sydney",Sydney,2067,14,-33.7965288884,151.1834970117,0,0
+Grill'd - Chatswood,Burger,3.7,Good,116,$,50,2,"The Concourse, Chatswood","The Concourse, Chatswood, Sydney",Sydney,2067,14,-33.7961928713,151.1835469678,0,0
+Dean's Diner,"Burger, Greek",3.7,Good,91,$,30,2,Enmore,"Enmore, Sydney",Sydney,2042,14,-33.8995151990,151.1777936295,0,0
+El Jannah,Lebanese,3.7,Good,76,$,35,2,Blacktown,"Blacktown, Sydney",Sydney,2148,14,-33.7709691609,150.9084529057,0,0
+Viet Hoa Oyster Bar & Kitchen,"Asian, Seafood, Fish and Chips, Fast Food, Vietnamese",3.7,Good,44,$,85,3,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8943901505,150.9354798496,0,0
+Guzman y Gomez,Mexican,3.7,Good,79,$,25,1,Bondi Junction,"Bondi Junction, Sydney",Sydney,2022,14,-33.8927027911,151.2496999651,0,0
+Guzman y Gomez,Mexican,3.7,Good,76,$,25,1,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8747283806,151.2227387354,0,0
+Kiwi Fish Shop,"Burger, Seafood, Fish and Chips",3.7,Good,50,$,40,2,Mascot,"Mascot, Sydney",Sydney,2020,14,-33.9218379592,151.1964326352,0,0
+Crust,"Pizza, Fast Food",3.7,Good,65,$,45,2,Annandale,"Annandale, Sydney",Sydney,2038,14,-33.8815619863,151.1713191122,0,0
+Angelino Pizzeria,"Italian, Pizza",3.7,Good,44,$,30,2,Waterloo,"Waterloo, Sydney",Sydney,2017,14,-33.8981351731,151.2131149694,0,0
+Luigi's Pizza Bar,Pizza,3.7,Good,32,$,40,2,North Ryde,"North Ryde, Sydney",Sydney,2113,14,-33.8009444444,151.1312250000,0,0
+Sunny's Takeaway,"Fast Food, Chinese",3.7,Good,26,$,35,2,Matraville,"Matraville, Sydney",Sydney,2036,14,-33.9655836267,151.2414753065,0,0
+Namoi Thai Kitchen,Thai,3.7,Good,19,$,25,1,Ingleburn,"Ingleburn, Sydney",Sydney,2565,14,-33.9990401533,150.8669272810,0,0
+Newtown North Indian Diner,Indian,3.6,Good,106,$,40,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8948493469,151.1825230345,0,1
+Harry's Cafe de Wheels,"Meat Pie, Fast Food",3.6,Good,87,$,30,2,"Capitol Square, Chinatown","Capitol Square, Chinatown, Sydney",Sydney,2000,14,-33.8798445898,151.2056661397,0,0
+Kaysone Sweets,"Asian, Desserts",3.6,Good,37,$,25,1,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8947806068,150.9369748458,0,0
+Loaded by BL,"Burger, Fast Food",3.6,Good,26,$,30,2,Newtown,"Newtown, Sydney",Sydney,,14,-33.8933175693,151.1835513264,0,0
+King Kebab House,"Turkish, Kebab, Pizza",3.6,Good,29,$,40,2,Campbelltown,"Campbelltown, Sydney",Sydney,2560,14,-34.0669554843,150.8139023557,0,0
+Mad Mex,Mexican,3.6,Good,39,$,30,2,Chinatown,"Chinatown, Sydney",Sydney,,14,-33.8832406592,151.2036333606,0,0
+Al Taglio,"Italian, Pizza",3.6,Good,30,$,50,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8832144955,151.2121590972,0,1
+Mascot Charcoal Chickens,"Burger, Mediterranean, Charcoal Chicken",3.6,Good,42,$,40,2,Mascot,"Mascot, Sydney",Sydney,2020,14,-33.9308028694,151.1944779754,0,0
+Sammy's Lebanese Restaurant,"Fast Food, Middle Eastern, Vegetarian",3.6,Good,35,$,50,2,Brighton-Le-Sands,"Brighton-Le-Sands, Sydney",Sydney,2217,14,-33.9660913793,151.1488767341,0,0
+Crust,"Pizza, Fast Food",3.6,Good,20,$,45,2,Parramatta,"Parramatta, Sydney",Sydney,2150,14,-33.8064098745,151.0058858246,0,0
+Chilli Club,"Thai, Vegetarian",3.6,Good,19,$,45,2,Narrabeen,"Narrabeen, Sydney",Sydney,2101,14,-33.7124230686,151.2973339856,0,0
+Royal Thailicious,Thai,3.6,Good,19,$,0,1,Camden,"Camden, Sydney",Sydney,2567,14,-34.0499480000,150.7555560000,0,0
+The Hills Ocean Foods,"Seafood, Fish and Chips",3.6,Good,17,$,30,2,Northmead,"Northmead, Sydney",Sydney,2152,14,-33.7877368440,150.9949752688,0,0
+Krazy Chix,"Burger, Healthy Food",3.6,Good,18,$,30,2,Malabar,"Malabar, Sydney",Sydney,2036,14,-33.9626535624,151.2469865754,0,0
+Mina Bakery Carlton,"Lebanese, Pizza",3.6,Good,7,$,30,2,Hurstville,"Hurstville, Sydney",Sydney,2218,14,-33.9657657617,151.1180946976,0,0
+Mad fo' Chicks,"Asian, Korean",3.5,Good,62,$,35,2,Eastwood,"Eastwood, Sydney",Sydney,2122,14,-33.7905873775,151.0827582702,0,0
+Sushi Fusion,Sushi,3.5,Good,59,$,30,2,Randwick,"Randwick, Sydney",Sydney,2031,14,-33.9132082202,151.2397124246,0,0
+Viet Hoa Hot Bread,Fast Food,3.5,Good,47,$,20,1,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8948142811,150.9347697347,0,0
+Mad Mex,Mexican,3.5,Good,41,$,30,2,"Westpoint Shopping Centre, Blacktown","Westpoint Shopping Centre, Blacktown, Sydney",Sydney,2148,14,-33.7702264123,150.9065599367,0,0
+Zambrero Darlinghurst,Mexican,3.5,Good,51,$,35,2,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8792461372,151.2148282304,0,0
+Crispy Cluckers,Fast Food,3.5,Good,30,$,30,2,"Newington Marketplace, Newington","Newington Marketplace, Newington, Sydney",Sydney,2127,14,-33.8336913058,151.0570016876,0,0
+Harry's Cafe de Wheels,"Meat Pie, Fast Food",3.5,Good,42,$,30,2,Liverpool,"Liverpool, Sydney",Sydney,2170,14,-33.9078293894,150.9198693931,0,0
+The Hot Dog Man,American,3.5,Good,22,$,50,2,Manly,"Manly, Sydney",Sydney,2095,14,-33.7986162881,151.2855463475,0,0
+Butter,Fast Food,3.5,Good,18,$,35,2,Parramatta,"Parramatta, Sydney",Sydney,,14,-33.8153507016,151.0013978183,0,0
+Chargrill Charlie's,"Charcoal Chicken, Burger, Grill",3.5,Good,16,$,30,2,Rose Bay,"Rose Bay, Sydney",Sydney,,14,-33.8702822069,151.2687178329,0,0
+Harry's Cafe de Wheels,"Meat Pie, Fast Food",3.5,Good,39,$,30,2,Tempe,"Tempe, Sydney",Sydney,2044,14,-33.9260472222,151.1594861111,0,0
+Asahi,"Japanese, Fast Food",3.5,Good,37,$,40,2,Beverly Hills,"Beverly Hills, Sydney",Sydney,,14,-33.9511725886,151.0820515081,0,0
+La Reina - The Queen of Venezuelan Arepas,Venezuelan,3.5,Good,23,$,25,1,Newtown,"Newtown, Sydney",Sydney,,14,-33.8928764546,151.1855582893,0,0
+Soul Origin,"Healthy Food, Salad, Coffee and Tea",3.5,Good,34,$,35,2,"Wintergarden, CBD","Wintergarden, CBD, Sydney",Sydney,2000,14,-33.8648505569,151.2096418440,0,0
+Nando's,Portuguese,3.5,Good,25,$,35,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8693412764,151.2047541887,0,0
+Zodiac Pizza,Pizza,3.5,Good,33,$,45,2,Meadowbank,"Meadowbank, Sydney",Sydney,,14,-33.8154785602,151.0895107314,0,0
+Golden Pide,"Pizza, Turkish",3.5,Good,36,$,30,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8917429045,151.2145455927,0,0
+Blue's Point Gourmet Pizza,"Pizza, Vegetarian",3.5,Good,32,$,55,2,McMahons Point,"McMahons Point, Sydney",Sydney,,14,-33.8448798492,151.2043619156,0,0
+PappaRoti,"Malaysian, Coffee and Tea",3.5,Good,24,$,30,2,Kogarah,"Kogarah, Sydney",Sydney,2217,14,-33.9653194606,151.1317615584,0,0
+Crust,"Pizza, Fast Food",3.5,Good,27,$,45,2,Cronulla,"Cronulla, Sydney",Sydney,,14,-34.0537522169,151.1522683874,0,0
+Bottom of the Harbour,"Fast Food, Fish and Chips",3.4,Average,92,$,40,2,Mosman,"Mosman, Sydney",Sydney,2088,14,-33.8265564071,151.2513451651,0,0
+Top's Kitchen,"Burger, Sandwich",3.4,Average,39,$,30,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8852232377,151.2140285969,0,0
+Macau Noodle Kitchen,"Cantonese, Chinese",3.4,Average,32,$,40,2,Burwood,"Burwood, Sydney",Sydney,2134,14,-33.8759957705,151.1040167883,0,0
+Metro One,Turkish,3.4,Average,44,$,40,2,Ashfield,"Ashfield, Sydney",Sydney,2131,14,-33.8879299688,151.1235617101,0,0
+Istanbul on King,Turkish,3.4,Average,53,$,30,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8941747448,151.1829374358,0,0
+ICG - Incredible Chicken,Korean,3.4,Average,26,$,40,2,Chinatown,"Chinatown, Sydney",Sydney,,14,-33.8776539545,151.2048718706,0,0
+Rolls Vietnam,"Sandwich, Vietnamese",3.4,Average,31,$,30,2,"MLC Building, North Sydney","MLC Building, North Sydney, Sydney",Sydney,2060,14,-33.8380288260,151.2074836716,0,0
+Jake Chalmers,"Burger, American",3.4,Average,24,$,20,1,Cronulla,"Cronulla, Sydney",Sydney,,14,-34.0538208286,151.1531555280,0,0
+Indian Home Diner,"Indian, Kebab",3.4,Average,35,$,35,2,Paddington,"Paddington, Sydney",Sydney,2021,14,-33.8833962500,151.2209195271,0,0
+Mascot Kebab,"Kebab, Burger",3.4,Average,22,$,25,1,Mascot,"Mascot, Sydney",Sydney,2020,14,-33.9306206596,151.1941752210,0,0
+McDonald's,Fast Food,3.4,Average,22,$,20,1,Castle Hill,"Castle Hill, Sydney",Sydney,2154,14,-33.7334744754,151.0030279309,0,0
+Big John's Pizza,"Burger, Fast Food",3.4,Average,29,$,35,2,Bondi,"Bondi, Sydney",Sydney,2026,14,-33.8945568530,151.2656061351,0,0
+Dougie's Grill,"Burger, Fast Food, Grill, Charcoal Chicken",3.4,Average,35,$,30,2,Hurstville,"Hurstville, Sydney",Sydney,2220,14,-33.9669939813,151.1025962234,0,0
+Chargrill Charlie's,"Charcoal Chicken, Burger, Grill",3.4,Average,16,$,30,2,Woollahra,"Woollahra, Sydney",Sydney,2025,14,-33.8881865820,151.2379666418,0,0
+Crust,"Pizza, Fast Food",3.4,Average,32,$,45,2,Castle Hill,"Castle Hill, Sydney",Sydney,2154,14,-33.7323056304,151.0057004169,0,0
+Cho Express,Taiwanese,3.4,Average,18,$,30,2,"Westfield Hurstville, Hurstville","Westfield Hurstville, Hurstville, Sydney",Sydney,,14,-33.9658405621,151.1055141315,0,0
+Crust,"Pizza, Fast Food",3.4,Average,22,$,45,2,Maroubra,"Maroubra, Sydney",Sydney,2035,14,-33.9423402730,151.2398002669,0,0
+Fiesta,Filipino,3.4,Average,24,$,30,2,Blacktown,"Blacktown, Sydney",Sydney,2148,14,-33.7688590691,150.9073106200,0,0
+Bennelong Restaurant,Modern Australian,4.9,Excellent,362,$,270,4,Circular Quay,"Circular Quay, Sydney",Sydney,,14,-33.8573212302,151.2148600817,0,1
+Restaurant Hubert,"French, European",4.9,Excellent,290,$,150,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8653714379,151.2100612745,0,0
+The Baxter Inn,Bar Food,4.7,Excellent,645,$,60,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8687636291,151.2060550600,0,0
+Kepos Street Kitchen,Middle Eastern,4.5,Excellent,681,$,55,2,Redfern,"Redfern, Sydney",Sydney,2016,14,-33.8971466834,151.2127589062,0,0
+SaltVine,"Bar Food, Lebanese, Tapas",4.5,Excellent,70,$,80,3,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8900284961,151.2130995467,0,1
+Contessa Balmain,Modern Australian,4.5,Excellent,161,$,60,3,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8563893450,151.1776119098,0,0
+Hugos Manly,"Modern Australian, Tapas",4.4,Very Good,430,$,130,4,"Manly Wharf, Manly","Manly Wharf, Manly, Sydney",Sydney,,14,-33.7998310355,151.2838096172,0,1
+Bar H Dining,Japanese,4.4,Very Good,370,$,100,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8800923201,151.2098943070,0,1
+Bar Luca,"Burger, Modern Australian",4.3,Very Good,453,$,60,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8638967601,151.2115200609,0,0
+Yulli's,"Australian, Asian, Vegan",4.3,Very Good,563,$,75,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8864456610,151.2137687579,0,0
+Belly Bao,"Asian, Taiwanese",4.3,Very Good,295,$,40,2,Newtown,"Newtown, Sydney",Sydney,2000,14,-33.8947402532,151.1826269701,0,0
+The Winery,Modern Australian,4.3,Very Good,1106,$,100,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8814180826,151.2143303454,0,1
+Gigi Pizzeria,"Italian, Pizza, Vegan",4.3,Very Good,416,$,80,3,Enmore,"Enmore, Sydney",Sydney,2042,14,-33.8992486016,151.1777886003,0,0
+Mjølner,"BBQ, Modern Australian",4.3,Very Good,66,$,80,3,Redfern,"Redfern, Sydney",Sydney,,14,-33.8901754467,151.2075118348,0,0
+4 Pines - Keller Door,Bar Food,4.3,Very Good,232,$,80,3,Manly,"Manly, Sydney",Sydney,2095,14,-33.7996348940,151.2851845846,0,1
+Grandma's Bar,"Bar Food, Sandwich",4.3,Very Good,252,$,90,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8720922161,151.2056319416,0,0
+The Potting Shed,Modern Australian,4.2,Very Good,428,$,65,3,"The Grounds of Alexandria, Alexandria","The Grounds of Alexandria, Alexandria, Sydney",Sydney,,14,-33.9114577932,151.1942962557,0,0
+Spice I Am,Thai,4.2,Very Good,706,$,60,3,Surry Hills,"Surry Hills, Sydney",Sydney,2000,14,-33.8794863538,151.2093280256,0,0
+Tapavino,"Spanish, Tapas",4.2,Very Good,285,$,85,3,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8626609288,151.2092338130,0,1
+Gazebo Wine Bar & Dining,Modern Australian,4.2,Very Good,257,$,70,3,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8727697766,151.2258769199,0,1
+The Lobo Plantation,"Bar Food, Latin American",4.2,Very Good,183,$,80,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8700032694,151.2054294348,0,0
+Thievery,"Lebanese, Bar Food",4.2,Very Good,111,$,90,3,Glebe,"Glebe, Sydney",Sydney,2037,14,-33.8826366637,151.1905156821,0,0
+Mad Pizza e Bar,"Italian, Pizza",4.2,Very Good,164,$,80,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8815419456,151.2147011608,0,0
+Bar Ume,"Burger, Japanese, Bar Food",4.2,Very Good,60,$,60,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8870821937,151.2153680250,0,0
+Tequila Mockingbird,"Latin American, Mexican, Argentine",4.2,Very Good,41,$,110,4,Paddington,"Paddington, Sydney",Sydney,2021,14,-33.8825670786,151.2281661853,0,1
+Méjico,"Mexican, Bar Food",4.1,Very Good,711,$,100,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8660682609,151.2086065114,0,1
+Bodhi Restaurant & Bar,"Asian, Yum Cha, Chinese, Vegan",4.1,Very Good,392,$,70,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8721977200,151.2133664265,0,0
+Frankie's Pizza,Pizza,4.1,Very Good,337,$,80,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8660370808,151.2095429376,0,0
+Yebisu Bar & Grill,Grill,4.1,Very Good,90,$,50,2,Chinatown,"Chinatown, Sydney",Sydney,,14,-33.8785975769,151.2040668726,0,1
+Stitch,"Bar Food, Poké",4.1,Very Good,361,$,75,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8676010845,151.2058039382,0,0
+The Henson,Bar Food,4.1,Very Good,203,$,65,3,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9052315355,151.1611196771,0,0
+Mercado,"BBQ, Modern Australian",4.1,Very Good,88,$,60,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8668229837,151.2081428245,0,0
+The Owl House,Modern Australian,4.1,Very Good,192,$,110,4,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8748979052,151.2160902098,0,1
+Shady Pines Saloon,Bar Food,4.1,Very Good,246,$,70,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8790162190,151.2155044824,0,0
+Eau de Vie -The Kirketon Hotel,"Bar Food, Pizza",4.1,Very Good,161,$,90,3,"The Kirketon Hotel, Darlinghurst","The Kirketon Hotel, Darlinghurst, Sydney",Sydney,2010,14,-33.8769491537,151.2210201100,0,0
+Pocket Bar,Bar Food,4.1,Very Good,201,$,90,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8785641745,151.2152406201,0,0
+Mojo's Tapas Bar,"Spanish, Tapas, European",4.1,Very Good,183,$,80,3,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8941204758,151.2729775161,0,0
+Blu Bar on 36 - Shangri-La Hotel Sydney,Modern Australian,4.1,Very Good,135,$,90,3,"Shangri-la Hotel, The Rocks","Shangri-la Hotel, The Rocks, Sydney",Sydney,2000,14,-33.8611346983,151.2062944472,0,1
+Button Bar,Bar Food,4.1,Very Good,132,$,70,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8845402094,151.2105149031,0,0
+Gallon,"Pizza, Modern Australian",4.1,Very Good,125,$,65,3,Pyrmont,"Pyrmont, Sydney",Sydney,2009,14,-33.8696330217,151.1935847998,0,0
+Bulletin Place,Bar Food,4.1,Very Good,94,$,60,3,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8627269108,151.2097213045,0,0
+Munich Brauhaus,"German, Salad",4.0,Very Good,983,$,100,4,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8590162497,151.2082202733,0,1
+Mary's,"American, Burger",4.0,Very Good,1049,$,70,3,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8961587389,151.1797429249,0,0
+Opera Bar,"Australian, Seafood, Bar Food, Pizza",4.0,Very Good,593,$,110,4,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8584154237,151.2138435245,0,0
+El loco,Mexican,4.0,Very Good,1059,$,75,3,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8845488378,151.2111924961,0,0
+Alpha Restaurant,"Greek, Cafe Food, Coffee and Tea",4.0,Very Good,373,$,120,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8757407908,151.2081850693,0,0
+Pony Lounge & Dining,"Modern Australian, Tapas",4.0,Very Good,323,$,100,4,"The Rocks Centre, The Rocks ","The Rocks Centre, The Rocks , Sydney",Sydney,2000,14,-33.8591006100,151.2083741650,0,1
+The Boathouse Palm Beach,"Seafood, Modern Australian",4.0,Very Good,322,$,70,3,Palm Beach,"Palm Beach, Sydney",Sydney,,14,-33.5874250000,151.3241888889,0,0
+The Governor's Kitchen,Modern Australian,4.0,Very Good,149,$,100,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8633769837,151.2114047259,0,1
+Since I Left You,Bar Food,4.0,Very Good,112,$,50,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8693774663,151.2048950046,0,0
+Uncle Ming's,Dumplings,4.0,Very Good,200,$,70,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8672071632,151.2059819698,0,0
+Raw Bar,"Japanese, Sushi",4.0,Very Good,144,$,70,3,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8887938781,151.2782235816,0,0
+Henrys Cronulla,Modern Australian,4.0,Very Good,43,$,80,3,Cronulla,"Cronulla, Sydney",Sydney,,14,-34.0532299879,151.1539276689,0,1
+The Taphouse,"Modern Australian, Bar Food",4.0,Very Good,185,$,60,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8847216828,151.2181628868,0,0
+Mad Pizza e Bar,"Italian, Pizza",4.0,Very Good,182,$,80,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8770874978,151.2218539417,0,1
+Assembly Bar,"Tapas, Burger, Italian, Bar Food",4.0,Very Good,99,$,70,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8748842653,151.2059105560,0,0
+One Penny Red,Modern Australian,4.0,Very Good,123,$,140,4,Summer Hill,"Summer Hill, Sydney",Sydney,2130,14,-33.8918553417,151.1370830610,0,1
+Wine Library,"European, Bar Food, Tapas",4.0,Very Good,139,$,75,3,Woollahra,"Woollahra, Sydney",Sydney,,14,-33.8888360000,151.2325860000,0,1
+Degani,Modern Australian,4.0,Very Good,42,$,80,3,Zetland,"Zetland, Sydney",Sydney,2017,14,-33.9061445221,151.2127072737,0,1
+The Push - The Russell Hotel,"Pub Food, Modern Australian",4.0,Very Good,130,$,100,4,"The Russell Hotel, The Rocks","The Russell Hotel, The Rocks, Sydney",Sydney,2000,14,-33.8605497567,151.2086158991,0,1
+Timbah,Tapas,4.0,Very Good,71,$,60,3,Glebe,"Glebe, Sydney",Sydney,2037,14,-33.8758050925,151.1841598526,0,0
+Bar Zini,"Coffee and Tea, Italian, Cafe Food",4.0,Very Good,87,$,50,2,Pyrmont,"Pyrmont, Sydney",Sydney,2009,14,-33.8677024181,151.1929695681,0,0
+The Cuban Place,"Cuban, Latin American, Steak",3.9,Good,836,$,110,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8721529017,151.2071748823,0,1
+Subsolo,"Spanish, Tapas",3.9,Good,362,$,85,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8688632909,151.2100287527,0,1
+El Topo Mexican,"Mexican, Bar Food",3.9,Good,197,$,80,3,"The Eastern Hotel, Bondi Junction","The Eastern Hotel, Bondi Junction, Sydney",Sydney,2022,14,-33.8918002364,151.2511480227,0,1
+Gowings Bar & Grill,"European, Steak, Seafood, Poké",3.9,Good,308,$,80,3,"QT Sydney, CBD","QT Sydney, CBD, Sydney",Sydney,2000,14,-33.8708665251,151.2069814280,0,0
+Jean's Chilli Chicken,"Korean, Bar Food",3.9,Good,152,$,80,3,Eastwood,"Eastwood, Sydney",Sydney,2122,14,-33.7909367912,151.0831716657,0,0
+Palmer & Co.,Bar Food,3.9,Good,224,$,80,3,"Establishment, CBD","Establishment, CBD, Sydney",Sydney,2000,14,-33.8643525015,151.2078789622,0,0
+Grasshopper,Bar Food,3.9,Good,187,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8696984415,151.2065371871,0,1
+The Clock,"Modern Australian, Pizza",3.9,Good,176,$,90,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8863404531,151.2137063965,0,0
+Tokyo Bird,"Japanese, Bar Food",3.9,Good,107,$,70,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8838170953,151.2100327760,0,0
+Zeta Bar - Hilton Sydney,Bar Food,3.9,Good,139,$,150,4,"Hilton Sydney, CBD","Hilton Sydney, CBD, Sydney",Sydney,2000,14,-33.8722199899,151.2075007707,0,0
+Trinity Bar & Bistro,"Bar Food, Burger, Irish",3.9,Good,167,$,70,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8886897864,151.2134043127,0,0
+Different Drummer,"Tapas, Burger, American",3.9,Good,145,$,60,3,Glebe,"Glebe, Sydney",Sydney,2037,14,-33.8807213849,151.1878103390,0,0
+Casoni,Italian,3.9,Good,69,$,110,4,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8801232168,151.2169488519,0,1
+Hayberry Bar & Diner,"American, Burger",3.9,Good,72,$,80,3,Crows Nest,"Crows Nest, Sydney",Sydney,2065,14,-33.8240825320,151.2008224055,0,0
+Belgrave Cartel,"Tapas, Coffee and Tea, Cafe Food",3.9,Good,99,$,50,2,Manly,"Manly, Sydney",Sydney,2095,14,-33.7975101844,151.2849562615,0,1
+Momo Brasserie,Modern Australian,3.9,Good,101,$,60,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8685592941,151.2105719000,0,0
+Blacksheep,Tapas,3.9,Good,90,$,85,3,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8960936177,151.1812084168,0,0
+Jah Bar,"Latin American, Spanish, Tapas, Bar Food",3.9,Good,85,$,120,4,Manly,"Manly, Sydney",Sydney,2095,14,-33.7969111549,151.2864103541,0,0
+Archie Rose Distilling Co.,Drinks Only,3.9,Good,32,$,80,3,The Cannery Rosebery,"The Cannery Rosebery, Sydney",Sydney,2018,14,-33.9174907856,151.2023767456,0,0
+Big Poppa’s,Italian,3.9,Good,41,$,70,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8796823122,151.2156634033,0,0
+Rocksalt,Modern Australian,3.9,Good,70,$,95,3,Menai,"Menai, Sydney",Sydney,2234,14,-34.0123280866,151.0171504319,0,1
+The Foxtrot,American,3.9,Good,58,$,50,2,Crows Nest,"Crows Nest, Sydney",Sydney,2065,14,-33.8279584792,151.2026137859,0,0
+Zephyr - Hyatt Regency,Bar Food,3.9,Good,25,$,80,3,Darling Harbour,"Darling Harbour, Sydney",Sydney,,14,-33.8699077846,151.2033963203,0,0
+Mama's Buoi,"Vietnamese, Salad",3.8,Good,199,$,125,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8867312246,151.2089193240,0,0
+The Oaks Hotel,"Pub Food, Pizza",3.8,Good,203,$,120,4,Neutral Bay,"Neutral Bay, Sydney",Sydney,2089,14,-33.8302122189,151.2191901729,0,1
+Firefly,Tapas,3.8,Good,193,$,80,3,Neutral Bay,"Neutral Bay, Sydney",Sydney,2089,14,-33.8300813187,151.2215307355,0,1
+Porch and Parlour,"Healthy Food, Coffee and Tea, Cafe Food",3.8,Good,203,$,70,3,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8897974936,151.2810962275,0,1
+The Tilbury,Modern Australian,3.8,Good,128,$,100,4,Woolloomooloo,"Woolloomooloo, Sydney",Sydney,2011,14,-33.8696402596,151.2204340473,0,1
+Banksii,"French, Bar Food",3.8,Good,71,$,100,4,Barangaroo,"Barangaroo, Sydney",Sydney,2000,14,-33.8647642535,151.2013078854,0,1
+Work in Progress,"Asian, Dumplings",3.8,Good,88,$,80,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8686503262,151.2055860087,0,0
+Lobby Lounge - Shangri-La Hotel Sydney,"Modern Australian, Bar Food",3.8,Good,78,$,65,3,"Shangri-la Hotel, The Rocks","Shangri-la Hotel, The Rocks, Sydney",Sydney,2000,14,-33.8611455563,151.2063658610,0,1
+Gigino,"Italian, Pizza",3.8,Good,113,$,70,3,Fairfield,"Fairfield, Sydney",Sydney,02165,14,-33.8698958142,150.9274144471,0,0
+The Beresford Hotel,"Italian, Pizza, Bar Food",3.8,Good,176,$,90,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8831847133,151.2159577757,0,0
+The Wolf Wine Bar,"Coffee and Tea, Bar Food, Cafe Food",3.8,Good,39,$,75,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8659836291,151.2098788843,0,0
+Li'l Darlin,"Bar Food, Pizza, Tapas",3.8,Good,92,$,80,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8866944855,151.2083932757,0,0
+Mizz B'z Food & Wine,"Asian, Bar Food, Contemporary, Fusion",3.8,Good,49,$,120,4,CBD,"CBD, Sydney",Sydney,,14,-33.8698462623,151.2098309398,0,1
+Delicado Foods & Wines,"Spanish, Tapas",3.8,Good,116,$,80,3,McMahons Point,"McMahons Point, Sydney",Sydney,2060,14,-33.8448559013,151.2041590735,0,0
+The General - Eatery & Supplies,"Coffee and Tea, Bar Food, Cafe Food",3.8,Good,67,$,50,2,Dulwich Hill,"Dulwich Hill, Sydney",Sydney,2203,14,-33.9049276682,151.1438177526,0,1
+Black Star Pastry,"Bakery, Desserts, Coffee and Tea",4.7,Excellent,1778,$,30,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8971926017,151.1784387007,0,0
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",4.7,Excellent,1953,$,30,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8895111054,151.2149925157,0,0
+The Pie Tin,"Bakery, Coffee and Tea",4.4,Very Good,712,$,40,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8953589129,151.1824418977,0,0
+Flour and Stone,"Bakery, Coffee and Tea, Desserts, Cafe Food",4.4,Very Good,233,$,35,2,Woolloomooloo,"Woolloomooloo, Sydney",Sydney,2011,14,-33.8736037755,151.2154384330,0,0
+Brasserie Bread,"Bakery, Cafe Food, Coffee and Tea",4.3,Very Good,225,$,40,2,Botany Bay,"Botany Bay, Sydney",Sydney,,14,-33.9593121036,151.2096391618,0,0
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",4.3,Very Good,256,$,30,2,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9080286217,151.1628875881,0,0
+King's Hot Bread,"Bakery, Fast Food",4.3,Very Good,136,$,15,1,Hurstville,"Hurstville, Sydney",Sydney,2220,14,-33.9677505914,151.1041978374,0,0
+Victoire Boulangerie,"Bakery, French",4.2,Very Good,53,$,25,1,Rozelle,"Rozelle, Sydney",Sydney,2039,14,-33.8632216348,151.1704537645,0,0
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",4.1,Very Good,225,$,30,2,Alexandria,"Alexandria, Sydney",Sydney,,14,-33.9210275237,151.1938322336,0,0
+Emperor's Puffs,"Desserts, Bakery",4.1,Very Good,102,$,10,1,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8792475290,151.2041268870,0,0
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",4.1,Very Good,41,$,30,2,Barangaroo,"Barangaroo, Sydney",Sydney,,14,-33.8647275049,151.2015647069,0,0
+Central Baking Depot,"Bakery, Coffee and Tea, Sandwich, Cafe Food",4.0,Very Good,188,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8664719313,151.2042365223,0,0
+MakMak Macarons,"Bakery, Desserts",4.0,Very Good,87,$,25,1,Surry Hills,"Surry Hills, Sydney",Sydney,2042,14,-33.8900902822,151.2080895156,0,0
+Abla's Pastries,"Coffee and Tea, Desserts, Lebanese, Bakery",4.0,Very Good,74,$,90,3,Granville,"Granville, Sydney",Sydney,,14,-33.8321570382,151.0100533068,0,0
+Ganache Patisserie Francaise,"Bakery, French, Desserts, Cafe Food, Coffee and Tea",4.0,Very Good,48,$,25,1,Willoughby,"Willoughby, Sydney",Sydney,2068,14,-33.8024878173,151.2120725960,0,0
+Emperor's Garden Cake & Bakery,"Bakery, Asian",3.9,Good,188,$,15,1,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8793151683,151.2041573972,0,0
+Jillian's Cakery,"Bakery, Desserts, Cafe Food, Coffee and Tea",3.9,Good,53,$,20,1,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8812352105,151.2090440467,0,0
+Penny Four's,Bakery,3.9,Good,45,$,35,2,Leichhardt,"Leichhardt, Sydney",Sydney,2040,14,-33.8819126984,151.1571355909,0,0
+La Paula,"Bakery, Desserts",3.9,Good,66,$,15,1,Fairfield,"Fairfield, Sydney",Sydney,2165,14,-33.8723833952,150.9536715969,0,0
+District Brasserie,"European, Bakery",3.9,Good,21,$,100,4,"Chifley Plaza, CBD","Chifley Plaza, CBD, Sydney",Sydney,,14,-33.8659805668,151.2116950750,0,1
+Iggy's Down Under,Bakery,3.9,Good,61,$,30,2,Bronte,"Bronte, Sydney",Sydney,,14,-33.9062677926,151.2632665783,0,0
+Labancz,"Bakery, French, Cafe Food, Coffee and Tea",3.9,Good,45,$,30,2,Rozelle,"Rozelle, Sydney",Sydney,2039,14,-33.8647483848,151.1684893817,0,0
+Wild Cockatoo Bakery,Bakery,3.9,Good,44,$,25,1,Waterloo,"Waterloo, Sydney",Sydney,,14,-33.8958804426,151.1989277601,0,0
+Croissant d'Or,"Desserts, Bakery",3.9,Good,59,$,25,1,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8724747017,151.2250682339,0,0
+Textbook Boulangerie-Patisserie,"Bakery, Desserts",3.8,Good,110,$,35,2,Alexandria,"Alexandria, Sydney",Sydney,,14,-33.9033582266,151.2016968057,0,0
+Pottery Green Bakers,"Cafe Food, Bakery, Coffee and Tea",3.8,Good,125,$,55,2,Gordon,"Gordon, Sydney",Sydney,2072,14,-33.7564742268,151.1537989229,0,0
+Sonoma Café,"Cafe Food, Bakery, Coffee and Tea",3.8,Good,123,$,80,3,Alexandria,"Alexandria, Sydney",Sydney,,14,-33.9205570614,151.1957312375,0,0
+The Sweet Spot Patisserie,"Desserts, Bakery, Cafe Food, Coffee and Tea",3.8,Good,127,$,20,1,Randwick,"Randwick, Sydney",Sydney,2031,14,-33.9196125122,151.2423198670,0,0
+Bake Bar,"Bakery, Cafe Food, Coffee and Tea",3.8,Good,39,$,30,2,Double Bay,"Double Bay, Sydney",Sydney,2028,14,-33.8779459497,151.2440042943,0,0
+Infinity Bakery,"Bakery, Desserts, Cafe Food, Coffee and Tea",3.8,Good,91,$,30,2,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8764728810,151.2219981104,0,0
+Dulcet Cakes & Sweets,"Bakery, Coffee and Tea, Desserts, Ice Cream, Fusion, BBQ, Japanese, Cafe Food",3.7,Good,98,$,15,1,Burwood,"Burwood, Sydney",Sydney,,14,-33.8787982693,151.1025067046,0,0
+Oregano Bakery,"Bakery, Desserts, Lebanese, Cafe Food, Coffee and Tea",3.7,Good,151,$,30,2,Hurstville,"Hurstville, Sydney",Sydney,,14,-33.9775425366,151.1051630974,0,0
+Top Impression Bakery & Patisserie Cafe,"Bakery, Desserts, Cafe Food, Coffee and Tea",3.7,Good,80,$,25,1,Wolli Creek,"Wolli Creek, Sydney",Sydney,2205,14,-33.9292792490,151.1539219692,0,0
+Saga,"Bakery, Cafe Food, Coffee and Tea",3.7,Good,47,$,55,2,Enmore,"Enmore, Sydney",Sydney,2042,14,-33.8992380268,151.1723946780,0,0
+IKEA Restaurant and Café,"Bakery, European",3.7,Good,84,$,15,1,Rhodes,"Rhodes, Sydney",Sydney,2138,14,-33.8354650510,151.0847340524,0,0
+Sonoma Café,"Bakery, Cafe Food, Coffee and Tea",3.7,Good,101,$,30,2,Glebe,"Glebe, Sydney",Sydney,2037,14,-33.8800736708,151.1872738972,0,0
+Bake Bar & Gusto Espresso Bar,"Bakery, Coffee and Tea, Cafe Food",3.7,Good,45,$,30,2,Randwick,"Randwick, Sydney",Sydney,2031,14,-33.9080174914,151.2484500557,0,0
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",3.7,Good,68,$,30,2,Neutral Bay,"Neutral Bay, Sydney",Sydney,2089,14,-33.8302222453,151.2208068743,0,0
+Luxe Espresso,"Sandwich, Bakery, Cafe Food, Coffee and Tea",3.7,Good,71,$,40,2,"Westfield Bondi Junction, Bondi Junction","Westfield Bondi Junction, Bondi Junction, Sydney",Sydney,2022,14,-33.8917237011,151.2507031113,0,0
+Sourdough Panini Bakery Cafe,"Bakery, Sandwich, Coffee and Tea",3.7,Good,56,$,25,1,CBD,"CBD, Sydney",Sydney,2000,14,-33.8702340471,151.2062441558,0,0
+The Cake Man,"Bakery, Cafe Food, Coffee and Tea",3.7,Good,46,$,40,2,Lane Cove,"Lane Cove, Sydney",Sydney,,14,-33.8143102764,151.1689648032,0,0
+Pottery Green Bakers,"Cafe Food, Bakery, Coffee and Tea",3.6,Good,50,$,55,2,Lane Cove,"Lane Cove, Sydney",Sydney,2066,14,-33.8141654237,151.1700889841,0,0
+Saint Germain Patisserie,"Bakery, Cafe Food, Coffee and Tea",3.6,Good,85,$,30,2,Redfern,"Redfern, Sydney",Sydney,,14,-33.8950628028,151.1983199045,0,0
+Sonoma Café,"Bakery, Cafe Food, Coffee and Tea",3.6,Good,73,$,45,2,Waterloo,"Waterloo, Sydney",Sydney,2017,14,-33.8977608730,151.2110432982,0,0
+Luneburger German Bakery,"Bakery, German, Coffee and Tea",3.6,Good,80,$,20,1,"Central Station, Chinatown","Central Station, Chinatown, Sydney",Sydney,2008,14,-33.8840158270,151.2041788548,0,0
+Breadfern,"Bakery, Cafe Food, Coffee and Tea",3.6,Good,46,$,30,2,Redfern,"Redfern, Sydney",Sydney,2016,14,-33.8928745065,151.2055883557,0,0
+Voglia Di Pane Fine Italian Bakery,Bakery,3.6,Good,22,$,25,1,Woodpark,"Woodpark, Sydney",Sydney,2164,14,-33.8411739822,150.9615616500,0,0
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",3.6,Good,37,$,30,2,"MLC Building, North Sydney","MLC Building, North Sydney, Sydney",Sydney,2060,14,-33.8388523034,151.2074129283,0,0
+Pasticceria Caruso,"Bakery, Italian",3.6,Good,16,$,20,1,Wetherill Park,"Wetherill Park, Sydney",Sydney,2164,14,-33.8595769797,150.8980626985,0,0
+St. Honore Sourdough Bakery,"Bakery, French",3.6,Good,47,$,35,2,North Sydney,"North Sydney, Sydney",Sydney,2060,14,-33.8405989291,151.2063343450,0,0
+Organic Bread Bar,"Bakery, Coffee and Tea",3.6,Good,46,$,35,2,Paddington,"Paddington, Sydney",Sydney,2021,14,-33.8844508642,151.2183536589,0,0
+Sonoma Café,"Bakery, Cafe Food, Coffee and Tea",3.6,Good,49,$,30,2,Paddington,"Paddington, Sydney",Sydney,2021,14,-33.8822350182,151.2285178900,0,0
+Lim's Hot Bread,"Bakery, Vietnamese",3.6,Good,26,$,20,1,Eastwood,"Eastwood, Sydney",Sydney,2122,14,-33.7903519265,151.0806128383,0,0
+La Royale Patisserie,"Bakery, Desserts, Cafe Food, Coffee and Tea",3.6,Good,30,$,25,1,Wetherill Park,"Wetherill Park, Sydney",Sydney,02164,14,-33.8515066000,150.8977884000,0,0
+Central Baking Depot,"Bakery, Coffee and Tea, Sandwich, Cafe Food",3.6,Good,36,$,30,2,Bondi Junction,"Bondi Junction, Sydney",Sydney,2022,14,-33.8922792066,151.2514843047,0,0
+Sugarloaf Patisserie,Desserts,3.6,Good,27,$,15,1,Monterey,"Monterey, Sydney",Sydney,2217,14,-33.9651039562,151.1417487636,0,0
+La Banette Patisserie,"Bakery, French",3.6,Good,22,$,30,2,Avalon,"Avalon, Sydney",Sydney,2107,14,-33.6358870000,151.3284760000,0,0
+Balkan Oven Burek Bakery Cafe,"Bakery, Eastern European, Cafe Food, Coffee and Tea",3.6,Good,23,$,20,1,Rockdale,"Rockdale, Sydney",Sydney,2216,14,-33.9525918037,151.1382850260,0,0
+La Vigne Bakery,"Bakery, Desserts, Cafe Food, Coffee and Tea",3.5,Good,53,$,20,1,Eastwood,"Eastwood, Sydney",Sydney,2122,14,-33.7909615901,151.0841077566,0,0
+The Grumpy Baker,"Bakery, Coffee and Tea, Cafe Food",3.5,Good,56,$,50,2,Vaucluse,"Vaucluse, Sydney",Sydney,2030,14,-33.8572780747,151.2827565149,0,0
+Croquembouche Patisserie,"Bakery, Desserts",3.5,Good,48,$,40,2,Botany Bay,"Botany Bay, Sydney",Sydney,,14,-33.9541962140,151.2042636797,0,0
+Mountain High Pies,Bakery,3.5,Good,29,$,30,2,Katoomba,"Katoomba, Sydney",Sydney,02782,14,-33.7107730000,150.3663200000,0,0
+The Portuguese Bakery,"Bakery, Portuguese, Desserts, Cafe Food, Coffee and Tea",3.5,Good,28,$,30,2,Gymea,"Gymea, Sydney",Sydney,2227,14,-34.0336365787,151.0854696482,0,0
+Vinata's Hot Bread,"Bakery, Vietnamese",3.5,Good,25,$,15,1,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8936189732,150.9383229911,0,0
+Nguyen Hot Bread,"Bakery, Asian",3.5,Good,15,$,15,1,Canley Vale,"Canley Vale, Sydney",Sydney,2166,14,-33.8869352377,150.9420710430,0,0
+Lion D'Or,"Bakery, Desserts",3.5,Good,9,$,30,2,Canley Vale,"Canley Vale, Sydney",Sydney,,14,-33.8854080496,150.9674541280,0,0
+Tin Pin Bakery,"Bakery, Sandwich",3.5,Good,19,$,25,1,Bondi,"Bondi, Sydney",Sydney,2026,14,-33.8946286546,151.2682051957,0,0
+Foodcraft Espresso & Bakery,"Bakery, Coffee and Tea, Cafe Food",3.4,Average,108,$,60,3,Erskineville,"Erskineville, Sydney",Sydney,2043,14,-33.9030135158,151.1851162844,0,0
+LAB: The Bakery Cafe Experiment,"Bakery, Korean, Coffee and Tea",3.4,Average,64,$,20,1,Strathfield,"Strathfield, Sydney",Sydney,,14,-33.8725843806,151.0944889113,0,0
+85 Degrees Bakery & Cafe,"Bakery, Desserts",3.4,Average,98,$,20,1,"SkyView Shopping Plaza, CBD","SkyView Shopping Plaza, CBD, Sydney",Sydney,2000,14,-33.8763676608,151.2061958760,0,0
+Glenorie Bakery Cafe Deli,"Bakery, Cafe Food, Coffee and Tea",3.4,Average,34,$,50,2,Dural,"Dural, Sydney",Sydney,2157,14,-33.6020440962,151.0080949590,0,0
+Pioik Bakery,"Bakery, Cafe Food, Coffee and Tea",3.4,Average,39,$,35,2,Pyrmont,"Pyrmont, Sydney",Sydney,2009,14,-33.8703306451,151.1944608763,0,0
+Cousin Jacks Pasty Co.,"Bakery, Cafe Food, Coffee and Tea",3.4,Average,39,$,25,1,Bondi Junction,"Bondi Junction, Sydney",Sydney,2022,14,-33.8920106385,151.2488255650,0,0
+Goose Bakery,Bakery,3.4,Average,24,$,15,1,Glebe,"Glebe, Sydney",Sydney,,14,-33.8828980245,151.1824341863,0,0
+Drury Lane,"Bakery, Cafe Food, Coffee and Tea",3.4,Average,10,$,50,2,Newtown,"Newtown, Sydney",Sydney,,14,-33.8940077632,151.1824231222,0,0
+Wellington Cakes,"Bakery, Desserts",3.4,Average,33,$,20,1,Bondi,"Bondi, Sydney",Sydney,2026,14,-33.8941277117,151.2638911977,0,0
+Brot & Wurst,"Bakery, German, Cafe Food, Coffee and Tea",3.4,Average,24,$,40,2,Narrabeen,"Narrabeen, Sydney",Sydney,2101,14,-33.6990964788,151.3004862517,0,0
+Dolcetti Pasticceria,"Bakery, Desserts",3.4,Average,20,$,15,1,Abbotsford,"Abbotsford, Sydney",Sydney,,14,-33.8566154262,151.1308375374,0,0
+Shepherd's Artisan Bakehouse,"Bakery, Cafe Food, Coffee and Tea",3.4,Average,13,$,20,1,"Castle Towers, Castle Hill","Castle Towers, Castle Hill, Sydney",Sydney,,14,-33.7303409758,151.0062013194,0,0
+Victoire,"Bakery, French",3.4,Average,18,$,25,1,Cammeray,"Cammeray, Sydney",Sydney,,14,-33.8222965736,151.2104927748,0,0
+Mimo's Lebanese Bakery,"Bakery, Lebanese",3.4,Average,11,$,30,2,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9122916921,151.1598392576,0,0
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",3.3,Average,85,$,30,2,Parramatta,"Parramatta, Sydney",Sydney,,14,-33.8155598994,151.0033615306,0,0
+Pishon Patisserie & Cake Cafe,"Bakery, Desserts, Patisserie, Coffee and Tea",3.3,Average,92,$,25,1,Eastwood,"Eastwood, Sydney",Sydney,2122,14,-33.7909262030,151.0840262845,0,0
+The Sconery,"Bakery, Cafe Food, Coffee and Tea",3.3,Average,37,$,45,2,Chippendale,"Chippendale, Sydney",Sydney,2008,14,-33.8875511708,151.1967886984,0,0
+Drummoyne Bakehouse Cafe,"Bakery, Desserts, Cafe Food, Coffee and Tea",3.3,Average,39,$,20,1,Drummoyne,"Drummoyne, Sydney",Sydney,2047,14,-33.8554763827,151.1476080492,0,0
+Kin Senn,"Thai, Bakery, Beverages, Desserts, Ice Cream, Street Food, Asian, Coffee and Tea",3.3,Average,24,$,50,2,Chinatown,"Chinatown, Sydney",Sydney,,14,-33.8786746807,151.2071735412,0,1
+Miam Patisserie,Bakery,3.3,Average,12,$,25,1,Pyrmont,"Pyrmont, Sydney",Sydney,2009,14,-33.8738103254,151.1960420385,0,0
+Bake Bar,"Bakery, Cafe Food, Coffee and Tea",3.3,Average,33,$,30,2,Alexandria,"Alexandria, Sydney",Sydney,,14,-33.9029794971,151.1965238303,0,0
+"Stoneground Bakery, Annandale","Bakery, Cafe Food, Coffee and Tea",3.3,Average,14,$,45,2,Annandale,"Annandale, Sydney",Sydney,,14,-33.8823313242,151.1734095588,0,0
+Breadtop,"Bakery, Desserts",3.3,Average,30,$,20,1,"World Square, CBD","World Square, CBD, Sydney",Sydney,2000,14,-33.8773728143,151.2066360936,0,0
+One Seed Patisseries,"Bakery, Desserts, Patisserie",3.3,Average,22,$,35,2,Lane Cove,"Lane Cove, Sydney",Sydney,2066,14,-33.8152117004,151.1700859666,0,0
+MAKER,"Bakery, Australian, Coffee and Tea, Desserts, Healthy Food, Tea, Cafe Food",3.3,Average,12,$,30,2,Petersham,"Petersham, Sydney",Sydney,2049,14,-33.8888517686,151.1557083204,0,0
+Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",3.3,Average,19,$,30,2,Botany Bay,"Botany Bay, Sydney",Sydney,2019,14,-33.9468836510,151.2141945586,0,0
+Nam Fong Hot Bread,"Bakery, Asian",3.3,Average,11,$,10,1,Bankstown,"Bankstown, Sydney",Sydney,2200,14,-33.9185076963,151.0325432941,0,0
+Bakehouse South Coogee,"Bakery, Desserts, Coffee and Tea, Cafe Food",3.3,Average,22,$,30,2,Coogee,"Coogee, Sydney",Sydney,2034,14,-33.9314440782,151.2558573112,0,0
+Shepherds Bay Cake and Bakery,Bakery,3.3,Average,18,$,10,1,Meadowbank,"Meadowbank, Sydney",Sydney,2114,14,-33.8185203689,151.0902332515,0,0
+Gaziantep Sweets & Pastry,"Bakery, Turkish",3.3,Average,11,$,20,1,Auburn,"Auburn, Sydney",Sydney,2144,14,-33.8489063303,151.0318496078,0,0
+bRu Coffee,"Bakery, Cafe Food, Coffee and Tea",3.3,Average,14,$,35,2,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8900476999,151.2830797210,0,0
+Samir Abla Pastry,"Bakery, Middle Eastern",3.3,Average,15,$,20,1,Croydon,"Croydon, Sydney",Sydney,2133,14,-33.8957371197,151.1063700914,0,0
+Jamison Bakery,"Bakery, Vietnamese",3.3,Average,16,$,20,1,Penrith,"Penrith, Sydney",Sydney,2750,14,-33.7528269730,150.6983189285,0,0
+Gelato Messina,"Desserts, Ice Cream, Beverages",4.9,Excellent,1503,$,20,1,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8781719739,151.2213681266,0,0
+Cow & The Moon,"Ice Cream, Desserts, Coffee and Tea",4.8,Excellent,959,$,25,1,Enmore,"Enmore, Sydney",Sydney,2042,14,-33.8989558445,151.1720607430,0,0
+KOI Dessert Bar,"Desserts, Modern Australian",4.7,Excellent,684,$,150,4,"Kensington Street, Chippendale","Kensington Street, Chippendale, Sydney",Sydney,2008,14,-33.8854523042,151.2018107995,0,1
+Black Star Pastry,"Bakery, Desserts, Coffee and Tea",4.7,Excellent,1778,$,30,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8971926017,151.1784387007,0,0
+Gelato Messina,"Desserts, Ice Cream, Beverages",4.7,Excellent,879,$,20,1,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8854973938,151.2139826641,0,0
+RivaReno Gelato,Ice Cream,4.7,Excellent,90,$,15,1,Barangaroo,"Barangaroo, Sydney",Sydney,2000,14,-33.8653739435,151.2014661357,0,0
+La Mamma del Gelato Anita,Ice Cream,4.6,Excellent,367,$,25,1,"Central Park, Chippendale","Central Park, Chippendale, Sydney",Sydney,2008,14,-33.8850005722,151.2004663423,0,0
+Black Star Pastry,"Bakery, Desserts, Coffee and Tea",4.5,Excellent,258,$,30,2,"The Galeries, CBD","The Galeries, CBD, Sydney",Sydney,2000,14,-33.8721478910,151.2079486996,0,0
+Lorraine's Patisserie,"Desserts, Bakery",4.5,Excellent,294,$,20,1,"Ivy, CBD","Ivy, CBD, Sydney",Sydney,2000,14,-33.8664465975,151.2077069655,0,0
+Hakiki Turkish Ice Cream,"Ice Cream, Turkish, Desserts, Coffee and Tea",4.5,Excellent,244,$,30,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8987373892,151.1757367104,0,0
+Pasticceria Papa,"Coffee and Tea, Italian, Cafe Food",4.4,Very Good,471,$,20,1,Haberfield,"Haberfield, Sydney",Sydney,2045,14,-33.8805772014,151.1390843242,0,0
+Shortstop Coffee & Donuts,Desserts,4.4,Very Good,131,$,15,1,Barangaroo,"Barangaroo, Sydney",Sydney,2000,14,-33.8643396951,151.2014839053,0,0
+Gelato Messina,"Desserts, Ice Cream, Beverages",4.4,Very Good,304,$,20,1,"The Star, Pyrmont","The Star, Pyrmont, Sydney",Sydney,2009,14,-33.8684997195,151.1957288906,0,0
+Gelato Messina,"Desserts, Ice Cream, Beverages",4.4,Very Good,63,$,20,1,"Gateway, Circular Quay","Gateway, Circular Quay, Sydney",Sydney,,14,-33.8618034367,151.2097441033,0,0
+Petal Met Sugar,"Desserts, Coffee and Tea",4.3,Very Good,96,$,35,2,Woolloomooloo,"Woolloomooloo, Sydney",Sydney,,14,-33.8718391735,151.2162648886,0,0
+Gelato Messina,"Desserts, Ice Cream, Beverages",4.3,Very Good,180,$,20,1,Parramatta,"Parramatta, Sydney",Sydney,2150,14,-33.8123725726,151.0036364570,0,0
+RivaReno Gelato,Ice Cream,4.3,Very Good,199,$,15,1,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8800308052,151.2151983753,0,0
+N2 Extreme Gelato,"Desserts, Ice Cream",4.2,Very Good,1052,$,20,1,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8769202044,151.2038281560,0,0
+Kürtosh,"Desserts, Patisserie, Coffee and Tea",4.2,Very Good,332,$,20,1,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8897974936,151.2131823599,0,0
+Sweet Belem Cake Boutique,"Desserts, Portuguese, Cafe Food, Coffee and Tea",4.2,Very Good,174,$,25,1,Petersham,"Petersham, Sydney",Sydney,2049,14,-33.8962244167,151.1537083983,0,0
+Gelato Blue,Ice Cream,4.2,Very Good,203,$,25,1,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8974052169,151.1792638153,0,0
+Kürtosh,"Desserts, Patisserie, Coffee and Tea",4.2,Very Good,176,$,20,1,Randwick,"Randwick, Sydney",Sydney,2031,14,-33.9201864767,151.2425562367,0,0
+Gelateria Gondola,"Ice Cream, Crepes, Desserts",4.2,Very Good,137,$,20,1,Chatswood,"Chatswood, Sydney",Sydney,2067,14,-33.7960017367,151.1856484786,0,0
+Four Frogs Creperie,"French, Crepes",4.2,Very Good,122,$,60,3,Mosman,"Mosman, Sydney",Sydney,2088,14,-33.8304520164,151.2437588722,0,0
+Gelato Messina,"Desserts, Ice Cream, Beverages",4.2,Very Good,124,$,20,1,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8900245997,151.2720628828,0,0
+"Sparrow Gelato, Espresso & Desserts","Desserts, Ice Cream, Coffee and Tea",4.2,Very Good,120,$,60,3,Crows Nest,"Crows Nest, Sydney",Sydney,2065,14,-33.8259029902,151.2014446780,0,0
+Adriano Zumbo Patisserie,Desserts,4.1,Very Good,390,$,25,1,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8574217407,151.1806816980,0,0
+Emperor's Puffs,"Desserts, Bakery",4.1,Very Good,102,$,10,1,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8792475290,151.2041268870,0,0
+Strawberry Fields,"Coffee and Tea, Desserts",4.1,Very Good,98,$,30,2,Dulwich Hill,"Dulwich Hill, Sydney",Sydney,2203,14,-33.9038863859,151.1416485161,0,0
+Adriano Zumbo Patisserie,Desserts,4.1,Very Good,32,$,25,1,"Gateway, Circular Quay","Gateway, Circular Quay, Sydney",Sydney,,14,-33.8616656247,151.2099620327,0,0
+Adriano Zumbo Patisserie,Desserts,4.0,Very Good,784,$,25,1,"The Star, Pyrmont","The Star, Pyrmont, Sydney",Sydney,2009,14,-33.8683040139,151.1958428845,0,0
+Lindt Chocolate Café,"Desserts, Coffee and Tea",4.0,Very Good,386,$,40,2,Cockle Bay Wharf ,"Cockle Bay Wharf , Sydney",Sydney,2000,14,-33.8719872690,151.2022513524,0,0
+i-Creamy Artisan Gelato,Ice Cream,4.0,Very Good,166,$,15,1,"SkyView Shopping Plaza, CBD","SkyView Shopping Plaza, CBD, Sydney",Sydney,2000,14,-33.8760533913,151.2060470134,0,0
+Kürtosh,"Desserts, Patisserie, Coffee and Tea",4.0,Very Good,185,$,20,1,Crows Nest,"Crows Nest, Sydney",Sydney,2065,14,-33.8244125904,151.2009793147,0,0
+Lindt Chocolate Café,"Desserts, Coffee and Tea",4.0,Very Good,252,$,40,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8679306965,151.2111321464,0,0
+Chocolateria San Churro,"Desserts, Ice Cream, Coffee and Tea",4.0,Very Good,188,$,25,1,Parramatta,"Parramatta, Sydney",Sydney,2150,14,-33.8120616891,151.0037833080,0,0
+Four Frogs Creperie,"French, Crepes",4.0,Very Good,119,$,60,3,Randwick,"Randwick, Sydney",Sydney,2031,14,-33.9205378645,151.2431013957,0,0
+MakMak Macarons,"Bakery, Desserts",4.0,Very Good,87,$,25,1,Surry Hills,"Surry Hills, Sydney",Sydney,2042,14,-33.8900902822,151.2080895156,0,0
+Love Crepe,"Desserts, Crepes",4.0,Very Good,35,$,20,1,Pyrmont,"Pyrmont, Sydney",Sydney,2009,14,-33.8699662447,151.1930121481,0,0
+Ciccone & Sons,Ice Cream,4.0,Very Good,46,$,15,1,Waterloo,"Waterloo, Sydney",Sydney,2016,14,-33.8947992529,151.1993203685,0,0
+Abla's Pastries,"Coffee and Tea, Desserts, Lebanese, Bakery",4.0,Very Good,74,$,90,3,Granville,"Granville, Sydney",Sydney,,14,-33.8321570382,151.0100533068,0,0
+Adora Handmade Chocolates,"Desserts, Cafe Food, Coffee and Tea",4.0,Very Good,30,$,30,2,Parramatta,"Parramatta, Sydney",Sydney,2150,14,-33.8156295390,151.0091993585,0,0
+Gelato Franco,Ice Cream,4.0,Very Good,37,$,0,1,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9099772339,151.1553140357,0,0
+Uncle Tetsu’s,Desserts,3.9,Good,321,$,36,2,"Regent Place Arcade, CBD","Regent Place Arcade, CBD, Sydney",Sydney,2000,14,-33.8750819044,151.2064982951,0,0
+Meet Fresh,Desserts,3.9,Good,325,$,25,1,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8777096258,151.2038700655,0,0
+Chocolateria San Churro,"Desserts, Ice Cream, Coffee and Tea",3.9,Good,205,$,25,1,Glebe,"Glebe, Sydney",Sydney,2037,14,-33.8834455158,151.1917246878,0,0
+Doughbox Diner,"Desserts, Crepes",3.9,Good,140,$,35,2,Enmore,"Enmore, Sydney",Sydney,2042,14,-33.8988002821,151.1734491214,0,0
+Gelato Messina,"Desserts, Ice Cream, Beverages",3.9,Good,39,$,20,1,Rosebery,"Rosebery, Sydney",Sydney,2018,14,-33.9182937426,151.2029701844,0,0
+Anita La Mamma del Gelato,Desserts,3.9,Good,50,$,25,1,Bondi Beach,"Bondi Beach, Sydney",Sydney,,14,-33.8895227947,151.2757810950,0,0
+Croissant d'Or,"Desserts, Bakery",3.9,Good,59,$,25,1,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8724747017,151.2250682339,0,0
+The Choc Pot,Desserts,3.8,Good,250,$,30,2,Burwood,"Burwood, Sydney",Sydney,2134,14,-33.8773458137,151.1024540663,0,0
+Adriano Zumbo Patisserie,Desserts,3.8,Good,112,$,25,1,"QVB, CBD","QVB, CBD, Sydney",Sydney,2000,14,-33.8719290886,151.2066253647,0,0
+The Sweet Spot Patisserie,"Desserts, Bakery, Cafe Food, Coffee and Tea",3.8,Good,127,$,20,1,Randwick,"Randwick, Sydney",Sydney,2031,14,-33.9196125122,151.2423198670,0,0
+Cremeria de Luca,Desserts,3.8,Good,110,$,20,1,Five Dock,"Five Dock, Sydney",Sydney,2046,14,-33.8694957791,151.1298001930,0,0
+Koi Dessert Kitchen,Desserts,3.8,Good,44,$,45,2,Ryde,"Ryde, Sydney",Sydney,,14,-33.8145991454,151.1068827286,0,0
+Hellenic Patisserie and Gelato Bar,"Desserts, Ice Cream",3.8,Good,46,$,10,1,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9146094263,151.1528826132,0,0
+Kakawa,Desserts,3.8,Good,49,$,20,1,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8748940080,151.2184401602,0,0
+Aqua S,"Desserts, Ice Cream",3.7,Good,609,$,15,1,"Regent Place Arcade, CBD","Regent Place Arcade, CBD, Sydney",Sydney,2000,14,-33.8749327008,151.2061060220,0,0
+Bay Vista- Brighton-Le-Sands,"Desserts, Coffee and Tea",3.7,Good,249,$,40,2,Brighton-Le-Sands,"Brighton-Le-Sands, Sydney",Sydney,2216,14,-33.9613568717,151.1560603604,0,0
+The Choc Pot,Desserts,3.7,Good,114,$,30,2,CBD,"CBD, Sydney",Sydney,2200,14,-33.8751153081,151.2062237039,0,0
+Max Brenner,"Desserts, Coffee and Tea",3.7,Good,192,$,40,2,"Westfield Parramatta, Parramatta","Westfield Parramatta, Parramatta, Sydney",Sydney,2150,14,-33.8176557486,151.0046587139,0,0
+Bay Vista - Parramatta,"Desserts, Coffee and Tea",3.7,Good,70,$,40,2,Meriton Dining Precinct Parramatta,"Meriton Dining Precinct Parramatta, Sydney",Sydney,2150,14,-33.8114025899,151.0044146329,0,0
+Doux Amour,"Coffee and Tea, Desserts",3.7,Good,55,$,30,2,Rosebery,"Rosebery, Sydney",Sydney,2018,14,-33.9184514953,151.1996110529,0,0
+Via Del Corso Pasticceria E Caffé,"Sandwich, Desserts, Coffee and Tea",3.7,Good,129,$,30,2,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,2000,14,-33.8703170044,151.2092043087,0,0
+Passionflower,"Desserts, Ice Cream, Coffee and Tea",3.7,Good,94,$,40,2,Kingsford,"Kingsford, Sydney",Sydney,2032,14,-33.9219728919,151.2270882726,0,0
+Sparkle Cupcakery,Desserts,3.7,Good,109,$,30,2,Alexandria,"Alexandria, Sydney",Sydney,2015,14,-33.9110810000,151.1954840000,0,0
+Hokkaido Baked Cheese Tart,Desserts,3.7,Good,97,$,10,1,"World Square, CBD","World Square, CBD, Sydney",Sydney,2000,14,-33.8774067739,151.2066806853,0,0
+Pasticceria Papa,"Coffee and Tea, Italian, Cafe Food",3.7,Good,58,$,20,1,Five Dock,"Five Dock, Sydney",Sydney,2046,14,-33.8692992406,151.1175378040,0,0
+Krispy Kreme,"Desserts, Coffee and Tea",3.7,Good,27,$,20,1,Auburn,"Auburn, Sydney",Sydney,,14,-33.8450569515,151.0413369164,0,0
+Josophan's Fine Chocolates,"Coffee and Tea, Desserts",3.7,Good,42,$,20,1,Leura,"Leura, Sydney",Sydney,2780,14,-33.7126991733,150.3313826770,0,0
+Christopher's Cake Shop,"Patisserie, Desserts",3.7,Good,28,$,30,2,"Kogarah Town Centre, Kogarah","Kogarah Town Centre, Kogarah, Sydney",Sydney,2217,14,-33.9623727025,151.1325997487,0,0
+La Renaissance Cafe Patisserie,"Desserts, Coffee and Tea, Sandwich, Cafe Food",3.7,Good,20,$,25,1,Waterloo,"Waterloo, Sydney",Sydney,2017,14,-33.8967181117,151.2097384036,0,0
+Ben & Jerry's,Ice Cream,3.7,Good,26,$,15,1,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8911267234,151.2741744518,0,0
+Frangipani Gelato Bar,"Ice Cream, Coffee and Tea",3.7,Good,33,$,20,1,Cronulla,"Cronulla, Sydney",Sydney,2230,14,-34.0550302753,151.1517272517,0,0
+CBD Cakes by Alexander's Patisserie,"Desserts, Bakery",3.7,Good,28,$,25,1,"MLC Tower, CBD","MLC Tower, CBD, Sydney",Sydney,2000,14,-33.8687366257,151.2092361599,0,0
+Adora Handmade Chocolates,"Desserts, Cafe Food, Coffee and Tea",3.7,Good,35,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8655437650,151.2110687792,0,0
+Ibrahim Lebanese Pastry,"Desserts, Middle Eastern",3.7,Good,39,$,25,1,Rockdale,"Rockdale, Sydney",Sydney,2216,14,-33.9508574824,151.1389264092,0,0
+Krispy Kreme,"Desserts, Coffee and Tea",3.7,Good,16,$,20,1,Liverpool,"Liverpool, Sydney",Sydney,,14,-33.9065346463,150.9189487249,0,0
+Giotto Gelato,"Desserts, Ice Cream",3.7,Good,45,$,20,1,Smithfield,"Smithfield, Sydney",Sydney,,14,-33.8546302342,150.9244854748,0,0
+Gelatiamo,"Ice Cream, Coffee and Tea, Cafe Food",3.7,Good,20,$,25,1,Lindfield,"Lindfield, Sydney",Sydney,2070,14,-33.7743776396,151.1682208255,0,0
+Art of Gelato Michelangelo,"Desserts, Ice Cream",3.7,Good,39,$,15,1,Canley Vale,"Canley Vale, Sydney",Sydney,2163,14,-33.8862859008,150.9677521884,0,0
+Choco Cannelle,"Desserts, French",3.7,Good,35,$,0,1,Ryde,"Ryde, Sydney",Sydney,2112,14,-33.8083312771,151.1232492328,0,0
+Zokoko,"Desserts, Coffee and Tea",3.7,Good,37,$,40,2,Penrith,"Penrith, Sydney",Sydney,2750,14,-33.7429963997,150.6506319344,0,0
+Baked Patisserie,"Desserts, Cafe Food, Coffee and Tea",3.7,Good,24,$,25,1,Kirrawee,"Kirrawee, Sydney",Sydney,2232,14,-34.0232783887,151.0818379372,0,0
+Pablo,Desserts,3.6,Good,71,$,10,1,CBD,"CBD, Sydney",Sydney,,14,-33.8777544411,151.2054069713,0,0
+Kurtosh,"Desserts, Patisserie, Coffee and Tea",3.6,Good,88,$,20,1,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8770646724,151.2218314782,0,0
+Good Times Artisan Ice Cream,Ice Cream,3.6,Good,60,$,20,1,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8711156733,151.2252134085,0,0
+Max Brenner,"Desserts, Coffee and Tea",3.6,Good,54,$,40,2,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,,14,-33.8698153619,151.2090896443,0,0
+Pasticceria Papa,"Coffee and Tea, Italian, Cafe Food",3.6,Good,69,$,20,1,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8895319792,151.2719763815,0,0
+Ben & Jerry's,Ice Cream,3.6,Good,55,$,15,1,"The Concourse, Chatswood","The Concourse, Chatswood, Sydney",Sydney,2067,14,-33.7962015086,151.1834299564,0,0
+Max Brenner,"Desserts, Coffee and Tea",3.6,Good,59,$,40,2,"Westpoint Shopping Centre, Blacktown","Westpoint Shopping Centre, Blacktown, Sydney",Sydney,2148,14,-33.7702512171,150.9065364674,0,0
+Pana Chocolate,"Desserts, Vegan",3.6,Good,42,$,15,1,Alexandria,"Alexandria, Sydney",Sydney,,14,-33.9023578317,151.1954117194,0,0
+Christopher's Cake Shop,"Patisserie, Desserts",3.6,Good,42,$,30,2,Mascot,"Mascot, Sydney",Sydney,2020,14,-33.9300506600,151.1947659776,0,0
+Black Velvet Sydney,"Desserts, Coffee and Tea",3.6,Good,42,$,25,1,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8766123392,151.2214941904,0,0
+Kaysone Sweets,"Asian, Desserts",3.6,Good,37,$,25,1,Cabramatta,"Cabramatta, Sydney",Sydney,2166,14,-33.8947806068,150.9369748458,0,0
+Donut Bomb,"Desserts, Modern Australian, Cafe Food, Coffee and Tea",3.6,Good,28,$,30,2,Liverpool,"Liverpool, Sydney",Sydney,,14,-33.9078146417,150.9198050201,0,0
+Gelatissimo,Desserts,3.6,Good,26,$,25,1,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8613242954,151.2114576995,0,0
+Ben & Jerry's,Ice Cream,3.6,Good,59,$,15,1,Manly,"Manly, Sydney",Sydney,2095,14,-33.7981562956,151.2884558737,0,0
+Gelato Messina,"Desserts, Ice Cream, Beverages",3.6,Good,32,$,20,1,"Westfield Miranda, Miranda","Westfield Miranda, Miranda, Sydney",Sydney,2228,14,-34.0341969931,151.1004454270,0,0
+Andersen's of Denmark,"Desserts, Ice Cream",3.6,Good,38,$,25,1,"Harbourside Shopping Centre, Darling Harbour","Harbourside Shopping Centre, Darling Harbour, Sydney",Sydney,,14,-33.8717706932,151.1992107332,0,0
+The Pie Tin,"Bakery, Coffee and Tea",4.4,Very Good,712,$,40,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8953589129,151.1824418977,0,0
+Riverview Hotel,"British, Modern Australian",4.1,Very Good,122,$,80,3,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8548950219,151.1753538251,0,1
+The Glenmore Hotel,Pub Food,4.0,Very Good,227,$,80,3,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8587801518,151.2073270977,0,1
+The Duck Inn Pub & Kitchen,"Bar Food, Modern Australian",4.0,Very Good,173,$,80,3,Chippendale,"Chippendale, Sydney",Sydney,2008,14,-33.8875893012,151.1945567653,0,1
+Courthouse Hotel,Pub Food,4.0,Very Good,174,$,70,3,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8961737669,151.1782700568,0,0
+Shakespeare Hotel,Pub Food,4.0,Very Good,158,$,70,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8876803130,151.2111254409,0,1
+Carlisle Castle Hotel,Pub Food,4.0,Very Good,96,$,60,3,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8954284875,151.1763690412,0,1
+The Norfolk,"Mexican, Pub Food",3.9,Good,229,$,65,3,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8904373411,151.2091868743,0,1
+The Australian Heritage Hotel,"Pizza, Pub Food",3.9,Good,171,$,95,3,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8597351193,151.2067272887,0,1
+Lord Nelson Brewery Hotel,Pub Food,3.9,Good,159,$,80,3,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8582968172,151.2034415826,0,0
+The Sheaf,Pub Food,3.9,Good,128,$,60,3,Double Bay,"Double Bay, Sydney",Sydney,2028,14,-33.8773346794,151.2433136255,0,0
+Rocksia Hotel Bistro,Pub Food,3.9,Good,84,$,70,3,Arncliffe,"Arncliffe, Sydney",Sydney,2205,14,-33.9439601743,151.1421856284,0,0
+Phillip's Foote,"BBQ, Modern Australian",3.9,Good,85,$,85,3,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8595385584,151.2088321522,0,0
+The Blue Gum Hotel,Pub Food,3.9,Good,75,$,130,4,Hornsby,"Hornsby, Sydney",Sydney,2077,14,-33.7108347525,151.1029603332,0,0
+Cooper's Hotel,"Tapas, Bar Food, Pub Food",3.8,Good,121,$,75,3,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8953692099,151.1815839261,0,1
+The Stuffed Beaver Diner,"Pub Food, Mexican, Burger",3.8,Good,139,$,70,3,Bondi,"Bondi, Sydney",Sydney,2026,14,-33.8948507384,151.2680724263,0,0
+The Welcome Hotel,"European, Italian, Pub Food",3.8,Good,94,$,80,3,"Welcome Hotel, Rozelle","Welcome Hotel, Rozelle, Sydney",Sydney,2039,14,-33.8626887693,151.1735694856,0,0
+Hotel Palisade,Pub Food,3.8,Good,46,$,80,3,The Rocks,"The Rocks, Sydney",Sydney,,14,-33.8579535254,151.2022339180,0,0
+East Village Hotel,Modern Australian,3.8,Good,76,$,60,3,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8575347800,151.1925692484,0,0
+Newmarket Hotel Bistro,Pub Food,3.8,Good,38,$,80,3,Rosebery,"Rosebery, Sydney",Sydney,2020,14,-33.9215717098,151.1969429255,0,0
+Bavarian Bier Cafe,"German, Pub Food",3.7,Good,294,$,100,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8682967758,151.2061633542,0,1
+Belgian Beer Cafe Heritage,"Belgian, Seafood",3.7,Good,194,$,120,4,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8629067601,151.2067316473,0,1
+The Oxford Tavern,"Pub Food, American, BBQ",3.7,Good,148,$,60,3,Petersham,"Petersham, Sydney",Sydney,2049,14,-33.8954975054,151.1568278074,0,1
+The Royal Botanical at the Royal Leichhardt,Pub Food,3.7,Good,52,$,70,3,Leichhardt,"Leichhardt, Sydney",Sydney,2040,14,-33.8820849921,151.1566779390,0,1
+The Newport,"Pub Food, Modern Australian",3.7,Good,106,$,50,2,Newport,"Newport, Sydney",Sydney,2106,14,-33.6601870000,151.3091740000,0,0
+Woolwich Pier Hotel,"British, Modern Australian",3.7,Good,135,$,60,3,Hunters Hill,"Hunters Hill, Sydney",Sydney,,14,-33.8403001227,151.1710502207,0,0
+Australian Youth Hotel,"European, Modern Australian",3.7,Good,109,$,65,3,Glebe,"Glebe, Sydney",Sydney,2037,14,-33.8819213270,151.1946868524,0,1
+Harts Pub,Pub Food,3.7,Good,122,$,80,3,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8617174086,151.2063480914,0,0
+The Erko,Pub Food,3.7,Good,93,$,90,3,Erskineville,"Erskineville, Sydney",Sydney,2042,14,-33.8991581587,151.1834567785,0,0
+Australian Brewery,"Pub Food, Modern Australian",3.7,Good,54,$,100,4,Rouse Hill,"Rouse Hill, Sydney",Sydney,2155,14,-33.6741240000,150.9123770000,0,0
+North Bondi RSL,"Pub Food, Modern Australian",3.7,Good,40,$,80,3,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8904426291,151.2828983367,0,0
+Keg & Brew Hotel,American,3.7,Good,61,$,60,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8837898183,151.2096988410,0,0
+Hillside Hotel,"Pizza, Mexican",3.7,Good,56,$,50,2,Castle Hill,"Castle Hill, Sydney",Sydney,2154,14,-33.7334990120,151.0043291375,0,0
+The Green Lion,"Pub Food, Vegan",3.7,Good,29,$,65,3,Rozelle,"Rozelle, Sydney",Sydney,2039,14,-33.8647444872,151.1686640605,0,0
+Endeavour Tap Rooms,Modern Australian,3.7,Good,28,$,80,3,The Rocks,"The Rocks, Sydney",Sydney,,14,-33.8592186586,151.2082209438,0,1
+Terrey Hills Tavern,"Pub Food, Mexican",3.7,Good,50,$,60,3,Terrey Hills,"Terrey Hills, Sydney",Sydney,2084,14,-33.6923378414,151.2196464837,0,0
+Hotel Mosman,Modern Australian,3.7,Good,48,$,90,3,Mosman,"Mosman, Sydney",Sydney,2088,14,-33.8243972713,151.2396239117,0,1
+Lord Wolseley Hotel,Pub Food,3.7,Good,31,$,70,3,"Lord Wolseley Hotel, Ultimo","Lord Wolseley Hotel, Ultimo, Sydney",Sydney,2007,14,-33.8766501961,151.1966760457,0,1
+The Royal Hotel Bar and Grill,"Pub Food, Bar Food, Burger",3.6,Good,60,$,80,3,Paddington,"Paddington, Sydney",Sydney,2021,14,-33.8823691785,151.2284836918,0,0
+Strawberry Hills Hotel,"Pub Food, Pizza, Burger",3.6,Good,95,$,60,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8866107091,151.2081505358,0,0
+The Vic,Pub Food,3.6,Good,54,$,70,3,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9041437859,151.1679190770,0,0
+The Royal Oak Hotel,"British, Modern Australian",3.6,Good,31,$,90,3,Double Bay,"Double Bay, Sydney",Sydney,2028,14,-33.8772038514,151.2416657433,0,1
+Commodore Hotel,"Pub Food, Grill",3.6,Good,84,$,90,3,McMahons Point,"McMahons Point, Sydney",Sydney,2060,14,-33.8428657020,151.2048681825,0,0
+Cat & Fiddle Hotel,British,3.6,Good,56,$,40,2,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8568919016,151.1727742106,0,0
+The London,"Pub Food, Pizza",3.6,Good,70,$,80,3,Paddington,"Paddington, Sydney",Sydney,2021,14,-33.8851995795,151.2298033387,0,0
+The Grand National,"Pub Food, Modern Australian",3.6,Good,57,$,70,3,Paddington,"Paddington, Sydney",Sydney,2021,14,-33.8864801736,151.2316433340,0,0
+Steki Taverna,Greek,3.6,Good,66,$,75,3,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8943219666,151.1824033409,0,1
+The Longueville Hotel,Pub Food,3.6,Good,64,$,110,4,Lane Cove,"Lane Cove, Sydney",Sydney,,14,-33.8133428228,151.1706240848,0,0
+Lord Dudley Hotel,"British, Pub Food",3.6,Good,61,$,100,4,Edgecliff,"Edgecliff, Sydney",Sydney,2025,14,-33.8848204910,151.2374328822,0,0
+Forest Lodge Hotel,"Pizza, Modern Australian",3.6,Good,46,$,65,3,Glebe,"Glebe, Sydney",Sydney,,14,-33.8841616747,151.1846517026,0,1
+Royal Cricketers Arms,"Australian, Modern Australian, Bar Food",3.6,Good,37,$,80,3,Blacktown,"Blacktown, Sydney",Sydney,2148,14,-33.8070397606,150.9027045965,0,1
+The London Hotel,"Steak, Australian",3.6,Good,50,$,75,3,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8584457714,151.1845219508,0,0
+Friend in Hand Hotel,"Pub Food, Burger",3.6,Good,25,$,70,3,Glebe,"Glebe, Sydney",Sydney,2037,14,-33.8815377704,151.1926715076,0,0
+The Merton Bistro,"Modern Australian, Asian",3.6,Good,39,$,85,3,Rozelle,"Rozelle, Sydney",Sydney,2039,14,-33.8661734938,151.1734776199,0,0
+Dick's Hotel,Pub Food,3.6,Good,46,$,65,3,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8587748618,151.1776454374,0,0
+Crocodile Farm Hotel,Australian,3.6,Good,38,$,75,3,Ashfield,"Ashfield, Sydney",Sydney,2131,14,-33.8887298645,151.1241132394,0,1
+Miranda Hotel Bar,"Seafood, Steak, Modern Australian",3.6,Good,27,$,35,2,"Miranda Hotel, Miranda","Miranda Hotel, Miranda, Sydney",Sydney,2228,14,-34.0342358913,151.1013459787,0,0
+Bangor Tavern,Pub Food,3.6,Good,29,$,50,2,Bangor,"Bangor, Sydney",Sydney,2234,14,-34.0181441168,151.0290440172,0,1
+Rose of Australia,Pub Food,3.5,Good,101,$,80,3,Erskineville,"Erskineville, Sydney",Sydney,2043,14,-33.8999944042,151.1849826202,0,0
+Star Bar,"Pub Food, Modern Australian",3.5,Good,83,$,50,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8755434316,151.2067624927,0,1
+Bistro Guillaume,Pub Food,3.5,Good,34,$,120,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8644223797,151.2071205676,0,1
+The Rag & Famish Hotel,Modern Australian,3.5,Good,77,$,60,3,North Sydney,"North Sydney, Sydney",Sydney,2060,14,-33.8367430492,151.2075436860,0,0
+Orient Hotel - Pub,Pub Food,3.5,Good,69,$,125,4,"Orient Hotel, The Rocks","Orient Hotel, The Rocks, Sydney",Sydney,2000,14,-33.8590958769,151.2088344991,0,1
+Dee Why Hotel Brasserie,"Pizza, Pub Food, Tapas",3.5,Good,50,$,80,3,Dee Why,"Dee Why, Sydney",Sydney,2099,14,-33.7551055492,151.2840262055,0,1
+The Carrington,"Modern Australian, Pub Food",3.5,Good,29,$,75,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8876572122,151.2153083459,0,0
+Canley Hotel Bistro,Modern Australian,3.5,Good,56,$,65,3,Canley Heights,"Canley Heights, Sydney",Sydney,,14,-33.8839323263,150.9247828648,0,1
+The Winston,Pub Food,3.5,Good,36,$,80,3,Baulkham Hills,"Baulkham Hills, Sydney",Sydney,02153,14,-33.7737921044,150.9714455903,0,0
+West Ryde Hotel,"Pizza, Pub Food, Australian",3.5,Good,49,$,80,3,West Ryde,"West Ryde, Sydney",Sydney,,14,-33.8072640223,151.0867363215,0,0
+Cookies Lounge Bar,Modern Australian,3.5,Good,42,$,60,3,North Strathfield,"North Strathfield, Sydney",Sydney,2137,14,-33.8630055936,151.0882782564,0,0
+Quarrymans Hotel,Pub Food,3.5,Good,37,$,70,3,Pyrmont,"Pyrmont, Sydney",Sydney,2009,14,-33.8711677299,151.1949668080,0,1
+The Harbour View Hotel,Modern Australian,3.5,Good,46,$,75,3,The Rocks,"The Rocks, Sydney",Sydney,,14,-33.8565951012,151.2073690072,0,0
+The Warren View Hotel,Pub Food,3.5,Good,38,$,50,2,Marrickville,"Marrickville, Sydney",Sydney,2042,14,-33.8996348614,151.1707913876,0,0
+Bald Faced Stag Hotel,Pub Food,3.5,Good,21,$,65,3,Leichhardt,"Leichhardt, Sydney",Sydney,2040,14,-33.8876126804,151.1594064161,0,1
+Macquarie Hotel Bistro,Pub Food,3.5,Good,11,$,50,2,Liverpool,"Liverpool, Sydney",Sydney,2170,14,-33.9239470583,150.9228862077,0,0
+Priscillas -Imperial Hotel,Pub Food,3.5,Good,16,$,100,4,Erskineville,"Erskineville, Sydney",Sydney,2043,14,-33.8999580000,151.1828880000,0,1
+Oatley Hotel,Pub Food,3.5,Good,32,$,60,3,Oatley,"Oatley, Sydney",Sydney,2223,14,-33.9805796818,151.0804348066,0,0
+Moore Park View Hotel,Pub Food,3.5,Good,22,$,40,2,Waterloo,"Waterloo, Sydney",Sydney,2017,14,-33.9009842522,151.2147903442,0,1
+Miss Peaches,American,3.4,Average,179,$,40,2,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8934650709,151.1833065748,0,0
+The Dolphin Hotel,"Pub Food, Steak, Australian",3.4,Average,59,$,100,4,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8845229527,151.2140674889,0,0
+The Bavarian,"German, Pub Food",3.4,Average,122,$,65,3,"Manly Wharf, Manly","Manly Wharf, Manly, Sydney",Sydney,2095,14,-33.7994886234,151.2841197476,0,1
+The Ivanhoe Hotel,"Bar Food, Pizza",3.4,Average,63,$,80,3,Manly,"Manly, Sydney",Sydney,2095,14,-33.7981025228,151.2862960249,0,0
+Hotel Bondi,Pub Food,3.4,Average,35,$,60,3,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8900485348,151.2752872333,0,0
+The Toxteth Hotel,"Bar Food, Modern Australian",3.4,Average,63,$,70,3,Glebe,"Glebe, Sydney",Sydney,2037,14,-33.8768734401,151.1849551275,0,0
+Bavarian Bier Cafe,"German, Pub Food",3.4,Average,63,$,100,4,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8916079239,151.2734495848,0,1
+Sanctuary Hotel,Pub Food,3.4,Average,53,$,90,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8762588218,151.2053945661,0,1
+The Fiddler,Pub Food,3.4,Average,52,$,75,3,Rouse Hill,"Rouse Hill, Sydney",Sydney,2155,14,-33.6877396000,150.9197909000,0,0
+Golden Barley Hotel,Pub Food,3.4,Average,55,$,60,3,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9048466924,151.1730166152,0,0
+Lord Gladstone Hotel,"Bar Food, Burger",3.4,Average,36,$,60,3,Chippendale,"Chippendale, Sydney",Sydney,2008,14,-33.8877716031,151.2014265731,0,0
+Royal Oak Hotel,"Pub Food, Steak",3.4,Average,58,$,80,3,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8556710040,151.1812516674,0,1
+The Village Inn,Pub Food,3.4,Average,31,$,80,3,Paddington,"Paddington, Sydney",Sydney,,14,-33.8834580409,151.2227528170,0,1
+Cheers Bar & Grill,Pub Food,3.4,Average,34,$,60,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8768124796,151.2059414014,0,0
+Edinburgh Castle Hotel,Pub Food,3.4,Average,38,$,85,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8749716719,151.2083835527,0,0
+Sackville Hotel,"Pub Food, Modern Australian",3.4,Average,30,$,75,3,Rozelle,"Rozelle, Sydney",Sydney,2039,14,-33.8607872418,151.1716781929,0,0
+Newtown Hotel,"Pub Food, Pizza, Bar Food",3.4,Average,29,$,100,4,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8945173342,151.1827553809,0,1
+St James Hotel Bistro,"Pizza, Pub Food, Modern Australian",3.4,Average,42,$,60,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8709377899,151.2093028799,0,0
+Woolpack Hotel & Lounge,Pub Food,3.4,Average,40,$,90,3,Redfern,"Redfern, Sydney",Sydney,2016,14,-33.8924723525,151.2054334581,0,1
+The Bayview Hotel,Modern Australian,3.4,Average,28,$,100,4,Gladesville,"Gladesville, Sydney",Sydney,,14,-33.8327755945,151.1267324165,0,1
+Pine Inn Bistro,"Asian, Bar Food",3.4,Average,34,$,40,2,Concord,"Concord, Sydney",Sydney,2006,14,-33.8689749232,151.1063724384,0,0
+Highway Bar - Greengate Hotel,"Modern Australian, Pub Food",3.4,Average,42,$,75,3,The Greengate Hotel,"The Greengate Hotel, Sydney",Sydney,2071,14,-33.7630218345,151.1560513079,0,0
+Mercantile Hotel,"Pub Food, Irish",3.4,Average,39,$,70,3,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8571065662,151.2086343393,0,0
+Pool Club - The Ivy,"Pizza, Bar Food",3.6,Good,100,$,75,3,"Ivy, CBD","Ivy, CBD, Sydney",Sydney,2000,14,-33.8664958730,151.2076788023,0,0
+The World Bar,"Pizza, Bar Food",3.1,Average,12,$,80,3,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8754009096,151.2241981924,0,0
+PJ's Irish Pub,Pub Food,3.0,Average,35,$,70,3,Parramatta,"Parramatta, Sydney",Sydney,2150,14,-33.8203902475,151.0044253618,0,0
+Arq Nightclub,Beverages,3.0,Average,7,$,80,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8814843284,151.2173186615,0,0
+Marquee Nightclub,Drinks Only,2.9,Average,8,$,150,4,"The Star, Pyrmont","The Star, Pyrmont, Sydney",Sydney,,14,-33.8676601030,151.1952065304,0,0
+Magpies Waitara,"BBQ, Modern Australian",2.8,Average,13,$,75,3,Hornsby,"Hornsby, Sydney",Sydney,2077,14,-33.7097720000,151.1051260000,0,0
+El Topo Basement,Drinks Only,2.8,Average,4,$,0,1,"The Eastern Hotel, Bondi Junction","The Eastern Hotel, Bondi Junction, Sydney",Sydney,2022,14,-33.8921108298,151.2511952967,0,0
+Chinese Laundry,Drinks Only,2.8,Average,4,$,60,3,"Slip Inn Hotel, CBD","Slip Inn Hotel, CBD, Sydney",Sydney,,14,-33.8687605669,151.2032665685,0,0
+Middlebar,Cuban,2.7,Average,9,$,70,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8811297178,151.2165079638,0,0
+Scary Canary,"Pub Food, Burger, Pizza",2.6,Average,38,$,80,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8730153005,151.2051605433,0,0
+Carmens Nightclub,Finger Food,2.5,Average,12,$,60,3,"Miranda Hotel, Miranda","Miranda Hotel, Miranda, Sydney",Sydney,2228,14,-34.0342358913,151.1013459787,0,0
+Foundry 616,"Italian, Pizza, Tapas",0,Not rated,3,$,35,2,Ultimo,"Ultimo, Sydney",Sydney,,14,-33.8807954250,151.2003872171,0,0
+Colombian Hotel,"Burger, Bar Food, Italian",0,Not rated,2,$,80,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,,14,-33.8796917761,151.2154122815,0,0
+Club 77,Bar Food,0,Not rated,1,$,0,1,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8744121565,151.2156315520,0,0
+Kit & Kaboodle,Sandwich,0,Not rated,1,$,60,3,Potts Point,"Potts Point, Sydney",Sydney,,14,-33.8735144189,151.2237874791,0,0
+Tokyo Sing Song,Drinks Only,0,Not rated,2,$,60,3,Newtown,"Newtown, Sydney",Sydney,,14,-33.8934990241,151.1833491549,0,0
+The Club,Beverages,0,Not rated,1,$,70,3,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8751509388,151.2237539515,0,0
+Fusion,Bar Food,0,Not rated,0,$,0,1,Cronulla,"Cronulla, Sydney",Sydney,,14,-34.0540016634,151.1523538828,0,0
+Club Rose Bay,Modern Australian,0,Not rated,0,$,45,2,Double Bay,"Double Bay, Sydney",Sydney,2029,14,-33.8712292513,151.2660242245,0,0
+Bennelong Restaurant,Modern Australian,4.9,Excellent,362,$,270,4,Circular Quay,"Circular Quay, Sydney",Sydney,,14,-33.8573212302,151.2148600817,0,1
+Sokyo,Japanese,4.9,Excellent,1106,$,120,4,"The Star, Pyrmont","The Star, Pyrmont, Sydney",Sydney,2009,14,-33.8695241741,151.1955089495,0,0
+LuMi Bar & Dining,"Italian, Japanese",4.9,Excellent,322,$,190,4,Pyrmont,"Pyrmont, Sydney",Sydney,2009,14,-33.8668664128,151.1974391341,0,1
+Sepia,"Seafood, Modern Australian",4.8,Excellent,709,$,500,4,"Darling Park, Darling Harbour","Darling Park, Darling Harbour, Sydney",Sydney,2000,14,-33.8723307826,151.2037721649,0,0
+Tetsuya's,Japanese,4.7,Excellent,1169,$,440,4,CBD,"CBD, Sydney",Sydney,,14,-33.8752661815,151.2052135170,0,0
+Est.,"Modern Australian, European",4.7,Excellent,653,$,320,4,"Establishment, CBD","Establishment, CBD, Sydney",Sydney,2000,14,-33.8641899160,151.2078162655,0,0
+Rockpool Bar & Grill,"Seafood, Steak, Modern Australian, Poké",4.6,Excellent,1210,$,150,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8659864131,151.2104250491,0,1
+China Doll,"Asian, Chinese",4.5,Excellent,841,$,150,4,Woolloomooloo,"Woolloomooloo, Sydney",Sydney,2011,14,-33.8685175362,151.2202560157,0,0
+Cafe Sydney,"Seafood, Modern Australian",4.4,Very Good,1247,$,160,4,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8625094763,151.2107633427,0,0
+Sixpenny,Modern Australian,4.4,Very Good,194,$,280,4,Stanmore,"Stanmore, Sydney",Sydney,2048,14,-33.8925728216,151.1646917090,0,0
+Automata,Modern Australian,4.4,Very Good,120,$,180,4,"Kensington Street, Chippendale","Kensington Street, Chippendale, Sydney",Sydney,2008,14,-33.8846298328,151.2019147351,0,1
+Saké Restaurant & Bar,"Japanese, Sushi",4.3,Very Good,1103,$,125,4,"The Rocks Centre, The Rocks ","The Rocks Centre, The Rocks , Sydney",Sydney,2000,14,-33.8589934195,151.2075135112,0,1
+The Restaurant Pendolino,Italian,4.3,Very Good,770,$,250,4,"The Strand Arcade, CBD","The Strand Arcade, CBD, Sydney",Sydney,2000,14,-33.8686291689,151.2067836151,0,0
+Glass Brasserie Restaurant & Wine bar,"Modern Australian, French, Tapas",4.3,Very Good,638,$,150,4,"Hilton Sydney, CBD","Hilton Sydney, CBD, Sydney",Sydney,02000,14,-33.8721000106,151.2073985115,0,0
+The Boathouse on Blackwattle Bay,"Seafood, Modern Australian",4.3,Very Good,417,$,200,4,Glebe,"Glebe, Sydney",Sydney,2037,14,-33.8739692738,151.1877872050,0,1
+Ormeggio at the Spit,Italian,4.3,Very Good,253,$,300,4,"D'Albora Marinas, Mosman","D'Albora Marinas, Mosman, Sydney",Sydney,2088,14,-33.8043385448,151.2454992905,0,1
+Bentley Restaurant and Bar - Radisson Blu Plaza Hotel,Modern Australian,4.3,Very Good,383,$,170,4,Radisson Blu Plaza Hotel CBD,"Radisson Blu Plaza Hotel CBD, Sydney",Sydney,2000,14,-33.8656676510,151.2086537853,0,0
+Nel. Restaurant,"British, Australian",4.3,Very Good,144,$,220,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8794011786,151.2092019618,0,1
+Berowra Waters Inn,"French, Modern Australian",4.3,Very Good,124,$,300,4,Berowra,"Berowra, Sydney",Sydney,,14,-33.6194280000,151.1464640000,0,1
+BLACK Bar & Grill,"Steak, Modern Australian",4.2,Very Good,466,$,150,4,"The Star, Pyrmont","The Star, Pyrmont, Sydney",Sydney,2009,14,-33.8677753559,151.1956289783,0,0
+Aria,Modern Australian,4.2,Very Good,884,$,300,4,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8592810238,151.2133013830,0,1
+Otto Ristorante,Italian,4.2,Very Good,445,$,160,4,Woolloomooloo,"Woolloomooloo, Sydney",Sydney,2011,14,-33.8680648794,151.2205487117,0,1
+Altitude Restaurant - Shangri-La Hotel Sydney,"European, Modern Australian",4.2,Very Good,265,$,170,4,"Shangri-la Hotel, The Rocks","Shangri-la Hotel, The Rocks, Sydney",Sydney,2000,14,-33.8612118179,151.2063252926,0,1
+The Bridge Room,Modern Australian,4.2,Very Good,229,$,150,4,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8634195793,151.2109769136,0,1
+Kingsleys Woolloomooloo,"Steak, Modern Australian",4.2,Very Good,356,$,150,4,Woolloomooloo,"Woolloomooloo, Sydney",Sydney,2011,14,-33.8678970115,151.2206871808,0,1
+Four in Hand Dining Room,Modern Australian,4.2,Very Good,338,$,200,4,Paddington,"Paddington, Sydney",Sydney,2021,14,-33.8837625414,151.2344338372,0,1
+Prime Steak Restaurant,"French, Steak",4.2,Very Good,168,$,200,4,"GPO Grand, CBD","GPO Grand, CBD, Sydney",Sydney,2000,14,-33.8678235171,151.2079329416,0,0
+Spice Temple,"Chinese, Fusion, Yum Cha",4.1,Very Good,651,$,150,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8659652551,151.2100036070,0,1
+Flying Fish Restaurant & Bar,"Seafood, Modern Australian",4.1,Very Good,488,$,200,4,Pyrmont,"Pyrmont, Sydney",Sydney,2009,14,-33.8627333141,151.1953161657,0,1
+Catalina,"Mediterranean, Modern Australian",4.1,Very Good,361,$,170,4,Rose Bay,"Rose Bay, Sydney",Sydney,2029,14,-33.8704946108,151.2628699467,0,1
+Pilu at Freshwater,"Italian, Mediterranean",4.1,Very Good,297,$,170,4,Freshwater,"Freshwater, Sydney",Sydney,,14,-33.7815921307,151.2886318937,0,0
+Oscillate Wildly,Contemporary,4.1,Very Good,206,$,260,4,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8971686685,151.1786066741,0,0
+Azuma,Japanese,4.1,Very Good,262,$,220,4,"Chifley Plaza, CBD","Chifley Plaza, CBD, Sydney",Sydney,2000,14,-33.8660590739,151.2117980048,0,1
+Firedoor,"Grill, Seafood, Modern Australian",4.1,Very Good,137,$,230,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8817507030,151.2101829797,0,1
+Jonah's,Modern Australian,4.1,Very Good,147,$,230,4,Palm Beach,"Palm Beach, Sydney",Sydney,2108,14,-33.6073280000,151.3295240000,0,1
+Bistro Moncur,French,4.1,Very Good,221,$,150,4,Woollahra,"Woollahra, Sydney",Sydney,2025,14,-33.8883110000,151.2369990000,0,1
+YAYOI Garden,"Japanese, Sushi",4.0,Very Good,357,$,120,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8634206929,151.2105504423,0,0
+The Bathers' Pavilion Restaurant,"Modern Australian, Seafood, French",4.0,Very Good,364,$,300,4,"The Bathers' Pavilion, Mosman","The Bathers' Pavilion, Mosman, Sydney",Sydney,2088,14,-33.8224046458,151.2510732561,0,1
+The Dining Room - Park Hyatt,"Modern Australian, Seafood",4.0,Very Good,120,$,290,4,"Park Hyatt, The Rocks","Park Hyatt, The Rocks, Sydney",Sydney,2000,14,-33.8558475271,151.2092462182,0,0
+Momofuku Seiōbo,Modern Australian,3.9,Good,505,$,370,4,"The Star, Pyrmont","The Star, Pyrmont, Sydney",Sydney,2009,14,-33.8695698289,151.1958676949,0,0
+Red Lantern on Riley,"Vietnamese, Asian",3.9,Good,237,$,150,4,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8748812032,151.2153821066,0,0
+Manta Restaurant & Bar,"Modern Australian, Seafood, Grill, Australian, Steak",3.9,Good,188,$,200,4,Woolloomooloo,"Woolloomooloo, Sydney",Sydney,2011,14,-33.8682842484,151.2203431875,0,1
+Sails on Lavender Bay,"Seafood, Modern Australian",3.9,Good,146,$,130,4,McMahons Point,"McMahons Point, Sydney",Sydney,,14,-33.8486211971,151.2061144039,0,1
+Steel Bar & Grill,Modern Australian,3.9,Good,152,$,170,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8670295500,151.2063742429,0,1
+Rubyos,"Modern Australian, Fusion",3.9,Good,146,$,100,4,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8926254217,151.1871317402,0,1
+Olio,"Italian, Mediterranean",3.9,Good,36,$,200,4,"Kensington Street, Chippendale","Kensington Street, Chippendale, Sydney",Sydney,,14,-33.8847481245,151.2016750127,0,1
+Loluk Bistro,French,3.9,Good,27,$,70,3,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8818214020,151.2165394798,0,0
+Mama's Buoi,"Vietnamese, Salad",3.8,Good,199,$,125,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8867312246,151.2089193240,0,0
+The Cut Bar & Grill,"Seafood, Steak",3.8,Good,231,$,200,4,"The Rocks Centre, The Rocks ","The Rocks Centre, The Rocks , Sydney",Sydney,2000,14,-33.8592130903,151.2078575045,0,1
+Sorenzo Contemporary Japanese Dining,"Japanese, Asian",3.8,Good,66,$,110,4,Darling Harbour,"Darling Harbour, Sydney",Sydney,2000,14,-33.8720975053,151.1992442608,0,1
+La Tratt - Fairfield RSL,Italian,3.8,Good,89,$,150,4,"Fairfield RSL, Fairfield","Fairfield RSL, Fairfield, Sydney",Sydney,2165,14,-33.8731241436,150.9577488899,0,1
+Mizz B'z Food & Wine,"Asian, Bar Food, Contemporary, Fusion",3.8,Good,49,$,120,4,CBD,"CBD, Sydney",Sydney,,14,-33.8698462623,151.2098309398,0,1
+Intermezzo Ristorante,Italian,3.8,Good,70,$,150,4,"GPO Grand, CBD","GPO Grand, CBD, Sydney",Sydney,2000,14,-33.8674710768,151.2075131759,0,0
+Kindred,"Italian, Australian",3.8,Good,40,$,85,3,Chippendale,"Chippendale, Sydney",Sydney,2008,14,-33.8884451426,151.1977589876,0,1
+Ecco Ristorante,Italian,3.8,Good,50,$,140,4,Drummoyne,"Drummoyne, Sydney",Sydney,,14,-33.8539642239,151.1629197747,0,0
+Icebergs Dining Room and Bar,"Italian, Seafood",3.7,Good,435,$,110,4,"Icebergs, Bondi Beach","Icebergs, Bondi Beach, Sydney",Sydney,2026,14,-33.8953658704,151.2741352245,0,1
+Aqua Dining,Italian,3.7,Good,198,$,220,4,Milsons Point,"Milsons Point, Sydney",Sydney,2061,14,-33.8490917778,151.2109792605,0,1
+Cafe Del Mar,"Mediterranean, Modern Australian",3.7,Good,154,$,220,4,Cockle Bay Wharf ,"Cockle Bay Wharf , Sydney",Sydney,2000,14,-33.8713943288,151.2023780868,0,1
+360 Bar and Dining,Modern Australian,3.7,Good,197,$,200,4,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,2000,14,-33.8704088698,151.2088318169,0,0
+NOLA Smokehouse and Bar,"American, BBQ",3.7,Good,48,$,130,4,Barangaroo,"Barangaroo, Sydney",Sydney,2000,14,-33.8635053273,151.2019321695,0,1
+Raita Noda,"Fusion, Japanese",3.7,Good,49,$,300,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8804619658,151.2138475478,0,0
+Cottage Point Inn,"Seafood, Modern Australian",3.7,Good,61,$,170,4,Brooklyn,"Brooklyn, Sydney",Sydney,2084,14,-33.6154806548,151.2054374814,0,1
+Porteño,Argentine,3.7,Good,44,$,110,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8863518646,151.2092123553,0,0
+Sealevel,"Seafood, Modern Australian",3.7,Good,78,$,150,4,Cronulla,"Cronulla, Sydney",Sydney,2230,14,-34.0521480193,151.1556436122,0,0
+Banjo Paterson Cottage,Modern Australian,3.7,Good,65,$,150,4,Gladesville,"Gladesville, Sydney",Sydney,2111,14,-33.8389547849,151.1279994249,0,0
+Manjit's @ The Wharf,"Seafood, Indian, Vegetarian",3.6,Good,80,$,100,4,Darling Harbour,"Darling Harbour, Sydney",Sydney,,14,-33.8683329661,151.2017098814,0,1
+Uccello,Italian,3.6,Good,154,$,150,4,"Ivy, CBD","Ivy, CBD, Sydney",Sydney,2000,14,-33.8665947024,151.2077207118,0,0
+Mama's Buoi,"Vietnamese, Salad",3.6,Good,102,$,125,4,Crows Nest,"Crows Nest, Sydney",Sydney,2065,14,-33.8246150813,151.2009752914,0,0
+La Grillade,"French, Steak",3.6,Good,142,$,150,4,Crows Nest,"Crows Nest, Sydney",Sydney,2065,14,-33.8242184549,151.2027170509,0,1
+Yuki's at the Quay,Japanese,3.6,Good,89,$,180,4,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8584276741,151.2100414932,0,1
+The Dining Room - Sir Stamford Hotel,Modern Australian,3.6,Good,40,$,120,4,"Sir Stamford Circular Quay, The Rocks","Sir Stamford Circular Quay, The Rocks, Sydney",Sydney,2000,14,-33.8622920412,151.2127505243,0,1
+Mode Kitchen & Bar,Modern Australian,3.6,Good,19,$,150,4,CBD,"CBD, Sydney",Sydney,,14,-33.8617945277,151.2078739330,0,1
+Restaurant Como,Modern Australian,3.6,Good,29,$,250,4,Blaxland,"Blaxland, Sydney",Sydney,2774,14,-33.7445598660,150.6102442369,0,0
+O Bar and Dining,"Tapas, Modern Australian",3.5,Good,240,$,210,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8650459920,151.2077150121,0,0
+Balla,"Italian, Modern Australian",3.5,Good,212,$,170,4,"The Star, Pyrmont","The Star, Pyrmont, Sydney",Sydney,2009,14,-33.8678057002,151.1957483366,0,0
+The Wilmot,"Modern Australian, Fusion",3.5,Good,28,$,150,4,Primus Hotel,"Primus Hotel, Sydney",Sydney,2000,14,-33.8750674294,151.2077113241,0,0
+Golden Sands,Chinese,3.5,Good,22,$,105,4,Hurstville,"Hurstville, Sydney",Sydney,,14,-33.9677216729,151.1074825376,0,0
+Rosetta,Italian,3.5,Good,25,$,130,4,The Rocks,"The Rocks, Sydney",Sydney,,14,-33.8621547868,151.2068687752,0,1
+Palm Court - The Langham,Modern Australian,3.5,Good,33,$,140,4,"The Langham, CBD","The Langham, CBD, Sydney",Sydney,,14,-33.8606544396,151.2036541477,0,0
+Cucina Locale Revolving Restaurant,"Modern Australian, Fusion",3.4,Average,17,$,140,4,Workers Blacktown,"Workers Blacktown, Sydney",Sydney,,14,-33.7729259174,150.9084760398,0,1
+Madame Shanghai,"Chinese, Yum Cha",3.4,Average,17,$,120,4,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8757121195,151.2124940381,0,1
+Silvester's,Modern Australian,3.4,Average,15,$,130,4,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8627255187,151.2094215676,0,1
+Bar Machiavelli,Italian,3.4,Average,31,$,130,4,Rushcutters Bay,"Rushcutters Bay, Sydney",Sydney,,14,-33.8777581000,151.2283312000,0,1
+Rocco's,Italian,3.4,Average,26,$,110,4,Casula,"Casula, Sydney",Sydney,2170,14,-33.9571274000,150.8899362000,0,0
+Saveur,"European, French, Modern Australian",3.4,Average,25,$,120,4,Roseville,"Roseville, Sydney",Sydney,2069,14,-33.7848973619,151.1788913235,0,1
+Wharf Teppanyaki by Kobe Jones,Teppanyaki,3.3,Average,87,$,150,4,Darling Harbour,"Darling Harbour, Sydney",Sydney,2000,14,-33.8669563332,151.2018949539,0,0
+Slide,French,3.3,Average,36,$,220,4,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8780247242,151.2134354934,0,1
+117 Dining -  InterContinental Sydney,Modern Australian,3.2,Average,11,$,170,4,"InterContinental Sydney, CBD","InterContinental Sydney, CBD, Sydney",Sydney,2000,14,-33.8630999725,151.2121859193,0,1
+MON Modern Thai & Cocktails - Mr B's Hotel,Thai,3.2,Average,44,$,140,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8783696054,151.2074682489,0,0
+Été Restaurant,French,3.2,Average,10,$,150,4,Barangaroo,"Barangaroo, Sydney",Sydney,,14,-33.8647010000,151.2016370000,0,1
+Mr G's,"Steak, American",3.2,Average,7,$,160,4,Double Bay,"Double Bay, Sydney",Sydney,,14,-33.8763929916,151.2429589033,0,1
+Ambermere Rose Inn,"British, Modern Australian",3.2,Average,10,$,150,4,Little Hartley,"Little Hartley, Sydney",Sydney,02790,14,-33.5244000000,150.1942190000,0,0
+Ginkgo Bar & Dining,"Chinese, Fusion",3.1,Average,8,$,115,4,Darlinghurst,"Darlinghurst, Sydney",Sydney,,14,-33.8768692648,151.2214029953,0,1
+The Botanica Vaucluse,"Australian, Modern Australian",3.1,Average,8,$,160,4,Vaucluse,"Vaucluse, Sydney",Sydney,2030,14,-33.8584500000,151.2802190000,0,1
+Atelier by Sofitel,"French, Grill",3.1,Average,9,$,200,4,Sofitel Sydney Darling Harbour,"Sofitel Sydney Darling Harbour, Sydney",Sydney,,14,-33.8728588557,151.1985988542,0,1
+Quoi Dining,Modern Australian,3.1,Average,8,$,130,4,Baulkham Hills,"Baulkham Hills, Sydney",Sydney,,14,-33.7322381537,150.9647672251,0,0
+Mama's Buoi,"Vietnamese, Salad",3.0,Average,12,$,130,4,"Tramsheds, Harold Park","Tramsheds, Harold Park, Sydney",Sydney,2037,14,-33.8765572240,151.1783907563,0,0
+Barbara's Italian,"Italian, Pizza",3.0,Average,4,$,120,4,Rouse Hill,"Rouse Hill, Sydney",Sydney,,14,-33.6821350000,150.9164590000,0,0
+Esperanto Dining Room,Modern Australian,3.0,Average,4,$,180,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8711451813,151.2078762800,0,0
+The Village ,Australian,2.9,Average,8,$,120,4,Narellan,"Narellan, Sydney",Sydney,2567,14,-34.0422360000,150.7371210000,0,0
+Lord Nelson Brewery Hotel,Pub Food,3.9,Good,159,$,80,3,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8582968172,151.2034415826,0,0
+Rocks Brewing Co.,Pub Food,3.8,Good,77,$,70,3,Alexandria,"Alexandria, Sydney",Sydney,2015,14,-33.9165642873,151.1916955188,0,0
+Young Henry's,Drinks Only,3.8,Good,40,$,60,3,Enmore,"Enmore, Sydney",Sydney,02042,14,-33.8983962081,151.1747020483,0,0
+Redoak Boutique Beer Cafe,Modern Australian,3.7,Good,121,$,90,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8697513341,151.2055668980,0,1
+Batch Brewing Company,Drinks Only,3.5,Good,18,$,40,2,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9116667556,151.1648093909,0,0
+Wayward Brewing Co.,Drinks Only,3.2,Average,11,$,50,2,Annandale,"Annandale, Sydney",Sydney,2050,14,-33.8858508730,151.1750024557,0,0
+Modus Operandi,"Burger, Pizza",3.1,Average,10,$,90,3,Mona Vale,"Mona Vale, Sydney",Sydney,,14,-33.6760673992,151.3061135262,0,0
+Willie the Boatman,Drinks Only,3.0,Average,8,$,40,2,St. Peters,"St. Peters, Sydney",Sydney,2044,14,-33.9135251352,151.1728412658,0,0
+The Grifter Brewing Co,Bar Food,3.0,Average,7,$,60,3,Marrickville,"Marrickville, Sydney",Sydney,2204,14,-33.9047106195,151.1675703898,0,0
+Staves Brewery,Drinks Only,3.0,Average,5,$,60,3,Glebe,"Glebe, Sydney",Sydney,,14,-33.8842468451,151.1943019554,0,0
+Sauce Brewing Co,Drinks Only,0,Not rated,3,$,0,1,Marrickville,"Marrickville, Sydney",Sydney,,14,-33.9077573206,151.1631467566,0,0
+4 Pines Brew Pub,Bar Food,0,Not rated,3,$,80,3,Manly,"Manly, Sydney",Sydney,,14,-33.7996736208,151.2852637097,0,0
+Banh Xeo Bar,Vietnamese,3.1,Average,5,$,40,2,The Cannery Rosebery,"The Cannery Rosebery, Sydney",Sydney,,14,-33.9170830000,151.2028660000,0,0
+Mojo Picon,"Spanish, Tapas",0,Not rated,3,$,30,2,"The Entertainment Quarter, Moore Park","The Entertainment Quarter, Moore Park, Sydney",Sydney,,14,-33.8941716835,151.2256368622,0,0
+Coffee Express,Coffee and Tea,0,Not rated,2,$,10,1,Bondi Junction,"Bondi Junction, Sydney",Sydney,2022,14,-33.8912299771,151.2482391670,0,0
+The Smoothie Bowl Shack,"Healthy Food, Beverages",0,Not rated,1,$,0,1,Glebe,"Glebe, Sydney",Sydney,,14,-33.8828456967,151.1905324459,0,0
+Sushi Sushi,Sushi,0,Not rated,0,$,30,2,"Westfield Bondi Junction, Bondi Junction","Westfield Bondi Junction, Bondi Junction, Sydney",Sydney,2022,14,-33.8928497372,151.2504670769,0,0
+Jasmine Greens Park Kiosk,"Coffee and Tea, Mediterranean, Cafe Food",3.4,Average,16,$,20,2,Umina Beach,"Umina Beach, Umina Beach",Umina Beach,2257,14,-33.5258489000,151.3147647000,0,0
+Mister Gee Burger Truck,"American, Burger",4.5,Excellent,218,$,30,2,Haberfield,"Haberfield, Sydney",Sydney,2040,14,-33.8748233033,151.1283920333,0,0
+Knafeh,"Desserts, Israeli",4.4,Very Good,114,$,20,1,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+Eat Art Truck,"Australian, Mexican, Asian",3.8,Good,100,$,30,2,CBD,"CBD, Sydney",Sydney,,14,-33.8664633011,151.2086628377,0,0
+Nighthawk Diner,"American, Burger, Desserts",3.8,Good,45,$,70,3,Chippendale,"Chippendale, Sydney",Sydney,,14,-33.8867704686,151.1986303702,0,0
+Veggie Patch Food Van,"Burger, Healthy Food, Vegetarian",3.8,Good,43,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8678533046,151.2070461363,0,0
+Holy Heffa Burger Truck,"American, Burger",3.7,Good,65,$,25,1,Smithfield,"Smithfield, Sydney",Sydney,2177,14,-33.8822831712,150.8894279972,0,0
+Urban Pasta Truck,Italian,3.6,Good,29,$,25,1,CBD,"CBD, Sydney",Sydney,,14,-33.8677951214,151.2062796950,0,0
+Duo Duo Ice Cream,Desserts,3.5,Good,28,$,0,1,CBD,"CBD, Sydney",Sydney,,14,-33.9035190000,151.1410560000,0,0
+Tsuru,"Chinese, Malaysian",3.5,Good,41,$,30,2,CBD,"CBD, Sydney",Sydney,,14,-33.8736510000,151.2068896000,0,0
+Yang's Malaysian Food Truck,"Asian, Malaysian",3.5,Good,21,$,20,1,CBD,"CBD, Sydney",Sydney,2000,14,-33.8662815105,151.2086725608,0,0
+Agape Organic Food Truck,"Healthy Food, Australian",3.5,Good,31,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8664958730,151.2085136399,0,0
+Mate Burger,"Filipino, Burger",3.4,Average,17,$,35,2,Mount Druitt,"Mount Druitt, Sydney",Sydney,,14,-33.7665504782,150.8189244568,0,0
+Big Papa's Food Truck,Burger,3.4,Average,13,$,25,1,CBD,"CBD, Sydney",Sydney,,14,-33.8718394519,151.2023619935,0,0
+Monster Rolls,Sandwich,3.2,Average,14,$,25,1,Darlinghurst,"Darlinghurst, Sydney",Sydney,,14,-33.8794562920,151.2152268738,0,0
+Hoy Pinoy,"Filipino, BBQ",3.2,Average,7,$,25,1,Bondi,"Bondi, Sydney",Sydney,,14,-33.8936022750,151.2618480250,0,0
+Mama Linh's,"Vietnamese, Sandwich",3.1,Average,10,$,25,1,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+Original Choco Wrap,Desserts,3.1,Average,6,$,0,1,Burwood,"Burwood, Sydney",Sydney,2134,14,-33.8693874881,151.1071697250,0,0
+Jafe Jaffles,Sandwich,3.1,Average,17,$,25,1,CBD,"CBD, Sydney",Sydney,2000,14,-33.8736510000,151.2068896000,0,0
+Chorizo Chasers,Brazilian,3.1,Average,7,$,20,1,Wetherill Park,"Wetherill Park, Sydney",Sydney,,14,-33.8496898849,150.8979567513,0,0
+Al Carbón,Mexican,3.1,Average,9,$,25,1,CBD,"CBD, Sydney",Sydney,,14,-33.8674031497,151.2073673308,0,0
+Lets Do Yum Cha,"Chinese, Yum Cha",3.0,Average,16,$,0,1,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+Chicken Hustle,Burger,3.0,Average,5,$,30,2,Fairfield,"Fairfield, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+Baby Rey's,Burger,3.0,Average,9,$,40,2,Bankstown,"Bankstown, Sydney",Sydney,,14,-33.8713220000,151.1199640000,0,0
+G-dup burgers,Burger,3.0,Average,4,$,40,2,Blacktown,"Blacktown, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+Cook at Kurnell,"Burger, Coffee and Tea, Cafe Food",3.0,Average,5,$,30,2,Kurnell,"Kurnell, Sydney",Sydney,,14,-34.0085027624,151.1952085421,0,0
+Cantina Movil,"Mexican, Street Food",3.0,Average,5,$,30,2,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+Chubby Buns Burgers,"American, Fast Food, Burger",2.9,Average,16,$,25,1,Lidcombe,"Lidcombe, Sydney",Sydney,,14,-33.8505653190,151.0526280105,0,0
+Raza Central Pupusas Food Truck,Latin American,0,Not rated,2,$,0,1,CBD,"CBD, Sydney",Sydney,,14,-33.8661473248,151.2085649371,0,0
+Tasty Rollz,Vietnamese,0,Not rated,2,$,25,1,Prestons,"Prestons, Sydney",Sydney,,14,-33.9370370000,150.8430860000,0,0
+Chucks Burgers,Burger,0,Not rated,3,$,40,2,Blacktown,"Blacktown, Sydney",Sydney,,14,-33.7700996009,150.8427716419,0,0
+Maverick Wings,American,0,Not rated,3,$,35,2,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+Jarrod's Shakes 'n' Snags,American,0,Not rated,2,$,30,2,Parramatta,"Parramatta, Sydney",Sydney,,14,-33.8120377320,150.9631009027,0,0
+Mr Shish,Turkish,0,Not rated,1,$,25,1,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+The Original Soup Man Australia,"Australian, Desserts",0,Not rated,2,$,25,1,Concord,"Concord, Sydney",Sydney,,14,-33.8479044615,151.1077618226,0,0
+OG Dogs Food Truck,"Fast Food, Fusion, Street Food",0,Not rated,1,$,0,1,CBD,"CBD, Sydney",Sydney,,14,-33.8699175280,151.2091365829,0,0
+The Good Crook,Australian,0,Not rated,1,$,0,1,Windsor,"Windsor, Sydney",Sydney,,14,-33.6931130000,150.9245640000,0,0
+Loukoumadness by Parea,Desserts,0,Not rated,2,$,0,1,Monterey,"Monterey, Sydney",Sydney,,14,-33.9720101163,151.1360088363,0,0
+De Wafel,"Desserts, Fast Food",0,Not rated,2,$,25,1,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+New York Pastrami Deli,Sandwich,0,Not rated,2,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8665050600,151.2085330859,0,0
+Trang's Kitchen,Vietnamese,0,Not rated,2,$,15,1,Parramatta,"Parramatta, Sydney",Sydney,,14,-33.8120221321,150.9631327540,0,0
+Caminito,Spanish,0,Not rated,3,$,25,1,CBD,"CBD, Sydney",Sydney,,14,-33.8660757776,151.2086011469,0,0
+Berlin Bangers,German,0,Not rated,2,$,0,1,Bondi,"Bondi, Sydney",Sydney,,14,-33.8936788086,151.2619975582,0,0
+The Fancy Banger,"Australian, BBQ, Fast Food, Sandwich",0,Not rated,2,$,20,1,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+The Shuck Truck,Seafood,0,Not rated,1,$,30,2,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+The Coffee Tram,Coffee and Tea,0,Not rated,2,$,10,1,CBD,"CBD, Sydney",Sydney,,14,-33.8678207332,151.2065740675,0,0
+Shiso Fine,Japanese,0,Not rated,1,$,50,2,Redfern,"Redfern, Sydney",Sydney,2000,14,-33.8922686309,151.2000425532,0,0
+Sundweesh,Middle Eastern,0,Not rated,1,$,30,2,Parramatta,"Parramatta, Sydney",Sydney,,14,-33.8120391249,150.9631022438,0,0
+Fritz's Wieners,"Fast Food, German",0,Not rated,2,$,30,2,Darling Harbour,"Darling Harbour, Sydney",Sydney,,14,-33.8697184850,151.1993056163,0,0
+Brades Burgers,"Burger, American",0,Not rated,3,$,35,2,North Sydney,"North Sydney, Sydney",Sydney,,14,-33.8406835861,151.2073180452,0,0
+Fritto And Co,Italian,0,Not rated,1,$,0,1,Castle Hill,"Castle Hill, Sydney",Sydney,,14,-33.7128751546,150.9944394976,0,0
+The Burger Run,Burger,0,Not rated,1,$,0,1,Blacktown,"Blacktown, Sydney",Sydney,,14,-33.7614904806,150.9424066544,0,0
+Street Sliders,Burger,0,Not rated,1,$,35,2,CBD,"CBD, Sydney",Sydney,,14,-33.8663853511,151.2085894123,0,0
+Sakura On Wheelz,Japanese,0,Not rated,1,$,30,2,CBD,"CBD, Sydney",Sydney,2000,14,0.0000000000,0.0000000000,0,0
+Cali Burgers,Burger,0,Not rated,2,$,35,2,Casula,"Casula, Sydney",Sydney,2171,14,-33.9379660000,150.8446360000,0,0
+The Spruce Goose Diner,"Modern Australian, Coffee and Tea",0,Not rated,1,$,40,2,"Centennial Parkland Dining, Moore Park ","Centennial Parkland Dining, Moore Park , Sydney",Sydney,,14,-33.9009956617,151.2338722497,0,0
+Happy as Larry,"Italian, Healthy Food, Sandwich, Cafe Food, Coffee and Tea",0,Not rated,0,$,50,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8649031741,151.2068298832,0,0
+Blumont Jamaican Chicken & Burgers,"Street Food, Burger",0,Not rated,2,$,30,2,Chinatown,"Chinatown, Sydney",Sydney,,14,-33.8836603919,151.2031770498,0,0
+The Kerrigan,Burger,0,Not rated,1,$,60,3,The Rocks,"The Rocks, Sydney",Sydney,,14,-33.8564895781,151.2073985115,0,0
+Sunriser Espresso Drive-Thru Coffee,"Coffee and Tea, Sandwich",0,Not rated,1,$,0,1,Concord,"Concord, Sydney",Sydney,,14,-33.8689390116,151.1069058627,0,0
+You Pizza,Pizza,0,Not rated,1,$,50,2,Parramatta,"Parramatta, Sydney",Sydney,,14,-33.8120307678,150.9631475061,0,0
+Arepa,Venezuelan,0,Not rated,1,$,25,1,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+Maboul French Crepes,"French, Desserts, Crepes",0,Not rated,0,$,20,1,Chatswood,"Chatswood, Sydney",Sydney,,14,-33.7966414837,151.1836731731,0,0
+Tall Grass Cane Juice,Juices,0,Not rated,0,$,0,1,Chatswood,"Chatswood, Sydney",Sydney,,14,-33.7966130000,151.1827030000,0,0
+Tacohawk,Mexican,0,Not rated,0,$,0,1,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+Underground Coffee Roasters,Coffee and Tea,0,Not rated,0,$,0,1,Penrith,"Penrith, Sydney",Sydney,,14,-33.7423345386,150.6940874085,0,0
+Sweethawk,Desserts,0,Not rated,0,$,0,1,CBD,"CBD, Sydney",Sydney,,14,0.0000000000,0.0000000000,0,0
+Fork n Knife My Little Deli,"Deli, Australian, Cafe Food",0,Not rated,2,$,20,2,Somersby,"Somersby, Somersby",Somersby,2250,14,-33.4343404000,151.2952873000,0,0
+Short Black Espresso Bar and Cafe,"Breakfast, Burger, Coffee and Tea",0,Not rated,3,$,7,1,Woy Woy,"Woy Woy, Woy Woy",Woy Woy,2256,14,-33.4856667000,151.3238866000,0,0
+Felix Bistro and Bar,French,4.6,Excellent,644,$,120,4,"Ivy, CBD","Ivy, CBD, Sydney",Sydney,2000,14,-33.8667208140,151.2078507990,0,0
+Cafe Sydney,"Seafood, Modern Australian",4.4,Very Good,1247,$,160,4,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8625094763,151.2107633427,0,0
+Nomad,Mediterranean,4.4,Very Good,552,$,105,4,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8798880123,151.2102503702,0,1
+Bloodwood,Modern Australian,4.4,Very Good,574,$,100,4,Enmore,"Enmore, Sydney",Sydney,2042,14,-33.9000584093,151.1781275645,0,0
+Saké Restaurant & Bar,"Japanese, Sushi",4.3,Very Good,1103,$,125,4,"The Rocks Centre, The Rocks ","The Rocks Centre, The Rocks , Sydney",Sydney,2000,14,-33.8589934195,151.2075135112,0,1
+Bentley Restaurant and Bar - Radisson Blu Plaza Hotel,Modern Australian,4.3,Very Good,383,$,170,4,Radisson Blu Plaza Hotel CBD,"Radisson Blu Plaza Hotel CBD, Sydney",Sydney,2000,14,-33.8656676510,151.2086537853,0,0
+Chester White Cured Diner,Italian,4.3,Very Good,106,$,80,3,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8718937350,151.2233442441,0,0
+Ester,Modern Australian,4.2,Very Good,286,$,150,4,Chippendale,"Chippendale, Sydney",Sydney,2008,14,-33.8876182468,151.2008643150,0,1
+La Rosa The Strand,"Italian, Grill",4.2,Very Good,323,$,150,4,"The Strand Arcade, CBD","The Strand Arcade, CBD, Sydney",Sydney,2000,14,-33.8697204337,151.2076003477,0,0
+Yellow,"Modern Australian, Vegan, Vegetarian",4.2,Very Good,230,$,140,4,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8685659754,151.2256247923,0,0
+Four in Hand Dining Room,Modern Australian,4.2,Very Good,338,$,200,4,Paddington,"Paddington, Sydney",Sydney,2021,14,-33.8837625414,151.2344338372,0,1
+The Lobo Plantation,"Bar Food, Latin American",4.2,Very Good,183,$,80,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8700032694,151.2054294348,0,0
+The Stinking Bishops,"British, Modern Australian",4.2,Very Good,137,$,80,3,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8987357194,151.1755533144,0,1
+Cho Cho San,"Japanese, Asian, Fusion",4.1,Very Good,456,$,120,4,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8695236173,151.2255426496,0,1
+Stitch,"Bar Food, Poké",4.1,Very Good,361,$,75,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8676010845,151.2058039382,0,0
+Kuki Tanuki,"Japanese, Tapas",4.1,Very Good,189,$,60,3,Erskineville,"Erskineville, Sydney",Sydney,2043,14,-33.8997108330,151.1837035418,0,0
+Bulletin Place,Bar Food,4.1,Very Good,94,$,60,3,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8627269108,151.2097213045,0,0
+Opera Bar,"Australian, Seafood, Bar Food, Pizza",4.0,Very Good,593,$,110,4,Circular Quay,"Circular Quay, Sydney",Sydney,2000,14,-33.8584154237,151.2138435245,0,0
+The Botanist,"Tapas, Modern Australian",4.0,Very Good,235,$,95,3,Kirribilli,"Kirribilli, Sydney",Sydney,2061,14,-33.8454153320,151.2126948685,0,1
+Bondi Hardware,"Pizza, Tapas",4.0,Very Good,243,$,95,3,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8904340013,151.2728517875,0,1
+The Ternary,"Asian, Grill, Bar Food",4.0,Very Good,52,$,80,3,Darling Harbour,"Darling Harbour, Sydney",Sydney,2009,14,-33.8720643787,151.1979132146,0,1
+The Cottage Bar & Kitchen,"Seafood, Pizza, Modern Australian",4.0,Very Good,173,$,65,3,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8567373762,151.1788836122,0,1
+LL Wine & Dine,"Asian, Yum Cha",4.0,Very Good,141,$,90,3,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8729047870,151.2242920697,0,1
+Monopole,Modern Australian,3.9,Good,206,$,110,4,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8699475932,151.2253609300,0,0
+Fratelli Fresh,Italian,3.9,Good,207,$,90,3,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8563809922,151.2064939365,0,1
+MV Bistro & Wine Bar,Italian,3.9,Good,223,$,90,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8856674537,151.2137939036,0,1
+Palmer & Co.,Bar Food,3.9,Good,224,$,80,3,"Establishment, CBD","Establishment, CBD, Sydney",Sydney,2000,14,-33.8643525015,151.2078789622,0,0
+The Sheaf,Pub Food,3.9,Good,128,$,60,3,Double Bay,"Double Bay, Sydney",Sydney,2028,14,-33.8773346794,151.2433136255,0,0
+Italian Bar Franchi Brothers,"Italian, Pizza",3.9,Good,36,$,80,3,Paddington,"Paddington, Sydney",Sydney,2021,14,-33.8877173300,151.2311578542,0,1
+GPO Cheese and Wine Room,Bar Food,3.9,Good,92,$,60,3,"GPO Grand, CBD","GPO Grand, CBD, Sydney",Sydney,2000,14,-33.8677823156,151.2077679858,0,0
+York Lane,"Cafe Food, Coffee and Tea",3.9,Good,93,$,40,2,CBD,"CBD, Sydney",Sydney,2000,14,-33.8662194287,151.2052638084,0,0
+The Corner House,"Italian, Pizza",3.9,Good,111,$,100,4,Bondi,"Bondi, Sydney",Sydney,2026,14,-33.8949528745,151.2683245540,0,0
+Fratelli Fresh,Italian,3.8,Good,453,$,90,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8638978737,151.2081800401,0,1
+The Cut Bar & Grill,"Seafood, Steak",3.8,Good,231,$,200,4,"The Rocks Centre, The Rocks ","The Rocks Centre, The Rocks , Sydney",Sydney,2000,14,-33.8592130903,151.2078575045,0,1
+Manly Wine - The Sebel Manly Beach,"Seafood, Modern Australian",3.8,Good,156,$,120,4,Manly,"Manly, Sydney",Sydney,2095,14,-33.7992247784,151.2894650549,0,1
+The Treehouse,Modern Australian,3.8,Good,149,$,110,4,North Sydney,"North Sydney, Sydney",Sydney,2060,14,-33.8390121523,151.2065499276,0,1
+The Theatre Bar at the End of The Wharf,"Modern Australian, Bar Food",3.8,Good,102,$,70,3,The Rocks,"The Rocks, Sydney",Sydney,2000,14,-33.8545063322,151.2057402358,0,0
+DeVine,"Italian, Modern Australian",3.8,Good,111,$,100,4,CBD,"CBD, Sydney",Sydney,2000,14,-33.8707905277,151.2057325244,0,1
+Dimitri's Pizzeria,Pizza,3.8,Good,90,$,70,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8811363981,151.2147685513,0,0
+Fix Wine Bar + Restaurant,"Italian, Modern Australian",3.8,Good,124,$,95,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8695728911,151.2105544657,0,1
+Earl's Juke Joint,Finger Food,3.8,Good,111,$,50,2,Enmore,"Enmore, Sydney",Sydney,2042,14,-33.8999632365,151.1781594157,0,0
+Handpicked Cellar Door,"Bar Food, Vegetarian",3.8,Good,28,$,50,2,Chippendale,"Chippendale, Sydney",Sydney,2008,14,-33.8857247896,151.2019603327,0,0
+The Morrison Bar & Oyster Room,"Seafood, Modern Australian",3.7,Good,350,$,90,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8637784396,151.2071279436,0,1
+Cafe Del Mar,"Mediterranean, Modern Australian",3.7,Good,154,$,220,4,Cockle Bay Wharf ,"Cockle Bay Wharf , Sydney",Sydney,2000,14,-33.8713943288,151.2023780868,0,1
+The Eathouse Diner,"Modern Australian, Bar Food",3.7,Good,174,$,60,3,Redfern,"Redfern, Sydney",Sydney,2016,14,-33.8930403770,151.2055833265,0,1
+"Love, Tilly Devine",Tapas,3.7,Good,122,$,50,2,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8748157874,151.2157730386,0,0
+The Wild Rover,"Bar Food, Irish",3.7,Good,83,$,80,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8801658041,151.2098178640,0,0
+Corridor,"Seafood, Modern Australian",3.7,Good,101,$,70,3,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.8939239940,151.1832026392,0,0
+Zigi's Art & Wine Cheese Bar,"Modern Australian, Israeli",3.7,Good,57,$,70,3,Chippendale,"Chippendale, Sydney",Sydney,2008,14,-33.8847642678,151.1960447207,0,0
+Vinery Foods,Modern Australian,3.7,Good,50,$,80,3,Annandale,"Annandale, Sydney",Sydney,2038,14,-33.8808755886,151.1711940542,0,0
+Arcadia Liquors,Bar Food,3.7,Good,65,$,60,3,Redfern,"Redfern, Sydney",Sydney,2016,14,-33.8928714451,151.2005122751,0,0
+Bar Baretto,Italian,3.7,Good,58,$,80,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8891003077,151.2152694538,0,0
+Bitter Phew,Bar Food,3.7,Good,26,$,90,3,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8800327536,151.2156499922,0,0
+Cavallino,"Italian, Pizza",3.6,Good,77,$,80,3,Terrey Hills,"Terrey Hills, Sydney",Sydney,2084,14,-33.6830117283,151.2302237749,0,1
+Mojo Record Bar,Bar Food,3.6,Good,94,$,70,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8684228849,151.2060533837,0,0
+Parsons,Australian,3.6,Good,34,$,75,3,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8744308071,151.2239453942,0,1
+Tapas Tapas Bodega,"Seafood, Spanish, Tapas",3.6,Good,75,$,80,3,Turramurra,"Turramurra, Sydney",Sydney,2074,14,-33.7331036365,151.1299614608,0,0
+Formaggi Ocello,"French, Italian, European",3.6,Good,58,$,50,2,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8830249470,151.2160020322,0,0
+The Hunter Wine Bar,Bar Food,3.6,Good,36,$,75,3,"Myahgah Mews, Mosman","Myahgah Mews, Mosman, Sydney",Sydney,2088,14,-33.8251504126,151.2410739809,0,1
+Bench,"Bar Food, Beverages, Tapas",3.6,Good,40,$,70,3,Newtown,"Newtown, Sydney",Sydney,2042,14,-33.9027159717,151.1792326346,0,0
+Saké Restaurant & Bar,"Japanese, Sushi",3.5,Good,71,$,125,4,Double Bay,"Double Bay, Sydney",Sydney,2028,14,-33.8762771936,151.2433283776,0,1
+Ragu Pasta & Wine Bar,Italian,3.5,Good,137,$,45,2,"Westfield Pitt Street Mall, CBD","Westfield Pitt Street Mall, CBD, Sydney",Sydney,2000,14,-33.8700299940,151.2090943381,0,0
+Mrs Sippy,"Modern Australian, Cafe Food, Coffee and Tea",3.5,Good,90,$,85,3,Double Bay,"Double Bay, Sydney",Sydney,2028,14,-33.8774549296,151.2415487319,0,1
+The Barber Shop,Bar Food,3.5,Good,90,$,70,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8694250698,151.2058478594,0,0
+Marble Bar,Bar Food,3.5,Good,82,$,100,4,"Hilton Sydney, CBD","Hilton Sydney, CBD, Sydney",Sydney,2000,14,-33.8719065403,151.2069894746,0,0
+Cantina Bar,"Latin American, Mexican",3.5,Good,64,$,60,3,Balmain,"Balmain, Sydney",Sydney,2041,14,-33.8566226653,151.1785969511,0,0
+Jiangnan Kitchen,"Chinese, Dumplings, Shanghai",3.4,Average,38,$,75,3,Chinatown,"Chinatown, Sydney",Sydney,2000,14,-33.8776060773,151.2052842602,0,0
+MoVida @ The Airport,"Spanish, Tapas",3.4,Average,41,$,70,3,T2 Sydney Domestic Airport,"T2 Sydney Domestic Airport, Sydney",Sydney,2020,14,-33.9339850000,151.1798110000,0,0
+Golden Age Cinema & Bar,Bar Food,3.4,Average,21,$,65,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8793789106,151.2111059949,0,0
+North Bondi Fish,Seafood,3.3,Average,155,$,140,4,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8906135140,151.2823394314,0,0
+Cargo Bar,"Pizza, Bar Food",3.3,Average,156,$,85,3,Darling Harbour,"Darling Harbour, Sydney",Sydney,2000,14,-33.8685737702,151.2016294152,0,1
+Garçon,"Coffee and Tea, Bar Food, Cafe Food",3.3,Average,37,$,50,2,"Tramsheds, Harold Park","Tramsheds, Harold Park, Sydney",Sydney,2037,14,-33.8765845033,151.1779263988,0,0
+Bar Surry Hills & Italian Kitchen - Rydges Sydney Central,"Italian, Bar Food",3.3,Average,36,$,65,3,Surry Hills,"Surry Hills, Sydney",Sydney,2010,14,-33.8822211011,151.2098671496,0,1
+Sake Street,"Japanese, Tapas",3.3,Average,28,$,100,4,Bondi Beach,"Bondi Beach, Sydney",Sydney,2026,14,-33.8896508207,151.2709574774,0,0
+Creek & Cella,"Italian, Modern Australian",3.3,Average,11,$,80,3,Leichhardt,"Leichhardt, Sydney",Sydney,,14,-33.8863154036,151.1574718729,0,0
+30 Knots,"Burger, Pub Food",3.3,Average,22,$,80,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8657781739,151.2085434794,0,0
+The Grand Hotel,Pub Food,3.3,Average,13,$,80,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8658388640,151.2086423859,0,0
+Ravello Wine Bar Ristorante,Italian,3.3,Average,9,$,70,3,Beecroft,"Beecroft, Sydney",Sydney,2119,14,-33.7495985611,151.0647569597,0,0
+Honey Rider,Bar Food,3.2,Average,38,$,40,2,Neutral Bay,"Neutral Bay, Sydney",Sydney,2089,14,-33.8313613470,151.2238424644,0,0
+Rosé Royale,"Bar Food, French",3.2,Average,7,$,70,3,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8742749216,151.2241304666,0,1
+Dear Sainte Éloise,Bar Food,3.2,Average,9,$,50,2,Potts Point,"Potts Point, Sydney",Sydney,,14,-33.8723964788,151.2244302034,0,0
+Hotel CBD,Bar Food,3.2,Average,29,$,50,2,"Hotel CBD, CBD","Hotel CBD, CBD, Sydney",Sydney,2000,14,-33.8686094035,151.2058877572,0,0
+Bibo Wine Bar,Bar Food,3.2,Average,14,$,120,4,Double Bay,"Double Bay, Sydney",Sydney,,14,-33.8781875617,151.2414528430,0,1
+Arte Bianca,"Italian, Pizza",3.2,Average,12,$,70,3,Double Bay,"Double Bay, Sydney",Sydney,,14,-33.8761906234,151.2417881191,0,1
+The Local Bar,Tapas,3.2,Average,16,$,70,3,CBD,"CBD, Sydney",Sydney,2000,14,-33.8724560507,151.2090842798,0,0
+Beyond The Label,Bar Food,3.2,Average,10,$,85,3,Miranda,"Miranda, Sydney",Sydney,2228,14,-34.0343520302,151.0996129364,0,0
+Peekaboo Bar,Bar Food,3.2,Average,8,$,60,3,Woolloomooloo,"Woolloomooloo, Sydney",Sydney,2011,14,-33.8734339700,151.2183194608,0,0
+Rocksalt Tapas and Wine Bar,"Tapas, Bar Food",3.1,Average,9,$,60,3,Menai,"Menai, Sydney",Sydney,2234,14,-34.0124648212,151.0178511590,0,0
+Mad Pizza e Bar,"Italian, Pizza",3.1,Average,18,$,80,3,Potts Point,"Potts Point, Sydney",Sydney,2011,14,-33.8733510157,151.2244288623,0,0
+Black Bottle,Bar Food,3.1,Average,5,$,50,2,Darlinghurst,"Darlinghurst, Sydney",Sydney,,14,-33.8769886806,151.2212987244,0,1
+Tatler Bar,Bar Food,3.1,Average,7,$,50,2,Darlinghurst,"Darlinghurst, Sydney",Sydney,2010,14,-33.8759473355,151.2216571346,0,0
+Three Bottle Man,Australian,3.0,Average,4,$,100,4,Circular Quay,"Circular Quay, Sydney",Sydney,,14,-33.8627102065,151.2094621360,0,1
+Victoria's Restaurant and Wine Bar,"European, Modern Australian",3.0,Average,5,$,70,3,Mount Victoria,"Mount Victoria, Sydney",Sydney,2786,14,-33.5896557000,150.2561745000,0,0
+Bamiyan Restaurant,Afghani,2.7,Average,9,$,75,3,Baulkham Hills,"Baulkham Hills, Sydney",Sydney,2153,14,-33.7322615753,150.9642180428,0,1
+David Jones Wine Bar,Bar Food,2.7,Average,4,$,70,3,"David Jones Foodhall, CBD","David Jones Foodhall, CBD, Sydney",Sydney,2000,14,-33.8707986007,151.2090470642,0,0
+WyNo Bar,Modern Australian,2.7,Average,4,$,0,1,Surry Hills,"Surry Hills, Sydney",Sydney,,14,-33.8865940094,151.2093494833,0,0
+Al Agha,Lebanese,0,Not rated,2,$,110,4,Parramatta,"Parramatta, Sydney",Sydney,,14,-33.8128578384,151.0059522092,0,0
+Paddock & Vine,Tapas,0,Not rated,2,$,40,2,Mona Vale,"Mona Vale, Sydney",Sydney,,14,-33.6756580876,151.3032623380,0,0
+1877 Wine Bar & Espresso,"Bar Food, Coffee and Tea, Cafe Food",0,Not rated,3,$,80,3,Pyrmont,"Pyrmont, Sydney",Sydney,2009,14,-33.8709762061,151.1975055188,0,1
+Cittavino,Drinks Only,0,Not rated,3,$,40,2,Enmore,"Enmore, Sydney",Sydney,,14,-33.8984972268,151.1760964617,0,0

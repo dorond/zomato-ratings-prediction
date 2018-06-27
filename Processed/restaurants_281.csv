@@ -1,0 +1,1172 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,locality_verbose,city,zipcode,country_id,latitude,longitude,has_online_delivery,has_table_booking
+Diddy Riese Cookies,Desserts,4.8,Excellent,470,$,10,1,Westwood,Westwood,Los Angeles,90024,216,34.0630526000,-118.4468600000,0,0
+Aroma Coffee & Tea,"Coffee and Tea, Desserts",4.7,Excellent,221,$,25,2,"Tujunga Avenue, Studio City","Tujunga Avenue, Studio City, Los Angeles",Los Angeles,91604,216,34.1494319000,-118.3787579000,0,0
+Angel Maid Bakery,,4.7,Excellent,29,$,40,3,"South Centinela Avenue, Del Rey","South Centinela Avenue, Del Rey, Los Angeles",Los Angeles,90066,216,33.9923659000,-118.4221910000,0,0
+Alcove Cafe & Bakery,"American, Coffee and Tea",4.6,Excellent,286,$,25,2,"Hillhurst Avenue, Los Feliz","Hillhurst Avenue, Los Feliz, Los Angeles",Los Angeles,90027,216,34.1063127000,-118.2877515000,0,0
+Milk,"Bakery, American, Desserts",4.4,Very Good,209,$,25,2,"Beverly Boulevard, Melrose","Beverly Boulevard, Melrose, Los Angeles",Los Angeles,90036,216,34.0758712000,-118.3484353000,0,0
+Nat's Early Bite Coffee Shop,"Breakfast, Sandwich",4.4,Very Good,86,$,10,1,"Burbank Boulevard, Sherman Oaks","Burbank Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91401,216,34.1722971000,-118.4405619000,0,0
+Joan's on Third,American,4.3,Very Good,175,$,25,2,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0726992000,-118.3718092000,0,0
+Canter's Deli,"American, Deli",4.2,Very Good,248,$,25,2,"North Fairfax Avenue, Melrose","North Fairfax Avenue, Melrose, Los Angeles",Los Angeles,90036,216,34.0789742000,-118.3618750000,0,0
+Toast,American,4.1,Very Good,157,$,25,2,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0727688000,-118.3688071000,0,0
+3 Square Café + Bakery,"Burger, Sandwich",4.1,Very Good,101,$,25,2,Venice,Venice,Los Angeles,90291,216,33.9918673000,-118.4697792000,0,0
+The Cheesecake Factory,American,4.1,Very Good,67,$,25,2,"Canoga Avenue, Woodland Hills","Canoga Avenue, Woodland Hills, Los Angeles",Los Angeles,91367,216,34.1854731000,-118.5969535000,0,0
+Syrup Desserts,"Coffee and Tea, Desserts",4.1,Very Good,57,$,10,1,"South Spring Street, Downtown","South Spring Street, Downtown, Los Angeles",Los Angeles,90014,216,34.0457830000,-118.2514695000,0,0
+Phoenix Bakery,"Chinese, Dim Sum",4.1,Very Good,22,$,40,3,"North Broadway, Chinatown","North Broadway, Chinatown, Los Angeles",Los Angeles,90012,216,34.0659535000,-118.2367150000,0,0
+Panera Bread,Sandwich,4.1,Very Good,17,$,10,1,"South Sepulveda Boulevard, Westchester","South Sepulveda Boulevard, Westchester, Los Angeles",Los Angeles,90045,216,33.9586673000,-118.3966364000,0,0
+République,French,4.0,Very Good,61,$,40,3,"South La Brea Ave, Hancock Park","South La Brea Ave, Hancock Park, Los Angeles",Los Angeles,90036,216,34.0641783000,-118.3436788000,0,0
+The Cheesecake Factory,American,4.0,Very Good,71,$,25,2,"The Grove Drive, Park La Brea","The Grove Drive, Park La Brea, Los Angeles",Los Angeles,90036,216,34.0730618000,-118.3585639000,0,0
+Figaro Bistrot,French,4.0,Very Good,99,$,40,3,"North Vermont Avenue, Los Feliz","North Vermont Avenue, Los Feliz, Los Angeles",Los Angeles,90027,216,34.1037792000,-118.2915156000,0,0
+Stan's Corner Donut Shoppe,"Desserts, Donuts",4.0,Very Good,39,$,10,1,"Weyburn Avenue, Westwood","Weyburn Avenue, Westwood, Los Angeles",Los Angeles,90024,216,34.0623768000,-118.4468098000,0,0
+Farmshop,"American, Bakery",3.9,Good,69,$,35,3,Brentwood,Brentwood,Los Angeles,90402,216,34.0475109000,-118.4904307000,0,0
+Little Next Door,Bakery,3.9,Good,75,$,25,2,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,,216,34.0720869000,-118.3673600000,0,0
+Sweet Butter Kitchen,Breakfast,3.9,Good,41,$,25,2,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91423,216,34.1482654000,-118.4339792000,0,0
+Amandine Patissiere,,3.9,Good,47,$,40,3,Brentwood,Brentwood,Los Angeles,90025,216,34.0432285000,-118.4689334000,0,0
+Beard Papa's,Desserts,3.9,Good,44,$,10,1,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0391901000,-118.4414953000,0,0
+Le Pain Quotidien,"Breakfast, European",3.9,Good,23,$,25,2,Brentwood,Brentwood,Los Angeles,90049,216,34.0644108000,-118.4693784000,0,0
+Belwood Bakery,Sandwich,3.9,Good,20,$,10,1,Brentwood,Brentwood,Los Angeles,90049,216,34.0652507000,-118.4694895000,0,0
+Arda's Cafe,"Breakfast, Sandwich",3.9,Good,20,$,10,1,"West 6th Street, Downtown","West 6th Street, Downtown, Los Angeles",Los Angeles,90014,216,34.0475711000,-118.2538714000,0,0
+Eagle Rock Italian Bakery,,3.9,Good,17,$,10,1,"Colorado Boulevard, Eagle Rock","Colorado Boulevard, Eagle Rock, Los Angeles",Los Angeles,90041,216,34.1391818000,-118.2046106000,0,0
+Bea's Bakery,Desserts,3.9,Good,19,$,10,1,"Clark Street, Tarzana","Clark Street, Tarzana, Los Angeles",Los Angeles,91356,216,34.1695677000,-118.5350702000,0,0
+Italia Bakery & Deli,"Italian, Sandwich",3.9,Good,19,$,10,1,"Balboa Boulevard, Granada Hills","Balboa Boulevard, Granada Hills, Los Angeles",Los Angeles,91344,216,34.2736704000,-118.5010607000,0,0
+Proof Bakery,"Coffee and Tea, Desserts",3.8,Good,31,$,10,1,"Glendale Boulevard, Atwater Village","Glendale Boulevard, Atwater Village, Los Angeles",Los Angeles,90039,216,34.1169451000,-118.2615840000,0,0
+Natas Pastries,"Tapas, Portuguese",3.8,Good,37,$,25,2,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91423,216,34.1469388000,-118.4232529000,0,0
+Superba Food and Bread,,3.8,Good,28,$,0,1,"Lincoln Boulevard, Venice","Lincoln Boulevard, Venice, Los Angeles",Los Angeles,90291,216,33.9961770000,-118.4564616000,0,0
+Cafe Tropical,"Coffee and Tea, Cuban",3.8,Good,43,$,10,1,"Sunset Boulevard, Temple-Beaudry","Sunset Boulevard, Temple-Beaudry, Los Angeles",Los Angeles,90026,216,34.0827850000,-118.2736220000,0,0
+Aroma Bakery Cafe,International,3.8,Good,27,$,25,2,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91316,216,34.1652636000,-118.5258832000,0,0
+Mishi's Strudel Bakery & Cafe,"Coffee and Tea, Eastern European",3.8,Good,18,$,10,1,San Pedro,San Pedro,Los Angeles,90731,216,33.7375738000,-118.2838300000,0,0
+Swork,Coffee and Tea,3.8,Good,26,$,10,1,"Colorado Boulevard, Eagle Rock","Colorado Boulevard, Eagle Rock, Los Angeles",Los Angeles,90041,216,34.1388487000,-118.2139044000,0,0
+Duna Csarda,"European, Eastern European",3.8,Good,23,$,25,2,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90038,216,34.0833588000,-118.3273069000,0,0
+La Mascota Bakery,Mexican,3.8,Good,16,$,10,1,"Whittier Boulevard, Boyle Heights","Whittier Boulevard, Boyle Heights, Los Angeles",Los Angeles,90023,216,34.0326249000,-118.2112940000,0,0
+Tanner's Coffee,"Coffee and Tea, Sandwich",3.8,Good,13,$,10,1,"South Vista Del Mar Lane, Playa Del Rey","South Vista Del Mar Lane, Playa Del Rey, Los Angeles",Los Angeles,90293,216,33.9587900000,-118.4480880000,0,0
+Doan's Dessert & Coffee Company,Coffee and Tea,3.8,Good,9,$,10,1,"Ventura Boulevard, Woodland Hills","Ventura Boulevard, Woodland Hills, Los Angeles",Los Angeles,91364,216,34.1674620000,-118.6173895000,0,0
+House of Pies,"American, Diner",3.7,Good,71,$,10,1,Los Feliz,Los Feliz,Los Angeles,90027,216,34.1050630000,-118.2921756000,0,0
+Doughboys Cafe & Bakery,American,3.7,Good,62,$,10,1,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0720631000,-118.3672116000,0,0
+Simplethings Sandwich & Pie Shop,"American, Sandwich",3.7,Good,34,$,25,2,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0724560000,-118.3705040000,0,0
+Sweet Lady Jane,Desserts,3.7,Good,67,$,25,2,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90069,216,34.0833670000,-118.3723740000,0,0
+SK's Donuts & Croissant,"Breakfast, Donuts",3.7,Good,22,$,10,1,"West 3rd Street, Melrose","West 3rd Street, Melrose, Los Angeles",Los Angeles,90036,216,34.0689072000,-118.3475230000,0,0
+Sycamore Kitchen,"Breakfast, French",3.7,Good,34,$,25,2,"South La Brea Avenue, Melrose","South La Brea Avenue, Melrose, Los Angeles",Los Angeles,90036,216,34.0723734000,-118.3443974000,0,0
+Republic of Pie,,3.7,Good,29,$,0,1,"West Magnolia Boulevard, North Hollywood","West Magnolia Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1647859000,-118.3731085000,0,0
+King's Hawaiian,"Asian, Hawaiian",3.7,Good,27,$,10,1,"South Western Avenue, Harbor Gateway","South Western Avenue, Harbor Gateway, Los Angeles",Los Angeles,90248,216,33.8617646000,-118.3095090000,0,0
+A Votre Sante,"Mediterranean, Vegetarian",3.7,Good,39,$,25,2,Brentwood,Brentwood,Los Angeles,90049,216,34.0485620000,-118.4900410000,0,0
+The Trails,"Coffee and Tea, Sandwich",3.7,Good,22,$,10,1,Los Feliz,Los Feliz,Los Angeles,90068,216,34.1139438000,-118.3079227000,0,0
+Four Cafe,"Sandwich, California",3.7,Good,24,$,25,2,Eagle Rock,Eagle Rock,Los Angeles,90041,216,34.1389920000,-118.1998180000,0,0
+Susiecakes,,3.7,Good,21,$,25,2,Brentwood,Brentwood,Los Angeles,90049,216,34.0532134000,-118.4659174000,0,0
+Weiler's,Deli,3.7,Good,19,$,25,2,"Balboa Boulevard, Northridge","Balboa Boulevard, Northridge, Los Angeles",Los Angeles,91325,216,34.2351707000,-118.5007337000,0,0
+Red Ribbon BakeShop,Filipino,3.7,Good,12,$,0,1,"Woodman Avenue, Panorama City","Woodman Avenue, Panorama City, Los Angeles",Los Angeles,91402,216,34.2203769000,-118.4331161000,0,0
+Toffee Sensations,"American, Sandwich",3.7,Good,8,$,10,1,"West Manchester Avenue, Gramercy Place","West Manchester Avenue, Gramercy Place, Los Angeles",Los Angeles,90047,216,33.9597021000,-118.3035192000,0,0
+Chinese Mey Fung Bakery,Chinese,3.7,Good,6,$,10,1,"Van Nuys Boulevard, Van Nuys","Van Nuys Boulevard, Van Nuys, Los Angeles",Los Angeles,91405,216,34.2013370000,-118.4491410000,0,0
+United Bakery,,3.7,Good,6,$,25,2,"Griffith Park Boulevard, Silverlake","Griffith Park Boulevard, Silverlake, Los Angeles",Los Angeles,90026,216,34.0904486000,-118.2769936000,0,0
+Sasoun Bakery,Armenian,3.7,Good,5,$,10,1,"Santa Monica Boulevard, Melrose","Santa Monica Boulevard, Melrose, Los Angeles",Los Angeles,90029,216,34.0906179000,-118.3010121000,0,0
+Blinkie's Donut Emporium,Donuts,3.7,Good,5,$,0,1,"Topanga Canyon Boulevard, Woodland Hills","Topanga Canyon Boulevard, Woodland Hills, Los Angeles",Los Angeles,91364,216,34.1567465000,-118.6054168000,0,0
+Mama Ocllo Alfajores,"Desserts, Latin American",3.7,Good,5,$,10,1,San Pedro,San Pedro,Los Angeles,90731,216,33.7227523000,-118.2993265000,0,0
+Joseph's Bakery,,3.7,Good,3,$,0,1,San Pedro,San Pedro,Los Angeles,90731,216,33.7346740000,-118.2970488000,0,0
+Dream Bakery,,3.7,Good,2,$,10,1,"Sherman Way, North Hollywood","Sherman Way, North Hollywood, Los Angeles",Los Angeles,91605,216,34.2006999000,-118.4145078000,0,0
+La Paz Bakery,,3.7,Good,0,$,10,1,"De Soto Avenue, Canoga Park","De Soto Avenue, Canoga Park, Los Angeles",Los Angeles,91304,216,34.2187403000,-118.5886613000,0,0
+Milk Jar Cookies,"Coffee and Tea, Desserts",3.6,Good,19,$,10,1,"Wilshire Boulevard, Miracle Mile","Wilshire Boulevard, Miracle Mile, Los Angeles",Los Angeles,90036,216,34.0620877000,-118.3478127000,0,0
+Magnolia Bakery,Desserts,3.6,Good,33,$,10,1,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0731520000,-118.3729980000,0,0
+Big Man Bakes,Desserts,3.6,Good,31,$,10,1,Downtown,Downtown,Los Angeles,90013,216,34.0479217000,-118.2480191000,0,0
+The Village Bakery and Cafe,"Breakfast, Coffee and Tea",3.6,Good,28,$,10,1,"Los Feliz Boulevard, Atwater Village","Los Feliz Boulevard, Atwater Village, Los Angeles",Los Angeles,90039,216,34.1243695000,-118.2673299000,0,0
+Le Pain Quotidien,"Breakfast, European",3.6,Good,33,$,25,2,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91604,216,34.1460256000,-118.4175124000,0,0
+Le Pain Quotidien,"Breakfast, European",3.6,Good,24,$,25,2,Westwood,Westwood,Los Angeles,90024,216,34.0614156000,-118.4465765000,0,0
+Roladin Bakery & Cafe,Mediterranean,3.6,Good,6,$,25,2,"Victory Boulevard, Reseda","Victory Boulevard, Reseda, Los Angeles",Los Angeles,91335,216,34.1880944000,-118.5557387000,0,0
+Homegirl Cafe,Mexican,3.6,Good,20,$,10,1,"Bruno Street, Wholesale District","Bruno Street, Wholesale District, Los Angeles",Los Angeles,90012,216,34.0623248000,-118.2356866000,0,0
+Elysee Bakery,,3.6,Good,18,$,10,1,Westwood,Westwood,Los Angeles,90024,216,34.0602760000,-118.4468937000,0,0
+Frances Bakery,,3.6,Good,14,$,0,1,"East 2nd Street, Little Tokyo","East 2nd Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0469792000,-118.2391089000,0,0
+Rose Bakery,,3.6,Good,6,$,0,1,"Sepulveda Boulevard, Van Nuys","Sepulveda Boulevard, Van Nuys, Los Angeles",Los Angeles,91405,216,34.1931852000,-118.4657491000,0,0
+Ani Bakery,Armenian,3.6,Good,6,$,10,1,"Chatsworth Street, Granada Hills","Chatsworth Street, Granada Hills, Los Angeles",Los Angeles,91344,216,34.2646286000,-118.5226790000,0,0
+Gourmet LA Bakery,"Desserts, Mexican",3.6,Good,6,$,10,1,Downtown,Downtown,Los Angeles,90013,216,34.0467332000,-118.2514868000,0,0
+Noah's Bagels,,3.6,Good,14,$,10,1,"San Vicente Boulevard, Brentwood","San Vicente Boulevard, Brentwood, Los Angeles",Los Angeles,90049,216,34.0532003000,-118.4701815000,0,0
+El Rinconcito Del Mar,"Mexican, Seafood",3.6,Good,9,$,25,2,"East 1st Street, Boyle Heights","East 1st Street, Boyle Heights, Los Angeles",Los Angeles,90033,216,34.0404758000,-118.2031005000,0,0
+Noah's Bagels,,3.6,Good,9,$,10,1,Pacific Palisades,Pacific Palisades,Los Angeles,90272,216,34.0467289000,-118.5255090000,0,0
+Gigi Bakery & Cafe,"Coffee and Tea, Latin American",3.6,Good,6,$,10,1,"West Temple Street, Historic Filipinotown","West Temple Street, Historic Filipinotown, Los Angeles",Los Angeles,90026,216,34.0704765000,-118.2695756000,0,0
+Queen's Bakery,Desserts,3.6,Good,3,$,10,1,"North Broadway, Chinatown","North Broadway, Chinatown, Los Angeles",Los Angeles,90012,216,34.0626909000,-118.2383807000,0,0
+Maggie's Bakery,,3.6,Good,2,$,40,3,"Lankershim Boulevard, North Hollywood","Lankershim Boulevard, North Hollywood, Los Angeles",Los Angeles,91606,216,34.1893329000,-118.3873111000,0,0
+Café Dulcé,Japanese,3.5,Good,37,$,0,1,"Japanese Village Plaza Mall, Little Tokyo","Japanese Village Plaza Mall, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0489250000,-118.2397570000,0,0
+Stella Barra,"Italian, Pizza",3.5,Good,22,$,25,2,"Sunset Boulevard, Hollywood","Sunset Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.0978107000,-118.3286460000,0,0
+Mama's Secret Bakery & Cafe,"Bakery, Mediterranean, Turkish",3.5,Good,15,$,25,2,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0724700000,-118.3706350000,0,0
+Ninong's Pastries & Cafe,"Breakfast, Filipino",3.5,Good,9,$,10,1,"Chatsworth Street, Granada Hills","Chatsworth Street, Granada Hills, Los Angeles",Los Angeles,91344,216,34.2651121000,-118.5200866000,0,0
+Lark Cake Shop,,3.5,Good,19,$,10,1,"Sunset Boulevard, Silverlake","Sunset Boulevard, Silverlake, Los Angeles",Los Angeles,90026,216,34.0875365000,-118.2755176000,0,0
+Bon Jour French Pastry,Coffee and Tea,3.5,Good,8,$,10,1,Harbor Gateway,Harbor Gateway,Los Angeles,90248,216,33.8653050000,-118.3090340000,0,0
+Bhan Kanom Thai,Desserts,3.5,Good,16,$,10,1,"Hollywood Boulevard, Thai Town","Hollywood Boulevard, Thai Town, Los Angeles",Los Angeles,90027,216,34.1018750000,-118.3053830000,0,0
+Corner Bakery Cafe,Sandwich,3.5,Good,13,$,10,1,"Westwood Boulevard, Westwood","Westwood Boulevard, Westwood, Los Angeles",Los Angeles,90024,216,34.0621398000,-118.4455969000,0,0
+Three Bears Burgers,Burger,3.5,Good,7,$,10,1,Century Palms Cove,Century Palms Cove,Los Angeles,90061,216,33.9240990000,-118.2822490000,0,0
+Panaderia Cuscatleca,"Latin American, Mexican",3.5,Good,2,$,10,1,"West Pico Boulevard, Pico-Union","West Pico Boulevard, Pico-Union, Los Angeles",Los Angeles,90015,216,34.0441584000,-118.2764975000,0,0
+Noah's Bagels,,3.5,Good,7,$,10,1,Westwood,Westwood,Los Angeles,90024,216,34.0592693000,-118.4450353000,0,0
+Pat's,,3.5,Good,6,$,0,1,"West Pico Boulevard, Beverlywood","West Pico Boulevard, Beverlywood, Los Angeles",Los Angeles,90035,216,34.0554758000,-118.3926507000,0,0
+Emil's Swiss Pastry,"European, French",3.5,Good,8,$,0,1,"California Route 2, West Los Angeles","California Route 2, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0452080000,-118.4534560000,0,0
+Pasteleria Tres Leches,,3.5,Good,4,$,0,1,"East 4th Street, Boyle Heights","East 4th Street, Boyle Heights, Los Angeles",Los Angeles,90063,216,34.0352646000,-118.2002547000,0,0
+Continental Kosher Bakery,,3.5,Good,5,$,10,1,"Burbank Boulevard, North Hollywood","Burbank Boulevard, North Hollywood, Los Angeles",Los Angeles,91607,216,34.1725477000,-118.4038167000,0,0
+Palace Bakery,,3.5,Good,2,$,0,1,"North Broadway, Lincoln Heights","North Broadway, Lincoln Heights, Los Angeles",Los Angeles,90031,216,34.0734283000,-118.2139496000,0,0
+27th Street Bakery,,3.5,Good,3,$,25,2,"South Central Avenue, Central","South Central Avenue, Central, Los Angeles",Los Angeles,90011,216,34.0175200000,-118.2552256000,0,0
+Ruby Bakery,,3.5,Good,3,$,0,1,"North Eagle Rock Boulevard, Eagle Rock","North Eagle Rock Boulevard, Eagle Rock, Los Angeles",Los Angeles,90041,216,34.1381840000,-118.2142610000,0,0
+A.O.C.,Mediterranean,4.2,Very Good,324,$,40,3,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0733975000,-118.3819186000,0,0
+Cafe Stella,French,4.1,Very Good,109,$,40,3,Silverlake,Silverlake,Los Angeles,90029,216,34.0919200000,-118.2800940000,0,0
+Midori Sushi,"Japanese, Sushi",4.1,Very Good,52,$,25,2,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91423,216,34.1492066000,-118.4358231000,0,0
+Larsen's Grill,"Seafood, Steak",4.1,Very Good,45,$,70,4,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91436,216,34.1568980000,-118.4841962000,0,0
+Caruso's Italian Restaurant,"Italian, Seafood",4.1,Very Good,22,$,25,2,"Foothill Boulevard, Sylmar","Foothill Boulevard, Sylmar, Los Angeles",Los Angeles,91342,216,34.3095119000,-118.4324783000,0,0
+Chic Wine Bar,,4.1,Very Good,24,$,25,2,"West Pico Boulevard, Mid-City","West Pico Boulevard, Mid-City, Los Angeles",Los Angeles,90019,216,34.0495401000,-118.3586475000,0,0
+James' Beach,"American, California",4.0,Very Good,80,$,40,3,Venice,Venice,Los Angeles,90291,216,33.9846458000,-118.4702937000,0,0
+Barbrix,California,4.0,Very Good,65,$,25,2,"Hyperion Avenue, Silverlake","Hyperion Avenue, Silverlake, Los Angeles",Los Angeles,90027,216,34.1040862000,-118.2728473000,0,0
+Napa Valley Grille,American,3.9,Good,81,$,40,3,"Glendon Avenue, Westwood","Glendon Avenue, Westwood, Los Angeles",Los Angeles,90024,216,34.0605955000,-118.4438320000,0,0
+Polentoni,"Italian, Pizza",3.9,Good,45,$,25,2,"Jefferson Boulevard, Playa Vista","Jefferson Boulevard, Playa Vista, Los Angeles",Los Angeles,90230,216,33.9858830000,-118.4013197000,0,0
+Kitchen,"American, California",3.9,Good,52,$,25,2,"Fountain Avenue, East Hollywood","Fountain Avenue, East Hollywood, Los Angeles",Los Angeles,90029,216,34.0957046000,-118.2843316000,0,0
+Chablis Food + Wine,"American, Tapas",3.9,Good,29,$,25,2,"Ventura Boulevard, Tarzana","Ventura Boulevard, Tarzana, Los Angeles",Los Angeles,91356,216,34.1694020000,-118.5383558000,0,0
+Vino Wine & Tapas Room,"Spanish, Tapas",3.8,Good,31,$,25,2,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91316,216,34.1647723000,-118.5259714000,0,0
+Fleming's Prime Steakhouse & Wine Bar,"Seafood, Steak",3.8,Good,49,$,70,4,"Topanga Canyon Boulevard, Woodland Hills","Topanga Canyon Boulevard, Woodland Hills, Los Angeles",Los Angeles,91367,216,34.1864054000,-118.6063753000,0,0
+Bacaro L.A.,"Italian, Tapas",3.8,Good,42,$,10,1,"South Union Avenue, University Park","South Union Avenue, University Park, Los Angeles",Los Angeles,90007,216,34.0344350000,-118.2835970000,0,0
+Vintage Enoteca,"Italian, Tapas",3.8,Good,30,$,10,1,"Sunset Boulevard, Hollywood","Sunset Boulevard, Hollywood, Los Angeles",Los Angeles,90046,216,34.0978564000,-118.3542175000,0,0
+The Eclectic,Italian,3.8,Good,37,$,40,3,"Lankershim Boulevard, North Hollywood","Lankershim Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1644870000,-118.3740370000,0,0
+55 Degrees,,3.8,Good,23,$,25,2,"Glendale Boulevard, Atwater Village","Glendale Boulevard, Atwater Village, Los Angeles",Los Angeles,90039,216,34.1163741000,-118.2629788000,0,0
+Pip's on La Brea Restaurant,"Italian, Healthy Food",3.8,Good,13,$,40,3,"South La Brea Avenue, Mid-City","South La Brea Avenue, Mid-City, Los Angeles",Los Angeles,90019,216,34.0484816000,-118.3441657000,0,0
+Buon Gusto,"Italian, Seafood",3.7,Good,15,$,25,2,"Devonshire Street, Mission Hills","Devonshire Street, Mission Hills, Los Angeles",Los Angeles,91345,216,34.2578585000,-118.4705722000,0,0
+Il Tiramisu,Italian,3.6,Good,24,$,40,3,Sherman Oaks,Sherman Oaks,Los Angeles,91423,216,34.1482548000,-118.4315234000,0,0
+Venice Beach Wines,Mediterranean,3.6,Good,33,$,25,2,"Rose Ave, Venice","Rose Ave, Venice, Los Angeles",Los Angeles,90291,216,33.9987830000,-118.4732690000,0,0
+BottleRock,International,3.6,Good,25,$,25,2,"South Flower Street, Downtown","South Flower Street, Downtown, Los Angeles",Los Angeles,90015,216,34.0430180000,-118.2636840000,0,0
+Mosto Enoteca,Italian,3.6,Good,13,$,40,3,"Washington Boulevard, Venice","Washington Boulevard, Venice, Los Angeles",Los Angeles,90292,216,33.9830060000,-118.4609634000,0,0
+Kaffe Rouge,"American, International",3.6,Good,12,$,25,2,"Ventura Boulevard, Studio City","Ventura Boulevard, Studio City, Los Angeles",Los Angeles,91604,216,34.1405333000,-118.3755167000,0,0
+Fleming's Steakhouse,"Seafood, Steak",3.5,Good,45,$,70,4,"West Olympic Boulevard, Downtown","West Olympic Boulevard, Downtown, Los Angeles",Los Angeles,90015,216,34.0449376000,-118.2654979000,0,0
+The Must,,3.5,Good,16,$,25,2,"Winston Street, Downtown","Winston Street, Downtown, Los Angeles",Los Angeles,90013,216,34.0471270000,-118.2471245000,0,0
+The Red Room Food & Wine Bar,Tapas,3.5,Good,12,$,40,3,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91316,216,34.1618328000,-118.5139796000,0,0
+Zinque,French,3.5,Good,15,$,25,2,Venice,Venice,Los Angeles,90291,216,33.9889840000,-118.4619630000,0,0
+Caraiso's Italian Food,"Italian, Pizza",3.5,Good,8,$,40,3,"Foothill Boulevard, Sylmar","Foothill Boulevard, Sylmar, Los Angeles",Los Angeles,91342,216,34.3095119000,-118.4324783000,0,0
+On The Thirty,"Pizza, Bar Food",3.4,Average,11,$,25,2,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91403,216,34.1511370000,-118.4521570000,0,0
+Eat Drink Americano,Bar Food,3.4,Average,15,$,40,3,"East 3rd Street, Wholesale District","East 3rd Street, Wholesale District, Los Angeles",Los Angeles,90013,216,34.0462972000,-118.2340904000,0,0
+Smoke Oil Salt,Spanish,3.4,Average,14,$,40,3,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90046,216,34.0833328000,-118.3483456000,0,0
+Cuvée,"American, Breakfast",3.4,Average,18,$,25,2,Carthay,Carthay,Los Angeles,90048,216,34.0739537000,-118.3839579000,0,0
+Bar Covell,,3.4,Average,16,$,0,1,"Hollywood Boulevard, East Hollywood","Hollywood Boulevard, East Hollywood, Los Angeles",Los Angeles,90027,216,34.0998789000,-118.2902026000,0,0
+Froma on Melrose,,3.4,Average,16,$,25,2,Melrose,Melrose,Los Angeles,90046,216,34.0835258000,-118.3631450000,0,0
+Ba Restaurant,"Breakfast, French",3.4,Average,8,$,25,2,"York Boulevard, Eagle Rock","York Boulevard, Eagle Rock, Los Angeles",Los Angeles,90042,216,34.1208310000,-118.2047179000,0,0
+Matteo's,"Italian, Bar Food",3.4,Average,14,$,40,3,"Westwood Boulevard, Rancho Park","Westwood Boulevard, Rancho Park, Los Angeles",Los Angeles,90064,216,34.0418053000,-118.4302555000,0,0
+Reds Wine & Tapas Restaurant,"American, Tapas",3.4,Average,9,$,25,2,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91436,216,34.1568980000,-118.4841962000,0,0
+Guido's Los Angeles,"Italian, Seafood",3.3,Average,15,$,40,3,"Santa Monica Boulevard, West Los Angeles","Santa Monica Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0407954000,-118.4618154000,0,0
+Silverlake Wine,,3.3,Average,11,$,0,1,"Glendale Boulevard, Silverlake","Glendale Boulevard, Silverlake, Los Angeles",Los Angeles,90039,216,34.0999496000,-118.2594876000,0,0
+Mignon,French,3.3,Average,11,$,10,1,"East 6th Street, Downtown","East 6th Street, Downtown, Los Angeles",Los Angeles,90014,216,34.0446248000,-118.2493266000,0,0
+Pour Haus Wine Bar,,3.3,Average,5,$,25,2,Wholesale District,Wholesale District,Los Angeles,90021,216,34.0355670000,-118.2337785000,0,0
+ARIA V Wine Shop,Tapas,3.3,Average,5,$,25,2,"Jefferson Boulevard, Playa Vista","Jefferson Boulevard, Playa Vista, Los Angeles",Los Angeles,90230,216,33.9858830000,-118.4013197000,0,0
+Vardo,"Mediterranean, Vegetarian",3.2,Average,4,$,25,2,"Main Street, Venice","Main Street, Venice, Los Angeles",Los Angeles,90291,216,33.9970197000,-118.4789505000,0,0
+The Colonial Wine Bar,,3.2,Average,11,$,0,1,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90036,216,34.0833207000,-118.3457643000,0,0
+3Twenty Wine Lounge,Tapas,3.2,Average,6,$,40,3,"South La Brea Avenue, Hancock Park","South La Brea Avenue, Hancock Park, Los Angeles",Los Angeles,90036,216,34.0682721000,-118.3437399000,0,0
+Rascal,Sandwich,3.2,Average,6,$,10,1,"South La Brea Avenue, Miracle Mile","South La Brea Avenue, Miracle Mile, Los Angeles",Los Angeles,90036,216,34.0604146000,-118.3450030000,0,0
+Talisman,Eastern European,3.1,Average,6,$,25,2,"Victory Boulevard, Valley Glen","Victory Boulevard, Valley Glen, Los Angeles",Los Angeles,91606,216,34.1862989000,-118.4139645000,0,0
+Eastside Luv Wine Bar,,3.1,Average,4,$,0,1,"East 1st Street, Wholesale District","East 1st Street, Wholesale District, Los Angeles",Los Angeles,90033,216,34.0471798000,-118.2184512000,0,0
+Blue Whale Bar,"International, Bar Food",3.0,Average,4,$,0,1,"Astronaut E S Onizuka Street, Little Tokyo","Astronaut E S Onizuka Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0501009000,-118.2421794000,0,0
+Sushi Wok,"Japanese, Sushi",3.0,Average,3,$,25,2,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91316,216,34.1608590000,-118.5089700000,0,0
+Vine Fondue & Wine Bar,French,3.0,Average,2,$,0,1,Hollywood,Hollywood,Los Angeles,90038,216,34.0935504000,-118.3268358000,0,0
+gLAnce Wine Bar,,2.9,Average,2,$,25,2,"West Olympic Boulevard, Downtown","West Olympic Boulevard, Downtown, Los Angeles",Los Angeles,90015,216,34.0453980000,-118.2659270000,0,0
+Ammo at the Hammer,"American, Breakfast",2.9,Average,3,$,25,2,"Wilshire Boulevard, Westwood","Wilshire Boulevard, Westwood, Los Angeles",Los Angeles,90024,216,34.0593760000,-118.4436580000,0,0
+Bacari PDR,,2.9,Average,3,$,40,3,"South Vista Del Mar Lane, Playa Del Rey","South Vista Del Mar Lane, Playa Del Rey, Los Angeles",Los Angeles,90293,216,33.9586493000,-118.4483829000,0,0
+Buzz Wine Beer Shop,,2.8,Average,6,$,25,2,Downtown,Downtown,Los Angeles,90013,216,34.0474114000,-118.2488734000,0,0
+Ritual Coffee and Wine Bar,"Coffee and Tea, Tea",2.6,Average,2,$,25,2,"Topanga Canyon Boulevard, Canoga Park","Topanga Canyon Boulevard, Canoga Park, Los Angeles",Los Angeles,91303,216,34.1912027000,-118.6024821000,0,0
+Tapas & Wine Bar C,Tapas,2.6,Average,1,$,40,3,Little Tokyo,Little Tokyo,Los Angeles,90012,216,34.0473600000,-118.2391190000,0,0
+Stovepiper Lounge,California,2.4,Poor,1,$,10,1,"Parthenia Street, Northridge","Parthenia Street, Northridge, Los Angeles",Los Angeles,91324,216,34.2283580000,-118.5594570000,0,0
+Plan B,"Steak, California",1.9,Poor,2,$,40,3,"West Pico Boulevard, West Los Angeles","West Pico Boulevard, West Los Angeles, Los Angeles",Los Angeles,90064,216,34.0324300000,-118.4451470000,0,0
+Asha Authentic & Modern Indian Restaurant,"Indian, Vegetarian",0,Not rated,3,$,25,2,"Ventura Boulevard, Tarzana","Ventura Boulevard, Tarzana, Los Angeles",Los Angeles,91356,216,34.1697247000,-118.5391267000,0,0
+Vardo Cafe and Wine Bar,"Mediterranean, Vegetarian",0,Not rated,1,$,25,2,"Main Street, Venice","Main Street, Venice, Los Angeles",Los Angeles,90291,216,33.9970197000,-118.4789505000,0,0
+Avenue Italy Trattoria,"Italian, Bar Food",0,Not rated,1,$,0,1,"West Olympic Boulevard, West Los Angeles","West Olympic Boulevard, West Los Angeles, Los Angeles",Los Angeles,90064,216,34.0385854000,-118.4418145000,0,0
+Vinu Wine Bar,"Asian, Tapas",0,Not rated,1,$,0,1,Little Bangladesh,Little Bangladesh,Los Angeles,90010,216,34.0628092000,-118.3085598000,0,0
+Popcorn Cellars,Drinks Only,0,Not rated,0,$,0,1,Little Tokyo,Little Tokyo,Los Angeles,94558,216,0.0000000000,0.0000000000,0,0
+The Faculty,"American, Sandwich",0,Not rated,3,$,25,2,"North Heliotrope Drive, East Hollywood","North Heliotrope Drive, East Hollywood, Los Angeles",Los Angeles,90029,216,34.0839311000,-118.2951274000,0,0
+Obika Mozzarella Bar,Italian,0,Not rated,1,$,0,1,"Beverly Boulevard, Carthay","Beverly Boulevard, Carthay, Los Angeles",Los Angeles,90048,216,34.0753309000,-118.3774933000,0,0
+Upstairs at Vitello's,Italian,0,Not rated,2,$,40,3,"Tujunga Avenue, Studio City","Tujunga Avenue, Studio City, Los Angeles",Los Angeles,91604,216,34.1488470000,-118.3793110000,0,0
+Aura Thai Hollywood,"Asian, Thai",0,Not rated,2,$,10,1,"North Vermont Avenue, East Hollywood","North Vermont Avenue, East Hollywood, Los Angeles",Los Angeles,90027,216,34.0973280000,-118.2921675000,0,0
+Local Peasant,American,0,Not rated,2,$,25,2,"Ventura Boulevard, Woodland Hills","Ventura Boulevard, Woodland Hills, Los Angeles",Los Angeles,91364,216,34.1656764000,-118.6252880000,0,0
+Purple Wine & Coffee,Coffee and Tea,0,Not rated,1,$,0,1,"South Western Avenue, Koreatown","South Western Avenue, Koreatown, Los Angeles",Los Angeles,90005,216,34.0603930000,-118.3095520000,0,0
+Starbucks,"Coffee and Tea, Fast Food, Beverages",0,Not rated,1,$,10,1,Westchester,Westchester,Los Angeles,90045,216,33.9404050000,-118.4100240000,0,0
+Landmark Theatres,,0,Not rated,1,$,25,2,"West Pico Boulevard, Rancho Park","West Pico Boulevard, Rancho Park, Los Angeles",Los Angeles,90064,216,34.0396352000,-118.4289445000,0,0
+Market Provisions,"American, Seafood",0,Not rated,0,$,0,1,"Beverly Boulevard, Melrose","Beverly Boulevard, Melrose, Los Angeles",Los Angeles,90048,216,34.0763030000,-118.3641290000,0,0
+Colorado Wine Company,,0,Not rated,0,$,0,1,"Colorado Boulevard, Eagle Rock","Colorado Boulevard, Eagle Rock, Los Angeles",Los Angeles,90041,216,34.1395478000,-118.2164480000,0,0
+Vintage 10 Fifty,,0,Not rated,0,$,25,2,"Hill Street, Downtown","Hill Street, Downtown, Los Angeles",Los Angeles,90015,216,34.0403281000,-118.2593589000,0,0
+Ham & Eggs Tavern,,0,Not rated,0,$,25,2,Downtown,Downtown,Los Angeles,90014,216,34.0452285000,-118.2565429000,0,0
+Malibu Wines,Drinks Only,0,Not rated,0,$,0,1,"Foothill Boulevard, Sunland","Foothill Boulevard, Sunland, Los Angeles",Los Angeles,91040,216,34.2679180000,-118.3346610000,0,0
+St Regis Club,,0,Not rated,0,$,25,2,"Buffalo Avenue, Valley Glen","Buffalo Avenue, Valley Glen, Los Angeles",Los Angeles,91401,216,34.1802454000,-118.4296949000,0,0
+Knackig,,0,Not rated,1,$,10,1,"East 6th Street, Downtown","East 6th Street, Downtown, Los Angeles",Los Angeles,90014,216,34.0446248000,-118.2493266000,0,0
+Ritual Cafe & Wine Bar,"Coffee and Tea, International",0,Not rated,0,$,25,2,"Topanga Canyon Boulevard, Canoga Park","Topanga Canyon Boulevard, Canoga Park, Los Angeles",Los Angeles,91303,216,34.1912027000,-118.6024821000,0,0
+Vino Volo,,0,Not rated,1,$,25,2,Westchester,Westchester,Los Angeles,90045,216,33.9432220000,-118.4095530000,0,0
+326,Bar Food,0,Not rated,0,$,25,2,"West 3rd Street, Park La Brea","West 3rd Street, Park La Brea, Los Angeles",Los Angeles,90036,216,34.0717892000,-118.3605725000,0,0
+Garçons de Café,French,0,Not rated,0,$,25,2,"South Spring Street, Downtown","South Spring Street, Downtown, Los Angeles",Los Angeles,90013,216,34.0469870000,-118.2514150000,0,0
+Belle Vie,"French, Bar Food",0,Not rated,0,$,0,1,Brentwood,Brentwood,Los Angeles,,216,34.0460500000,-118.4645490000,0,0
+Raffi's Place,"Middle Eastern, Armenian",4.9,Excellent,138,$,25,2,"East Broadway, City Center","East Broadway, City Center, Glendale",Glendale,91205,216,34.1465910000,-118.2533580000,0,0
+Saladang Song,"Asian, Thai",4.3,Very Good,221,$,25,2,"South Fair Oaks Avenue, South Arroyo","South Fair Oaks Avenue, South Arroyo, Pasadena",Pasadena,91105,216,34.1390443000,-118.1509775000,0,0
+Rustic Canyon Wine Bar and Seasonal Kitchen,"American, California",4.1,Very Good,107,$,40,3,"Wilshire Boulevard, Downtown Third Street Promenade","Wilshire Boulevard, Downtown Third Street Promenade, Santa Monica",Santa Monica,90401,216,34.0250815000,-118.4913361000,0,0
+District Wine,Tapas,4.0,Very Good,20,$,25,2,"Linden Avenue, East Village","Linden Avenue, East Village, Long Beach",Long Beach,90802,216,33.7690314000,-118.1861812000,0,0
+Redwhite+Bluezz,American,3.9,Good,63,$,40,3,South,South,Pasadena,91101,216,34.1452395000,-118.1371679000,0,0
+Bamboo Thai Bistro,"Tapas, Thai",3.8,Good,46,$,10,1,Redondo Beach,Redondo Beach,Redondo Beach,90278,216,33.8726320000,-118.3719109000,0,0
+Fleming's Prime Steakhouse & Wine Bar,"Seafood, Steak",3.8,Good,61,$,70,4,El Segundo,El Segundo,El Segundo,90245,216,33.9025064000,-118.3826447000,0,0
+POP Champagne Bar,"American, Desserts",3.8,Good,40,$,40,3,West Central,West Central,Pasadena,91103,216,34.1469531000,-118.1496677000,0,0
+Bodega Wine Bar,Tapas,3.8,Good,52,$,25,2,"East Colorado Boulevard, South","East Colorado Boulevard, South, Pasadena",Pasadena,91101,216,34.1455348000,-118.1447541000,0,0
+Creme de la Crepe,French,3.7,Good,35,$,10,1,Redondo Beach,Redondo Beach,Redondo Beach,90277,216,33.8181113000,-118.3878736000,0,0
+Azo Vino,,3.7,Good,12,$,25,2,Covina,Covina,Covina,91723,216,34.0861547000,-117.8913669000,0,0
+Wahib's Middle East Restaurant & Bakery,Middle Eastern,3.7,Good,30,$,40,3,Alhambra,Alhambra,Alhambra,91801,216,34.0994232000,-118.1173102000,0,0
+Bodega Wine Bar,Tapas,3.7,Good,63,$,25,2,"Broadway, Downtown Third Street Promenade","Broadway, Downtown Third Street Promenade, Santa Monica",Santa Monica,90401,216,34.0183220000,-118.4893316000,0,0
+Vertical Wine Bistro,"American, California",3.6,Good,45,$,70,4,"North Raymond Avenue, West Central","North Raymond Avenue, West Central, Pasadena",Pasadena,91103,216,34.1470714000,-118.1485992000,0,0
+Bottega Louie,Italian,4.9,Excellent,740,$,40,3,"South Grand Avenue, Downtown","South Grand Avenue, Downtown, Los Angeles",Los Angeles,90017,216,34.0469319000,-118.2566807000,0,0
+Stonefire Grill,"American, BBQ, Pizza",4.6,Excellent,110,$,25,2,"Fallbrook Avenue, West Hills","Fallbrook Avenue, West Hills, Los Angeles",Los Angeles,91307,216,34.1872890000,-118.6236640000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",4.4,Very Good,60,$,15,1,"Lankershim Boulevard, North Hollywood","Lankershim Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1774549000,-118.3818633000,0,0
+Kushiyu,"BBQ, Japanese, Sushi",4.4,Very Good,45,$,60,4,"Ventura Boulevard, Tarzana","Ventura Boulevard, Tarzana, Los Angeles",Los Angeles,91356,216,34.1711633000,-118.5413764000,0,0
+Wood Spoon,"Brazilian, International",4.3,Very Good,117,$,25,2,"Main, Downtown","Main, Downtown, Los Angeles",Los Angeles,90015,216,34.0415530000,-118.2549309000,0,0
+Centanni Trattoria,Italian,4.3,Very Good,33,$,45,3,Venice,Venice,Los Angeles,90291,216,33.9968875000,-118.4579581000,0,0
+Mulberry Street Pizzeria,"Italian, Pizza",4.3,Very Good,38,$,10,1,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91316,216,34.1598468000,-118.5047752000,0,0
+Home Restaurant,American,4.2,Very Good,144,$,25,2,"Hillhurst Avenue, Los Feliz","Hillhurst Avenue, Los Feliz, Los Angeles",Los Angeles,90027,216,34.1030850000,-118.2871728000,0,0
+Los Toros Bar & Cantina,Mexican,4.2,Very Good,85,$,10,1,"Devonshire Street, Chatsworth","Devonshire Street, Chatsworth, Los Angeles",Los Angeles,91311,216,34.2575290000,-118.6031720000,0,0
+Casa Sanchez,Mexican,4.2,Very Good,57,$,40,3,"South Centinela Avenue, Del Rey","South Centinela Avenue, Del Rey, Los Angeles",Los Angeles,90066,216,33.9927420000,-118.4226810000,0,0
+The Ivy,"American, California",4.1,Very Good,218,$,70,4,Carthay,Carthay,Los Angeles,90048,216,34.0757334000,-118.3840392000,0,0
+The Hungry Cat,Seafood,4.1,Very Good,181,$,40,3,"Vine Street, Hollywood","Vine Street, Hollywood, Los Angeles",Los Angeles,90028,216,34.0986211000,-118.3266833000,0,0
+Umami Burger,"American, Burger",4.1,Very Good,137,$,25,2,"Hollywood Boulevard, Silverlake","Hollywood Boulevard, Silverlake, Los Angeles",Los Angeles,90027,216,34.1006566000,-118.2905529000,0,0
+Little Dom's,Italian,4.1,Very Good,125,$,40,3,"Hillhurst Avenue, Los Feliz","Hillhurst Avenue, Los Feliz, Los Angeles",Los Angeles,90027,216,34.1109316000,-118.2871605000,0,0
+Tart Restaurant,"American, Southern",4.1,Very Good,74,$,40,3,"South Fairfax Avenue, Carthay","South Fairfax Avenue, Carthay, Los Angeles",Los Angeles,90036,216,34.0737462000,-118.3617633000,0,0
+Jacks N Joe,"American, Breakfast",4.1,Very Good,37,$,10,1,"South Figueroa Street, University Park","South Figueroa Street, University Park, Los Angeles",Los Angeles,90007,216,34.0287607000,-118.2749923000,0,0
+El Cochinito,Cuban,4.1,Very Good,38,$,25,2,"Sunset Boulevard, Silverlake","Sunset Boulevard, Silverlake, Los Angeles",Los Angeles,90026,216,34.0887700000,-118.2766340000,0,0
+Asahi Japanese,"Japanese, Sushi",4.1,Very Good,34,$,25,2,"Balboa Boulevard, Granada Hills","Balboa Boulevard, Granada Hills, Los Angeles",Los Angeles,91344,216,34.2593770000,-118.5024650000,0,0
+Chaya Venice,"Asian, Mediterranean, Seafood",4.0,Very Good,148,$,40,3,Venice,Venice,Los Angeles,90291,216,33.9971279000,-118.4791525000,0,0
+STK,"International, Seafood, Steak",4.0,Very Good,112,$,70,4,"North La Cienega Boulevard, Melrose","North La Cienega Boulevard, Melrose, Los Angeles",Los Angeles,90024,216,34.0851002000,-118.3768646000,0,0
+Engine Co. No. 28,"American, Breakfast",4.0,Very Good,90,$,40,3,"South Figueroa Street, Downtown","South Figueroa Street, Downtown, Los Angeles",Los Angeles,90017,216,34.0495890000,-118.2591680000,0,0
+Yuca's,"Burger, Mexican",4.0,Very Good,66,$,20,2,"Hillhurst Avenue, Los Feliz","Hillhurst Avenue, Los Feliz, Los Angeles",Los Angeles,90027,216,34.1091280000,-118.2872897000,0,0
+Bamboo Inn,Chinese,4.0,Very Good,32,$,25,2,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91423,216,34.1489000000,-118.4377050000,0,0
+Il Capriccio,Italian,4.0,Very Good,43,$,25,2,"North Vermont Avenue, Los Feliz","North Vermont Avenue, Los Feliz, Los Angeles",Los Angeles,90027,216,34.1030640000,-118.2921340000,0,0
+The Bar-B-Que Bar,"American, BBQ",4.0,Very Good,45,$,25,2,"West Magnolia Boulevard, North Hollywood","West Magnolia Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1652108000,-118.3679130000,0,0
+Ink.Sack,"American, Fast Food, Sandwich",3.9,Good,78,$,10,1,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90069,216,34.0833670000,-118.3723740000,0,0
+Farmshop,"American, Bakery",3.9,Good,69,$,35,3,Brentwood,Brentwood,Los Angeles,90402,216,34.0475109000,-118.4904307000,0,0
+Rose Cafe & Restaurant,"American, Cafe",3.9,Good,96,$,25,2,"Rose Avenue, Venice","Rose Avenue, Venice, Los Angeles",Los Angeles,90291,216,33.9962389000,-118.4771001000,0,0
+Birds,"American, BBQ",3.9,Good,90,$,25,2,"Franklin Avenue, Hollywood","Franklin Avenue, Hollywood, Los Angeles",Los Angeles,90028,216,34.1054302000,-118.3189087000,0,0
+Home Restaurant,American,3.9,Good,72,$,25,2,"Riverside Drive, Silverlake","Riverside Drive, Silverlake, Los Angeles",Los Angeles,90039,216,34.1060600000,-118.2569270000,0,0
+Clifton's Republic,American,3.9,Good,51,$,40,3,"South Broadway, Downtown","South Broadway, Downtown, Los Angeles",Los Angeles,90014,216,34.0452800000,-118.2528150000,0,0
+Wabi-Sabi,"Asian, Japanese",3.9,Good,68,$,40,3,Venice,Venice,Los Angeles,90291,216,33.9896740000,-118.4630122000,0,0
+Coral Tree Cafe,"Coffee and Tea, Vegetarian, California",3.9,Good,58,$,10,1,"San Vicente Boulevard, Brentwood","San Vicente Boulevard, Brentwood, Los Angeles",Los Angeles,90049,216,34.0543000000,-118.4637700000,0,0
+Joselito's Mexican Food Tujunga,"Mexican, Tex-Mex, Latin American",3.9,Good,33,$,25,2,"Foothill Boulevard, Tujunga","Foothill Boulevard, Tujunga, Los Angeles",Los Angeles,91042,216,34.2499155000,-118.2912030000,0,0
+Tacos Delta,"Mexican, Tex-Mex",3.9,Good,29,$,35,3,Silverlake,Silverlake,Los Angeles,90026,216,34.0908680000,-118.2792100000,0,0
+Nazelie's Lebanese Cafe,"Mediterranean, Middle Eastern",3.9,Good,20,$,25,2,San Pedro,San Pedro,Los Angeles,90731,216,33.7265325000,-118.2883545000,0,0
+Cafe Sierra,"American, International, California",3.9,Good,15,$,40,3,"Universal City Plaza, Studio City","Universal City Plaza, Studio City, Los Angeles",Los Angeles,91608,216,34.1372307000,-118.3581847000,0,0
+Original Thai,Thai,3.9,Good,23,$,25,2,"Riverside Drive, North Hollywood","Riverside Drive, North Hollywood, Los Angeles",Los Angeles,91602,216,34.1571910000,-118.3783460000,0,0
+Bubba Gump Shrimp Co.,"American, Seafood, Southern",3.8,Good,64,$,25,2,"Universal City Plaza, Universal City","Universal City Plaza, Universal City, Los Angeles",Los Angeles,91608,216,34.1368721000,-118.3528001000,0,0
+Dinah's Family Restaurant,"American, BBQ",3.8,Good,66,$,25,2,"South Sepulveda Boulevard, Westchester","South Sepulveda Boulevard, Westchester, Los Angeles",Los Angeles,90045,216,33.9802157000,-118.3949919000,0,0
+Taix,French,3.8,Good,59,$,40,3,"Sunset Boulevard, Silverlake","Sunset Boulevard, Silverlake, Los Angeles",Los Angeles,90026,216,34.0782662000,-118.2615318000,0,0
+Lawry's Carvery,American,3.8,Good,21,$,25,2,"South Figueroa Street, Downtown","South Figueroa Street, Downtown, Los Angeles",Los Angeles,90015,216,34.0440375000,-118.2653807000,0,0
+Sky's Gourmet Tacos,Mexican,3.8,Good,32,$,10,1,Mid-City,Mid-City,Los Angeles,90019,216,34.0482901000,-118.3562409000,0,0
+Bamboo,"Caribbean, Cuban, Pizza",3.8,Good,26,$,25,2,"Venice Boulevard, Palms","Venice Boulevard, Palms, Los Angeles",Los Angeles,90034,216,34.0171683000,-118.4102802000,0,0
+O Dae San Korean BBQ,Korean,3.8,Good,12,$,0,1,"West Olympic Boulevard, Koreatown","West Olympic Boulevard, Koreatown, Los Angeles",Los Angeles,90006,216,34.0528404000,-118.2972596000,0,0
+Matsuda,"Sushi, Japanese",3.8,Good,12,$,25,2,"Ventura Boulevard, Studio City","Ventura Boulevard, Studio City, Los Angeles",Los Angeles,91604,216,34.1426985000,-118.3902480000,0,0
+El Taco Mexicano,Mexican,3.8,Good,9,$,10,1,"E Vernon Ave, Vernon Central","E Vernon Ave, Vernon Central, Los Angeles",Los Angeles,90011,216,34.0036980000,-118.2517595000,0,0
+Il Ristorante di Giorgio Baldi,Italian,3.7,Good,60,$,70,4,Pacific Palisades,Pacific Palisades,Los Angeles,90402,216,34.0284098000,-118.5187512000,0,0
+Sugarfish by Sushi Nozawa,"Japanese, Sushi",3.7,Good,68,$,40,3,"Ventura Boulevard, Studio City","Ventura Boulevard, Studio City, Los Angeles",Los Angeles,91604,216,34.1403022000,-118.3755574000,0,0
+BLVD 16,"American, Seafood, California",3.7,Good,34,$,40,3,"Wilshire Boulevard, Westwood","Wilshire Boulevard, Westwood, Los Angeles",Los Angeles,90024,216,34.0600836000,-118.4373902000,0,0
+Chaya Downtown,"Asian, French, Japanese",3.7,Good,56,$,70,4,"South Flower Street, Downtown","South Flower Street, Downtown, Los Angeles",Los Angeles,90071,216,34.0508608000,-118.2575279000,0,0
+Good Microbrew and Grill,"American, Bar Food",3.7,Good,56,$,25,2,"Sunset Boulevard, Silverlake","Sunset Boulevard, Silverlake, Los Angeles",Los Angeles,90026,216,34.0909022000,-118.2782585000,0,0
+Figtree's Cafe,"American, Vegetarian, California",3.7,Good,52,$,25,2,"Ocean Front Walk, Venice","Ocean Front Walk, Venice, Los Angeles",Los Angeles,90291,216,33.9934200000,-118.4792944000,0,0
+Kendall's Brasserie and Bar,"French, Bar Food",3.7,Good,34,$,40,3,"North Grand Avenue, Downtown","North Grand Avenue, Downtown, Los Angeles",Los Angeles,90012,216,34.0573500000,-118.2481600000,0,0
+LA Paella,"Spanish, Tapas",3.7,Good,37,$,40,3,"South San Vicente Boulevard, Carthay","South San Vicente Boulevard, Carthay, Los Angeles",Los Angeles,90048,216,34.0694140000,-118.3748080000,0,0
+Kula Revolving Sushi Bar,"Sushi, Japanese, Asian",3.7,Good,21,$,10,1,"East 2nd Street, Little Tokyo","East 2nd Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0488755000,-118.2406344000,0,0
+Bludso's Bar & Que,"American, BBQ",3.7,Good,38,$,25,2,"North La Brea Avenue, Melrose","North La Brea Avenue, Melrose, Los Angeles",Los Angeles,90036,216,34.0822243000,-118.3443424000,0,0
+P.F. Chang's,"Asian, Chinese",3.7,Good,32,$,40,3,Woodland Hills,Woodland Hills,Los Angeles,91367,216,34.1795740000,-118.6035127000,0,0
+Cassell's Hamburgers,"American, Burger, Sandwich",3.7,Good,28,$,25,2,"Normandie Avenue, Little Bangladesh","Normandie Avenue, Little Bangladesh, Los Angeles",Los Angeles,90020,216,34.0633340000,-118.3007220000,0,0
+Antonio's Pizzeria & Italian Restaurant,"Italian, Pizza",3.7,Good,30,$,25,2,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91423,216,34.1481406000,-118.4303621000,0,0
+Hot Wings Cafe,"American, Sandwich",3.7,Good,30,$,20,2,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90038,216,34.0836657000,-118.3431788000,0,0
+Buca di Beppo Italian Restaurant,"Italian, Pizza",3.7,Good,26,$,40,3,Encino,Encino,Los Angeles,91316,216,34.1613133417,-118.5145011399,0,0
+California Pita & Grill,Middle Eastern,3.7,Good,20,$,10,1,"Ventura Boulevard, Woodland Hills","Ventura Boulevard, Woodland Hills, Los Angeles",Los Angeles,91364,216,34.1687391000,-118.6022414000,0,0
+J Trani's Ristorante,Italian,3.7,Good,16,$,40,3,San Pedro,San Pedro,Los Angeles,90731,216,33.7362960000,-118.2896900000,0,0
+Coral Tree Cafe,"Breakfast, Coffee and Tea",3.7,Good,15,$,25,2,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91316,216,34.1618778000,-118.5139584000,0,0
+Hayat's Kitchen,Middle Eastern,3.7,Good,11,$,25,2,"Burbank Boulevard, North Hollywood","Burbank Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1725716000,-118.3706666000,0,0
+Alessio Bistro,"Italian, Seafood",3.7,Good,10,$,40,3,"Platt Avenue, West Hills","Platt Avenue, West Hills, Los Angeles",Los Angeles,91307,216,34.1872290000,-118.6425990000,0,0
+Birriería Jalisco,Mexican,3.7,Good,3,$,10,1,"East 1st Street, Boyle Heights","East 1st Street, Boyle Heights, Los Angeles",Los Angeles,90033,216,34.0470154000,-118.2180686000,0,0
+WP24 by Wolfgang Puck,"Asian, Chinese",3.6,Good,41,$,70,4,"West Olympic Boulevard, Downtown","West Olympic Boulevard, Downtown, Los Angeles",Los Angeles,90015,216,34.0453345000,-118.2665992000,0,0
+Buca di Beppo Italian Restaurant,"Italian, Pizza",3.6,Good,41,$,40,3,"Universal Studios Boulevard, Universal City","Universal Studios Boulevard, Universal City, Los Angeles",Los Angeles,91608,216,34.1364030193,-118.3511480000,0,0
+Palomino,"American, Italian, Mediterranean",3.6,Good,44,$,25,2,Westwood,Westwood,Los Angeles,90024,216,34.0595576000,-118.4422403000,0,0
+Bar Amá,"Tex-Mex, Mexican",3.6,Good,37,$,40,3,"West 4th Street, Downtown","West 4th Street, Downtown, Los Angeles",Los Angeles,90013,216,34.0484148000,-118.2479281000,0,0
+Hama Sushi Restaurant,"Asian, Japanese, Sushi",3.6,Good,49,$,25,2,Venice,Venice,Los Angeles,90291,216,33.9885610000,-118.4707680000,0,0
+Villains Tavern,"American, Burger, Bar Food",3.6,Good,34,$,25,2,Wholesale District,Wholesale District,Los Angeles,90013,216,34.0401668000,-118.2310422000,0,0
+Jack n' Jill's Too,French,3.6,Good,41,$,25,2,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0734122000,-118.3830814000,0,0
+Doomie's Home Cookin' Veggie-Vegan,"American, Vegetarian",3.6,Good,27,$,25,2,"Vine Street, Hollywood","Vine Street, Hollywood, Los Angeles",Los Angeles,90038,216,34.0940036000,-118.3276732000,0,0
+Prado,"Caribbean, Latin American",3.6,Good,23,$,25,2,"North Larchmont Boulevard, Hancock Park","North Larchmont Boulevard, Hancock Park, Los Angeles",Los Angeles,90004,216,34.0758785000,-118.3233931000,0,0
+Farmer Boys,"American, Burger, Fast Food",3.6,Good,17,$,10,1,"Alameda Street, Wholesale District","Alameda Street, Wholesale District, Los Angeles",Los Angeles,90021,216,34.0320419000,-118.2383130000,0,0
+Mistral,French,3.6,Good,23,$,70,4,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91423,216,34.1468753000,-118.4257370000,0,0
+Adrian's Trattoria,"European, Italian, Pizza",3.6,Good,9,$,25,2,"Vanowen Street, Reseda","Vanowen Street, Reseda, Los Angeles",Los Angeles,91335,216,34.1940859000,-118.5189470000,0,0
+Rosie's BBQ & Grillery,BBQ,3.6,Good,14,$,25,2,"Corbin Avenue, Northridge","Corbin Avenue, Northridge, Los Angeles",Los Angeles,91324,216,34.2333340000,-118.5617590000,0,0
+Golden Hunan Chinese,Chinese,3.6,Good,10,$,15,1,"Reseda Boulevard, Porter Ranch","Reseda Boulevard, Porter Ranch, Los Angeles",Los Angeles,91326,216,34.2582607000,-118.5354278000,0,0
+Casa Linda,"Mexican, Vegetarian",3.6,Good,9,$,20,2,Venice,Venice,Los Angeles,90291,216,33.9922800000,-118.4716620000,0,0
+Hae Jang Chon Restaurant,Korean,3.5,Good,37,$,40,3,"West 6th Street, Little Bangladesh","West 6th Street, Little Bangladesh, Los Angeles",Los Angeles,90020,216,34.0639032000,-118.3061281000,0,0
+P.F. Chang's,"Asian, Chinese",3.5,Good,27,$,40,3,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91403,216,34.1542778000,-118.4670778000,0,0
+Nizam Indian Cuisine,Indian,3.5,Good,15,$,25,2,"West Pico Boulevard, Rancho Park","West Pico Boulevard, Rancho Park, Los Angeles",Los Angeles,90064,216,34.0401159000,-118.4290776000,0,0
+Reyhan Persian Grill,"Mediterranean, Middle Eastern, Vegetarian",3.5,Good,16,$,25,2,"Jefferson Boulevard, Playa Vista","Jefferson Boulevard, Playa Vista, Los Angeles",Los Angeles,90230,216,33.9858830000,-118.4013197000,0,0
+Jino's Pars,"Italian, Middle Eastern, Pizza",3.5,Good,22,$,25,2,"West Manchester Avenue, Westchester","West Manchester Avenue, Westchester, Los Angeles",Los Angeles,90045,216,33.9595144000,-118.3843179000,0,0
+Scopa,Italian,3.5,Good,17,$,0,1,"Washington Boulevard, Venice","Washington Boulevard, Venice, Los Angeles",Los Angeles,90292,216,33.9883149000,-118.4515513000,0,0
+Tokyo Delve's Sushi Bar,"Japanese, Sushi",3.5,Good,21,$,25,2,"Lankershim Boulevard, North Hollywood","Lankershim Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1659280000,-118.3756160000,0,0
+City Wok,Chinese,3.5,Good,21,$,10,1,Encino,Encino,Los Angeles,,216,34.1598200000,-118.4990590000,0,0
+Bleecker Street,"American, Bar Food",3.5,Good,16,$,35,3,"Yolanda Avenue, Tarzana","Yolanda Avenue, Tarzana, Los Angeles",Los Angeles,91356,216,34.1700360000,-118.5402276000,0,0
+Neno's Norooz,"Pizza, Italian",3.5,Good,6,$,10,1,Wilmington,Wilmington,Los Angeles,90744,216,33.7903873000,-118.2742940000,0,0
+Armon's,"American, Mexican",3.5,Good,7,$,25,2,"North Eagle Rock Boulevard, Eagle Rock","North Eagle Rock Boulevard, Eagle Rock, Los Angeles",Los Angeles,90041,216,34.1384600000,-118.2140380000,0,0
+Sunny Spot,"Burger, Caribbean, Seafood",3.4,Average,46,$,25,2,"Washington Boulevard, Venice","Washington Boulevard, Venice, Los Angeles",Los Angeles,90292,216,33.9880353000,-118.4518361000,0,0
+Un Solo Sol Kitchen,"International, Latin American, Vegetarian",3.4,Average,9,$,25,2,"East 1st Street, Wholesale District","East 1st Street, Wholesale District, Los Angeles",Los Angeles,90033,216,34.0470833000,-118.2191052000,0,0
+Beso Restaurant,"Latin American, Seafood",3.4,Average,50,$,70,4,"Hollywood Boulevard, Hollywood","Hollywood Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1012680000,-118.3283400000,0,0
+La Piazza Ristorante,Italian,3.4,Average,30,$,40,3,"The Grove Drive, Park La Brea","The Grove Drive, Park La Brea, Los Angeles",Los Angeles,90036,216,34.0730618000,-118.3585639000,0,0
+Frida Mexican Cuisine,Mexican,3.4,Average,12,$,25,2,Westwood,Westwood,Los Angeles,90024,216,34.0603467000,-118.4426463000,0,0
+Otium,American,3.4,Average,12,$,0,1,"South Hope Street, Downtown","South Hope Street, Downtown, Los Angeles",Los Angeles,90012,216,34.0540544771,-118.2512152196,0,0
+Rose Cafe & Restaurant,"American, Cafe",3.9,Good,96,$,25,2,"Rose Avenue, Venice","Rose Avenue, Venice, Los Angeles",Los Angeles,90291,216,33.9962389000,-118.4771001000,0,0
+La Brea Avenue Cafe,Coffee and Tea,3.7,Good,56,$,10,1,"South La Brea Avenue, Hancock Park","South La Brea Avenue, Hancock Park, Los Angeles",Los Angeles,90036,216,34.0650629000,-118.3436925000,0,0
+Cow's End,"Coffee and Tea, Cafe",3.7,Good,20,$,0,1,Marina Peninsula,Marina Peninsula,Los Angeles,90292,216,33.9793278000,-118.4656973000,0,0
+Joe's Cafe,"American, Cafe",3.6,Good,16,$,25,2,"Chatsworth Street, Granada Hills","Chatsworth Street, Granada Hills, Los Angeles",Los Angeles,91344,216,34.2651493000,-118.5220280000,0,0
+Marie Et Cie,"Breakfast, Coffee and Tea, Cafe",3.5,Good,8,$,10,1,"Riverside Drive, Valley Village","Riverside Drive, Valley Village, Los Angeles",Los Angeles,91607,216,34.1572242000,-118.3880121000,0,0
+Panini Coffee & Cafe,"Coffee and Tea, British",3.4,Average,9,$,25,2,"Glencoe Avenue, Del Rey","Glencoe Avenue, Del Rey, Los Angeles",Los Angeles,90292,216,33.9862096000,-118.4398067000,0,0
+Lemonade,American,3.3,Average,23,$,25,2,Westchester,Westchester,Los Angeles,90045,216,33.9412180000,-118.4042210000,0,0
+Blue Bottle Coffee Roasters,"Coffee and Tea, Cafe",3.3,Average,13,$,10,1,Wholesale District,Wholesale District,Los Angeles,90013,216,34.0391029000,-118.2324731000,0,0
+Paradis,Cafe,3.3,Average,8,$,10,1,"North Vermont Avenue, Los Feliz","North Vermont Avenue, Los Feliz, Los Angeles",Los Angeles,90027,216,34.1024777000,-118.2914827000,0,0
+Tom's Urban,American,3.2,Average,20,$,25,2,"South Figueroa Street, Downtown","South Figueroa Street, Downtown, Los Angeles",Los Angeles,90015,216,34.0440375000,-118.2653807000,0,0
+Highland Cafe,Cafe,3.2,Average,6,$,25,2,"York Boulevard, Eagle Rock","York Boulevard, Eagle Rock, Los Angeles",Los Angeles,90042,216,34.1216384000,-118.2066738000,0,0
+Beach Pizza,Pizza,3.2,Average,4,$,25,2,"Lincoln Boulevard, Westchester","Lincoln Boulevard, Westchester, Los Angeles",Los Angeles,90045,216,33.9590609000,-118.4199801000,0,0
+Tal's Cafe,Cafe,3.2,Average,2,$,0,1,"West Florence Avenue, Hyde Park","West Florence Avenue, Hyde Park, Los Angeles",Los Angeles,90043,216,33.9748320000,-118.3227795000,0,0
+Gourmet Bite,Cafe,3.2,Average,1,$,0,1,"West Olympic Boulevard, West Los Angeles","West Olympic Boulevard, West Los Angeles, Los Angeles",Los Angeles,90064,216,34.0357661000,-118.4444787000,0,0
+Coffee + Food,Cafe,3.1,Average,4,$,0,1,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90004,216,34.0832760000,-118.3233300000,0,0
+Gayle’s Perks,Cafe,3.1,Average,5,$,15,1,"Balboa Boulevard, Northridge","Balboa Boulevard, Northridge, Los Angeles",Los Angeles,91325,216,34.2343730000,-118.5023330000,0,0
+Jessica Cafe,Cafe,3.1,Average,4,$,0,1,"South Curson Avenue, Park La Brea","South Curson Avenue, Park La Brea, Los Angeles",Los Angeles,90036,216,34.0670063000,-118.3559362000,0,0
+Boba Loca,Coffee and Tea,3.1,Average,3,$,0,1,"Sepulveda Boulevard, Van Nuys","Sepulveda Boulevard, Van Nuys, Los Angeles",Los Angeles,91411,216,34.1874526000,-118.4669148000,0,0
+Cafe Hill,Cafe,3.1,Average,1,$,0,1,"Hill Street, Downtown","Hill Street, Downtown, Los Angeles",Los Angeles,90014,216,34.0465822000,-118.2535672000,0,0
+Blue Cafe,"American, Coffee and Tea, Cafe",3.1,Average,0,$,0,1,"Ventura Boulevard, Tarzana","Ventura Boulevard, Tarzana, Los Angeles",Los Angeles,91356,216,34.1729689000,-118.5592081000,0,0
+Valerie Confections,"Coffee and Tea, Cafe",3.0,Average,4,$,0,1,"Echo Park Avenue, Echo Park","Echo Park Avenue, Echo Park, Los Angeles",Los Angeles,90026,216,34.0834000000,-118.2547050000,0,0
+Togo's,Sandwich,3.0,Average,1,$,10,1,"Los Feliz Boulevard, Atwater Village","Los Feliz Boulevard, Atwater Village, Los Angeles",Los Angeles,90039,216,34.1268490000,-118.2635810000,0,0
+Food Haus Cafe,Cafe,2.8,Average,4,$,0,1,"West 21st Street, University Park","West 21st Street, University Park, Los Angeles",Los Angeles,90007,216,34.0299090000,-118.2687090000,0,0
+Anson's Eatery,"American, Healthy Food, Cafe",2.8,Average,1,$,0,1,"West 9th Street, Downtown","West 9th Street, Downtown, Los Angeles",Los Angeles,90015,216,34.0420167000,-118.2559375000,0,0
+Cafe Bleu,"Cuban, Japanese, Korean, Latin American, Cafe",2.8,Average,1,$,0,1,"West 6th Street, Little Bangladesh","West 6th Street, Little Bangladesh, Los Angeles",Los Angeles,90020,216,34.0632983000,-118.2975105000,0,0
+Claudia's Cafe,Cafe,2.8,Average,4,$,0,1,"West 6th Street, Downtown","West 6th Street, Downtown, Los Angeles",Los Angeles,90014,216,34.0459280000,-118.2512920000,0,0
+Venice Beach Cafe,Cafe,2.4,Poor,4,$,0,1,"Park Row, Venice","Park Row, Venice, Los Angeles",Los Angeles,90291,216,33.9880740000,-118.4722974000,0,0
+Strada Eateria & Coffee,"Cafe, Coffee and Tea, Seafood, Sandwich",0,Not rated,0,$,20,2,Carthay,Carthay,Los Angeles,90013,216,0.0000000000,0.0000000000,0,0
+Laduree,"Tea, Bakery, French",0,Not rated,3,$,25,2,Park La Brea,Park La Brea,Los Angeles,90036,216,34.0720450000,-118.3571600000,0,0
+Alfred {Coffee & Kitchen},"Cafe, Coffee and Tea",0,Not rated,3,$,0,1,"Sunset Boulevard, Silverlake","Sunset Boulevard, Silverlake, Los Angeles",Los Angeles,90026,216,34.0875305000,-118.2755347000,0,0
+Hollywood Rock Cafe,"Beverages, Cafe",0,Not rated,1,$,25,2,"Hollywood Boulevard, Hollywood","Hollywood Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1016054000,-118.3314414000,0,0
+Cafe Tamal,"Cafe, Coffee and Tea",0,Not rated,0,$,15,1,Van Nuys,Van Nuys,Los Angeles,91406,216,0.0000000000,0.0000000000,0,0
+Street Level Cafe,"Cafe, Sandwich, Coffee and Tea",0,Not rated,1,$,25,2,Echo Park,Echo Park,Los Angeles,90026,216,34.0800000000,-118.3000000000,0,0
+Gasolina Cafe,Cafe,0,Not rated,3,$,25,2,"Ventura Boulevard, Woodland Hills","Ventura Boulevard, Woodland Hills, Los Angeles",Los Angeles,91364,216,34.1666814000,-118.5914229000,0,0
+Demitasse,"Coffee and Tea, American",0,Not rated,3,$,0,1,"North Cahuenga Boulevard, Hollywood","North Cahuenga Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.0992530000,-118.3293070000,0,0
+Le Petit Paris,"French, Cafe",0,Not rated,2,$,0,1,Downtown,Downtown,Los Angeles,90013,216,34.0481860000,-118.2488257000,0,0
+Atticus Coffee & Dessert,"Coffee and Tea, Ice Cream, Cafe",0,Not rated,3,$,0,1,"West 3rd Street, Melrose","West 3rd Street, Melrose, Los Angeles",Los Angeles,90036,216,34.0702695000,-118.3518410000,0,0
+Philz Coffee,"Coffee and Tea, Cafe",0,Not rated,1,$,15,1,"South Hope Street, Downtown","South Hope Street, Downtown, Los Angeles",Los Angeles,90017,216,34.0466150000,-118.2593740000,0,0
+Kitchen Mouse,"Cafe, Vegetarian",0,Not rated,3,$,10,1,"South Figueroa Street, Harvard Park","South Figueroa Street, Harvard Park, Los Angeles",Los Angeles,90042,216,33.9872214000,-118.2826535000,0,0
+Civil Coffee,Cafe,0,Not rated,1,$,0,1,Little Tokyo,Little Tokyo,Los Angeles,90042,216,0.0000000000,0.0000000000,0,0
+Rise-N-Grind,Cafe,0,Not rated,1,$,10,1,Hollywood,Hollywood,Los Angeles,90028,216,0.0000000000,0.0000000000,0,0
+Impresso Cafe,"Cafe, Coffee and Tea",0,Not rated,1,$,20,2,"South Hope Street, Downtown","South Hope Street, Downtown, Los Angeles",Los Angeles,90016,216,34.0421160000,-118.2637010000,0,0
+AB CAFE DELISH,Cafe,0,Not rated,0,$,25,2,Little Tokyo,Little Tokyo,Los Angeles,91607,216,34.1724140000,-118.4056440000,0,0
+Claudine Kitchen & Bakeshop,"Cafe, Bakery",0,Not rated,1,$,30,3,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91436,216,34.1569137000,-118.4892896000,0,0
+Graffiti Sublime Coffee,"Coffee and Tea, American, Cafe",0,Not rated,1,$,0,1,"South La Brea Avenue, Hancock Park","South La Brea Avenue, Hancock Park, Los Angeles",Los Angeles,90036,216,34.0716100000,-118.3438480000,0,0
+Blue Star,"Donuts, Coffee and Tea",0,Not rated,2,$,15,1,Venice,Venice,Los Angeles,90291,216,33.9912930000,-118.4693390000,0,0
+Birdies,"Cafe, Donuts",0,Not rated,1,$,0,1,"West Olympic Boulevard, Downtown","West Olympic Boulevard, Downtown, Los Angeles",Los Angeles,90015,216,34.0417686000,-118.2590479000,0,0
+It's Boba Time,"Cafe, Desserts, Healthy Food, Juices, Tea",0,Not rated,0,$,10,1,Downtown,Downtown,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+Hot Wings Cafe,Cafe,0,Not rated,1,$,25,2,"Van Nuys Boulevard, Sherman Oaks","Van Nuys Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91403,216,34.1550572000,-118.4489366000,0,0
+Document Coffee Bar,Cafe,0,Not rated,1,$,25,2,"Wilshire Boulevard, Koreatown","Wilshire Boulevard, Koreatown, Los Angeles",Los Angeles,90010,216,34.0614770000,-118.3109870000,0,0
+Roosevelt Cafe,Cafe,0,Not rated,1,$,25,2,Los Feliz,Los Feliz,Los Angeles,90027,216,34.1177454000,-118.2930954000,0,0
+American Tea Room,Cafe,0,Not rated,1,$,0,1,Wholesale District,Wholesale District,Los Angeles,90021,216,34.0322920000,-118.2303790000,0,0
+Go Get Em Tiger,Coffee and Tea,0,Not rated,0,$,20,2,"Hollywood Blvd, East Hollywood","Hollywood Blvd, East Hollywood, Los Angeles",Los Angeles,,216,34.0998960000,-118.2903450000,0,0
+Simplethings,Cafe,0,Not rated,2,$,0,1,"Glendon Avenue, Westwood","Glendon Avenue, Westwood, Los Angeles",Los Angeles,90024,216,34.0606222000,-118.4445929000,0,0
+Cafe Take 5,"Coffee and Tea, Cafe",0,Not rated,2,$,0,1,"East 1st Street, Little Tokyo","East 1st Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0496734000,-118.2402369000,0,0
+Tea Master Matcha Cafe &amp; Green Tea Shop,Cafe,0,Not rated,1,$,0,1,Little Tokyo,Little Tokyo,Los Angeles,90012,216,34.0469252441,-118.2384479047,0,0
+Marina Cafe,"American, Cafe",0,Not rated,1,$,10,1,Wilmington,Wilmington,Los Angeles,90744,216,33.7656803000,-118.2494035000,0,0
+Slim & Healthy Dr. Robbin,"Korean, Cafe",0,Not rated,0,$,25,2,"West 6th Street, Wilshire Center","West 6th Street, Wilshire Center, Los Angeles",Los Angeles,90020,216,34.0635263000,-118.2873840000,0,0
+Big Screen Cuisine,Cafe,0,Not rated,3,$,0,1,"Hart Street, Reseda","Hart Street, Reseda, Los Angeles",Los Angeles,91335,216,34.1971070000,-118.5341580000,0,0
+Koala T Cafe,Cafe,0,Not rated,1,$,10,1,"Weyburn Avenue, Westwood","Weyburn Avenue, Westwood, Los Angeles",Los Angeles,90024,216,34.0624922000,-118.4476723000,0,0
+Mesón Cafe,"American, Coffee and Tea",0,Not rated,1,$,0,1,"North Western Avenue, Melrose","North Western Avenue, Melrose, Los Angeles",Los Angeles,90004,216,34.0796063390,-118.3093547822,0,0
+Vees Cafe,Cafe,0,Not rated,0,$,30,3,"Venice Boulevard, Palms","Venice Boulevard, Palms, Los Angeles",Los Angeles,90034,216,34.0187450000,-118.4076780000,0,0
+Las Playas Bar,"American, Mexican, Bar Food, Cafe",0,Not rated,0,$,0,1,"San Fernando Road, Sun Valley","San Fernando Road, Sun Valley, Los Angeles",Los Angeles,91352,216,34.2194560000,-118.3699965000,0,0
+La Villa Cafe,"Mexican, Cafe",0,Not rated,0,$,10,1,Atwater Village,Atwater Village,Los Angeles,90039,216,34.1335375000,-118.2687286000,0,0
+Maestro Bakery & Café,"Coffee and Tea, Cafe",0,Not rated,0,$,10,1,"Vanowen Street, Van Nuys","Vanowen Street, Van Nuys, Los Angeles",Los Angeles,91405,216,34.1939150000,-118.4392039000,0,0
+Dina's Cafe,Cafe,0,Not rated,0,$,0,1,Westwood,Westwood,Los Angeles,90024,216,34.0627230000,-118.4480350000,0,0
+Carmel Cafe,Cafe,0,Not rated,2,$,0,1,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91436,216,34.1573368000,-118.4884868000,0,0
+Kreation Organic,Cafe,0,Not rated,0,$,10,1,"Riverside Drive, Toluca Lake","Riverside Drive, Toluca Lake, Los Angeles",Los Angeles,91602,216,34.1524378000,-118.3512289000,0,0
+Pepperdine Corner Cafe in,Cafe,0,Not rated,0,$,25,2,Westchester,Westchester,Los Angeles,90045,216,33.9769753000,-118.3924370000,0,0
+Affair With My Plate,Italian,0,Not rated,0,$,15,1,"Wilshire Boulevard, Brentwood","Wilshire Boulevard, Brentwood, Los Angeles",Los Angeles,90049,216,34.0481880000,-118.4630870000,0,0
+Prebica Cafe,Cafe,0,Not rated,0,$,0,1,"Glencoe Avenue, Del Rey","Glencoe Avenue, Del Rey, Los Angeles",Los Angeles,90292,216,33.9862096000,-118.4398067000,0,0
+Bliss Art House Cafe,"Coffee and Tea, Cafe",0,Not rated,3,$,0,1,"Vine Street, Hollywood","Vine Street, Hollywood, Los Angeles",Los Angeles,90038,216,34.0938659000,-118.3269750000,0,0
+Cafe Venice,Cafe,0,Not rated,0,$,0,1,"Pacific Avenue, Venice","Pacific Avenue, Venice, Los Angeles",Los Angeles,90291,216,33.9869272000,-118.4725206000,0,0
+Steeple House Coffee,"Coffee and Tea, Cafe",0,Not rated,0,$,10,1,"Roscoe Boulevard, North Hollywood","Roscoe Boulevard, North Hollywood, Los Angeles",Los Angeles,91352,216,34.2211343000,-118.4219151000,0,0
+Cafe Creole,"Cafe, Creole",0,Not rated,0,$,10,1,Hyde Park,Hyde Park,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+Dr Juice Cafe,"Healthy Food, Juices, Cafe",0,Not rated,0,$,0,1,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0734127000,-118.3831848000,0,0
+Bread Crumbs Cafe,Cafe,0,Not rated,0,$,15,1,Woodland Hills,Woodland Hills,Los Angeles,91364,216,0.0000000000,0.0000000000,0,0
+Mick's Cafe,Cafe,0,Not rated,0,$,15,1,Pacific Palisades,Pacific Palisades,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+BREW/WELL,Coffee and Tea,0,Not rated,0,$,0,1,"Sunset Boulevard, Hollywood","Sunset Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.0983100000,-118.3316390000,0,0
+BrunchDTLA,Cafe,0,Not rated,0,$,25,2,"South Los Angeles Street, Wholesale District","South Los Angeles Street, Wholesale District, Los Angeles",Los Angeles,90014,216,34.0427060000,-118.2507980000,0,0
+Our Place Cafe,Cafe,0,Not rated,2,$,0,1,"Owensmouth Avenue, Canoga Park","Owensmouth Avenue, Canoga Park, Los Angeles",Los Angeles,91303,216,34.1941167000,-118.6012779000,0,0
+Plaza Cafe,Cafe,0,Not rated,0,$,0,1,"West Century Boulevard, Westchester","West Century Boulevard, Westchester, Los Angeles",Los Angeles,90045,216,33.9471358000,-118.3828470000,0,0
+Lunchstop Cafe,Cafe,0,Not rated,0,$,0,1,"West Temple Street, Downtown","West Temple Street, Downtown, Los Angeles",Los Angeles,90012,216,34.0568474000,-118.2459566000,0,0
+West café,Cafe,0,Not rated,0,$,0,1,"Western Heritage Way, Los Feliz","Western Heritage Way, Los Feliz, Los Angeles",Los Angeles,90027,216,34.1487393000,-118.2815381000,0,0
+Cafe Villa,"Coffee and Tea, Cafe",0,Not rated,0,$,0,1,"Lankershim Boulevard, North Hollywood","Lankershim Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1629700000,-118.3735000000,0,0
+La Creme Cafe,Cafe,0,Not rated,0,$,0,1,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90046,216,34.0833607000,-118.3508583000,0,0
+Point's West Cafe,Cafe,0,Not rated,0,$,0,1,"Lincoln Boulevard, Playa Vista","Lincoln Boulevard, Playa Vista, Los Angeles",Los Angeles,90094,216,33.9733630000,-118.4301920000,0,0
+Signature Cafe II,Cafe,0,Not rated,0,$,0,1,Regent Square,Regent Square,Los Angeles,90034,216,34.0329120000,-118.3821740000,0,0
+Vees Cafe on the Run,"Coffee and Tea, Cafe",0,Not rated,0,$,0,1,"Whittier Boulevard, Boyle Heights","Whittier Boulevard, Boyle Heights, Los Angeles",Los Angeles,90023,216,34.0345470000,-118.2163215000,0,0
+Black Fig,Cafe,0,Not rated,0,$,0,1,"East 3rd Street, Wholesale District","East 3rd Street, Wholesale District, Los Angeles",Los Angeles,90013,216,34.0438550000,-118.2328900000,0,0
+Qq Cafe,"Coffee and Tea, Cafe",0,Not rated,1,$,0,1,Wholesale District,Wholesale District,Los Angeles,90014,216,34.0390410000,-118.2500720000,0,0
+Manifesto Cafe,"Coffee and Tea, Cafe",0,Not rated,0,$,0,1,"Monterey Road, Highland Park","Monterey Road, Highland Park, Los Angeles",Los Angeles,90042,216,34.1020042000,-118.1863848000,0,0
+Aroma Cafe,Cafe,0,Not rated,0,$,10,1,"Oxnard Street, Woodland Hills","Oxnard Street, Woodland Hills, Los Angeles",Los Angeles,91367,216,34.1789461000,-118.6021930000,0,0
+Lmu - Jazzman's Cafe & Bakery,"Coffee and Tea, Cafe",0,Not rated,0,$,10,1,"Loyola Marymount University Drive, Westchester","Loyola Marymount University Drive, Westchester, Los Angeles",Los Angeles,90045,216,33.9663093000,-118.4229655000,0,0
+Ec Cafe,Cafe,0,Not rated,0,$,0,1,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91436,216,34.1569137000,-118.4892896000,0,0
+Garden Cafe,"American, Cafe",0,Not rated,0,$,10,1,"South Bundy Drive, West Los Angeles","South Bundy Drive, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0345045000,-118.4554166000,0,0
+Park Cafe and Grill,"Healthy Food, Cafe",0,Not rated,0,$,25,2,"Balboa Boulevard, Encino","Balboa Boulevard, Encino, Los Angeles",Los Angeles,91316,216,34.1863820000,-118.5016627000,0,0
+Showbiz Store & Café,"Coffee and Tea, Cafe",0,Not rated,0,$,25,2,"South Sepulveda Boulevard, Westwood","South Sepulveda Boulevard, Westwood, Los Angeles",Los Angeles,90049,216,34.0661200000,-118.4597740000,0,0
+Tacone,"American, Mexican, Beverages, Spanish, Cafe",0,Not rated,0,$,25,2,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91403,216,34.1523723000,-118.4607954000,0,0
+Tested.la,"Coffee and Tea, Cafe",0,Not rated,0,$,25,2,"Division Street, Glassell Park","Division Street, Glassell Park, Los Angeles",Los Angeles,90065,216,34.1050750000,-118.2299740000,0,0
+The Apple Pan,"Burger, Desserts",4.5,Excellent,359,$,20,2,"West Pico Boulevard, Rancho Park","West Pico Boulevard, Rancho Park, Los Angeles",Los Angeles,90064,216,34.0407174000,-118.4277921000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",3.7,Good,19,$,15,1,"Laurel Canyon Blvd, Mission Hills","Laurel Canyon Blvd, Mission Hills, Los Angeles",Los Angeles,91340,216,34.2780181000,-118.4530606000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",3.6,Good,10,$,15,1,Tujunga,Tujunga,Los Angeles,91042,216,34.2411060000,-118.2665090000,0,0
+Cindy's,"American, Coffee and Tea, Diner",3.3,Average,14,$,25,2,"Colorado Boulevard, Eagle Rock","Colorado Boulevard, Eagle Rock, Los Angeles",Los Angeles,90041,216,34.1389806000,-118.1984514000,0,0
+The Three Broomsticks,American,0,Not rated,3,$,0,1,Universal City,Universal City,Los Angeles,91608,216,34.1388550000,-118.3542590000,0,0
+Michelle's Country Diner,American,0,Not rated,0,$,25,2,Baldwin Hills,Baldwin Hills,Los Angeles,90008,216,34.0107160000,-118.3388630000,0,0
+Starling Diner,"New American, Breakfast",4.3,Very Good,75,$,40,3,Belmont Heights,Belmont Heights,Long Beach,90814,216,33.7679621000,-118.1443630000,0,0
+Black Bear Diner,"American, Diner",3.2,Average,9,$,10,1,"Hawthorne Boulevard, Southwood Riviera","Hawthorne Boulevard, Southwood Riviera, Torrance",Torrance,90505,216,33.8061826000,-118.3510496000,0,0
+Coogie's Cafe,"Diner, California",3.2,Average,14,$,20,2,"Santa Monica Boulevard, Mid-City","Santa Monica Boulevard, Mid-City, Santa Monica",Santa Monica,90404,216,34.0355464000,-118.4711168000,0,0
+Mr. D's Diner,American,0,Not rated,0,$,25,2,Pomona,Pomona,Pomona,91767,216,34.1074660000,-117.7418650000,0,0
+Busy Bee,"American, Sandwich, Deli",4.9,Excellent,130,$,10,1,San Pedro,San Pedro,Los Angeles,90731,216,33.7222269000,-118.3036027000,0,0
+Art's Deli,"American, Sandwich, Deli",3.8,Good,42,$,25,2,"Ventura Boulevard, Studio City","Ventura Boulevard, Studio City, Los Angeles",Los Angeles,91604,216,34.1429121000,-118.3994463000,0,0
+Nick's Coffee Shop & Deli,"Coffee and Tea, Diner, Sandwich",3.8,Good,23,$,10,1,Crestview,Crestview,Los Angeles,90035,216,34.0532708000,-118.3771138000,0,0
+Factor's Famous Deli,Deli,3.6,Good,27,$,25,2,"West Pico Boulevard, Beverlywood","West Pico Boulevard, Beverlywood, Los Angeles",Los Angeles,90035,216,34.0549980000,-118.3945900000,0,0
+Whole Foods,Deli,0,Not rated,2,$,0,1,Playa Vista,Playa Vista,Los Angeles,90094,216,33.9771297000,-118.4170109000,0,0
+Presto Deli,"Sandwich, Deli",0,Not rated,0,$,0,1,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0425090000,-118.4453930000,0,0
+Pasta Sisters,Deli,0,Not rated,2,$,25,2,"West Pico Boulevard, Koreatown","West Pico Boulevard, Koreatown, Los Angeles",Los Angeles,90019,216,34.0475480000,-118.3172560000,0,0
+Urban Radish,Deli,0,Not rated,1,$,0,1,Wholesale District,Wholesale District,Los Angeles,90021,216,34.0360970000,-118.2316463000,0,0
+The Original Rinaldi's Deli and Cafe,Fast Food,0,Not rated,0,$,20,2,Downtown,Downtown,Los Angeles,,216,33.9457073907,-118.3933735570,0,0
+Presto Deli,"Tapas, Sandwich",0,Not rated,0,$,0,1,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0425570000,-118.4455330000,0,0
+Villaggio Deli & Restaurant,"Italian, Deli, Sandwich",0,Not rated,0,$,10,1,Van Nuys,Van Nuys,Los Angeles,91401,216,34.1851210000,-118.4484801000,0,0
+Murphy's Deli,Sandwich,0,Not rated,0,$,0,1,West Los Angeles,West Los Angeles,Los Angeles,90025,216,34.0427150000,-118.4584030000,0,0
+Rabbi's Daughter,"Sandwich, Deli",0,Not rated,0,$,25,2,West Los Angeles,West Los Angeles,Los Angeles,90064,216,0.0000000000,0.0000000000,0,0
+Claro's Italian Market,"Italian, Deli",3.5,Good,11,$,0,1,San Gabriel,San Gabriel,San Gabriel,91776,216,34.0806380000,-118.0862020000,0,0
+The Brick Your Neighborhood Deli,"Sandwich, Deli",3.3,Average,7,$,25,2,Pomona,Pomona,Pomona,91767,216,34.0903070000,-117.7484670000,0,0
+Orleans & York,Deli,0,Not rated,1,$,0,1,Carson,Carson,Carson,90746,216,0.0000000000,0.0000000000,0,0
+J Fish Market,"Deli, Seafood",0,Not rated,1,$,15,1,Gardena,Gardena,Gardena,90249,216,33.9014710000,-118.3191770000,0,0
+Wexler’s Deli,Deli,0,Not rated,2,$,20,2,"Santa Monica Boulevard, Downtown Third Street Promenade","Santa Monica Boulevard, Downtown Third Street Promenade, Santa Monica",Santa Monica,90401,216,34.0181660000,-118.4926990000,0,0
+The Original Rinaldi's Deli and Cafe,"American, Sandwich, Deli",0,Not rated,0,$,0,1,Manhattan Beach,Manhattan Beach,Manhattan Beach,90266,216,33.8814300000,-118.3955700000,0,0
+Daikokuya,Japanese,4.7,Excellent,326,$,10,1,Little Tokyo,Little Tokyo,Los Angeles,90012,216,34.0500021000,-118.2400679000,0,0
+Orochon Ramen,"Japanese, Ramen",4.6,Excellent,211,$,10,1,"Astronaut E S Onizuka Street, Little Tokyo","Astronaut E S Onizuka Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0501009000,-118.2421794000,0,0
+Pho Cafe,"Vegetarian, Vietnamese",4.5,Excellent,148,$,10,1,"Sunset Boulevard, Silverlake","Sunset Boulevard, Silverlake, Los Angeles",Los Angeles,90026,216,34.0826556000,-118.2723805000,0,0
+Sanam Luang Cafe,"Asian, Thai",4.3,Very Good,39,$,10,1,"Sherman Way, North Hollywood","Sherman Way, North Hollywood, Los Angeles",Los Angeles,91605,216,34.2008453000,-118.4156356000,0,0
+Sanamluang Cafe,"Asian, Thai",4.2,Very Good,81,$,10,1,"Hollywood Boulevard, Thai Town","Hollywood Boulevard, Thai Town, Los Angeles",Los Angeles,90027,216,34.1016070000,-118.3027960000,0,0
+Viet Noodle Bar,Vietnamese,4.1,Very Good,43,$,10,1,"Glendale Boulevard, Atwater Village","Glendale Boulevard, Atwater Village, Los Angeles",Los Angeles,90039,216,34.1169073000,-118.2624128000,0,0
+Taiko,Japanese,4.1,Very Good,27,$,25,2,"San Vicente Boulevard, Brentwood","San Vicente Boulevard, Brentwood, Los Angeles",Los Angeles,90049,216,34.0538680000,-118.4652760000,0,0
+Gingergrass,Vietnamese,4.0,Very Good,142,$,25,2,"Glendale Boulevard, Silverlake","Glendale Boulevard, Silverlake, Los Angeles",Los Angeles,90039,216,34.1000443000,-118.2589674000,0,0
+Kouraku Japanese Restaurant,Japanese,4.0,Very Good,47,$,10,1,"East 2nd Street, Little Tokyo","East 2nd Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0488390000,-118.2414760000,0,0
+Ramenya,Japanese,4.0,Very Good,47,$,25,2,Mar Vista,Mar Vista,Los Angeles,90064,216,34.0289987000,-118.4426956000,0,0
+Tsujita LA,"Japanese, Ramen",3.9,Good,66,$,25,2,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0401532000,-118.4424537000,0,0
+Santouka Ramen,"Japanese, Ramen",3.9,Good,69,$,10,1,"South Centinela Avenue, Mar Vista","South Centinela Avenue, Mar Vista, Los Angeles",Los Angeles,90066,216,34.0048503000,-118.4334959000,0,0
+Mr. Noodle,"Asian, Thai",3.9,Good,23,$,10,1,Westwood,Westwood,Los Angeles,90024,216,34.0629767000,-118.4468227000,0,0
+Pho 87,Vietnamese,3.9,Good,23,$,10,1,"North Broadway, Wholesale District","North Broadway, Wholesale District, Los Angeles",Los Angeles,90012,216,34.0673017000,-118.2357778000,0,0
+Ramen Nippon,"Japanese, Ramen",3.9,Good,24,$,25,2,"Reseda Boulevard, Reseda","Reseda Boulevard, Reseda, Los Angeles",Los Angeles,91335,216,34.1958998000,-118.5355037000,0,0
+Asahi Ramen,"Japanese, Ramen",3.8,Good,50,$,10,1,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0401950000,-118.4432126000,0,0
+Sanuki No Sato,"Japanese, Sushi",3.8,Good,31,$,25,2,Harbor Gateway,Harbor Gateway,Los Angeles,90248,216,33.8650598000,-118.3081213000,0,0
+Kyushu Ramen,"Japanese, Sushi",3.8,Good,26,$,10,1,"Sherman Way, Van Nuys","Sherman Way, Van Nuys, Los Angeles",Los Angeles,91406,216,34.2019757000,-118.4679883000,0,0
+Wat Dong Moon Lek Noodle,Thai,3.8,Good,23,$,10,1,East Hollywood,East Hollywood,Los Angeles,90029,216,34.0956570000,-118.2848030000,0,0
+Marugame Monzo,"Asian, Japanese",3.7,Good,32,$,25,2,"East 1st Street, Little Tokyo","East 1st Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0499580000,-118.2399863000,0,0
+Mr Ramen,"Japanese, Ramen",3.7,Good,60,$,10,1,"East 1st Street, Little Tokyo","East 1st Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0497436000,-118.2397454000,0,0
+Yabu,,3.7,Good,29,$,25,2,"W Pico Blvd, Mar Vista","W Pico Blvd, Mar Vista, Los Angeles",Los Angeles,90064,216,34.0303135000,-118.4477700000,0,0
+Noodle World,"Asian, Thai",3.7,Good,31,$,10,1,Westwood,Westwood,Los Angeles,90024,216,34.0603791000,-118.4448454000,0,0
+Pho 999,"Asian, Vietnamese",3.7,Good,25,$,10,1,"Sepulveda Boulevard, Van Nuys","Sepulveda Boulevard, Van Nuys, Los Angeles",Los Angeles,91411,216,34.1874526000,-118.4669148000,0,0
+Pho 999,Vietnamese,3.7,Good,13,$,10,1,"Sherman Way, North Hollywood","Sherman Way, North Hollywood, Los Angeles",Los Angeles,91605,216,34.2013370000,-118.4140660000,0,0
+Pho 999,Vietnamese,3.7,Good,17,$,10,1,"Reseda Boulevard, Reseda","Reseda Boulevard, Reseda, Los Angeles",Los Angeles,91335,216,34.2027361000,-118.5363530000,0,0
+Ramen Jinya,"Japanese, Ramen",3.7,Good,43,$,10,1,"Ventura Boulevard, Studio City","Ventura Boulevard, Studio City, Los Angeles",Los Angeles,91604,216,34.1420127000,-118.3750389000,0,0
+Sapp Coffee Shop,"Breakfast, Thai",3.6,Good,32,$,10,1,Thai Town,Thai Town,Los Angeles,90027,216,34.1018668000,-118.3032479000,0,0
+Pho 99 Noodle & Grill,Vietnamese,3.6,Good,25,$,10,1,"Wilshire Boulevard, West Los Angeles","Wilshire Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0479997000,-118.4629874000,0,0
+Koraku,Japanese,3.6,Good,15,$,10,1,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91423,216,34.1511220000,-118.4470266000,0,0
+Good Pho You,"Beverages, Vietnamese",3.6,Good,9,$,10,1,"Balboa Boulevard, Granada Hills","Balboa Boulevard, Granada Hills, Los Angeles",Los Angeles,91344,216,34.2636154000,-118.5020474000,0,0
+Tsujita LA Annex,"Asian, Japanese",3.4,Average,20,$,25,2,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0401532000,-118.4424537000,0,0
+Ma Dang Gook Soo,Korean,3.5,Good,11,$,10,1,"South Western Avenue, Koreatown","South Western Avenue, Koreatown, Los Angeles",Los Angeles,90005,216,34.0560882000,-118.3094569000,0,0
+San Sui Tei,"Japanese, Vegetarian",3.5,Good,8,$,10,1,"East 1st Street, Little Tokyo","East 1st Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0502724000,-118.2403798000,0,0
+Trio House,"Thai, Vietnamese",3.5,Good,5,$,10,1,"South Figueroa Street, University Park","South Figueroa Street, University Park, Los Angeles",Los Angeles,90007,216,34.0243212000,-118.2787449000,0,0
+Tatsu Ramen,"Japanese, Ramen",3.4,Average,25,$,25,2,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0388962000,-118.4424520000,0,0
+Pine & Crane,Chinese,3.4,Average,18,$,25,2,Silverlake,Silverlake,Los Angeles,90026,216,34.0905596000,-118.2770803000,0,0
+Pingtung,"Dim Sum, Japanese",3.4,Average,14,$,25,2,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90046,216,34.0837748000,-118.3525102000,0,0
+Pho Citi,Vietnamese,3.4,Average,15,$,10,1,West Los Angeles,West Los Angeles,Los Angeles,90025,216,34.0492328000,-118.4363179000,0,0
+Asa Ramen,"Japanese, Ramen",3.4,Average,16,$,10,1,Harbor Gateway,Harbor Gateway,Los Angeles,90248,216,33.8653276000,-118.3088068000,0,0
+Silverlake Ramen,"Asian, Japanese",3.4,Average,9,$,25,2,"Sunset Boulevard, Silverlake","Sunset Boulevard, Silverlake, Los Angeles",Los Angeles,90026,216,34.0835691000,-118.2735216000,0,0
+Pho 36,"Asian, Vietnamese",3.4,Average,7,$,10,1,"South Western Avenue, Koreatown","South Western Avenue, Koreatown, Los Angeles",Los Angeles,90006,216,34.0497750000,-118.3091930000,0,0
+Yu Chun Chic Naeng Myun,Korean,3.3,Average,14,$,0,1,"West Olympic Boulevard, Koreatown","West Olympic Boulevard, Koreatown, Los Angeles",Los Angeles,90006,216,34.0528831000,-118.3058503000,0,0
+Urban Ramen,"Asian, Japanese",3.3,Average,10,$,10,1,"Sunset Boulevard, Hollywood","Sunset Boulevard, Hollywood, Los Angeles",Los Angeles,90046,216,34.0975371000,-118.3500475000,0,0
+Hana Ichimonme,Japanese,3.2,Average,7,$,10,1,"Alameda Street, Little Tokyo","Alameda Street, Little Tokyo, Los Angeles",Los Angeles,90013,216,34.0451298000,-118.2384476000,0,0
+Wasabi Japanese Noodle House,Japanese,3.3,Average,8,$,10,1,"Wilshire Boulevard, Koreatown","Wilshire Boulevard, Koreatown, Los Angeles",Los Angeles,90010,216,34.0614283000,-118.2993745000,0,0
+Gottsui Teppanyaki Bar,"Asian, Japanese",3.2,Average,12,$,25,2,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0388445000,-118.4422602000,0,0
+Daikokuya,"Japanese, Ramen",3.2,Average,11,$,20,2,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90064,216,34.0379018000,-118.4408416000,0,0
+Ma PO,Korean,3.2,Average,8,$,25,2,"West 6th Street, Little Bangladesh","West 6th Street, Little Bangladesh, Los Angeles",Los Angeles,90020,216,34.0637370000,-118.3007600000,0,0
+Sun Ha Jang,"BBQ, Korean",3.2,Average,9,$,0,1,"West Olympic Boulevard, Country Club Park","West Olympic Boulevard, Country Club Park, Los Angeles",Los Angeles,90019,216,34.0538630000,-118.3212140000,0,0
+BBQ Unlimited,"BBQ, Chinese",3.2,Average,7,$,10,1,"Sherman Way, North Hollywood","Sherman Way, North Hollywood, Los Angeles",Los Angeles,91605,216,34.2008453000,-118.4156356000,0,0
+Ramen Yamadaya,"Japanese, Ramen",3.2,Average,7,$,10,1,"Westwood Boulevard, Westwood","Westwood Boulevard, Westwood, Los Angeles",Los Angeles,90024,216,34.0579728000,-118.4430288000,0,0
+Pho Ct,Vietnamese,3.2,Average,0,$,10,1,"Topanga Canyon Boulevard, Canoga Park","Topanga Canyon Boulevard, Canoga Park, Los Angeles",Los Angeles,91304,216,34.2217414000,-118.6054238000,0,0
+Hakata Ramen Shin-Sen-Gumi,"Japanese, Ramen",3.1,Average,9,$,10,1,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0468780000,-118.4491210000,0,0
+Jinya Ramen Bar,"Japanese, Ramen",3.1,Average,6,$,0,1,"Wilshire Boulevard, Hancock Park","Wilshire Boulevard, Hancock Park, Los Angeles",Los Angeles,90036,216,34.0618870000,-118.3424874000,0,0
+Ajisen Ramen,"Japanese, Ramen",3.1,Average,8,$,10,1,"Santa Monica Boulevard, Century City","Santa Monica Boulevard, Century City, Los Angeles",Los Angeles,90067,216,34.0596331000,-118.4194295000,0,0
+Kotoya Ramen,"Japanese, Ramen",3.1,Average,5,$,10,1,"Santa Monica Boulevard, West Los Angeles","Santa Monica Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0422489000,-118.4607088000,0,0
+Tamashii,"Asian, Sushi",3.1,Average,2,$,10,1,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91403,216,34.1512426000,-118.4498530000,0,0
+Pho 21,Vietnamese,3.1,Average,2,$,10,1,"East 2nd Street, Little Tokyo","East 2nd Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0469340000,-118.2387550000,0,0
+Men Oh Tokushima Ramen,"Japanese, Ramen",3.0,Average,11,$,25,2,"East 2nd Street, Little Tokyo","East 2nd Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0471565000,-118.2387477000,0,0
+Olympic Noodle,Korean,3.0,Average,4,$,10,1,"West Olympic Boulevard, Country Club Park","West Olympic Boulevard, Country Club Park, Los Angeles",Los Angeles,90019,216,34.0537817000,-118.3211016000,0,0
+Myung Dong Noodle House,Korean,3.0,Average,1,$,0,1,Koreatown,Koreatown,Los Angeles,90005,216,34.0601780000,-118.3004703000,0,0
+Legend Noodle and Grill,,3.0,Average,2,$,10,1,"South Vermont Avenue, Wilshire Center","South Vermont Avenue, Wilshire Center, Los Angeles",Los Angeles,90004,216,34.0702160000,-118.2918230000,0,0
+Ramen Champ,,2.9,Average,5,$,10,1,"North Broadway, Chinatown","North Broadway, Chinatown, Los Angeles",Los Angeles,90012,216,34.0613348000,-118.2388232000,0,0
+Pho Hoa Vietnamese,Vietnamese,2.9,Average,3,$,10,1,"North Spring Street, Chinatown","North Spring Street, Chinatown, Los Angeles",Los Angeles,90012,216,34.0624660000,-118.2364050000,0,0
+Shin Ya!,Japanese,2.9,Average,4,$,25,2,"North La Brea Avenue, Hollywood","North La Brea Avenue, Hollywood, Los Angeles",Los Angeles,90046,216,34.1013584000,-118.3454937000,0,0
+Pho 21,Vietnamese,2.7,Average,4,$,10,1,"South Western Avenue, Koreatown","South Western Avenue, Koreatown, Los Angeles",Los Angeles,90005,216,34.0594380000,-118.3094434000,0,0
+Six Street Noodles,Korean,2.5,Average,4,$,0,1,"1 2 W 6th St, Little Bangladesh","1 2 W 6th St, Little Bangladesh, Los Angeles",Los Angeles,90020,216,34.0636370000,-118.3083310000,0,0
+Cafe Teumsae Ramen,"Coffee and Tea, Sushi",2.4,Poor,4,$,10,1,"Wilshire Boulevard, Little Bangladesh","Wilshire Boulevard, Little Bangladesh, Los Angeles",Los Angeles,90005,216,34.0619130000,-118.2935960000,0,0
+Mama Hong's Vietnamese Kitchen,Vietnamese,2.7,Average,4,$,10,1,"Wilshire Boulevard, West Los Angeles","Wilshire Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0479997000,-118.4629874000,0,0
+Pho Saigon,Vietnamese,0,Not rated,3,$,10,1,"West 6th Street, Little Bangladesh","West 6th Street, Little Bangladesh, Los Angeles",Los Angeles,90020,216,34.0639110000,-118.3063624000,0,0
+Gentaro Soba,,0,Not rated,1,$,0,1,"South Figueroa Street, Downtown","South Figueroa Street, Downtown, Los Angeles",Los Angeles,90017,216,34.0490705000,-118.2607099000,0,0
+3rd Generation,"Japanese, Sushi",0,Not rated,1,$,0,1,"West 7th Street, Downtown","West 7th Street, Downtown, Los Angeles",Los Angeles,90017,216,34.0487910000,-118.2594084000,0,0
+Tasty Wok Cuisine,Asian,0,Not rated,1,$,0,1,"California Route 2, West Los Angeles","California Route 2, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0440192000,-118.4542560000,0,0
+Pa Ord Noodle #3,,0,Not rated,2,$,0,1,"Hollywood Boulevard, Thai Town","Hollywood Boulevard, Thai Town, Los Angeles",Los Angeles,90027,216,34.1018363000,-118.3058385000,0,0
+Musashiya Udon Noodle,Chinese,0,Not rated,1,$,0,1,Little Tokyo,Little Tokyo,Los Angeles,90024,216,0.0000000000,0.0000000000,0,0
+Ramen Hayatemaru,"Japanese, Ramen",0,Not rated,3,$,10,1,West Los Angeles,West Los Angeles,Los Angeles,90025,216,34.0344795000,-118.4474589000,0,0
+Ramen by Omae,"Japanese, Ramen",0,Not rated,2,$,10,1,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91423,216,34.1511220000,-118.4470266000,0,0
+Town Noodle,Korean,0,Not rated,0,$,0,1,"South Western Avenue, Koreatown","South Western Avenue, Koreatown, Los Angeles",Los Angeles,90006,216,34.0552101000,-118.3084223000,0,0
+Ramen Hayatemaru,Ramen,0,Not rated,3,$,0,1,Harbor Gateway,Harbor Gateway,Los Angeles,90501,216,33.8309990000,-118.3078270000,0,0
+Knock Out Noodles & Rice,,0,Not rated,3,$,0,1,"Vanowen Street, Van Nuys","Vanowen Street, Van Nuys, Los Angeles",Los Angeles,91406,216,34.1942515000,-118.4918604000,0,0
+Dosanko Larmen,Ramen,0,Not rated,1,$,0,1,"West Olympic Boulevard, West Los Angeles","West Olympic Boulevard, West Los Angeles, Los Angeles",Los Angeles,90064,216,34.0360019000,-118.4453264000,0,0
+Western Noodles,Korean,0,Not rated,2,$,0,1,"North Western Avenue, Melrose","North Western Avenue, Melrose, Los Angeles",Los Angeles,90004,216,34.0789308000,-118.3096917000,0,0
+K Town Pho,Vietnamese,0,Not rated,1,$,10,1,"Wilshire Boulevard, Little Bangladesh","Wilshire Boulevard, Little Bangladesh, Los Angeles",Los Angeles,90010,216,34.0619583000,-118.2976278000,0,0
+E-Sea Fresh Noodle,,0,Not rated,0,$,10,1,"North Main Street, Wholesale District","North Main Street, Wholesale District, Los Angeles",Los Angeles,90012,216,34.0631569000,-118.2325402000,0,0
+Pho 55,Vietnamese,0,Not rated,1,$,10,1,"South Western Avenue, Koreatown","South Western Avenue, Koreatown, Los Angeles",Los Angeles,90005,216,34.0566130000,-118.3092650000,0,0
+Kouraku Restaurant,Japanese,0,Not rated,0,$,10,1,"East 2nd Street, Little Tokyo","East 2nd Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0488390000,-118.2414760000,0,0
+Garoo Roo Noodle,,0,Not rated,2,$,0,1,"North Western Avenue, Wilshire Center","North Western Avenue, Wilshire Center, Los Angeles",Los Angeles,90004,216,34.0751000000,-118.3093788000,0,0
+Asian Fusion,"Chinese, Vietnamese",0,Not rated,0,$,0,1,"Robertson Boulevard, Crestview","Robertson Boulevard, Crestview, Los Angeles",Los Angeles,90035,216,34.0484575000,-118.3854451000,0,0
+Matsuki Japanese Noodle,"Japanese, Sushi",0,Not rated,2,$,0,1,Little Tokyo,Little Tokyo,Los Angeles,90012,216,34.0473770000,-118.2391990000,0,0
+Pho Abc,Vietnamese,0,Not rated,1,$,10,1,"South Western Avenue, Koreatown","South Western Avenue, Koreatown, Los Angeles",Los Angeles,90006,216,34.0552101000,-118.3084223000,0,0
+Pho 8,Vietnamese,0,Not rated,1,$,10,1,"West 8th Street, Koreatown","West 8th Street, Koreatown, Los Angeles",Los Angeles,90005,216,34.0572847000,-118.3076102000,0,0
+Down Town Pho,Vietnamese,0,Not rated,1,$,10,1,"Hill Street, Downtown","Hill Street, Downtown, Los Angeles",Los Angeles,90015,216,34.0340616000,-118.2657509000,0,0
+Noodle Monster,,0,Not rated,3,$,0,1,"Laurel Canyon Boulevard, North Hollywood","Laurel Canyon Boulevard, North Hollywood, Los Angeles",Los Angeles,91607,216,34.1785196000,-118.3962829000,0,0
+Pho America,Vietnamese,4.0,Very Good,30,$,10,1,Wrigley,Wrigley,Long Beach,90806,216,33.7904876000,-118.1934291000,0,0
+Hakata Ramen Shinsengumi,"Japanese, Ramen",3.9,Good,92,$,10,1,Gardena,Gardena,Gardena,90247,216,33.8877250000,-118.3141811000,0,0
+Pho Hong Phat,Vietnamese,3.9,Good,23,$,10,1,"East Anaheim Street, Zaferia","East Anaheim Street, Zaferia, Long Beach",Long Beach,90804,216,33.7827493000,-118.1536283000,0,0
+Santouka Ramen,"Japanese, Ramen",3.8,Good,39,$,10,1,"South Western Avenue, Olde Torrance","South Western Avenue, Olde Torrance, Torrance",Torrance,90501,216,33.8334606000,-118.3097112000,0,0
+Krua Thai Cuisine,Thai,3.7,Good,26,$,10,1,West Covina,West Covina,West Covina,91790,216,34.0584975000,-117.9354761000,0,0
+Mama's Lu Dumpling House,Chinese,3.7,Good,39,$,10,1,Monterey Park,Monterey Park,Monterey Park,91755,216,34.0628078000,-118.1214981000,0,0
+Burattino Brick Oven Pizza,Pizza,4.3,Very Good,30,$,25,2,"South Western Avenue, San Pedro","South Western Avenue, San Pedro, Los Angeles",Los Angeles,90275,216,33.7472410000,-118.3100400000,0,0
+Pitfire Pizza Company,"Italian, Pizza, Sandwich",4.1,Very Good,82,$,10,1,"Lankershim Boulevard, North Hollywood","Lankershim Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1652379000,-118.3750347000,0,0
+Pizza Man,"Fast Food, Pizza",3.4,Average,5,$,0,1,"West Magnolia Boulevard, North Hollywood","West Magnolia Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1649510000,-118.3695610000,0,0
+Big Mama's & Papa's Pizzeria,Pizza,3.3,Average,5,$,10,1,"South Flower Street, Downtown","South Flower Street, Downtown, Los Angeles",Los Angeles,90017,216,34.0490231000,-118.2584670000,0,0
+161 Street Pizzeria,Pizza,3.3,Average,4,$,40,3,"Cahuenga Boulevard West, Studio City","Cahuenga Boulevard West, Studio City, Los Angeles",Los Angeles,90068,216,34.1299272000,-118.3487356000,0,0
+Big Mama’s and Papa’s Pizzeria,"Italian, Pizza",3.1,Average,5,$,10,1,"Ventura Boulevard, Tarzana","Ventura Boulevard, Tarzana, Los Angeles",Los Angeles,91356,216,34.1729725000,-118.5589601000,0,0
+Papa John's,"Fast Food, Pizza",3.0,Average,4,$,10,1,"National Boulevard, Palms","National Boulevard, Palms, Los Angeles",Los Angeles,90034,216,34.0304150000,-118.4024020000,0,0
+Pizza 8,Pizza,3.0,Average,2,$,10,1,"West Slauson Avenue, Hyde Park","West Slauson Avenue, Hyde Park, Los Angeles",Los Angeles,90043,216,33.9888536000,-118.3300089000,0,0
+California Pizza Kitchen,"Fast Food, California",2.9,Average,4,$,10,1,"Tampa Avenue, Northridge","Tampa Avenue, Northridge, Los Angeles",Los Angeles,91324,216,34.2402209000,-118.5554150000,0,0
+MidiCi,"Italian, Pizza",2.8,Average,4,$,0,1,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91403,216,34.1511093000,-118.4514091000,0,0
+Mr Angelo's,Pizza,2.7,Average,4,$,0,1,"South Western Avenue, Exposition Park","South Western Avenue, Exposition Park, Los Angeles",Los Angeles,90062,216,34.0124880000,-118.3090650000,0,0
+Sbarro,Fast Food,2.6,Average,0,$,10,1,"West Martin Luther King Junior Boulevard, Baldwin Hills","West Martin Luther King Junior Boulevard, Baldwin Hills, Los Angeles",Los Angeles,90008,216,34.0104500320,-118.3357181960,0,0
+Pieology,Pizza,0,Not rated,1,$,30,3,Wilshire Center,Wilshire Center,Los Angeles,90010,216,0.0000000000,0.0000000000,0,0
+Flame Pizzeria,"Pizza, Italian",0,Not rated,1,$,0,1,Reseda,Reseda,Los Angeles,91335,216,34.1938640000,-118.5540510000,0,0
+Frankie & Johnnie's NY Pizza,Pizza,0,Not rated,2,$,0,1,"Washington Boulevard, Venice","Washington Boulevard, Venice, Los Angeles",Los Angeles,90292,216,33.9832361788,-118.4600635618,0,0
+Ray's Famous Pizzeria,Pizza,0,Not rated,0,$,0,1,"Reseda Boulevard, Reseda","Reseda Boulevard, Reseda, Los Angeles",Los Angeles,91335,216,34.1812350000,-118.5360300000,0,0
+West LA Pizza,Pizza,0,Not rated,0,$,0,1,"West Pico Boulevard, Country Club Park","West Pico Boulevard, Country Club Park, Los Angeles",Los Angeles,90019,216,34.0476008000,-118.3203705000,0,0
+LaRocco's Pizzeria,Pizza,0,Not rated,0,$,0,1,Little Tokyo,Little Tokyo,Los Angeles,90045,216,0.0000000000,0.0000000000,0,0
+Gigi's Pizza,Pizza,3.5,Good,8,$,0,1,Gardena,Gardena,Gardena,90249,216,33.8851189000,-118.3262371000,0,0
+Pedone's Pizza & Italian Food,"Italian, Pizza, Sandwich",3.3,Average,10,$,25,2,Hermosa Beach,Hermosa Beach,Hermosa Beach,90254,216,33.8635796355,-118.4002235767,0,0
+Pizza Factory,"Italian, Pizza, Sandwich",3.2,Average,4,$,35,3,Newhall,Newhall,Santa Clarita,91321,216,34.4042644000,-118.4645149000,0,0
+Sbarro,Fast Food,3.2,Average,4,$,10,1,Arcadia,Arcadia,Arcadia,91007,216,34.1348220000,-118.0511710000,0,0
+Milana's New York Pizzeria,"Italian, Pizza, Sandwich",3.1,Average,6,$,25,2,Downtown,Downtown,Long Beach,90802,216,33.7715096000,-118.1899222000,0,0
+Sbarro,Fast Food,0,Not rated,1,$,10,1,Cerritos,Cerritos,Cerritos,90703,216,33.8640040000,-118.0953610000,0,0
+Blaze Pizza,Pizza,0,Not rated,1,$,10,1,Monrovia,Monrovia,Monrovia,91016,216,34.1513375000,-118.0013502000,0,0
+Flippin' Pizza Long Beach,"Pizza, Italian",0,Not rated,0,$,0,1,The Plaza,The Plaza,Long Beach,90808,216,33.8104772000,-118.1101518000,0,0
+Blaze Pizza,Pizza,0,Not rated,0,$,0,1,Alhambra,Alhambra,Alhambra,91801,216,34.0956864000,-118.1256291000,0,0
+Sbarro,Pizza,0,Not rated,0,$,0,1,Burbank,Burbank,Burbank,,216,34.1838530000,-118.3129050000,0,0
+Blaze Pizza,Pizza,0,Not rated,1,$,10,1,Torrance,Torrance,Torrance,,216,33.8295817000,-118.3503889000,0,0
+Pizza Loca,Pizza,0,Not rated,0,$,15,1,Huntington Park,Huntington Park,Huntington Park,90001,216,0.0000000000,0.0000000000,0,0
+Pamore Pizza,Pizza,0,Not rated,0,$,10,1,Huntington Park,Huntington Park,Huntington Park,90255,216,33.9751083000,-118.2236079000,0,0
+Pizza Man,Pizza,0,Not rated,0,$,25,2,Lakewood,Lakewood,Lakewood,,216,0.0000000000,0.0000000000,0,0
+Sbarro,Fast Food,0,Not rated,0,$,10,1,Downtown Third Street Promenade,Downtown Third Street Promenade,Santa Monica,90401,216,34.0132000000,-118.4939700000,0,0
+Sbarro,Pizza,0,Not rated,0,$,0,1,Torrance,Torrance,Torrance,,216,33.8297440000,-118.3496210000,0,0
+Sbarro,Pizza,0,Not rated,0,$,0,1,West Covina,West Covina,West Covina,,216,34.0709100152,-117.9327867835,0,0
+In-N-Out Burger,"American, Burger, Fast Food",4.6,Excellent,124,$,15,1,"South Sepulveda Boulevard, Westchester","South Sepulveda Boulevard, Westchester, Los Angeles",Los Angeles,90045,216,33.9536884000,-118.3967671000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",4.5,Excellent,261,$,15,1,"Sunset Boulevard, Hollywood","Sunset Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.0981919000,-118.3416924000,0,0
+Dan's Super Subs,"American, Fast Food, Sandwich",4.5,Excellent,64,$,10,1,"Ventura Boulevard, Woodland Hills","Ventura Boulevard, Woodland Hills, Los Angeles",Los Angeles,91364,216,34.1681184000,-118.6159140000,0,0
+Zankou Chicken,"Fast Food, Armenian",4.4,Very Good,129,$,10,1,"Sunset Boulevard, East Hollywood","Sunset Boulevard, East Hollywood, Los Angeles",Los Angeles,90027,216,34.0985315000,-118.3002893000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",4.4,Very Good,78,$,15,1,Westwood,Westwood,Los Angeles,90024,216,34.0630996000,-118.4480623000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",4.4,Very Good,71,$,15,1,"Van Nuys Boulevard, Sherman Oaks","Van Nuys Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91403,216,34.1521150000,-118.4483409000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",4.4,Very Good,60,$,15,1,"Lankershim Boulevard, North Hollywood","Lankershim Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1774549000,-118.3818633000,0,0
+Best Fish Taco in Ensenada,"Fast Food, Mexican",4.3,Very Good,87,$,10,1,"Hillhurst Avenue, Silverlake","Hillhurst Avenue, Silverlake, Los Angeles",Los Angeles,90027,216,34.1010784000,-118.2872313000,0,0
+Zankou Chicken,"Fast Food, Armenian",4.2,Very Good,82,$,10,1,"South Sepulveda Boulevard, West Los Angeles","South Sepulveda Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0472270000,-118.4435560000,0,0
+Chipotle Mexican Grill,"Fast Food, Mexican",4.2,Very Good,45,$,10,1,"Reseda Boulevard, Northridge","Reseda Boulevard, Northridge, Los Angeles",Los Angeles,91324,216,34.2374772000,-118.5365434000,0,0
+Daglas Drive-in,"American, Burger, Fast Food",4.1,Very Good,33,$,10,1,"Vanowen Street, Winnetka","Vanowen Street, Winnetka, Los Angeles",Los Angeles,91306,216,34.1936578000,-118.5702576000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",4.1,Very Good,14,$,15,1,"Rinaldi Street, Porter Ranch","Rinaldi Street, Porter Ranch, Los Angeles",Los Angeles,91326,216,34.2758038000,-118.5680936000,0,0
+California Chicken Cafe,"Fast Food, California",4.0,Very Good,36,$,10,1,"Nordhoff Street, Northridge","Nordhoff Street, Northridge, Los Angeles",Los Angeles,91325,216,34.2360160000,-118.5352305000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",4.0,Very Good,39,$,15,1,"Cahuenga Boulevard West, Studio City","Cahuenga Boulevard West, Studio City, Los Angeles",Los Angeles,90068,216,34.1350844000,-118.3606100000,0,0
+Chipotle Mexican Grill,"Fast Food, Mexican",4.0,Very Good,32,$,10,1,Woodland Hills,Woodland Hills,Los Angeles,91367,216,34.1693260000,-118.6056330000,0,0
+Mighty Mouth Burger,"Burger, Fast Food, Sandwich",4.0,Very Good,15,$,10,1,"San Fernando Mission Boulevard, Granada Hills","San Fernando Mission Boulevard, Granada Hills, Los Angeles",Los Angeles,91344,216,34.2724700000,-118.4848650000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",4.0,Very Good,12,$,15,1,"Topanga Canyon Boulevard, Canoga Park","Topanga Canyon Boulevard, Canoga Park, Los Angeles",Los Angeles,91303,216,34.1945470000,-118.6060840000,0,0
+Ink.Sack,"American, Fast Food, Sandwich",3.9,Good,78,$,10,1,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90069,216,34.0833670000,-118.3723740000,0,0
+Tommy's Original World Famous Hamburgers,"Burger, Fast Food",3.9,Good,73,$,10,1,"Beverly Boulevard, Historic Filipinotown","Beverly Boulevard, Historic Filipinotown, Los Angeles",Los Angeles,90057,216,34.0696083000,-118.2762553000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",3.9,Good,42,$,15,1,Culver West,"Culver West, Culver City",Los Angeles,90034,216,33.9916700000,-118.4462110000,0,0
+Zankou Chicken,"Fast Food, Armenian",3.9,Good,37,$,10,1,"Sepulveda Boulevard, Sherman Oaks","Sepulveda Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91411,216,34.1738195000,-118.4658868000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",3.9,Good,25,$,15,1,"Ventura Boulevard, Woodland Hills","Ventura Boulevard, Woodland Hills, Los Angeles",Los Angeles,91364,216,34.1720135000,-118.5666048000,0,0
+Jim Dandy Fried Chicken,"American, Fast Food",3.9,Good,19,$,10,1,"South Vermont Avenue, Figueroa Park Square","South Vermont Avenue, Figueroa Park Square, Los Angeles",Los Angeles,90044,216,33.9315969000,-118.2912320000,0,0
+Pizza Buona,"Italian, Pizza",3.9,Good,18,$,10,1,"Sunset Boulevard, Temple-Beaudry","Sunset Boulevard, Temple-Beaudry, Los Angeles",Los Angeles,90026,216,34.0773106000,-118.2639109000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",3.9,Good,19,$,15,1,"North Western Avenue, San Pedro","North Western Avenue, San Pedro, Los Angeles",Los Angeles,90732,216,33.7533976000,-118.3086819000,0,0
+The Habit Burger Grill,"American, Burger, Fast Food",3.9,Good,17,$,10,1,"Winnetka Avenue, Chatsworth","Winnetka Avenue, Chatsworth, Los Angeles",Los Angeles,91311,216,34.2385842000,-118.5715405000,0,0
+California Pizza Kitchen,"Fast Food, California",3.8,Good,51,$,10,1,"Hollywood Boulevard, Hollywood","Hollywood Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1026261000,-118.3403754000,0,0
+California Chicken Cafe,"Fast Food, California",3.8,Good,45,$,10,1,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90038,216,34.0836064000,-118.3409899000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",3.8,Good,22,$,15,1,Lake Balboa,Lake Balboa,Los Angeles,91406,216,34.2018709000,-118.5006389000,0,0
+California Pizza Kitchen,"Fast Food, California",3.8,Good,24,$,10,1,"Ventura Boulevard, Tarzana","Ventura Boulevard, Tarzana, Los Angeles",Los Angeles,91356,216,34.1713682000,-118.5434278000,0,0
+California Pizza Kitchen,"Fast Food, California",3.8,Good,23,$,10,1,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91436,216,34.1568980000,-118.4841962000,0,0
+Munch Box,"Burger, Fast Food",3.8,Good,18,$,0,1,Chatsworth,Chatsworth,Los Angeles,91311,216,34.2570630000,-118.5990160000,0,0
+Benny's Tacos & Chicken Rotisserie,"Fast Food, Mexican",3.7,Good,20,$,10,1,"West Manchester Avenue, Westchester","West Manchester Avenue, Westchester, Los Angeles",Los Angeles,90045,216,33.9600006000,-118.4168577000,0,0
+Shack,"American, Burger, Fast Food",3.7,Good,24,$,10,1,"Culver Boulevard, Playa Del Rey","Culver Boulevard, Playa Del Rey, Los Angeles",Los Angeles,90293,216,33.9588310000,-118.4488607000,0,0
+California Pizza Kitchen,"Fast Food, California",3.7,Good,20,$,10,1,"Weyburn Avenue, Westwood","Weyburn Avenue, Westwood, Los Angeles",Los Angeles,90024,216,34.0622151000,-118.4471997000,0,0
+California Pizza Kitchen,"Fast Food, California",3.7,Good,9,$,10,1,"San Vicente Boulevard, Brentwood","San Vicente Boulevard, Brentwood, Los Angeles",Los Angeles,90049,216,34.0539036000,-118.4652774000,0,0
+The Habit Burger Grill,"American, Burger, Fast Food",3.7,Good,20,$,10,1,"Ventura Boulevard, Woodland Hills","Ventura Boulevard, Woodland Hills, Los Angeles",Los Angeles,91364,216,34.1671813000,-118.6207750000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",3.7,Good,19,$,15,1,"Laurel Canyon Blvd, Mission Hills","Laurel Canyon Blvd, Mission Hills, Los Angeles",Los Angeles,91340,216,34.2780181000,-118.4530606000,0,0
+Pinkberry,"Desserts, Fast Food, Beverages",3.7,Good,15,$,10,1,"Santa Monica Boulevard, Century City","Santa Monica Boulevard, Century City, Los Angeles",Los Angeles,90067,216,34.0596331000,-118.4194295000,0,0
+Gus Burgers,"Burger, Fast Food",3.7,Good,8,$,10,1,Wilmington,Wilmington,Los Angeles,90744,216,33.7913626000,-118.2659426000,0,0
+Old Time Drive in,"American, Burger, Fast Food",3.7,Good,7,$,10,1,"Glenoaks Boulevard, Sun Valley","Glenoaks Boulevard, Sun Valley, Los Angeles",Los Angeles,91352,216,34.2284949000,-118.3647925000,0,0
+California Pizza Kitchen,"Fast Food, California",3.7,Good,24,$,10,1,"South Figueroa Street, Downtown","South Figueroa Street, Downtown, Los Angeles",Los Angeles,90017,216,34.0490705000,-118.2607099000,0,0
+California Chicken Cafe,"Fast Food, California",3.6,Good,28,$,10,1,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91436,216,34.1552366000,-118.4733716000,0,0
+Zankou Chicken,"Fast Food, Armenian",3.6,Good,16,$,10,1,"Riverside Drive, Toluca Lake","Riverside Drive, Toluca Lake, Los Angeles",Los Angeles,91602,216,34.1519562000,-118.3655743000,0,0
+California Pizza Kitchen,"Fast Food, California",3.6,Good,24,$,10,1,"Ventura Boulevard, Studio City","Ventura Boulevard, Studio City, Los Angeles",Los Angeles,91604,216,34.1436909000,-118.4005317000,0,0
+Cielito Lindo,"Fast Food, Mexican",3.6,Good,17,$,10,1,Chinatown,Chinatown,Los Angeles,90012,216,34.0579699000,-118.2374102000,0,0
+Farmer Boys,"American, Burger, Fast Food",3.6,Good,17,$,10,1,"Alameda Street, Wholesale District","Alameda Street, Wholesale District, Los Angeles",Los Angeles,90021,216,34.0320419000,-118.2383130000,0,0
+Smitty's Famous Fish & Chicken,"Fast Food, Seafood",3.6,Good,15,$,10,1,"Venice Boulevard, Palms","Venice Boulevard, Palms, Los Angeles",Los Angeles,90232,216,34.0269877000,-118.3916730000,0,0
+Tommy's,"Burger, Fast Food",3.6,Good,15,$,10,1,"Colorado Boulevard, Eagle Rock","Colorado Boulevard, Eagle Rock, Los Angeles",Los Angeles,90041,216,34.1396076000,-118.2044991000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",3.6,Good,7,$,15,1,"Tampa Avenue, Northridge","Tampa Avenue, Northridge, Los Angeles",Los Angeles,91324,216,34.2307926000,-118.5531842000,0,0
+Pinkberry,"Desserts, Fast Food, Beverages",3.6,Good,12,$,10,1,"Admiralty Way, Del Rey","Admiralty Way, Del Rey, Los Angeles",Los Angeles,90292,216,33.9795368000,-118.4386116000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",3.6,Good,10,$,15,1,Tujunga,Tujunga,Los Angeles,91042,216,34.2411060000,-118.2665090000,0,0
+Machos Tacos,"Fast Food, Mexican",3.6,Good,12,$,10,1,"North Vermont Avenue, Silverlake","North Vermont Avenue, Silverlake, Los Angeles",Los Angeles,90027,216,34.1013780000,-118.2916330000,0,0
+Baja Fresh Mexican Grill,"Fast Food, Mexican, Tex-Mex",3.6,Good,11,$,10,1,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91403,216,34.1511370000,-118.4521570000,0,0
+Jordan's Hot Dogs,"Burger, Fast Food",3.6,Good,3,$,10,1,"East Imperial Highway, Watts","East Imperial Highway, Watts, Los Angeles",Los Angeles,90059,216,33.9292429000,-118.2511373000,0,0
+Chick-fil-A,Fast Food,3.5,Good,26,$,10,1,"W Sunset Boulevard, Hollywood","W Sunset Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.0977525000,-118.3382030000,0,0
+Astro Burger,"Burger, Fast Food, Vegetarian",3.5,Good,31,$,10,1,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90038,216,34.0837059000,-118.3224790000,0,0
+California Chicken Cafe,"Fast Food, California",3.5,Good,27,$,10,1,"Westwood Boulevard, West Los Angeles","Westwood Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0463525000,-118.4341649000,0,0
+Pinkberry,"Desserts, Fast Food, Beverages",3.5,Good,23,$,10,1,"Ventura Boulevard, Studio City","Ventura Boulevard, Studio City, Los Angeles",Los Angeles,91604,216,34.1432556000,-118.3940598000,0,0
+Pizzarito,"Fast Food, Italian, Pizza",3.5,Good,17,$,10,1,Del Rey,Del Rey,Los Angeles,90292,216,33.9847860000,-118.4392110000,0,0
+California Pizza Kitchen,"Fast Food, California",3.5,Good,18,$,10,1,"Topanga Canyon Boulevard, Canoga Park","Topanga Canyon Boulevard, Canoga Park, Los Angeles",Los Angeles,91303,216,34.1912027000,-118.6024821000,0,0
+Chipotle Mexican Grill,"Fast Food, Mexican",3.5,Good,15,$,10,1,"Beverly Boulevard, Carthay","Beverly Boulevard, Carthay, Los Angeles",Los Angeles,90048,216,34.0750040000,-118.3775620000,0,0
+Fatburger,"Burger, Fast Food",3.5,Good,11,$,10,1,"Venice Boulevard, Palms","Venice Boulevard, Palms, Los Angeles",Los Angeles,90066,216,34.0119711000,-118.4194250000,0,0
+California Chicken Cafe,"Fast Food, California",3.5,Good,13,$,10,1,"Lincoln Boulevard, Venice","Lincoln Boulevard, Venice, Los Angeles",Los Angeles,90291,216,34.0005388000,-118.4655798000,0,0
+Chipotle Mexican Grill,"Fast Food, Mexican",3.5,Good,8,$,10,1,Westwood,Westwood,Los Angeles,90024,216,34.0610208000,-118.4462729000,0,0
+Fatburger,"Burger, Fast Food",3.5,Good,10,$,10,1,Westwood,Westwood,Los Angeles,90024,216,34.0602089000,-118.4469491000,0,0
+Panda Express,Fast Food,3.5,Good,8,$,10,1,"Devonshire Street, Northridge","Devonshire Street, Northridge, Los Angeles",Los Angeles,91325,216,34.2572723000,-118.5040923000,0,0
+Chick-fil-A,Fast Food,3.5,Good,10,$,10,1,"South Figueroa Street, Exposition Park","South Figueroa Street, Exposition Park, Los Angeles",Los Angeles,90007,216,34.0166656000,-118.2824716000,0,0
+Tony's #1 Home-Style Mexican Grill,Fast Food,3.5,Good,8,$,10,1,"Balboa Boulevard, Granada Hills","Balboa Boulevard, Granada Hills, Los Angeles",Los Angeles,91344,216,34.2857600000,-118.5007754000,0,0
+Fatburger,"Burger, Fast Food",3.5,Good,9,$,10,1,"Ventura Boulevard, Woodland Hills","Ventura Boulevard, Woodland Hills, Los Angeles",Los Angeles,91364,216,34.1686656000,-118.6040105000,0,0
+Jimmy Dean's Burgers,"American, Burger, Fast Food",3.5,Good,8,$,10,1,"Foothill Boulevard, Sunland","Foothill Boulevard, Sunland, Los Angeles",Los Angeles,91040,216,34.2598655000,-118.3071437000,0,0
+Asaya,"Fast Food, Japanese",3.5,Good,7,$,0,1,"Culver Boulevard, Del Rey","Culver Boulevard, Del Rey, Los Angeles",Los Angeles,90066,216,33.9853067000,-118.4250725000,0,0
+Starbucks,"Coffee and Tea, Fast Food, Beverages",3.5,Good,5,$,10,1,"Colorado Boulevard, Eagle Rock","Colorado Boulevard, Eagle Rock, Los Angeles",Los Angeles,90041,216,34.1391061000,-118.2152027000,0,0
+The Habit Burger Grill,"American, Burger, Fast Food",3.5,Good,5,$,10,1,"Reseda Boulevard, Northridge","Reseda Boulevard, Northridge, Los Angeles",Los Angeles,91324,216,34.2377517000,-118.5365397000,0,0
+Sevan Chicken,"Fast Food, Mediterranean",3.5,Good,4,$,10,1,Tujunga,Tujunga,Los Angeles,91042,216,34.2417563000,-118.2675858000,0,0
+Star's Drive-in,Fast Food,3.5,Good,4,$,0,1,"Sherman Way, Winnetka","Sherman Way, Winnetka, Los Angeles",Los Angeles,91306,216,34.2013773000,-118.5789389000,0,0
+Fatburger,"Burger, Fast Food",3.5,Good,5,$,10,1,Baldwin Hills,Baldwin Hills,Los Angeles,90008,216,34.0106869000,-118.3388743000,0,0
+Troy Drive in,Fast Food,3.5,Good,4,$,0,1,"York Boulevard, Eagle Rock","York Boulevard, Eagle Rock, Los Angeles",Los Angeles,90042,216,34.1223027000,-118.2123484000,0,0
+Pizza Hut,"Fast Food, Pizza",3.5,Good,3,$,10,1,"Foothill Boulevard, Sunland","Foothill Boulevard, Sunland, Los Angeles",Los Angeles,91040,216,34.2602480000,-118.3147429000,0,0
+Fatburger,"Burger, Fast Food",3.4,Average,20,$,10,1,"North Vermont Avenue, East Hollywood","North Vermont Avenue, East Hollywood, Los Angeles",Los Angeles,90027,216,34.1008447000,-118.2919670000,0,0
+Pinkberry,"Desserts, Fast Food, Beverages",3.4,Average,20,$,10,1,"E 2nd St, Little Tokyo","E 2nd St, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0485269000,-118.2408003000,0,0
+Starbucks,"Coffee and Tea, Fast Food, Beverages",3.4,Average,8,$,10,1,"Weyburn Avenue, Westwood","Weyburn Avenue, Westwood, Los Angeles",Los Angeles,90024,216,34.0624770000,-118.4474522000,0,0
+Baja Fresh Mexican Grill,"Fast Food, Mexican, Tex-Mex",3.4,Average,10,$,10,1,"Hollywood Boulevard, Hollywood","Hollywood Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1012278000,-118.3408739000,0,0
+In-N-Out Burger,"American, Burger, Fast Food",3.4,Average,14,$,15,1,"Balboa Boulevard, North Hills","Balboa Boulevard, North Hills, Los Angeles",Los Angeles,91325,216,34.2499391000,-118.5019412000,0,0
+Magic Wok Express,"Asian, Chinese, Fast Food",3.4,Average,10,$,10,1,"Washington Boulevard, Venice","Washington Boulevard, Venice, Los Angeles",Los Angeles,90292,216,33.9832066000,-118.4607715000,0,0
+Fatburger,"Burger, Fast Food",3.4,Average,15,$,10,1,"Ventura Boulevard, Studio City","Ventura Boulevard, Studio City, Los Angeles",Los Angeles,91604,216,34.1372658000,-118.3637671000,0,0
+Jollibee,"Burger, Fast Food, Filipino",3.4,Average,8,$,10,1,"Colorado Boulevard, Eagle Rock","Colorado Boulevard, Eagle Rock, Los Angeles",Los Angeles,90041,216,34.1413789000,-118.2258588000,0,0
+Fatburger,"Burger, Fast Food",3.4,Average,14,$,10,1,"Glencoe Avenue, Del Rey","Glencoe Avenue, Del Rey, Los Angeles",Los Angeles,90292,216,33.9862096000,-118.4398067000,0,0
+Daphne's Greek Cafe,"Fast Food, Greek, Mediterranean",3.4,Average,14,$,10,1,"Canoga Avenue, Woodland Hills","Canoga Avenue, Woodland Hills, Los Angeles",Los Angeles,91367,216,34.1748235000,-118.5969919000,0,0
+Big Fat,"Burger, Fast Food",3.4,Average,9,$,10,1,Reseda,Reseda,Los Angeles,91335,216,34.2086834000,-118.5197068000,0,0
+Rubio's,"Mexican, Seafood",3.4,Average,9,$,10,1,"Plummer Street, Northridge","Plummer Street, Northridge, Los Angeles",Los Angeles,91324,216,34.2421116000,-118.5589056000,0,0
+Pinkberry,"Desserts, Fast Food, Beverages",3.4,Average,10,$,10,1,Playa Vista,Playa Vista,Los Angeles,90094,216,33.9736930000,-118.4221090000,0,0
+Wahoo's Fish Taco,"Fast Food, Mexican",3.4,Average,10,$,10,1,"Wilshire Boulevard, Brentwood","Wilshire Boulevard, Brentwood, Los Angeles",Los Angeles,90025,216,34.0470397000,-118.4644345000,0,0
+Fred's Downhome Burgers,"Burger, Fast Food",3.4,Average,7,$,10,1,"West Slauson Avenue, Hyde Park","West Slauson Avenue, Hyde Park, Los Angeles",Los Angeles,90043,216,33.9887819000,-118.3213571000,0,0
+Fatburger,"Burger, Fast Food",3.4,Average,6,$,10,1,"South Figueroa Street, University Park","South Figueroa Street, University Park, Los Angeles",Los Angeles,90007,216,34.0241313000,-118.2782236000,0,0
+Foster's Old Fashion Freeze,"American, Desserts, Fast Food",3.4,Average,9,$,10,1,"Eagle Rock Boulevard, Eagle Rock","Eagle Rock Boulevard, Eagle Rock, Los Angeles",Los Angeles,90041,216,34.1367230000,-118.2150620000,0,0
+Fatburger,"Burger, Fast Food",3.4,Average,10,$,10,1,"Sepulveda Boulevard, Van Nuys","Sepulveda Boulevard, Van Nuys, Los Angeles",Los Angeles,91411,216,34.1825055000,-118.4658772000,0,0
+Tom's Burgers,"Burger, Fast Food, Mexican",3.4,Average,9,$,10,1,"Cahuenga Boulevard, North Hollywood","Cahuenga Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1719272000,-118.3618434000,0,0
+Baja Bud's,"Fast Food, Mexican",3.4,Average,7,$,10,1,"National Boulevard, Rancho Park","National Boulevard, Rancho Park, Los Angeles",Los Angeles,90064,216,34.0275270000,-118.4293426000,0,0
+The Habit Burger Grill,"American, Burger, Fast Food",3.4,Average,8,$,10,1,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91316,216,34.1602223000,-118.5066038000,0,0
+Birds,"American, BBQ",3.9,Good,90,$,25,2,"Franklin Avenue, Hollywood","Franklin Avenue, Hollywood, Los Angeles",Los Angeles,90028,216,34.1054302000,-118.3189087000,0,0
+Clifton's Republic,American,3.9,Good,51,$,40,3,"South Broadway, Downtown","South Broadway, Downtown, Los Angeles",Los Angeles,90014,216,34.0452800000,-118.2528150000,0,0
+BLVD 16,"American, Seafood, California",3.7,Good,34,$,40,3,"Wilshire Boulevard, Westwood","Wilshire Boulevard, Westwood, Los Angeles",Los Angeles,90024,216,34.0600836000,-118.4373902000,0,0
+Good Microbrew and Grill,"American, Bar Food",3.7,Good,56,$,25,2,"Sunset Boulevard, Silverlake","Sunset Boulevard, Silverlake, Los Angeles",Los Angeles,90026,216,34.0909022000,-118.2782585000,0,0
+Kendall's Brasserie and Bar,"French, Bar Food",3.7,Good,34,$,40,3,"North Grand Avenue, Downtown","North Grand Avenue, Downtown, Los Angeles",Los Angeles,90012,216,34.0573500000,-118.2481600000,0,0
+Villains Tavern,"American, Burger, Bar Food",3.6,Good,34,$,25,2,Wholesale District,Wholesale District,Los Angeles,90013,216,34.0401668000,-118.2310422000,0,0
+The Federal,American,3.6,Good,28,$,10,1,"Lankershim Boulevard, North Hollywood","Lankershim Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1671410000,-118.3763047000,0,0
+Scopa,Italian,3.5,Good,17,$,0,1,"Washington Boulevard, Venice","Washington Boulevard, Venice, Los Angeles",Los Angeles,90292,216,33.9883149000,-118.4515513000,0,0
+Bleecker Street,"American, Bar Food",3.5,Good,16,$,35,3,"Yolanda Avenue, Tarzana","Yolanda Avenue, Tarzana, Los Angeles",Los Angeles,91356,216,34.1700360000,-118.5402276000,0,0
+The Morrison,"Bar Food, American",3.3,Average,13,$,25,2,"Los Feliz Boulevard, Atwater Village","Los Feliz Boulevard, Atwater Village, Los Angeles",Los Angeles,90039,216,34.1237136000,-118.2687056000,0,0
+Lucky Strike Lanes & Lounge,"American, Bar Food",3.4,Average,10,$,25,2,Downtown,Downtown,Los Angeles,90015,216,34.0449200000,-118.2641200000,0,0
+Chili's Grill & Bar,American,3.4,Average,9,$,25,2,"Fallbrook Avenue, West Hills","Fallbrook Avenue, West Hills, Los Angeles",Los Angeles,91307,216,34.1925040000,-118.6237600000,0,0
+Busby's,Bar Food,3.1,Average,11,$,25,2,"Wilshire Boulevard, Miracle Mile","Wilshire Boulevard, Miracle Mile, Los Angeles",Los Angeles,90036,216,34.0619906000,-118.3458395000,0,0
+Salvage Bar & Lounge,Bar Food,3.1,Average,3,$,10,1,Downtown,Downtown,Los Angeles,90017,216,34.0484208000,-118.2579322000,0,0
+Mrs. Fish,Bar Food,3.0,Average,3,$,40,3,"Hill Street, Downtown","Hill Street, Downtown, Los Angeles",Los Angeles,90013,216,34.0488576000,-118.2513158000,0,0
+The Stocking Frame,"American, Bar Food",3.0,Average,8,$,40,3,"Hill Street, Downtown","Hill Street, Downtown, Los Angeles",Los Angeles,90015,216,34.0428365000,-118.2577148000,0,0
+Scratch Bar & Kitchen,American,2.9,Average,4,$,0,1,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91436,216,34.1572050000,-118.4841340000,0,0
+PalmTree LA,"Asian, Korean",2.8,Average,2,$,40,3,"Wilshire Boulevard, Koreatown","Wilshire Boulevard, Koreatown, Los Angeles",Los Angeles,90010,216,34.0614708000,-118.2925119000,0,0
+Louie's of Mar Vista,American,2.8,Average,0,$,25,2,"Grand View Boulevard, Mar Vista","Grand View Boulevard, Mar Vista, Los Angeles",Los Angeles,90066,216,34.0041620000,-118.4309655000,0,0
+Nighthawk Breakfast Bar,"American, Bar Food",2.6,Average,4,$,0,1,"North Las Palmas Avenue, Hollywood","North Las Palmas Avenue, Hollywood, Los Angeles",Los Angeles,90028,216,34.1008840000,-118.3359910000,0,0
+Mixology 101,"American, Bar Food",2.6,Average,5,$,55,4,"West 3rd Street, Park La Brea","West 3rd Street, Park La Brea, Los Angeles",Los Angeles,90036,216,34.0721727000,-118.3594378000,0,0
+FOH,"Latin American, New American, New Mexican, Tapas",0,Not rated,1,$,0,1,Downtown,Downtown,Los Angeles,,216,34.0499921323,-118.2577276231,0,0
+Lost Property Bar,"American, Bar Food",0,Not rated,1,$,25,2,"Hollywood Boulevard, Hollywood","Hollywood Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1017360000,-118.3266579000,0,0
+Gwen,"American, Sandwich",0,Not rated,3,$,30,3,"Sunset Boulevard, Hollywood","Sunset Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.0977490000,-118.3334280000,0,0
+C.O.D. Seafood House and Raw Bar,Seafood,0,Not rated,0,$,70,4,Downtown,Downtown,Los Angeles,"90048,",216,0.0000000000,0.0000000000,0,0
+Hooters,"American, Burger, Bar Food",0,Not rated,2,$,25,2,"South Figueroa Street, Downtown","South Figueroa Street, Downtown, Los Angeles",Los Angeles,90015,216,34.0410750000,-118.2673570000,0,0
+Emerson Royce Bar,Bar Food,0,Not rated,2,$,40,3,"East 7th Street, Wholesale District","East 7th Street, Wholesale District, Los Angeles",Los Angeles,90021,216,34.0342990000,-118.2325870000,0,0
+Estate Restaurant and Bar,American,0,Not rated,2,$,0,1,Little Tokyo,Little Tokyo,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+Double Take,American,0,Not rated,0,$,25,2,Little Tokyo,Little Tokyo,Los Angeles,90024,216,34.0600530000,-118.4373990000,0,0
+Officine Brera,"Italian, Bar Food",0,Not rated,2,$,50,4,"East 6th Street, Wholesale District","East 6th Street, Wholesale District, Los Angeles",Los Angeles,90021,216,34.0384610000,-118.2347430000,0,0
+Jimmy's Famous American Tavern,American,0,Not rated,3,$,0,1,Woodland Hills,Woodland Hills,Los Angeles,91367,216,0.0000000000,0.0000000000,0,0
+Sunset Beer Company,Drinks Only,0,Not rated,2,$,45,3,"Sunset Boulevard, Echo Park","Sunset Boulevard, Echo Park, Los Angeles",Los Angeles,90026,216,34.0754480000,-118.2553550000,0,0
+Bang Na Thai Fusion,"Thai, Asian",0,Not rated,1,$,0,1,"North Soto Street, Boyle Heights","North Soto Street, Boyle Heights, Los Angeles",Los Angeles,90012,216,34.0600000000,-118.2000000000,0,0
+The Whisperer,American,0,Not rated,1,$,45,3,"Echo Park Avenue, Echo Park","Echo Park Avenue, Echo Park, Los Angeles",Los Angeles,90026,216,34.0777580000,-118.2570390000,0,0
+Plan Check,American,0,Not rated,1,$,30,3,Downtown,Downtown,Los Angeles,90017,216,0.0000000000,0.0000000000,0,0
+Woodley Proper,Bar Food,0,Not rated,1,$,30,3,Encino,Encino,Los Angeles,91436,216,34.1571440000,-118.4841160000,0,0
+Hamptons 818,"Seafood, American, Mediterranean",0,Not rated,0,$,30,3,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91403,216,34.1528120000,-118.4581240000,0,0
+Sandbox Melrose,"New American, Bar Food",0,Not rated,1,$,30,3,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90046,216,34.0832540000,-118.3459930000,0,0
+Accomplice,"Drinks Only, Bar Food",0,Not rated,1,$,40,3,"Grand View Boulevard, Mar Vista","Grand View Boulevard, Mar Vista, Los Angeles",Los Angeles,90066,216,34.0042987000,-118.4310711000,0,0
+Charcoal BBQ,"BBQ, American",0,Not rated,1,$,0,1,Los Feliz,Los Feliz,Los Angeles,90027,216,34.1100000000,-118.3000000000,0,0
+Bernadette's,Drinks Only,0,Not rated,0,$,20,2,Downtown,Downtown,Los Angeles,,216,34.0497140000,-118.2493570000,0,0
+American Heritage,"Burger, Sandwich, Fast Food",0,Not rated,0,$,25,2,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91436,216,34.1576011000,-118.4951028000,0,0
+Ceremony Bar,"Mexican, Cuban",0,Not rated,0,$,0,1,Studio City,Studio City,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+Corona Cantina,Mexican,0,Not rated,0,$,0,1,"Hollywood Boulevard, Hollywood","Hollywood Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1018066000,-118.3277641000,0,0
+Gardner Junction,American,0,Not rated,0,$,0,1,Hollywood,Hollywood,Los Angeles,90046,216,34.0976998000,-118.3528751000,0,0
+Public School 310,American,0,Not rated,0,$,0,1,Downtown,Downtown,Los Angeles,90017,216,34.0498560000,-118.2573910000,0,0
+Tuccios,Italian,0,Not rated,0,$,45,3,"Oxnard Street, Woodland Hills","Oxnard Street, Woodland Hills, Los Angeles",Los Angeles,91367,216,34.1787680000,-118.5998750000,0,0
+Townhouse,"American, Bar Food",0,Not rated,0,$,25,2,Venice,Venice,Los Angeles,90291,216,33.9871735000,-118.4726197000,0,0
+Smith and Cohen Grill Deli Bar,"American, Bar Food",0,Not rated,0,$,60,4,"Santa Monica Boulevard, Westwood","Santa Monica Boulevard, Westwood, Los Angeles",Los Angeles,90025,216,34.0581900000,-118.4237240000,0,0
+Anyway Cafe,Bar Food,0,Not rated,0,$,25,2,Downtown,Downtown,Los Angeles,11235,216,40.5772280000,-73.9525110000,0,0
+All Star Sports Grills,"American, Bar Food",3.7,Good,2,$,40,3,Saugus,Saugus,Santa Clarita,91350,216,34.4528520000,-118.4955930000,0,0
+Barnacles Bar & Grill,"American, Breakfast, Burger",3.5,Good,7,$,10,1,Hermosa Beach,Hermosa Beach,Hermosa Beach,90254,216,33.8598146000,-118.3995878000,0,0
+Buffalo Club,"American, International, Tapas",3.3,Average,26,$,40,3,"Olympic Boulevard, Pico District","Olympic Boulevard, Pico District, Santa Monica",Santa Monica,90404,216,34.0207416000,-118.4789236000,0,0
+Presidente Restaurant,"Desserts, Mexican",3.2,Average,13,$,25,2,Saugus,Saugus,Santa Clarita,91350,216,34.4302571000,-118.5354211000,0,0
+iPic Express,"American, Bar Food",3.2,Average,14,$,45,3,West Central,West Central,Pasadena,91103,216,34.1464157000,-118.1517276000,0,0
+Malainey's Grill,"American, British",3.0,Average,2,$,25,2,Marina Area,Marina Area,Long Beach,90803,216,33.7471979000,-118.1150232000,0,0
+Tavern 101 American Grill,"American, Burger, Bar Food",0,Not rated,0,$,25,2,Whizin's Row,"Whizin's Row, Agoura Hills",Agoura Hills,91301,216,34.1429334000,-118.7470100000,0,0
+The Dog House HDS,American,0,Not rated,1,$,0,1,Lakewood,Lakewood,Lakewood,90712,216,33.8539076837,-118.1326336598,0,0
+Rebel Republic,"American, Bar Food",0,Not rated,1,$,40,3,Redondo Beach,Redondo Beach,Redondo Beach,90277,216,33.8182010000,-118.3878360000,0,0
+Tamarindo's Margarita Bar and Cantina,Tex-Mex,0,Not rated,1,$,0,1,Wrigley,Wrigley,Long Beach,90815,216,33.8100000000,-118.2000000000,0,0
+White Horse ,New American,0,Not rated,1,$,45,3,South Arroyo,South Arroyo,Pasadena,91105,216,34.1450750000,-118.1525960000,0,0
+Ollo,American,0,Not rated,1,$,0,1,Malibu,Malibu,Malibu,90265,216,34.0339841000,-118.6928961000,0,0
+110 & Bellevue,"Burger, Sandwich, Sushi",0,Not rated,1,$,0,1,"South Arroyo Parkway, South","South Arroyo Parkway, South, Pasadena",Pasadena,91105,216,34.1375465000,-118.1477344000,0,0
+21 Square Bar + Kitchen,American,0,Not rated,1,$,55,4,Torrance,Torrance,Torrance,90503,216,33.8358570000,-118.3505450000,0,0
+Padre,Latin American,0,Not rated,2,$,0,1,East Village,East Village,Long Beach,90802,216,33.7695550000,-118.1854100000,0,0
+Bacari GDL,New American,0,Not rated,1,$,25,2,"Americana Way, City Center","Americana Way, City Center, Glendale",Glendale,91210,216,34.1438930000,-118.2553560000,0,0
+French Quarter Creole Bar and Grill,"Creole, Seafood, Southern",0,Not rated,0,$,45,3,Bellflower,Bellflower,Bellflower,90706,216,33.8824240000,-118.1249400000,0,0
+O+O Sicilian Kitchen & Bar,"California, Italian, Desserts",0,Not rated,0,$,35,3,Santa Monica Pier Area Ocean Avenue,Santa Monica Pier Area Ocean Avenue,Santa Monica,90401,216,34.0104426311,-118.4918361878,0,0
+Primo Italia ,Italian,0,Not rated,0,$,60,4,"Hawthorne Boulevard, Walteria","Hawthorne Boulevard, Walteria, Torrance",Torrance,90505,216,33.7977762368,-118.3501172372,0,0
+Yard House,New American,0,Not rated,0,$,0,1,"East Palm Avenue, Burbank Center","East Palm Avenue, Burbank Center, Burbank",Burbank,,216,34.1814480000,-118.3111620000,0,0
+The Slip Bar & Eatery,"American, Burger, Pizza, Salad",0,Not rated,0,$,35,3,Redondo Beach,Redondo Beach,Redondo Beach,90277,216,33.8418704806,-118.3912620785,0,0
+Sports Harbour Bar & Grill,"American, Bar Food",0,Not rated,1,$,30,3,"West 190th Street, West Torrance","West 190th Street, West Torrance, Torrance",Torrance,90503,216,33.8576960000,-118.3674240000,0,0
+Shanghai Restaurant,Chinese,0,Not rated,0,$,0,1,San Gabriel,San Gabriel,San Gabriel,91776,216,0.0000000000,0.0000000000,0,0
+House of Hayden,Drinks Only,0,Not rated,0,$,10,1,East Village,East Village,Long Beach,90802,216,33.7683063000,-118.1871005000,0,0
+DT's Bar & Grill,"Bar Food, BBQ",0,Not rated,0,$,0,1,Pomona,Pomona,Pomona,,216,34.0579663389,-117.7497956908,0,0
+Chang'an,"Asian, BBQ, Seafood",0,Not rated,0,$,0,1,San Gabriel,San Gabriel,San Gabriel,91776,216,34.0800900000,-118.1027010000,0,0
+Fresh Corn Grill,"Pizza, American, Mexican, Italian",4.1,Very Good,45,$,10,1,"Westwood Boulevard, Westwood","Westwood Boulevard, Westwood, Los Angeles",Los Angeles,90024,216,34.0538624000,-118.4402204000,0,0
+Pita Bar & Grill,"Mediterranean, Middle Eastern, Moroccan",3.5,Good,22,$,10,1,"North Fairfax Avenue, Melrose","North Fairfax Avenue, Melrose, Los Angeles",Los Angeles,90036,216,34.0803500000,-118.3616390000,0,0
+Raffallo's Pizza,"Italian, Pizza, Sandwich",3.4,Average,7,$,10,1,"Hollywood Boulevard, Hollywood","Hollywood Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1010390000,-118.3450550000,0,0
+Burrito Factory,Mexican,3.4,Average,12,$,10,1,San Pedro,San Pedro,Los Angeles,90731,216,33.7268503000,-118.2877591000,0,0
+Santino's Panineria,"Sandwich, Tapas, Argentine",3.3,Average,5,$,10,1,"Pacific Avenue, Venice","Pacific Avenue, Venice, Los Angeles",Los Angeles,90291,216,33.9873748000,-118.4722263000,0,0
+Rubio's,"Mexican, Seafood",3.2,Average,3,$,10,1,Westchester,Westchester,Los Angeles,90045,216,33.9780349000,-118.3919490000,0,0
+Crispy Crust,"American, Italian, Pizza",3.1,Average,4,$,10,1,"Glendale Boulevard, Atwater Village","Glendale Boulevard, Atwater Village, Los Angeles",Los Angeles,90039,216,34.1163741000,-118.2629788000,0,0
+Boo's Philly - K-Town,Sandwich,2.9,Average,4,$,0,1,"Wilshire Boulevard, Little Bangladesh","Wilshire Boulevard, Little Bangladesh, Los Angeles",Los Angeles,90010,216,34.0619583000,-118.2976278000,0,0
+Broiler Express,"American, Burger, Mexican",0,Not rated,1,$,20,2,"South Western Avenue, San Pedro","South Western Avenue, San Pedro, Los Angeles",Los Angeles,90275,216,33.7542649000,-118.3094546000,0,0
+Everytable,Salad,0,Not rated,1,$,15,1,University Park,University Park,Los Angeles,90007,216,34.0350855000,-118.2835359000,0,0
+Powerplant Super Food Cafe,"Healthy Food, American, Beverages",0,Not rated,2,$,25,2,"West Pico Boulevard, Mid-City","West Pico Boulevard, Mid-City, Los Angeles",Los Angeles,90019,216,34.0505590000,-118.3617764000,0,0
+Villa Morelianas,Mexican,0,Not rated,2,$,0,1,"South Broadway, Downtown","South Broadway, Downtown, Los Angeles",Los Angeles,90013,216,34.0505180000,-118.2489270000,0,0
+Roasted Sesame Kitchen,"Asian, Korean",0,Not rated,0,$,20,2,"Santa Monica Boulevard, East Hollywood","Santa Monica Boulevard, East Hollywood, Los Angeles",Los Angeles,90029,216,34.0905360000,-118.2904370000,0,0
+Roast,California,0,Not rated,1,$,20,2,"Palisades Drive, Pacific Palisades","Palisades Drive, Pacific Palisades, Los Angeles",Los Angeles,90272,216,34.0459570000,-118.5516370000,0,0
+Rodini Park,Mediterranean,0,Not rated,1,$,25,2,"West Magnolia Boulevard, North Hollywood","West Magnolia Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1650530000,-118.3721280000,0,0
+Plank 47 Pizza,Pizza,0,Not rated,0,$,25,2,"South Centinela Avenue, Del Rey","South Centinela Avenue, Del Rey, Los Angeles",Los Angeles,90066,216,33.9918670000,-118.4223120000,0,0
+San Pedro Tacos,"Mexican, Taco",0,Not rated,2,$,0,1,San Pedro,San Pedro,Los Angeles,90731,216,0.0000000000,0.0000000000,0,0
+California Fish Grill,Seafood,0,Not rated,0,$,20,2,Woodland Hills,Woodland Hills,Los Angeles,91367,216,34.1875340000,-118.5979150000,0,0
+Viva Fresh,Mexican,0,Not rated,0,$,25,2,"Arizona Avenue, Westchester","Arizona Avenue, Westchester, Los Angeles",Los Angeles,90045,216,33.9805380000,-118.3954010000,0,0
+Robbie Mac's,"Pizza, New American",0,Not rated,0,$,40,3,Sherman Oaks,Sherman Oaks,Los Angeles,91403,216,0.0000000000,0.0000000000,0,0
+El Nuevo Mundo Market & Cafe,"Cuban, Bakery",0,Not rated,0,$,0,1,Little Tokyo,Little Tokyo,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+Mr. Pizza,"Pizza, Italian",0,Not rated,0,$,20,2,"Santa Monica Boulevard, Century City","Santa Monica Boulevard, Century City, Los Angeles",Los Angeles,90067,216,34.0583660000,-118.4188410000,0,0
+Blaqhaus,"American, Burger",0,Not rated,0,$,0,1,Little Tokyo,Little Tokyo,Los Angeles,91606,216,0.0000000000,0.0000000000,0,0
+Chashu Ramen & Bowl Izakaya,"Ramen, Japanese, Fusion",0,Not rated,0,$,25,2,"West 8th Street, Westlake","West 8th Street, Westlake, Los Angeles",Los Angeles,90057,216,34.0565800000,-118.2825420000,0,0
+California Fish Grill,"Seafood, California",3.9,Good,67,$,15,1,Gardena,Gardena,Gardena,90248,216,33.8735464000,-118.3014058000,0,0
+California Fish Grill,"Seafood, California",3.5,Good,14,$,15,1,South Allied Way,"South Allied Way, El Segundo",El Segundo,90245,216,33.9062467000,-118.3905482000,0,0
+Big Burger,Burger,3.4,Average,7,$,20,2,Carson,Carson,Carson,90746,216,33.8682660000,-118.2658340000,0,0
+Blaze Pizza,Pizza,3.3,Average,14,$,10,1,"East Colorado Boulevard, West Central","East Colorado Boulevard, West Central, Pasadena",Pasadena,91101,216,34.1460923000,-118.1367304000,0,0
+Roger's Burgers,Burger,3.3,Average,3,$,0,1,Burbank,Burbank,Burbank,91506,216,34.1843606000,-118.3370058000,0,0
+Blaze Pizza,Pizza,3.2,Average,5,$,10,1,"Pacific Coast Highway, Hillside","Pacific Coast Highway, Hillside, Torrance",Torrance,90505,216,33.7915180000,-118.3323635000,0,0
+Blaze Pizza,Pizza,3.2,Average,1,$,10,1,La Cañada Flintridge,La Cañada Flintridge,La Canada Flintridge,91011,216,34.2050396000,-118.1997699000,0,0
+Roscoe's Chicken & Waffles,Southern,3.1,Average,5,$,0,1,East Village,East Village,Long Beach,90802,216,33.7690480000,-118.1830010000,0,0
+Urbanos Guisados,"Mexican, Juices",0,Not rated,1,$,25,2,"Tyler Avenue, Mountain View","Tyler Avenue, Mountain View, El Monte",El Monte,91731,216,34.0645840000,-118.0361230000,0,0
+California Fish Grill,"Seafood, California",0,Not rated,1,$,25,2,Valencia,Valencia,Santa Clarita,91355,216,34.4156581000,-118.5576274000,0,0
+Guisados,Mexican,0,Not rated,1,$,15,1,Burbank,Burbank,Burbank,91502,216,34.1828140000,-118.3108880000,0,0
+California Fish Grill,"Seafood, California",0,Not rated,1,$,25,2,"Lakewood Boulevard, Airport Area","Lakewood Boulevard, Airport Area, Long Beach",Long Beach,90808,216,33.8285019000,-118.1430256000,0,0
+The Chicken Koop,Fast Food,0,Not rated,0,$,25,2,Whittier,Whittier,Whittier,90601,216,33.9822990000,-118.0387550000,0,0
+Jasmine Kitchen,"Cantonese, Chinese",0,Not rated,0,$,30,3,Burbank,Burbank,Burbank,91504,216,34.1873670000,-118.3165930000,0,0
+Steak 'n Shake,Fast Food,0,Not rated,0,$,0,1,"East Orange Grove Avenue, Burbank Center","East Orange Grove Avenue, Burbank Center, Burbank",Burbank,91502,216,34.1813150000,-118.3111040000,0,0
+Verdugo Pizza,Pizza,0,Not rated,0,$,0,1,Sparr Heights,Sparr Heights,Glendale,91208,216,34.1988673000,-118.2318111000,0,0
+Perch,"American, French",3.8,Good,62,$,70,4,"Hill Street, Downtown","Hill Street, Downtown, Los Angeles",Los Angeles,90013,216,34.0488576000,-118.2513158000,0,0
+Guild,American,2.9,Average,3,$,25,2,"West 7th Street, Downtown","West 7th Street, Downtown, Los Angeles",Los Angeles,90017,216,34.0477708000,-118.2568515000,0,0
+Life Is a Bistro,,0,Not rated,1,$,0,1,Del Rey,Del Rey,Los Angeles,90292,216,33.9760200000,-118.4330490000,0,0
+Cobalt Cafe,,0,Not rated,2,$,0,1,"Sherman Way, Canoga Park","Sherman Way, Canoga Park, Los Angeles",Los Angeles,91303,216,34.2013040000,-118.6076870000,0,0
+Thai Boulevard Bistro,Thai,0,Not rated,0,$,15,1,Canoga Park,Canoga Park,Los Angeles,91303,216,0.0000000000,0.0000000000,0,0
+Garçons de Café,French,0,Not rated,0,$,25,2,"South Spring Street, Downtown","South Spring Street, Downtown, Los Angeles",Los Angeles,90013,216,34.0469870000,-118.2514150000,0,0
+Pho Ever Bistro,Vietnamese,3.2,Average,5,$,10,1,Gardena,Gardena,Gardena,90248,216,33.9013922000,-118.3188812000,0,0
+Sage Organic Vegan Bistro,"Vegetarian, American",0,Not rated,1,$,25,2,"South Arroyo Parkway, South","South Arroyo Parkway, South, Pasadena",Pasadena,91105,216,34.1400920000,-118.1479690000,0,0
+Lee's Wine Bistro,American,0,Not rated,2,$,40,3,Valencia,Valencia,Santa Clarita,91355,216,34.4179136000,-118.5636518000,0,0
+Rail Side Cafe,Coffee and Tea,0,Not rated,0,$,10,1,San Dimas,San Dimas,San Dimas,91773,216,34.1043936000,-117.8067826000,0,0
+Mikawaya,"Desserts, Japanese",3.6,Good,38,$,10,1,Little Tokyo,Little Tokyo,Los Angeles,90012,216,34.0490520000,-118.2396340000,0,0
+Jeni's Splendid Ice Creams,"Desserts, Ice Cream, Frozen Yogurt",3.5,Good,15,$,15,1,"Hillhurst Avenue, Los Feliz","Hillhurst Avenue, Los Feliz, Los Angeles",Los Angeles,90027,216,34.1070084000,-118.2872020000,0,0
+Ghirardelli Soda Fountain & Chocolate Shop,Desserts,3.3,Average,12,$,10,1,"Hollywood Boulevard, Hollywood","Hollywood Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1013230000,-118.3397410000,0,0
+Wanderlust Creamery,Ice Cream,3.2,Average,6,$,0,1,Tarzana,Tarzana,Los Angeles,91356,216,34.1690175000,-118.5365954000,0,0
+Mr Holmes Bakehouse,"Bakery, Desserts",3.1,Average,4,$,15,1,Highland Park,Highland Park,Los Angeles,90042,216,34.1101660000,-118.1905100000,0,0
+Dragon Donuts,Donuts,3.1,Average,1,$,0,1,"Corbin Avenue, Northridge","Corbin Avenue, Northridge, Los Angeles",Los Angeles,91324,216,34.2285210000,-118.5624650000,0,0
+icdc,"Donuts, Ice Cream, Coffee and Tea",3.0,Average,6,$,0,1,"Beverly Boulevard, Melrose","Beverly Boulevard, Melrose, Los Angeles",Los Angeles,90036,216,34.0759620000,-118.3524940000,0,0
+Tutti Frutti,"Frozen Yogurt, Desserts",3.0,Average,2,$,10,1,"West 1st Street, Downtown","West 1st Street, Downtown, Los Angeles",Los Angeles,90012,216,34.0565394000,-118.2506649000,0,0
+Cream,"Desserts, Ice Cream",2.9,Average,5,$,15,1,"South Figueroa Street, University Park","South Figueroa Street, University Park, Los Angeles",Los Angeles,90007,216,34.0227992000,-118.2798382000,0,0
+Churro Borough,Desserts,2.8,Average,4,$,0,1,"North Vermont Avenue, Los Feliz","North Vermont Avenue, Los Feliz, Los Angeles",Los Angeles,,216,34.1024870000,-118.2914930000,0,0
+Little Damage,Ice Cream,2.4,Poor,4,$,15,1,Downtown,Downtown,Los Angeles,90014,216,34.0443470000,-118.2522790000,0,0
+Hollywood Rock Cafe,"Beverages, Cafe",0,Not rated,1,$,25,2,"Hollywood Boulevard, Hollywood","Hollywood Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1016054000,-118.3314414000,0,0
+CottonHi,"Ice Cream, Desserts",0,Not rated,1,$,15,1,"West 6th Street, Little Bangladesh","West 6th Street, Little Bangladesh, Los Angeles",Los Angeles,90020,216,34.0639230000,-118.3061720000,0,0
+Jeni's Splendid Ice Creams,"Desserts, Ice Cream",0,Not rated,2,$,10,1,"Rose Avenue, Venice","Rose Avenue, Venice, Los Angeles",Los Angeles,,216,33.9985029565,-118.4729679101,0,0
+Voodoo Doughnuts,"Desserts, Donuts",0,Not rated,2,$,0,1,Universal City,Universal City,Los Angeles,91608,216,34.1397694000,-118.3505779000,0,0
+Chocolate Chair,"Desserts, Ice Cream",0,Not rated,3,$,20,2,Downtown,Downtown,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+Atticus Coffee & Dessert,"Coffee and Tea, Ice Cream, Cafe",0,Not rated,3,$,0,1,"West 3rd Street, Melrose","West 3rd Street, Melrose, Los Angeles",Los Angeles,90036,216,34.0702695000,-118.3518410000,0,0
+Paleteria Rosa,"Ice Cream, Mexican, Salad",0,Not rated,0,$,25,2,"Chase Street, Panorama City","Chase Street, Panorama City, Los Angeles",Los Angeles,91402,216,34.2269480000,-118.4350210000,0,0
+Frog Frozen Yogurt Bar,"Frozen Yogurt, Ice Cream, Desserts",0,Not rated,3,$,10,1,"North Cahuenga Boulevard, Hollywood","North Cahuenga Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.0994662000,-118.3291590000,0,0
+Donut Snob,"Desserts, Donuts",0,Not rated,1,$,0,1,Echo Park,Echo Park,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+SnowLA Shavery,Desserts,0,Not rated,0,$,10,1,Little Bangladesh,Little Bangladesh,Los Angeles,90020,216,34.0633300000,-118.2973710000,0,0
+Donut Farm,Donuts,0,Not rated,1,$,0,1,"Sunset Boulevard, Silverlake","Sunset Boulevard, Silverlake, Los Angeles",Los Angeles,90026,216,34.0804280000,-118.2698070000,0,0
+Brian’s Shave Ice & Boba,"Desserts, Bubble Tea",0,Not rated,1,$,0,1,Sherman Oaks,Sherman Oaks,Los Angeles,91423,216,0.0000000000,0.0000000000,0,0
+B Sweet Dessert Bar,Desserts,0,Not rated,1,$,25,2,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0406620000,-118.4435800000,0,0
+CREAM,Ice Cream,0,Not rated,0,$,10,1,"Reseda Boulevard, Northridge","Reseda Boulevard, Northridge, Los Angeles",Los Angeles,91324,216,34.2342990000,-118.5352990000,0,0
+"Dunkin’ Donuts, Juneau Town","Desserts, Fast Food",0,Not rated,0,$,20,2,"Victory Boulevard, Woodland Hills","Victory Boulevard, Woodland Hills, Los Angeles",Los Angeles,91367,216,34.1861380000,-118.6239760000,0,0
+Baba Sweets,Indian,0,Not rated,0,$,15,1,"Saticoy Street, Canoga Park","Saticoy Street, Canoga Park, Los Angeles",Los Angeles,91304,216,34.2079570000,-118.5962520000,0,0
+Cinnaholic,"Bakery, Desserts",0,Not rated,0,$,0,1,Echo Park,Echo Park,Los Angeles,,216,34.0771457723,-118.2647830546,0,0
+Usa Donuts & Croissants,Donuts,0,Not rated,0,$,0,1,Westlake,Westlake,Los Angeles,90057,216,34.0585045000,-118.2722221000,0,0
+Sweet Rose Creamery,Desserts,0,Not rated,0,$,0,1,Studio City,Studio City,Los Angeles,91604,216,0.0000000000,0.0000000000,0,0
+Blutusk,"Desserts, Ice Cream",0,Not rated,0,$,0,1,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0391464072,-118.4417271615,0,0
+Jeni's Splendid Ice Creams,Ice Cream,0,Not rated,0,$,25,2,Hancock Park,Hancock Park,Los Angeles,90004,216,0.0000000000,0.0000000000,0,0
+Eddie's Edibles,"Desserts, Bakery",0,Not rated,0,$,0,1,Crenshaw District,Crenshaw District,Los Angeles,90008,216,34.0114370000,-118.3287360000,0,0
+Harriet's Cheesecakes Unlimited,Desserts,3.4,Average,8,$,15,1,Inglewood,Inglewood,Inglewood,90302,216,33.9766323000,-118.3654888000,0,0
+Ken's Ice Cream Parlor,"Desserts, Ice Cream",3.3,Average,2,$,25,2,Carson,Carson,Carson,90746,216,33.8620650000,-118.2670960000,0,0
+Honeymee,Ice Cream,3.2,Average,4,$,0,1,Gardena,Gardena,Gardena,90249,216,33.8894990000,-118.3089550000,0,0
+Sidecar,"Desserts, Bakery",2.9,Average,5,$,0,1,Downtown Third Street Promenade,Downtown Third Street Promenade,Santa Monica,,216,0.0000000000,0.0000000000,0,0
+Helados Pops,"Desserts, Ice Cream",0,Not rated,1,$,0,1,San Fernando,San Fernando,San Fernando,,216,0.0000000000,0.0000000000,0,0
+Afters Ice Cream,"Desserts, Ice Cream",0,Not rated,2,$,10,1,Rowland Heights,Rowland Heights,Rowland Heights,91748,216,33.9953720000,-117.8901270000,0,0
+Snow Zone,Desserts,0,Not rated,1,$,0,1,Redondo Beach,Redondo Beach,Redondo Beach,90277,216,33.8222600000,-118.3851640000,0,0
+Afters Ice Cream,Ice Cream,0,Not rated,2,$,0,1,Downtown,Downtown,Long Beach,90803,216,33.7700000000,-118.2000000000,0,0
+Krust,Desserts,0,Not rated,1,$,0,1,Redondo Beach,Redondo Beach,Redondo Beach,90277,216,33.8232230000,-118.3850490000,0,0
+À La Minute,"Ice Cream, Frozen Yogurt",0,Not rated,1,$,0,1,Claremont,Claremont,Claremont,91711,216,0.0000000000,0.0000000000,0,0
+Smitten Ice Cream,Ice Cream,0,Not rated,1,$,0,1,El Segundo,El Segundo,El Segundo,90245,216,33.9029506445,-118.3950933256,0,0
+Sweet Red Peach,Desserts,0,Not rated,1,$,0,1,Inglewood,Inglewood,Inglewood,90301,216,0.0000000000,0.0000000000,0,0
+Tastyblock Hawaiian Shave Ice,"Desserts, Ice Cream",0,Not rated,1,$,0,1,Carson,Carson,Carson,90745,216,33.8186980000,-118.2859520000,0,0
+Negative 8C,Ice Cream,0,Not rated,0,$,15,1,Gardena,Gardena,Gardena,90247,216,33.8883000000,-118.3053250000,0,0
+Frozen Fruit Co,"Desserts, Frozen Yogurt",0,Not rated,1,$,18,1,"Montana Avenue, North Of Montana","Montana Avenue, North Of Montana, Santa Monica",Santa Monica,90403,216,34.0275580000,-118.5011990000,0,0
+Premier Desserts Kitchen,"Desserts, Bakery",0,Not rated,0,$,0,1,Arcadia,Arcadia,Arcadia,91007,216,34.1292940000,-118.0550030000,0,0
+ Yum Yum Donuts,"Donuts, Coffee and Tea",0,Not rated,0,$,15,1,Covina,Covina,Covina,91724,216,34.1059790000,-117.8723350000,0,0
+Kongkow Ice Cream,Ice Cream,0,Not rated,0,$,0,1,North Central,North Central,Pasadena,,216,0.0000000000,0.0000000000,0,0
+Long Beach Creamery,"Ice Cream, Frozen Yogurt",0,Not rated,0,$,25,2,"Long Beach Boulevard, Los Cerritos Area","Long Beach Boulevard, Los Cerritos Area, Long Beach",Long Beach,90807,216,33.8333390000,-118.1897220000,0,0
+Popbar,Desserts,0,Not rated,0,$,20,2,Torrance,Torrance,Torrance,,216,0.0000000000,0.0000000000,0,0
+La Michoacana Ice Cream Parlor,Ice Cream,0,Not rated,0,$,10,1,San Fernando,San Fernando,San Fernando,91340,216,34.2817410000,-118.4529650000,0,0
+Ben & Jerry's,"Desserts, Ice Cream",0,Not rated,0,$,0,1,Valencia,Valencia,Santa Clarita,,216,34.4162130000,-118.5485770000,0,0
+Paradis at Valencia Town Center,"Ice Cream, Frozen Yogurt, Beverages",0,Not rated,0,$,10,1,Valencia,Valencia,Santa Clarita,91355,216,34.4149100000,-118.5581540000,0,0
+Flooky's,"Burger, Sandwich",3.8,Good,16,$,25,2,"Victory Boulevard, Woodland Hills","Victory Boulevard, Woodland Hills, Los Angeles",Los Angeles,91367,216,34.1880384000,-118.5922095000,0,0
+Johnnie's New York Pizzeria,Pizza,3.6,Good,13,$,10,1,Venice,Venice,Los Angeles,90291,216,33.9882095000,-118.4530357000,0,0
+Tofu Ya,Korean,3.5,Good,15,$,25,2,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0402401000,-118.4432585000,0,0
+Jabal Lebnan,"Mediterranean, Middle Eastern",3.4,Average,5,$,15,1,"Sunland Boulevard, Sun Valley","Sunland Boulevard, Sun Valley, Los Angeles",Los Angeles,91352,216,34.2294803000,-118.3667097000,0,0
+Rubio's,"Mexican, Seafood",3.1,Average,6,$,10,1,Westwood,Westwood,Los Angeles,90024,216,34.0704298000,-118.4435279000,0,0
+Falafel Corner,"Greek, Mediterranean",3.1,Average,5,$,10,1,Koreatown,Koreatown,Los Angeles,90005,216,34.0601780000,-118.3004703000,0,0
+Sweetgreen,Healthy Food,3.0,Average,6,$,0,1,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0723000000,-118.3650730000,0,0
+SUBWAY,Fast Food,2.8,Average,0,$,10,1,"West Olympic Boulevard, West Los Angeles","West Olympic Boulevard, West Los Angeles, Los Angeles",Los Angeles,90064,216,34.0397365000,-118.4379121000,0,0
+Ubatuba Acai,"Brazilian, Beverages",2.6,Average,4,$,15,1,"Ventura Boulevard, Tarzana","Ventura Boulevard, Tarzana, Los Angeles",Los Angeles,91356,216,34.1705320000,-118.5397060000,0,0
+Subway,Fast Food,2.5,Average,4,$,10,1,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90046,216,34.0838273000,-118.3500910000,0,0
+Thai Fusion Bistro,Thai,0,Not rated,1,$,30,3,Canoga Park,Canoga Park,Los Angeles,91307,216,0.0000000000,0.0000000000,0,0
+Whole Foods,Deli,0,Not rated,2,$,0,1,Playa Vista,Playa Vista,Los Angeles,90094,216,33.9771297000,-118.4170109000,0,0
+Bru's Wiffle & More,Asian,0,Not rated,0,$,0,1,Chinatown,Chinatown,Los Angeles,90211,216,0.0000000000,0.0000000000,0,0
+Fala Bar,Asian,0,Not rated,1,$,11,1,Venice,Venice,Los Angeles,90291,216,0.0000000000,0.0000000000,0,0
+Ohana Poke Co.,"Hawaiian, Seafood",0,Not rated,1,$,0,1,"Sunset Boulevard, Temple-Beaudry","Sunset Boulevard, Temple-Beaudry, Los Angeles",Los Angeles,90014,216,34.0824910000,-118.2731670000,0,0
+The Spoon,Asian,0,Not rated,1,$,25,2,Koreatown,Koreatown,Los Angeles,90005,216,0.0000000000,0.0000000000,0,0
+La Tostaderia,"Mexican, Taco, Seafood",0,Not rated,3,$,0,1,"South Broadway, Downtown","South Broadway, Downtown, Los Angeles",Los Angeles,90013,216,34.0506550000,-118.2487951000,0,0
+Found Coffee,Coffee and Tea,0,Not rated,2,$,10,1,"Colorado Boulevard, Eagle Rock","Colorado Boulevard, Eagle Rock, Los Angeles",Los Angeles,90041,216,34.1397280000,-118.1947760000,0,0
+Bangkok Grill,Asian,0,Not rated,1,$,25,2,Atwater Village,Atwater Village,Los Angeles,90039,216,0.0000000000,0.0000000000,0,0
+The Burgerian,Burger,0,Not rated,1,$,15,1,Hancock Park,Hancock Park,Los Angeles,90038,216,0.0000000000,0.0000000000,0,0
+Backyard Bowls,Healthy Food,0,Not rated,2,$,30,3,"Beverly Boulevard, Melrose","Beverly Boulevard, Melrose, Los Angeles",Los Angeles,90048,216,34.0762582000,-118.3703481000,0,0
+Madcapra,Middle Eastern,0,Not rated,1,$,0,1,"South Broadway, Downtown","South Broadway, Downtown, Los Angeles",Los Angeles,90013,216,34.0506550000,-118.2487951000,0,0
+Ciabatta Bar,Asian,0,Not rated,1,$,15,1,Hollywood,Hollywood,Los Angeles,90028,216,0.0000000000,0.0000000000,0,0
+Hi Sushi,Sushi,0,Not rated,1,$,20,2,Downtown,Downtown,Los Angeles,90014,216,0.0000000000,0.0000000000,0,0
+Brasil Kiss Coffeebar,Asian,0,Not rated,1,$,25,2,Westlake,Westlake,Los Angeles,90017,216,0.0000000000,0.0000000000,0,0
+Love Baked Wings,Asian,0,Not rated,1,$,25,2,Carthay,Carthay,Los Angeles,90046,216,0.0000000000,0.0000000000,0,0
+BBQ Chicken LA,Asian,0,Not rated,1,$,0,1,Koreatown,Koreatown,Los Angeles,90020,216,0.0000000000,0.0000000000,0,0
+Press Brothers,Healthy Food,0,Not rated,1,$,10,1,Downtown,Downtown,Los Angeles,90013,216,0.0000000000,0.0000000000,0,0
+Isaan Station,Thai,0,Not rated,1,$,30,3,Hancock Park,Hancock Park,Los Angeles,90004,216,34.0739819000,-118.3092695000,0,0
+Lodge Bread,"Bakery, Coffee and Tea",0,Not rated,1,$,25,2,"Normandie Avenue, Adams-Normandie","Normandie Avenue, Adams-Normandie, Los Angeles",Los Angeles,90066,216,34.0300000000,-118.3000000000,0,0
+Prem's Thai Kitchen,Asian,0,Not rated,1,$,25,2,North Hills,North Hills,Los Angeles,91343,216,0.0000000000,0.0000000000,0,0
+L'ambiance Cafe,Asian,0,Not rated,1,$,30,3,Encino,Encino,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+Lola's Chicken,"American, Peruvian",0,Not rated,1,$,20,2,"Victory Boulevard, Van Nuys","Victory Boulevard, Van Nuys, Los Angeles",Los Angeles,91411,216,34.1869690000,-118.4571000000,0,0
+Goldie's Rotisserie,"BBQ, American",0,Not rated,1,$,0,1,"Woodman Avenue, Sherman Oaks","Woodman Avenue, Sherman Oaks, Los Angeles",Los Angeles,91423,216,34.1493586000,-118.4310037000,0,0
+B & H Grill,Middle Eastern,0,Not rated,1,$,20,2,North Hollywood,North Hollywood,Los Angeles,91607,216,0.0000000000,0.0000000000,0,0
+Bank's Thai Chinese Food & Bar-B-Q Restaurant,Asian,0,Not rated,1,$,10,1,Van Nuys,Van Nuys,Los Angeles,91406,216,0.0000000000,0.0000000000,0,0
+Berlin Currywurst,German,0,Not rated,1,$,25,2,Little Tokyo,Little Tokyo,Los Angeles,90013,216,34.0506610000,-118.2487000000,0,0
+Built Custom Burgers,"American, Burger",0,Not rated,1,$,25,2,Westchester,Westchester,Los Angeles,90045,216,0.0000000000,0.0000000000,0,0
+Ohana Poke Co.,"Hawaiian, Seafood",0,Not rated,1,$,0,1,"East 6th Street, Downtown","East 6th Street, Downtown, Los Angeles",Los Angeles,,216,34.0447260000,-118.2492050000,0,0
+Edibol,Asian,0,Not rated,1,$,0,1,Downtown,Downtown,Los Angeles,90013,216,0.0000000000,0.0000000000,0,0
+NoHo Shawarma,Asian,0,Not rated,0,$,0,1,North Hollywood,North Hollywood,Los Angeles,91606,216,0.0000000000,0.0000000000,0,0
+Puchica Bar and Grill,Asian,0,Not rated,0,$,15,1,Sherman Oaks,Sherman Oaks,Los Angeles,91403,216,0.0000000000,0.0000000000,0,0
+Comfort LA,Asian,0,Not rated,1,$,0,1,Downtown,Downtown,Los Angeles,90021,216,0.0000000000,0.0000000000,0,0
+Earl of Sandwich,"American, Sandwich",0,Not rated,1,$,25,2,Westchester,Westchester,Los Angeles,90045,216,33.9430770000,-118.4092010000,0,0
+Catch 56,Asian,0,Not rated,0,$,15,1,Hollywood,Hollywood,Los Angeles,90028,216,0.0000000000,0.0000000000,0,0
+Star Hookah Lounge,Middle Eastern,0,Not rated,0,$,0,1,Hollywood,Hollywood,Los Angeles,90028,216,0.0000000000,0.0000000000,0,0
+Crazy Falafel,Asian,0,Not rated,0,$,25,2,Tarzana,Tarzana,Los Angeles,91356,216,0.0000000000,0.0000000000,0,0
+Prime Pizza,Asian,0,Not rated,0,$,15,1,Carthay,Carthay,Los Angeles,90036,216,0.0000000000,0.0000000000,0,0
+Anarbagh Indian,Asian,0,Not rated,0,$,0,1,Silverlake,Silverlake,Los Angeles,90027,216,0.0000000000,0.0000000000,0,0
+Bollywood Indian Restaurant #2,Asian,0,Not rated,0,$,25,2,Sherman Oaks,Sherman Oaks,Los Angeles,91423,216,0.0000000000,0.0000000000,0,0
+"Dunkin’ Donuts, Juneau Town","Desserts, Fast Food",0,Not rated,0,$,20,2,"Victory Boulevard, Woodland Hills","Victory Boulevard, Woodland Hills, Los Angeles",Los Angeles,91367,216,34.1861380000,-118.6239760000,0,0
+Fatburger,Asian,0,Not rated,0,$,25,2,"Burbank Boulevard, North Hollywood","Burbank Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1722010000,-118.3705090000,0,0
+The Vegan Joint,"Burger, Healthy Food",0,Not rated,0,$,15,1,Downtown,Downtown,Los Angeles,90021,216,0.0000000000,0.0000000000,0,0
+Fork N Chopstix,Asian,0,Not rated,0,$,15,1,Sherman Oaks,Sherman Oaks,Los Angeles,91423,216,0.0000000000,0.0000000000,0,0
+Mama Soul Food,Asian,0,Not rated,0,$,25,2,Lafayette Square,Lafayette Square,Los Angeles,90019,216,0.0000000000,0.0000000000,0,0
+Texas Best BBQ,Asian,0,Not rated,0,$,15,1,North Hollywood,North Hollywood,Los Angeles,91607,216,0.0000000000,0.0000000000,0,0
+Bio Bar,Healthy Food,0,Not rated,0,$,20,2,West Los Angeles,West Los Angeles,Los Angeles,90025,216,0.0000000000,0.0000000000,0,0
+Salad Farm,"Sandwich, Salad",0,Not rated,0,$,25,2,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91403,216,34.1552610000,-118.4674120000,0,0
+Jackie's Cookie Connection,Asian,0,Not rated,0,$,15,1,West Los Angeles,West Los Angeles,Los Angeles,90025,216,0.0000000000,0.0000000000,0,0
+Bon Bon Berry Acai Bowl & Frozen Yogurt,Asian,0,Not rated,0,$,0,1,West Los Angeles,West Los Angeles,Los Angeles,90025,216,0.0000000000,0.0000000000,0,0
+Humble Bee Pie,Asian,0,Not rated,0,$,11,1,Reseda,Reseda,Los Angeles,91335,216,0.0000000000,0.0000000000,0,0
+Peperone,Italian,0,Not rated,0,$,25,2,Hollywood,Hollywood,Los Angeles,90028,216,0.0000000000,0.0000000000,0,0
+Perfect Pita,Asian,0,Not rated,0,$,20,2,Hollywood,Hollywood,Los Angeles,90028,216,0.0000000000,0.0000000000,0,0
+Asian Fusion,"Chinese, Vietnamese",0,Not rated,0,$,0,1,"Robertson Boulevard, Crestview","Robertson Boulevard, Crestview, Los Angeles",Los Angeles,90035,216,34.0484575000,-118.3854451000,0,0
+Mesa Brazilian Eatery,Brazilian,0,Not rated,0,$,30,3,Westwood,Westwood,Los Angeles,90024,216,0.0000000000,0.0000000000,0,0
+Demitasse Coffee,Asian,0,Not rated,0,$,11,1,Carthay,Carthay,Los Angeles,90048,216,0.0000000000,0.0000000000,0,0
+Taj Palace Indian Cuisine,Indian,0,Not rated,0,$,35,3,Pacific Palisades,Pacific Palisades,Los Angeles,90272,216,0.0000000000,0.0000000000,0,0
+Kalinka Tea House,Asian,0,Not rated,0,$,15,1,Encino,Encino,Los Angeles,91316,216,0.0000000000,0.0000000000,0,0
+White House Pizza Cafe,Asian,0,Not rated,0,$,15,1,Hollywood,Hollywood,Los Angeles,90028,216,0.0000000000,0.0000000000,0,0
+Shandiz Restaurant and Grill,Asian,0,Not rated,0,$,0,1,Tarzana,Tarzana,Los Angeles,91356,216,0.0000000000,0.0000000000,0,0
+Fire Bowl,Asian,0,Not rated,0,$,15,1,Van Nuys,Van Nuys,Los Angeles,91405,216,0.0000000000,0.0000000000,0,0
+Lemongrass Thai Halal,Asian,0,Not rated,0,$,15,1,Canoga Park,Canoga Park,Los Angeles,91303,216,0.0000000000,0.0000000000,0,0
+Crateful,Healthy Food,0,Not rated,0,$,10,1,Lincoln Heights,Lincoln Heights,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+Baby Blues BBQ,Asian,0,Not rated,0,$,15,1,Downtown,Downtown,Los Angeles,90012,216,0.0000000000,0.0000000000,0,0
+Green Grotto Juice Bar,Asian,0,Not rated,0,$,11,1,Downtown,Downtown,Los Angeles,90013,216,0.0000000000,0.0000000000,0,0
+Noodles Time,Chinese,0,Not rated,0,$,0,1,Chinatown,Chinatown,Los Angeles,,216,34.0616110000,-118.2384370000,0,0
+Wei Hao,"Asian, Chinese",0,Not rated,0,$,35,3,Northridge,Northridge,Los Angeles,91326,216,0.0000000000,0.0000000000,0,0
+Baba Ghanooj,Asian,0,Not rated,0,$,10,1,"North Formosa Avenue, Melrose","North Formosa Avenue, Melrose, Los Angeles",Los Angeles,90036,216,34.0761426000,-118.3458829000,0,0
+Rodeo Mexican Grill,Mexican,0,Not rated,0,$,30,3,Echo Park,Echo Park,Los Angeles,,216,34.0786460000,-118.2589960000,0,0
+Kin Sen,"Asian, Healthy Food",0,Not rated,0,$,35,3,Studio City,Studio City,Los Angeles,91604,216,0.0000000000,0.0000000000,0,0
+Kao Cafe,"Asian, Chinese",0,Not rated,0,$,25,2,Sherman Oaks,Sherman Oaks,Los Angeles,,216,34.1549630000,-118.4612280000,0,0
+TOGO'S Sandwiches,Sandwich,0,Not rated,0,$,0,1,Downtown,Downtown,Los Angeles,90071,216,34.0514060000,-118.2566510000,0,0
+Pop's Hot Dogs,American,0,Not rated,0,$,10,1,"Stoner Avenue, Mar Vista","Stoner Avenue, Mar Vista, Los Angeles",Los Angeles,90064,216,34.0230300000,-118.4390090000,0,0
+Sushi Hanashi,Asian,0,Not rated,0,$,0,1,Venice,Venice,Los Angeles,90291,216,0.0000000000,0.0000000000,0,0
+Dok Dok Chicken,Asian,0,Not rated,0,$,15,1,Koreatown,Koreatown,Los Angeles,90020,216,0.0000000000,0.0000000000,0,0
+Thai Tasty,Thai,0,Not rated,0,$,15,1,Panorama City,Panorama City,Los Angeles,91402,216,0.0000000000,0.0000000000,0,0
+Green Village Chinese Cuisine,Asian,0,Not rated,0,$,0,1,Sherman Oaks,Sherman Oaks,Los Angeles,91403,216,0.0000000000,0.0000000000,0,0
+Slicetruck Pizzeria,Asian,0,Not rated,0,$,0,1,West Los Angeles,West Los Angeles,Los Angeles,90025,216,0.0000000000,0.0000000000,0,0
+Asian Garden No.Ho,Asian,0,Not rated,0,$,20,2,North Hollywood,North Hollywood,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+643 North,Asian,0,Not rated,0,$,30,3,Chinatown,Chinatown,Los Angeles,90012,216,0.0000000000,0.0000000000,0,0
+Charcoal BBQ,Asian,0,Not rated,0,$,15,1,Silverlake,Silverlake,Los Angeles,90027,216,0.0000000000,0.0000000000,0,0
+Corner Kafe,Asian,0,Not rated,0,$,25,2,Downtown,Downtown,Los Angeles,90014,216,0.0000000000,0.0000000000,0,0
+Grow,Asian,0,Not rated,0,$,15,1,Downtown,Downtown,Los Angeles,90012,216,0.0000000000,0.0000000000,0,0
+House of Curry,Asian,0,Not rated,0,$,15,1,Lafayette Square,Lafayette Square,Los Angeles,90006,216,0.0000000000,0.0000000000,0,0
+Bimi,Asian,0,Not rated,0,$,0,1,Downtown,Downtown,Los Angeles,90014,216,0.0000000000,0.0000000000,0,0
+Danny's Tacos,Mexican,0,Not rated,0,$,0,1,Downtown,Downtown,Los Angeles,90015,216,0.0000000000,0.0000000000,0,0
+Pizzaholic,Asian,0,Not rated,0,$,25,2,Pacoima,Pacoima,Los Angeles,91331,216,0.0000000000,0.0000000000,0,0
+The Dish,Asian,0,Not rated,0,$,15,1,Studio City,Studio City,Los Angeles,91604,216,0.0000000000,0.0000000000,0,0
+Kaiju Sushi,Asian,0,Not rated,0,$,15,1,Sherman Oaks,Sherman Oaks,Los Angeles,91423,216,0.0000000000,0.0000000000,0,0
+El Potrillo Cafe,Asian,0,Not rated,0,$,35,3,Westlake,Westlake,Los Angeles,90004,216,0.0000000000,0.0000000000,0,0
+The Irish Times Pub & Restaurant,"Irish, Bar Food",3.3,Average,12,$,40,3,"Motor Avenue, Cheviot Hills","Motor Avenue, Cheviot Hills, Los Angeles",Los Angeles,90034,216,34.0296056000,-118.4112963000,0,0
+The Fat Dog,American,0,Not rated,3,$,0,1,"West Magnolia Boulevard, North Hollywood","West Magnolia Boulevard, North Hollywood, Los Angeles",Los Angeles,91601,216,34.1647309000,-118.3723060000,0,0
+Barrel Down,,0,Not rated,1,$,0,1,"West 7th Street, Downtown","West 7th Street, Downtown, Los Angeles",Los Angeles,90014,216,34.0472295000,-118.2561484000,0,0
+The Nickel Mine,Pub Food,0,Not rated,3,$,40,3,"Santa Monica Boulevard, West Los Angeles","Santa Monica Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0461110000,-118.4508090000,0,0
+Lost Knight,"British, Bar Food",0,Not rated,2,$,25,2,"Sunset Boulevard, Echo Park","Sunset Boulevard, Echo Park, Los Angeles",Los Angeles,90026,216,34.0761678000,-118.2565373000,0,0
+Mulligan's Pub,"Irish, Bar Food",0,Not rated,1,$,25,2,"Universal City Plaza, Universal City","Universal City Plaza, Universal City, Los Angeles",Los Angeles,91608,216,34.1368721000,-118.3528001000,0,0
+Tilted Kilt,"Pub Food, American",0,Not rated,1,$,25,2,Northridge,Northridge,Los Angeles,91324,216,34.2350200000,-118.5609990000,0,0
+The Westend Tavern,Pub Food,0,Not rated,0,$,25,2,"Devonshire Street, Chatsworth","Devonshire Street, Chatsworth, Los Angeles",Los Angeles,91311,216,34.2570870000,-118.5968430000,0,0
+HQ Gastropub,"New American, Burger",0,Not rated,0,$,0,1,"Ventura Boulevard, Woodland Hills","Ventura Boulevard, Woodland Hills, Los Angeles",Los Angeles,91364,216,34.1668704141,-118.5906148406,0,0
+Fourth Street Mill,Pub Food,0,Not rated,2,$,0,1,Foothill Boulevard Corridor,Foothill Boulevard Corridor,La Verne,91750,216,0.0000000000,0.0000000000,0,0
+Hopsaint,"Pub Food, American",0,Not rated,2,$,25,2,"W 190th St, West Torrance","W 190th St, West Torrance, Torrance",Torrance,90503,216,33.8576000000,-118.3676540000,0,0
+The Moose Den,"American, British",0,Not rated,1,$,25,2,"South Brand Boulevard, City Center","South Brand Boulevard, City Center, Glendale",Glendale,91204,216,34.1446394000,-118.2547503000,0,0
+42nd Street,"Pub Food, Burger",0,Not rated,0,$,0,1,Valencia,Valencia,Santa Clarita,,216,0.0000000000,0.0000000000,0,0
+Chez Melange,American,0,Not rated,0,$,0,1,Redondo Beach,Redondo Beach,Redondo Beach,,216,33.8400000000,-118.4000000000,0,0
+Shenanigans,Bar Food,0,Not rated,0,$,0,1,Downtown,Downtown,Long Beach,90802,216,33.7605306000,-118.1911440000,0,0
+Osteria Mozza,Italian,4.4,Very Good,373,$,70,4,"North Highland Avenue, Melrose","North Highland Avenue, Melrose, Los Angeles",Los Angeles,90038,216,34.0831200000,-118.3388930000,0,0
+Faith & Flower,"New American, Seafood",3.8,Good,47,$,120,4,"West 9th Street, Downtown","West 9th Street, Downtown, Los Angeles",Los Angeles,90015,216,34.0462264000,-118.2617933000,0,0
+The Larchmont,"New American, American",3.7,Good,17,$,100,4,"Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",Los Angeles,90004,216,34.0833516000,-118.3251651000,0,0
+Esterel,"French, Mediterranean, California",3.6,Good,29,$,70,4,"Beverly Boulevard, Melrose","Beverly Boulevard, Melrose, Los Angeles",Los Angeles,90048,216,34.0763792000,-118.3774920000,0,0
+Mari,"International, Sushi, Tapas",3.3,Average,7,$,45,3,"Avenue Of The Stars, Century City","Avenue Of The Stars, Century City, Los Angeles",Los Angeles,90067,216,34.0540160000,-118.4123666000,0,0
+Girasol,Seafood,3.2,Average,16,$,40,3,"Moorpark St, Studio City","Moorpark St, Studio City, Los Angeles",Los Angeles,91602,216,34.1501720000,-118.3780906000,0,0
+Bianconi,Italian,0,Not rated,1,$,95,4,"West 3rd Street, Carthay","West 3rd Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0725700000,-118.3714610000,0,0
+Il Cha Korean BBQ,"Korean, BBQ",0,Not rated,0,$,60,4,"West Olympic Boulevard, Koreatown","West Olympic Boulevard, Koreatown, Los Angeles",Los Angeles,90019,216,34.0528190000,-118.3118310000,0,0
+Le Comptoir,"New American, French",0,Not rated,0,$,0,1,"West 6th Street, Little Bangladesh","West 6th Street, Little Bangladesh, Los Angeles",Los Angeles,90020,216,34.0633280000,-118.3006970000,0,0
+Farmspoke,American,0,Not rated,0,$,80,4,Downtown,Downtown,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+The Penthouse Restaurant,American,3.9,Good,108,$,90,4,"2nd Street, Wilshire Montana","2nd Street, Wilshire Montana, Santa Monica",Santa Monica,90403,216,34.0186708000,-118.5011029000,0,0
+Alexander's Steakhouse,Steak,0,Not rated,2,$,225,4,West Central,West Central,Pasadena,91101,216,34.1484420000,-118.1421330000,0,0
+Ishabu Shabu,Japanese,0,Not rated,1,$,0,1,Redondo Beach,Redondo Beach,Redondo Beach,90277,216,33.8238450000,-118.3851370000,0,0
+Red O,"California, Mexican",0,Not rated,3,$,0,1,"Ocean Avenue, Santa Monica Pier Area Ocean Avenue","Ocean Avenue, Santa Monica Pier Area Ocean Avenue, Santa Monica",Santa Monica,90401,216,34.0118377000,-118.4950547000,0,0
+Grill - The Westin Long Beach,American,0,Not rated,1,$,0,1,"East 1st Street, East Village","East 1st Street, East Village, Long Beach",Long Beach,90802,216,33.7674510000,-118.1882440000,0,0
+Veranda,Mediterranean,0,Not rated,0,$,0,1,Tropico,Tropico,Glendale,,216,34.1446367115,-118.2540708307,0,0
+Guisados,"Latin American, Mexican",3.9,Good,61,$,10,1,"East Cesar E Chavez Avenue, Boyle Heights","East Cesar E Chavez Avenue, Boyle Heights, Los Angeles",Los Angeles,90033,216,34.0481280000,-118.2114760000,0,0
+The Habit Burger Grill,"American, Burger, Fast Food",3.9,Good,17,$,10,1,"Winnetka Avenue, Chatsworth","Winnetka Avenue, Chatsworth, Los Angeles",Los Angeles,91311,216,34.2385842000,-118.5715405000,0,0
+Komodo,"Asian, California",3.8,Good,25,$,10,1,"West Pico Boulevard, Crestview","West Pico Boulevard, Crestview, Los Angeles",Los Angeles,90035,216,34.0550178000,-118.3840370000,0,0
+Coolhaus,Desserts,3.8,Good,42,$,10,1,Venice,Venice,Los Angeles,90291,216,33.9903849000,-118.4641454000,0,0
+Cairo Cowboy,"American, Mediterranean, Vegetarian",3.7,Good,29,$,10,1,Venice,Venice,Los Angeles,90291,216,33.9871734000,-118.4727313000,0,0
+Grill 'Em All Truck,"American, Burger",3.7,Good,30,$,40,3,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Ricky's Fish Tacos,"Mexican, Seafood",3.7,Good,24,$,10,1,"De Longpre Avenue, East Hollywood","De Longpre Avenue, East Hollywood, Los Angeles",Los Angeles,90027,216,34.0967810000,-118.2873150000,0,0
+Shaky Alibi,Breakfast,3.6,Good,28,$,10,1,"Beverly Boulevard, Melrose","Beverly Boulevard, Melrose, Los Angeles",Los Angeles,90036,216,34.0764210000,-118.3512750000,0,0
+Buttermilk Truck,"American, Breakfast",3.6,Good,23,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Marielas Taco,Mexican,3.6,Good,6,$,10,1,"Sunset Boulevard, Silverlake","Sunset Boulevard, Silverlake, Los Angeles",Los Angeles,90026,216,34.0799692000,-118.2689551000,0,0
+Grilled Cheese Truck,Sandwich,3.5,Good,53,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453230000,0,0
+Border Grill Truck,Mexican,3.5,Good,27,$,10,1,"South Figueroa Street, Downtown","South Figueroa Street, Downtown, Los Angeles",Los Angeles,90071,216,34.0526590000,-118.2571360000,0,0
+Moodaepo II,"BBQ, Korean",3.5,Good,21,$,25,2,Wilshire Center,Wilshire Center,Los Angeles,90005,216,34.0595150000,-118.2897730000,0,0
+Jogasaki Sushi Burrito,"Japanese, Sushi",3.5,Good,13,$,10,1,"Fountain Avenue, Melrose","Fountain Avenue, Melrose, Los Angeles",Los Angeles,90038,216,34.0940790000,-118.3384480000,0,0
+The Manila Machine,"Asian, Filipino",3.5,Good,15,$,10,1,"West Washington Boulevard, University Park","West Washington Boulevard, University Park, Los Angeles",Los Angeles,90015,216,34.0369708000,-118.2782814000,0,0
+Leo's Tacos,Mexican,3.5,Good,12,$,10,1,Glassell Park,Glassell Park,Los Angeles,90041,216,34.1250560000,-118.2195910000,0,0
+Leo's Taco Truck,"Mexican, Vegetarian",3.5,Good,7,$,10,1,"South La Brea Avenue, Mid-City","South La Brea Avenue, Mid-City, Los Angeles",Los Angeles,90019,216,34.0463397000,-118.3455859000,0,0
+Dim Sum Truck,"Chinese, Dim Sum",3.4,Average,18,$,10,1,"San Fernando Road, Sun Valley","San Fernando Road, Sun Valley, Los Angeles",Los Angeles,91352,216,34.2132246000,-118.3587724000,0,0
+Dreamy Creations,Desserts,3.4,Average,9,$,10,1,Northridge,Northridge,Los Angeles,91324,216,34.2317241000,-118.5575174000,0,0
+Egg Slut Truck,American,3.4,Average,14,$,10,1,"North Fairfax Avenue, Melrose","North Fairfax Avenue, Melrose, Los Angeles",Los Angeles,90046,216,34.0856597000,-118.3617018000,0,0
+Crepe'n Around,"Desserts, Sandwich",3.4,Average,7,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Got Kosher? Provisions,"BBQ, Moroccan",3.4,Average,9,$,25,2,"West Pico Boulevard, Crestview","West Pico Boulevard, Crestview, Los Angeles",Los Angeles,90035,216,34.0550533000,-118.3860948000,0,0
+Nom Nom Truck,"Sandwich, Vietnamese",3.3,Average,25,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+The Slaw Dogs,"American, Burger",3.3,Average,11,$,10,1,"Ventura Boulevard, Woodland Hills","Ventura Boulevard, Woodland Hills, Los Angeles",Los Angeles,91364,216,34.1726448000,-118.5639864000,0,0
+The Greasy Wiener,,3.3,Average,8,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Flying Pig Truck,"Asian, Mexican",3.3,Average,11,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Mandoline Grill,Vietnamese,3.3,Average,8,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453230000,0,0
+Deli Mex,"Mexican, Beverages",3.3,Average,4,$,10,1,"West Magnolia Boulevard, Sherman Oaks","West Magnolia Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91423,216,34.1645724000,-118.4478628000,0,0
+The Habit Burger Grill,"American, Burger, Fast Food",3.3,Average,3,$,10,1,"Lankershim Boulevard, Toluca Lake","Lankershim Boulevard, Toluca Lake, Los Angeles",Los Angeles,91602,216,34.1575157000,-118.3692537000,0,0
+SliceTruck,Pizza,3.2,Average,11,$,10,1,"Sawtelle Boulevard, West Los Angeles","Sawtelle Boulevard, West Los Angeles, Los Angeles",Los Angeles,90025,216,34.0407116000,-118.4432024000,0,0
+Frysmith,"American, Fast Food",3.2,Average,13,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453230000,0,0
+Shrimp Pimp,"Seafood, Sushi",3.2,Average,15,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Komodo,"Asian, California",3.2,Average,14,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+WorldFare BUStaurant,International,3.2,Average,13,$,10,1,"Hollywood Boulevard, Hollywood","Hollywood Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1018650000,-118.3293530000,0,0
+El Rincon Cubano,Cuban,3.2,Average,9,$,25,2,"Laurel Canyon Boulevard, Valley Village","Laurel Canyon Boulevard, Valley Village, Los Angeles",Los Angeles,91607,216,34.1694599000,-118.3961614000,0,0
+Pressed Juicery,Beverages,3.2,Average,6,$,10,1,"San Vicente Boulevard, Brentwood","San Vicente Boulevard, Brentwood, Los Angeles",Los Angeles,90049,216,34.0481761000,-118.4911261000,0,0
+Tacos Arizas,Mexican,3.2,Average,1,$,10,1,Echo Park,Echo Park,Los Angeles,90026,216,34.0772400000,-118.2584590000,0,0
+El Flamin Taco,"Mexican, Vegetarian",3.2,Average,1,$,10,1,"Sunset Boulevard, Temple-Beaudry","Sunset Boulevard, Temple-Beaudry, Los Angeles",Los Angeles,90026,216,34.0773106000,-118.2639109000,0,0
+Oki-Dog,"Burger, Coffee and Tea",3.1,Average,20,$,10,1,"North Fairfax Avenue, Melrose","North Fairfax Avenue, Melrose, Los Angeles",Los Angeles,90046,216,34.0870454000,-118.3611906000,0,0
+Guerrilla Tacos,Mexican,3.1,Average,8,$,10,1,Wholesale District,Wholesale District,Los Angeles,90013,216,34.0389410000,-118.2324670000,0,0
+Ahn Joo,"Korean, Bar Food",3.1,Average,12,$,10,1,"Sunset Boulevard, Hollywood","Sunset Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.0978800000,-118.3296730000,0,0
+Calbi,"Korean, Mexican",3.1,Average,12,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Waffles de Liege,Desserts,3.1,Average,9,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Baby's Badass Burgers,Burger,3.1,Average,7,$,10,1,"Wilshire Boulevard, Miracle Mile","Wilshire Boulevard, Miracle Mile, Los Angeles",Los Angeles,90036,216,34.0617449000,-118.3535426000,0,0
+El Flamin Taco,Mexican,3.1,Average,5,$,10,1,"South Vermont Avenue, Little Bangladesh","South Vermont Avenue, Little Bangladesh, Los Angeles",Los Angeles,90020,216,34.0649822000,-118.2919260000,0,0
+Lee's Philly,"Korean, Sandwich",3.1,Average,4,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Tacos Tamix,Mexican,3.1,Average,5,$,10,1,Pico-Union,Pico-Union,Los Angeles,90006,216,34.0472800000,-118.2891690000,0,0
+Vizzi,California,3.0,Average,8,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Takoyaki Tanota,Japanese,3.0,Average,5,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Tapa Boy,"Breakfast, Filipino",3.0,Average,6,$,0,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Dumpling Station,"Chinese, Korean",3.0,Average,6,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Lardon,American,3.0,Average,6,$,10,1,"Crocker Street, Little Tokyo","Crocker Street, Little Tokyo, Los Angeles",Los Angeles,90013,216,34.0452423000,-118.2412414000,0,0
+Eagle Rock Brewery,,3.0,Average,5,$,10,1,Glassell Park,Glassell Park,Los Angeles,90065,216,34.1149429000,-118.2433430000,0,0
+Bun Truck,"Asian, Fast Food, Sandwich",3.0,Average,4,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Patty Wagon,Burger,3.0,Average,6,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Frozen Crush,Desserts,3.0,Average,3,$,10,1,"Parthenia Street, Northridge","Parthenia Street, Northridge, Los Angeles",Los Angeles,91324,216,34.2287547000,-118.5494498000,0,0
+Gorditas Lupita Taco Truck,Mexican,3.0,Average,1,$,10,1,"North Eagle Rock Boulevard, Glassell Park","North Eagle Rock Boulevard, Glassell Park, Los Angeles",Los Angeles,90065,216,34.1145200000,-118.2362290000,0,0
+Ragin Cajun on Wheels,"Sandwich, Cajun",2.9,Average,4,$,10,1,"South Main Street, Downtown","South Main Street, Downtown, Los Angeles",Los Angeles,,216,34.0522342000,-118.2436849000,0,0
+Berlin Food Truck,German,2.9,Average,4,$,10,1,University Park,University Park,Los Angeles,90011,216,34.0232690000,-118.2681650000,0,0
+The Munchie Machine,"Desserts, Sandwich",2.9,Average,5,$,10,1,"Venice Boulevard, Beverlywood","Venice Boulevard, Beverlywood, Los Angeles",Los Angeles,90034,216,34.0324632000,-118.3958630000,0,0
+Van Leeuwen Artisan Ice Cream,"Desserts, Ice Cream",2.9,Average,4,$,15,1,Venice,Venice,Los Angeles,90291,216,33.9914370000,-118.4686523000,0,0
+Gish Bac,"Latin American, Mexican",2.9,Average,4,$,10,1,"West Washington Boulevard, Victoria Park","West Washington Boulevard, Victoria Park, Los Angeles",Los Angeles,90018,216,34.0399360000,-118.3303320000,0,0
+Jose O'Malley's,"British, Mexican",2.9,Average,4,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+The Nacho Truck,Mexican,2.9,Average,2,$,10,1,"West 4th Street, Carthay","West 4th Street, Carthay, Los Angeles",Los Angeles,90048,216,34.0703710000,-118.3643970000,0,0
+The Habit Burger Grill,"American, Burger, Fast Food",2.9,Average,3,$,10,1,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91403,216,34.1511370000,-118.4521570000,0,0
+Comfort Truck,"American, Southern",2.9,Average,2,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Bool Korean BBQ Tacos & Pastels,"BBQ, Korean, Latin American",2.8,Average,4,$,10,1,"South Main Street, Downtown","South Main Street, Downtown, Los Angeles",Los Angeles,,216,34.0522342000,-118.2436849000,0,0
+Nana Queen's Truck,"Desserts, Southern",2.8,Average,4,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Chef Che's,Argentine,2.8,Average,4,$,0,1,"Crocker Street, Little Tokyo","Crocker Street, Little Tokyo, Los Angeles",Los Angeles,90013,216,34.0439250000,-118.2424291000,0,0
+Chiquis Tacos,"Fast Food, Mexican",2.8,Average,4,$,10,1,"Santa Monica Boulevard, Hollywood","Santa Monica Boulevard, Hollywood, Los Angeles",Los Angeles,90038,216,34.0911597000,-118.3270319000,0,0
+Corazón de Jah,"Mexican, Vegetarian",2.7,Average,4,$,10,1,Echo Park,Echo Park,Los Angeles,90026,216,34.0775855000,-118.2606087000,0,0
+Fresh Fries Food Truck,Fast Food,2.7,Average,7,$,10,1,Glassell Park,Glassell Park,Los Angeles,90065,216,34.1137706000,-118.2349482000,0,0
+Kabob N'Roll,Mediterranean,2.7,Average,3,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453230000,0,0
+Eat Phamish,,2.7,Average,4,$,0,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Crispy Pork Gang & Grill (Gang Moo Krob),Thai,2.7,Average,2,$,10,1,"Hollywood Boulevard, Thai Town","Hollywood Boulevard, Thai Town, Los Angeles",Los Angeles,,216,34.1018618000,-118.3056575000,0,0
+Sweets Truck,Coffee and Tea,2.7,Average,4,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+The Safe House,"Asian, Thai",2.7,Average,4,$,10,1,"Sunset Boulevard, Hollywood","Sunset Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.0977893000,-118.3183806000,0,0
+Asian Soul Kitchen Food Truck,Asian,2.7,Average,4,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453230000,0,0
+Popcycle Treats,Desserts,2.7,Average,4,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Raw Star Cafe,"Desserts, Beverages",2.7,Average,1,$,10,1,"South Olive Street, Downtown","South Olive Street, Downtown, Los Angeles",Los Angeles,90015,216,34.0383612000,-118.2634290000,0,0
+Tacos Super Gallito,"Taco, Mexican",2.7,Average,4,$,0,1,"East Olympic Boulevard, Boyle Heights","East Olympic Boulevard, Boyle Heights, Los Angeles",Los Angeles,90023,216,34.0186110000,-118.1929420000,0,0
+South Philly Experience,Sandwich,2.6,Average,5,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+The Lobos Truck,"Burger, American, Mexican",0,Not rated,2,$,0,1,"Glendon Avenue, Palms","Glendon Avenue, Palms, Los Angeles",Los Angeles,,216,34.0204989000,-118.4117325000,0,0
+Papa Juan's Fish and Shrimp Tacos,"Mexican, Seafood",0,Not rated,3,$,10,1,Sylmar,Sylmar,Los Angeles,91342,216,34.2920820000,-118.4129920000,0,0
+Wicked Kitchen,"Asian, Indian, Cajun",0,Not rated,3,$,10,1,"South Main Street, Downtown","South Main Street, Downtown, Los Angeles",Los Angeles,,216,34.0522342000,-118.2436849000,0,0
+Angie's Wieners,,0,Not rated,3,$,0,1,"Hollywood Boulevard, Hollywood","Hollywood Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1012181000,-118.3257390000,0,0
+Sweet Amsterdam Food Truck,"Desserts, European",0,Not rated,2,$,0,1,"South Los Angeles Street, Wholesale District","South Los Angeles Street, Wholesale District, Los Angeles",Los Angeles,,216,34.0432121000,-118.2499534000,0,0
+Cart for a Cause,,0,Not rated,3,$,10,1,"West 3rd Street, Temple-Beaudry","West 3rd Street, Temple-Beaudry, Los Angeles",Los Angeles,90057,216,34.0638238000,-118.2736492000,0,0
+Willoughby Road,Southern,0,Not rated,3,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Priscilla’s Mexican Food Taco Truck,Mexican,0,Not rated,1,$,0,1,"Reseda Boulevard, Reseda","Reseda Boulevard, Reseda, Los Angeles",Los Angeles,91335,216,34.2047430000,-118.5360550000,0,0
+Taco Reyes,Taco,0,Not rated,0,$,20,2,Van Nuys,Van Nuys,Los Angeles,,216,34.2015250000,-118.4844550000,0,0
+Surfer Taco,Mexican,0,Not rated,2,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Howlin' Ray's,American,0,Not rated,0,$,0,1,Venice,Venice,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+Tacos El Korita,Mexican,0,Not rated,3,$,10,1,Downtown,Downtown,Los Angeles,90023,216,34.0534900000,-118.2453230000,0,0
+El Planenque Restaurant,Mexican,0,Not rated,1,$,10,1,"Topaz Street, El Sereno","Topaz Street, El Sereno, Los Angeles",Los Angeles,90032,216,34.0835490000,-118.1907010000,0,0
+Carnitas El Momo,,0,Not rated,1,$,0,1,Melrose,Melrose,Los Angeles,90069,216,34.0836182000,-118.3747416000,0,0
+La Isla Bonita,Mexican,0,Not rated,1,$,10,1,Venice,Venice,Los Angeles,90291,216,33.9975480000,-118.4750450000,0,0
+Louks,Greek,0,Not rated,2,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+No Tomatoes!,,0,Not rated,1,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+Flat Iron,California,0,Not rated,3,$,10,1,Downtown,Downtown,Los Angeles,,216,34.0534900000,-118.2453190000,0,0
+"Philippe, The Original","American, Sandwich",4.8,Excellent,667,$,20,2,"North Alameda Street, Chinatown","North Alameda Street, Chinatown, Los Angeles",Los Angeles,90012,216,34.0597210000,-118.2370250000,0,0
+Jimmy John's,Sandwich,0,Not rated,0,$,10,1,"West 7th Street, Downtown","West 7th Street, Downtown, Los Angeles",Los Angeles,90017,216,34.0473958000,-118.2573914000,0,0
+Jimmy John's,Sandwich,0,Not rated,0,$,10,1,"South Figueroa Street, Downtown","South Figueroa Street, Downtown, Los Angeles",Los Angeles,90071,216,34.0532738000,-118.2572149000,0,0
+The Original Rinaldi's Deli and Cafe,Fast Food,0,Not rated,0,$,20,2,Downtown,Downtown,Los Angeles,,216,33.9457073907,-118.3933735570,0,0
+Earl of Sandwich,Sandwich,0,Not rated,0,$,0,1,Westchester,Westchester,Los Angeles,,216,33.9434129172,-118.4089165554,0,0
+Boo’s Philly Cheesesteaks - Koreatown,Sandwich,0,Not rated,0,$,0,1,Wilshire Center,Wilshire Center,Los Angeles,,216,34.0619505608,-118.2973888540,0,0
+Boo’s Philly Cheesesteaks - Silverlake,Sandwich,0,Not rated,0,$,0,1,Silverlake,Silverlake,Los Angeles,,216,34.0958455772,-118.2870946356,0,0
+Earl of Sandwich,Sandwich,0,Not rated,0,$,0,1,Downtown,Downtown,Los Angeles,,216,34.0514282734,-118.2515466213,0,0
+Jimmy John's,Sandwich,0,Not rated,0,$,10,1,"Sunset Boulevard, Hollywood","Sunset Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.0982950000,-118.3434000000,0,0
+The Original Rinaldi's Deli and Cafe,"Italian, Sandwich",3.8,Good,38,$,10,1,El Segundo,El Segundo,El Segundo,90245,216,33.9198600000,-118.4161488000,0,0
+Market Grill Sandwich Shop,"Sandwich, Burger",3.5,Good,11,$,10,1,Monrovia,Monrovia,Monrovia,91016,216,34.1462247000,-117.9910267000,0,0
+Bageti Sandwiches,"Italian, French",0,Not rated,1,$,0,1,Diamond Bar,Diamond Bar,Diamond Bar,91765,216,33.9997096000,-117.8097714000,0,0
+Slider Stop,"American, Sandwich",0,Not rated,1,$,20,2,Redondo Beach,Redondo Beach,Redondo Beach,90278,216,33.8729720000,-118.3688010000,0,0
+Mendocino Farms,Sandwich,0,Not rated,2,$,0,1,El Segundo,El Segundo,El Segundo,90245,216,33.9030987000,-118.3960182000,0,0
+Jimmy John's,Sandwich,0,Not rated,1,$,10,1,Valencia,Valencia,Santa Clarita,91355,216,34.4407530000,-118.5777901000,0,0
+Jimmy John's,Sandwich,0,Not rated,1,$,10,1,"East Colorado Boulevard, South","East Colorado Boulevard, South, Pasadena",Pasadena,91103,216,34.1459170000,-118.1488676000,0,0
+Jimmy John's,"Sandwich, American",0,Not rated,0,$,20,2,San Dimas,San Dimas,San Dimas,91773,216,34.1138690000,-117.8285590000,0,0
+The Original Rinaldi's Deli and Cafe,"American, Sandwich, Deli",0,Not rated,0,$,0,1,Manhattan Beach,Manhattan Beach,Manhattan Beach,90266,216,33.8814300000,-118.3955700000,0,0
+Jimmy John's,Sandwich,0,Not rated,0,$,10,1,South,South,Pasadena,91101,216,34.1428642000,-118.1326467000,0,0
+Jimmy John's,"Sandwich, Fast Food",0,Not rated,0,$,0,1,Valencia,Valencia,Santa Clarita,91355,216,34.4033250000,-118.5505490000,0,0
+Seaside Sandwich Co.,"Sandwich, Ice Cream",0,Not rated,0,$,0,1,Santa Monica Pier Area Ocean Avenue,Santa Monica Pier Area Ocean Avenue,Santa Monica,,216,34.0099300000,-118.4963420000,0,0
+Maddalena Restaurant,"Italian, California",3.8,Good,30,$,25,2,Wholesale District,Wholesale District,Los Angeles,90031,216,34.0644967000,-118.2236474000,0,0
+Ralphs,,0,Not rated,0,$,25,2,"Pacific Coast Highway, Southwood Riviera","Pacific Coast Highway, Southwood Riviera, Torrance",Torrance,90505,216,33.8136692000,-118.3676780000,0,0
+Pulchella Winery Tasting Room,,0,Not rated,0,$,25,2,Newhall,Newhall,Santa Clarita,91321,216,34.3780890000,-118.5276611000,0,0
+Sky's Gourmet Tacos,Mexican,3.8,Good,32,$,10,1,Mid-City,Mid-City,Los Angeles,90019,216,34.0482901000,-118.3562409000,0,0
+B.S. Taqueria,Mexican,3.1,Average,9,$,25,2,Downtown,Downtown,Los Angeles,90014,216,34.0466636000,-118.2562038000,0,0
+Petty Cash Taqueria,Taco,0,Not rated,3,$,0,1,Wholesale District,Wholesale District,Los Angeles,90021,216,34.0339773000,-118.2296503000,0,0
+Tacos Al Vapor El Rey,"Taco, Mexican",0,Not rated,0,$,0,1,Huntington Park,Huntington Park,Huntington Park,90255,216,33.9795020000,-118.2251670000,0,0
+Las Delicias,Mexican,0,Not rated,0,$,25,2,Canyon Country,Canyon Country,Santa Clarita,91350,216,34.4173749000,-118.5028216000,0,0
+Page 71 Lounge,"American, Bar Food",2.9,Average,1,$,25,2,"Ventura Boulevard, Studio City","Ventura Boulevard, Studio City, Los Angeles",Los Angeles,91604,216,34.1427106000,-118.3915222000,0,0
+Spring,French,0,Not rated,3,$,0,1,"South Broadway, Downtown","South Broadway, Downtown, Los Angeles",Los Angeles,90012,216,34.0507430000,-118.2476320000,0,0
+The Whiskey Lounge,Italian,0,Not rated,1,$,0,1,Downtown,Downtown,Los Angeles,90017,216,0.0000000000,0.0000000000,0,0
+Rudolph’s Bar & Tea,"Bar Food, American",0,Not rated,0,$,0,1,"South Pembroke Lane, Downtown","South Pembroke Lane, Downtown, Los Angeles",Los Angeles,90014,216,34.0350550000,-118.2692900000,0,0
+Charcoal BBQ,"BBQ, American",0,Not rated,1,$,0,1,Los Feliz,Los Feliz,Los Angeles,90027,216,34.1100000000,-118.3000000000,0,0
+The Boardroom,American,0,Not rated,0,$,25,2,"North Grand Avenue, Downtown","North Grand Avenue, Downtown, Los Angeles",Los Angeles,90012,216,34.0567120000,-118.2489250000,0,0
+Cantina Laredo,Mexican,0,Not rated,0,$,0,1,Westchester,Westchester,Los Angeles,90045,216,33.9434110000,-118.4090150000,0,0
+Sky Restaurant & Lounge,Mediterranean,0,Not rated,0,$,30,3,Canoga Park,Canoga Park,Los Angeles,91306,216,0.0000000000,0.0000000000,0,0
+Chez Melange,American,0,Not rated,0,$,0,1,Redondo Beach,Redondo Beach,Redondo Beach,,216,33.8400000000,-118.4000000000,0,0
+Deluxe Cafe & Lounge,Cafe,0,Not rated,0,$,35,3,South,South,Pasadena,91104,216,0.0000000000,0.0000000000,0,0
+The Pub at Golden Road Brewing,,3.9,Good,62,$,25,2,Atwater Village,Atwater Village,Los Angeles,90039,216,34.1511637000,-118.2746662000,0,0
+Angel City Brewery and Public House,,3.0,Average,8,$,40,3,Wholesale District,Wholesale District,Los Angeles,90013,216,34.0464770000,-118.2377848000,0,0
+Eagle Rock Brewery Public House,American,3.0,Average,5,$,0,1,Eagle Rock,Eagle Rock,Los Angeles,90041,216,34.1398000000,-118.2019790000,0,0
+Eagle Rock Brewery,,3.0,Average,5,$,10,1,Glassell Park,Glassell Park,Los Angeles,90065,216,34.1149429000,-118.2433430000,0,0
+Iron Triangle Brewing Company,Drinks Only,0,Not rated,1,$,40,3,Wholesale District,Wholesale District,Los Angeles,90021,216,34.0361906000,-118.2357996000,0,0
+Sweeney's Ale House,,0,Not rated,1,$,25,2,"Ventura Boulevard, Encino","Ventura Boulevard, Encino, Los Angeles",Los Angeles,91316,216,34.1613134000,-118.5110868000,0,0
+Rustic Burger,"American, Burger",3.3,Average,8,$,10,1,Valencia,Valencia,Santa Clarita,91355,216,34.4308550000,-118.5560224000,0,0
+Los Angeles Ale Works - Brewery & Tasting Room,Drinks Only,0,Not rated,1,$,20,2,Hawthorne,Hawthorne,Hawthorne,,216,33.9148310000,-118.3321970000,0,0
+Three Weavers Brewing Company,,0,Not rated,2,$,0,1,Inglewood,Inglewood,Inglewood,90301,216,33.9608211000,-118.3746139000,0,0
+Demitasse,Coffee and Tea,3.4,Average,20,$,10,1,"South San Pedro Street, Little Tokyo","South San Pedro Street, Little Tokyo, Los Angeles",Los Angeles,90012,216,34.0497740000,-118.2417100000,0,0
+Dinosaur Coffee,Coffee and Tea,3.0,Average,6,$,0,1,"Sunset Boulevard, East Hollywood","Sunset Boulevard, East Hollywood, Los Angeles",Los Angeles,90029,216,34.0952065000,-118.2838024000,0,0
+Fabrique Coffee,"Cafe, American, Coffee and Tea",0,Not rated,1,$,15,1,Downtown,Downtown,Los Angeles,90013,216,34.0471630000,-118.2489130000,0,0
+Starbucks,"Coffee and Tea, Fast Food, Beverages",0,Not rated,2,$,10,1,"South La Cienega Boulevard, Alsace","South La Cienega Boulevard, Alsace, Los Angeles",Los Angeles,90016,216,34.0268250000,-118.3718870000,0,0
+Groundwork Coffee Co.,,0,Not rated,1,$,0,1,"North Larchmont Boulevard, Hancock Park","North Larchmont Boulevard, Hancock Park, Los Angeles",Los Angeles,90004,216,34.0741860000,-118.3238850000,0,0
+Blue Bottle Coffee,Coffee and Tea,0,Not rated,2,$,0,1,Echo Park,Echo Park,Los Angeles,90026,216,4.0773020000,-118.2589410000,0,0
+Graffiti Sublime Coffee,"Coffee and Tea, American, Cafe",0,Not rated,1,$,0,1,"South La Brea Avenue, Hancock Park","South La Brea Avenue, Hancock Park, Los Angeles",Los Angeles,90036,216,34.0716100000,-118.3438480000,0,0
+Ebar,Coffee and Tea,0,Not rated,0,$,10,1,"Victory Boulevard, Canoga Park","Victory Boulevard, Canoga Park, Los Angeles",Los Angeles,91303,216,34.1889871000,-118.6027766000,0,0
+Ebar,Coffee and Tea,0,Not rated,0,$,10,1,"The Grove Drive, Park La Brea","The Grove Drive, Park La Brea, Los Angeles",Los Angeles,90036,216,34.0716073000,-118.3568592000,0,0
+Ebar,Coffee and Tea,0,Not rated,0,$,10,1,Arcadia,Arcadia,Arcadia,91007,216,34.1353690000,-118.0526910000,0,0
+DRNK coffee + tea,"Coffee and Tea, American",0,Not rated,0,$,15,1,"Atlantic Avenue, Bixby Knolls","Atlantic Avenue, Bixby Knolls, Long Beach",Long Beach,90807,216,33.8336190000,-118.1854560000,0,0
+Nordstrom Ebar,Coffee and Tea,0,Not rated,0,$,10,1,City Center,City Center,Glendale,91210,216,34.1434259000,-118.2559795000,0,0
+Ebar,Coffee and Tea,0,Not rated,0,$,10,1,Downtown Third Street Promenade,Downtown Third Street Promenade,Santa Monica,90401,216,34.0134725000,-118.4945981000,0,0
+Rose Park,Coffee and Tea,0,Not rated,0,$,25,2,Bluff Heights,Bluff Heights,Long Beach,90814,216,33.7715443000,-118.1558212000,0,0
+Ebar,Coffee and Tea,0,Not rated,0,$,10,1,Torrance,Torrance,Torrance,90503,216,33.8333480000,-118.3491924000,0,0
+Ebar,Coffee and Tea,0,Not rated,0,$,10,1,Cerritos,Cerritos,Cerritos,90703,216,33.8629521000,-118.0937204000,0,0
+Faith & Flower,"New American, Seafood",3.8,Good,47,$,120,4,"West 9th Street, Downtown","West 9th Street, Downtown, Los Angeles",Los Angeles,90015,216,34.0462264000,-118.2617933000,0,0
+Testa,"Italian, New American",0,Not rated,1,$,30,3,Downtown,Downtown,Los Angeles,90015,216,34.0414490173,-118.2640039922,0,0
+Accomplice,"Drinks Only, Bar Food",0,Not rated,1,$,40,3,"Grand View Boulevard, Mar Vista","Grand View Boulevard, Mar Vista, Los Angeles",Los Angeles,90066,216,34.0042987000,-118.4310711000,0,0
+Glowing Juices,"Juices, Healthy Food",0,Not rated,1,$,17,1,"Echo Park Avenue, Echo Park","Echo Park Avenue, Echo Park, Los Angeles",Los Angeles,90026,216,34.0813260000,-118.2547570000,0,0
+Power Boost Health Bar,Juices,0,Not rated,0,$,8,1,Canoga Park,Canoga Park,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+The Juice,Beverages,0,Not rated,2,$,25,2,"Ventura Boulevard, Sherman Oaks","Ventura Boulevard, Sherman Oaks, Los Angeles",Los Angeles,91364,216,34.1478700000,-118.4293811000,0,0
+Pure Pressed Juice,Beverages,0,Not rated,0,$,15,1,West Los Angeles,West Los Angeles,Los Angeles,90064,216,0.0000000000,0.0000000000,0,0
+The Juice,"Juices, Beverages",0,Not rated,0,$,15,1,"York Boulevard, Eagle Rock","York Boulevard, Eagle Rock, Los Angeles",Los Angeles,90042,216,34.1213610000,-118.2077950000,0,0
+Rainbow Juices,Juices,0,Not rated,1,$,0,1,"East 3rd Street, Downtown","East 3rd Street, Downtown, Long Beach",Long Beach,90802,216,33.7702870000,-118.1898320000,0,0
+Blend It Healthy,"Beverages, Vegetarian",0,Not rated,2,$,15,1,Arcadia,Arcadia,Arcadia,91006,216,34.1406977000,-118.0213863000,0,0
+Bee's Raspados & More,"Juices, Beverages, Crepes",0,Not rated,0,$,0,1,Baldwin Park,Baldwin Park,Baldwin Park,92324,216,34.0678500000,-117.3327800000,0,0
+Juice It Up,Juices,0,Not rated,0,$,10,1,Hermosa Beach,Hermosa Beach,Hermosa Beach,90254,216,0.0000000000,0.0000000000,0,0
+Miss Tea,"Beverages, Coffee and Tea, Bubble Tea",0,Not rated,0,$,0,1,Baldwin Park,Baldwin Park,Baldwin Park,91706,216,34.0866370000,-117.9619030000,0,0
+Boba Loca,Coffee and Tea,0,Not rated,0,$,0,1,California Heights,California Heights,Long Beach,90807,216,33.8221560000,-118.1890640000,0,0
+No Name Club,"Bar Food, American",0,Not rated,0,$,25,2,"North Fairfax Avenue, Melrose","North Fairfax Avenue, Melrose, Los Angeles",Los Angeles,90036,216,34.0792049000,-118.3611380000,0,0
+Hollywood Club Crawl,Bar Food,0,Not rated,0,$,0,1,"North Cahuenga Boulevard, Hollywood","North Cahuenga Boulevard, Hollywood, Los Angeles",Los Angeles,90028,216,34.1000110000,-118.3293320000,0,0
+Charley's Grilled Subs,"Sandwich, American",0,Not rated,1,$,0,1,Canoga Park,Canoga Park,Los Angeles,91303,216,34.1904650000,-118.6024060000,0,0
+Juicy Wingz,Juices,0,Not rated,0,$,0,1,Hollywood,Hollywood,Los Angeles,,216,34.1011809000,-118.3279330000,0,0
+Renew Juicery,Beverages,0,Not rated,0,$,30,3,Venice,Venice,Los Angeles,,216,0.0000000000,0.0000000000,0,0
+MacLeod Ale Brewing,American,0,Not rated,1,$,25,2,"Calvert Street, Van Nuys","Calvert Street, Van Nuys, Los Angeles",Los Angeles,91411,216,34.1820275329,-118.4545917432,0,0
+Twisted Oak Tavern,"American, Burger",3.4,Average,18,$,40,3,Whizin's Row,"Whizin's Row, Agoura Hills",Agoura Hills,91301,216,34.1453367000,-118.7786372000,0,0
+San Fernando Brewing Company,American,0,Not rated,1,$,25,2,San Fernando,San Fernando,San Fernando,91340,216,34.2833656948,-118.4320528157,0,0
+Hopsaint,"Pub Food, American",0,Not rated,2,$,25,2,"W 190th St, West Torrance","W 190th St, West Torrance, Torrance",Torrance,90503,216,33.8576000000,-118.3676540000,0,0
+Ballast Point Brewing,"Bar Food, American",0,Not rated,1,$,25,2,Marina Area,Marina Area,Long Beach,90803,216,33.7464290000,-118.1147400000,0,0
+Weiland Brewery Restaurant 3,American,0,Not rated,0,$,0,1,"Atlantic Avenue, Bixby Knolls","Atlantic Avenue, Bixby Knolls, Long Beach",Long Beach,90807,216,33.8356657000,-118.1846751000,0,0
+Strand Brewing Co.,Bar Food,0,Not rated,0,$,25,2,Torrance,Torrance,Torrance,90501,216,33.8413680000,-118.3212890000,0,0
+The Dudes' Brewing Company,Drinks Only,0,Not rated,0,$,0,1,Torrance,Torrance,Torrance,90501,216,33.8416230000,-118.3114390000,0,0
+Dog Haus Biergarten USC,American,0,Not rated,0,$,25,2,Downtown,Downtown,Los Angeles,,216,34.0223340245,-118.2801513479,0,0
+Rasselbock Kitchen & Beer Garden,"German, Bar Food",0,Not rated,1,$,30,3,Zaferia,Zaferia,Long Beach,90807,216,0.0000000000,0.0000000000,0,0
+Dog Haus Biergarten Long Beach,American,0,Not rated,0,$,25,2,Downtown,Downtown,Long Beach,,216,33.7703365186,-118.1909227479,0,0

@@ -1,0 +1,904 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,locality_verbose,city,zipcode,country_id,latitude,longitude,has_online_delivery,has_table_booking
+Vietnam House Restaurant & Gallery,Vietnamese,4.9,Excellent,64,£,30,3,West End,"West End, Edinburgh",Edinburgh,EH3 8AF,215,55.9459020000,-3.2128150000,0,0
+La Favorita,Italian,4.5,Excellent,109,£,30,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 8SA,215,55.9646694444,-3.1768583333,0,0
+Kanpai,Japanese,4.4,Very Good,47,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AS,215,55.9466694444,-3.2038250000,0,0
+Mother India's Cafe,Indian,4.4,Very Good,128,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1LT,215,55.9480027778,-3.1862500000,0,0
+Cafe Andaluz,"Spanish, Tapas",4.3,Very Good,93,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 3EE,215,55.9530944444,-3.2013361111,0,0
+Chaophraya,Thai,4.3,Very Good,50,£,50,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 3DN,215,55.9522210000,-3.2031590000,0,0
+The Scran & Scallie,"Scottish, British",4.3,Very Good,48,£,50,4,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1DT,215,55.9591611111,-3.2146138889,0,0
+David Bann,"Asian, Italian, Mediterranean, European",4.3,Very Good,67,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1ST,215,55.9494055556,-3.1836750000,0,0
+Nobles Cafe Bar & Restaurant,"Scottish, European",4.3,Very Good,51,£,35,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6RS,215,55.9748333333,-3.1671944444,0,0
+Dusit,Thai,4.2,Very Good,56,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DY,215,55.9538944444,-3.1993916667,0,0
+Hard Rock Cafe,American,4.2,Very Good,87,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PF,215,55.9534944444,-3.1962944444,0,0
+Ting Thai Caravan,"Thai, Asian",4.2,Very Good,94,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QZ,215,55.9456760000,-3.1899790000,0,0
+Steak,"Steak, Scottish, British",4.2,Very Good,49,£,55,4,"Twelve Picardy Place, New Town","Twelve Picardy Place, New Town, Edinburgh",Edinburgh,EH1 3JT,215,55.9570330000,-3.1868540000,0,0
+The Holyrood 9A,"Burger, Grill, European",4.2,Very Good,52,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8AE,215,55.9492750000,-3.1823527778,0,0
+Fishers In The City,"Seafood, British",4.2,Very Good,72,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1EN,215,55.9540638889,-3.1994972222,0,0
+Nando's,"Portuguese, African",4.2,Very Good,46,£,35,3,"Fountain Park, Fountainbridge","Fountain Park, Fountainbridge, Edinburgh",Edinburgh,EH11 1AF,215,55.9418490000,-3.2162860000,0,0
+Piatto Verde,Italian,4.2,Very Good,16,£,25,2,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH11 1DL,215,55.9399305556,-3.2202250000,0,0
+Treacle,British,4.1,Very Good,51,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 3JU,215,55.9573277778,-3.1882833333,0,0
+Chez Jules,French,4.1,Very Good,52,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 4DJ,215,55.9546194444,-3.1978361111,0,0
+The Mussel & Steak Bar,"Seafood, Steak, Scottish, British",4.1,Very Good,69,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2HH,215,55.9480240000,-3.1941740000,0,0
+Kebab Mahal,"Indian, Pakistani",4.1,Very Good,63,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9BH,215,55.9461430000,-3.1859360000,0,0
+The Outsider,European,4.1,Very Good,75,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1EE,215,55.9478810000,-3.1919280000,0,0
+The Magnum Bar & Restaurant,"Scottish, British",4.1,Very Good,40,£,55,4,New Town,"New Town, Edinburgh",Edinburgh,EH1 3PY,215,55.9568040000,-3.1930120000,0,0
+Sushiya,Japanese,4.1,Very Good,42,£,40,3,Dalry,"Dalry, Edinburgh",Edinburgh,EH112BQ,215,55.9453138889,-3.2172472222,0,0
+The Kings Wark,"Scottish, British",4.1,Very Good,31,£,40,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6QU,215,55.9761972222,-3.1697333333,0,0
+Beijing Banquet,"Chinese, Asian",4.1,Very Good,16,£,25,2,Gilmerton,"Gilmerton, Edinburgh",Edinburgh,EH22 1PJ,215,55.9103194444,-3.1099000000,0,0
+Tuk Tuk Indian Street Food,"Indian, Street Food",3.9,Good,67,£,20,2,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9NB,215,55.9419027778,-3.2035888889,0,0
+Amarone,"Italian, Pizza",4.0,Very Good,43,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2AF,215,55.9538611111,-3.1949694444,0,0
+The Boozy Cow,"Burger, Grill",4.0,Very Good,39,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2EY,215,55.9519740000,-3.1995690000,0,0
+Howies,"Scottish, British",4.0,Very Good,52,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2HG,215,55.9486055556,-3.1931611111,0,0
+The Dogs,"Scottish, British",4.0,Very Good,77,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DR,215,55.9544833333,-3.1978138889,0,0
+The Grill Room - The Dome,"Grill, British",4.0,Very Good,44,£,55,4,"The Dome, New Town","The Dome, New Town, Edinburgh",Edinburgh,EH2 2PF,215,55.9536930000,-3.1956090000,0,0
+Timberyard,"British, European",4.0,Very Good,26,£,70,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9DS,215,55.9464300000,-3.2017590000,0,0
+wagamama,Japanese,4.0,Very Good,33,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2DP,215,55.9502555556,-3.1868888889,0,0
+Mussel Inn,Seafood,4.0,Very Good,58,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2NH,215,55.9524620000,-3.1990400000,0,0
+Hamilton Bar & Kitchen,"Scottish, British",4.0,Very Good,43,£,65,4,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 5AU,215,55.9581638889,-3.2076083333,0,0
+Cafe St Honore,"Scottish, French",4.0,Very Good,31,£,65,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 1EA,215,55.9540650000,-3.2003430000,0,0
+Viva Mexico,Mexican,4.0,Very Good,34,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1BP,215,55.9506180000,-3.1907160000,0,0
+Thai Orchid,Thai,4.0,Very Good,30,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2PW,215,55.9487500000,-3.1945570000,0,0
+Bonsai,"Japanese, Sushi",4.0,Very Good,36,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9DZ,215,55.9457194444,-3.1820444444,0,0
+Origano,"Italian, Pizza",4.0,Very Good,22,£,40,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 8PD,215,55.9655300000,-3.1757490000,0,0
+Bentoya,"Sushi, Japanese, Cantonese",3.9,Good,35,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AL,215,55.9458950000,-3.2047350000,0,0
+Bread Meats Bread,"Burger, Grill",3.9,Good,36,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9BE,215,55.9463560000,-3.2059900000,0,0
+Chop Chop,Chinese,3.9,Good,85,£,35,3,West End,"West End, Edinburgh",Edinburgh,EH3 8DT,215,55.9462972222,-3.2147444444,0,0
+La Piazza,Italian,3.9,Good,34,£,50,4,West End,"West End, Edinburgh",Edinburgh,EH2 4SD,215,55.9490140000,-3.2100690000,0,0
+Kalpna,"Indian, North Indian",3.9,Good,53,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9EZ,215,55.9435666667,-3.1831250000,0,0
+First Coast,Scottish,3.9,Good,47,£,60,4,Dalry,"Dalry, Edinburgh",Edinburgh,EH11 2AB,215,55.9435111111,-3.2194611111,0,0
+Whiski Bar & Restaurant,"Scottish, British",3.9,Good,37,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1SG,215,55.9502250000,-3.1866250000,0,0
+Harajuku Kitchen,Japanese,3.9,Good,20,£,30,3,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH10 4HS,215,55.9405640000,-3.2039560000,0,0
+Vittoria,Italian,4.0,Very Good,53,£,45,3,Broughton,"Broughton, Edinburgh",Edinburgh,EH7 5HR,215,55.9610888889,-3.1807527778,0,0
+Field,"Scottish, British",3.9,Good,27,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9DB,215,55.9446222222,-3.1853027778,0,0
+Fishers,"Seafood, British, Scottish",3.9,Good,39,£,50,4,Leith,"Leith, Edinburgh",Edinburgh,EH6 6QW,215,55.9776000000,-3.1690361111,0,0
+Vittoria On The Bridge,Italian,3.9,Good,31,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1EN,215,55.9477880000,-3.1918700000,0,0
+L'Escargot Bleu,French,3.9,Good,26,£,55,4,New Town,"New Town, Edinburgh",Edinburgh,EH1 3SA,215,55.9586250000,-3.1902027778,0,0
+Henderson's Salad Table,British,4.0,Very Good,40,£,35,3,"Henderson's, New Town","Henderson's, New Town, Edinburgh",Edinburgh,EH2 1DR,215,55.9542700000,-3.1980010000,0,0
+The Tailend,Scottish,3.9,Good,36,£,35,3,Leith,"Leith, Edinburgh",Edinburgh,EH7 5HN,215,55.9621555556,-3.1795972222,0,0
+The Spice Pavilion,Indian,3.9,Good,33,£,30,3,New Town,"New Town, Edinburgh",Edinburgh,EH3 6QG,215,55.9562861111,-3.1985472222,0,0
+Cool Jade,Chinese,3.9,Good,12,£,20,2,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH12 7AU,215,55.9425861111,-3.2673138889,0,0
+Time 4 Thai,Thai,3.9,Good,24,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 3BG,215,55.9530750000,-3.2037111111,0,0
+The Compass,"Scottish, British, Seafood",3.9,Good,25,£,45,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 7EX,215,55.9728777778,-3.1661277778,0,0
+A Room In The West End,Scottish,3.9,Good,24,£,35,3,"Teuchters, West End","Teuchters, West End, Edinburgh",Edinburgh,EH3 7NH,215,55.9493580000,-3.2123700000,0,0
+Buffalo Grill,"American, Grill",3.9,Good,20,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9AY,215,55.9447920000,-3.1859610000,0,0
+Dantes,Italian,3.9,Good,13,£,40,3,Colinton,"Colinton, Edinburgh",Edinburgh,EH13 0LQ,215,55.9073611111,-3.2580027778,0,0
+Bia Bistrot,British,3.9,Good,13,£,40,3,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 5DP,215,55.9339222222,-3.2109666667,0,0
+10 To 10 In Delhi,"Indian, Cafe",3.8,Good,74,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9BE,215,55.9454305556,-3.1843444444,0,0
+El Cartel,Mexican,3.8,Good,34,£,30,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1EN,215,55.9540400000,-3.1995210000,0,0
+Maison Bleue,"French, African, Scottish",3.8,Good,50,£,50,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JW,215,55.9485944444,-3.1939527778,0,1
+The Colonnades,British,3.7,Good,15,£,60,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1RF,215,55.9491380000,-3.1902440000,0,1
+The Devil's Advocate,Scottish,3.8,Good,30,£,50,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1ND,215,55.9499830000,-3.1911460000,0,0
+Voujon,"Bengali, Indian",3.8,Good,25,£,35,3,Newington,"Newington, Edinburgh",Edinburgh,EH9 1QW,215,55.9375583333,-3.1780416667,0,0
+Khushi's,Indian,3.8,Good,41,£,40,3,Broughton,"Broughton, Edinburgh",Edinburgh,EH1 3NH,215,55.9581444444,-3.1848361111,0,0
+Taste of Italy,Italian,3.8,Good,28,£,25,2,Broughton,"Broughton, Edinburgh",Edinburgh,EH1 3AH,215,55.9576305556,-3.1846083333,0,0
+Kyloe - The Rutland Hotel,"Steak, Grill, British",3.8,Good,31,£,65,4,"The Rutland Hotel, West End","The Rutland Hotel, West End, Edinburgh",Edinburgh,EH1 2AE,215,55.9501444444,-3.2075777778,0,0
+Jimmy Chung's,Chinese,3.8,Good,37,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1BQ,215,55.9520805556,-3.1917277778,0,0
+Cafe Marlayne,French,3.8,Good,30,£,35,3,Broughton,"Broughton, Edinburgh",Edinburgh,EH1 3NL,215,55.9582250000,-3.1845277778,0,0
+The Apartment,British,3.8,Good,22,£,40,3,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4HW,215,55.9404138889,-3.2040416667,0,0
+Aroma Mosque Kitchen & Cafe,"Pakistani, Cafe",3.8,Good,29,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9BT,215,55.9451416667,-3.1851472222,0,0
+L'escargot Blanc,French,3.8,Good,24,£,55,4,West End,"West End, Edinburgh",Edinburgh,EH2 4QW,215,55.9509388889,-3.2099500000,0,0
+Petit Paris,French,3.8,Good,27,£,55,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JU,215,55.9474111111,-3.1966583333,0,0
+Rivage,Indian,3.8,Good,17,£,30,3,Leith,"Leith, Edinburgh",Edinburgh,EH7 5RJ,215,55.9597444444,-3.1717166667,0,0
+Cafe Grande,"Scottish, Cafe",3.8,Good,16,£,35,3,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4DF,215,55.9358944444,-3.2093527778,0,0
+A Room In Leith,"Scottish, British",3.8,Good,26,£,35,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6LU,215,55.9774194444,-3.1717444444,0,0
+Papilio,Italian,3.8,Good,22,£,40,3,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4ER,215,55.9362916667,-3.2081944444,0,0
+Burger,Burger,3.7,Good,33,£,15,2,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH3 9QA,215,55.9435740000,-3.2081920000,0,0
+Burgers & Beers Grillhouse,"Burger, American, Grill",3.7,Good,34,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH11RF,215,55.9496750000,-3.1897850000,0,0
+Monteiths,"Scottish, British, Steak",3.7,Good,35,£,55,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1SR,215,55.9503560000,-3.1863850000,0,0
+Yocoko,Chinese,3.7,Good,38,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1LL,215,55.9483083333,-3.1867250000,0,0
+Pomegranate,Middle Eastern,3.7,Good,42,£,35,3,Broughton,"Broughton, Edinburgh",Edinburgh,EH1 3NH,215,55.9575472222,-3.1851472222,0,0
+Miro's Cantina,Mexican,3.7,Good,34,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 4BA,215,55.9514527778,-3.2043138889,0,0
+Rollo,Contemporary,3.7,Good,28,£,35,3,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1HH,215,55.9593270000,-3.2142770000,0,0
+Indigo Yard,"British, Mediterranean",3.7,Good,38,£,50,4,West End,"West End, Edinburgh",Edinburgh,EH2 4QZ,215,55.9513890000,-3.2095450000,0,0
+Bella Italia,Italian,3.7,Good,32,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2DL,215,55.9524277778,-3.1965666667,0,1
+Twenty Princes Street,"Scottish, British, Grill",3.7,Good,26,£,65,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 2AN,215,55.9532370000,-3.1908240000,0,0
+Civerinos,"Pizza, Italian",3.7,Good,28,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1QW,215,55.9496370000,-3.1879620000,0,0
+Apiary,"British, Contemporary",3.7,Good,27,£,50,4,Newington,"Newington, Edinburgh",Edinburgh,EH9 1QR,215,55.9385550000,-3.1788280000,0,0
+Hector's,"British, Scottish",3.7,Good,30,£,40,3,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1LR,215,55.9588444444,-3.2100111111,0,0
+Mosque Kitchen Buffet & Takeaway,"Pakistani, Indian",3.7,Good,37,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9BX,215,55.9457630000,-3.1855260000,0,0
+The Pantry,British,3.7,Good,29,£,35,3,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 6ST,215,55.9570916667,-3.2058611111,0,0
+Spoon,British,3.7,Good,31,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9DH,215,55.9469638889,-3.1862722222,0,0
+Contini,Italian,3.7,Good,18,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 3ES,215,55.9527250000,-3.2028777778,0,0
+The Scran & Scallie,"Scottish, British",4.3,Very Good,48,£,50,4,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1DT,215,55.9591611111,-3.2146138889,0,0
+The Kings Wark,"Scottish, British",4.1,Very Good,31,£,40,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6QU,215,55.9761972222,-3.1697333333,0,0
+Hector's,"British, Scottish",3.7,Good,30,£,40,3,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1LR,215,55.9588444444,-3.2100111111,0,0
+The Sheep Heid Inn,"British, Scottish",3.7,Good,33,£,55,4,Duddingston,"Duddingston, Edinburgh",Edinburgh,EH15 3QA,215,55.9419900000,-3.1484740000,0,0
+The Queen's Arms,British,3.6,Good,18,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1EP,215,55.9536944444,-3.2006000000,0,0
+The Salisbury Arms,British,3.6,Good,18,£,45,3,Newington,"Newington, Edinburgh",Edinburgh,EH16 5AD,215,55.9386027778,-3.1738277778,0,0
+Joseph Pearce's,European,3.5,Good,24,£,40,3,Broughton,"Broughton, Edinburgh",Edinburgh,EH7 4AA,215,55.9590416667,-3.1832388889,0,0
+Red Squirrel,"Scottish, British, Burger",3.5,Good,30,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2DJ,215,55.9478780000,-3.2059080000,0,0
+The World's End,"Scottish, British",3.5,Good,26,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH11TB,215,55.9505777778,-3.1840944444,0,0
+Pickles,Finger Food,3.5,Good,14,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 3SA,215,55.9586833333,-3.1901638889,0,0
+Last Drop Tavern (Nicholson's),British,3.5,Good,15,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JR,215,55.9477611111,-3.1951333333,0,0
+Cafe Royal,"Scottish, Seafood",3.4,Average,38,£,60,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 2AA,215,55.9538472222,-3.1908750000,0,0
+The Golf Tavern,Scottish,3.4,Average,15,£,35,3,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4HR,215,55.9400890000,-3.2034810000,0,0
+The Orchard,"Scottish, British",3.4,Average,14,£,50,4,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH3 5JZ,215,55.9632611111,-3.2004750000,0,0
+The Regent,British,3.4,Average,7,£,30,3,Meadowbank,"Meadowbank, Edinburgh",Edinburgh,EH7 5DL,215,55.9563527778,-3.1721750000,0,0
+Jeremiah's Taproom,"British, Scottish, Burger",3.3,Average,21,£,45,3,Broughton,"Broughton, Edinburgh",Edinburgh,EH7 4AA,215,55.9582777778,-3.1837888889,0,0
+The Espy,"British, Burger",3.3,Average,17,£,35,3,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 1HF,215,55.9549780000,-3.1107220000,0,0
+The Beehive Inn (Taylor Walker),British,3.3,Average,15,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JU,215,55.9472416667,-3.1971000000,0,0
+Deacon Brodies Tavern (Nicholson's),"British, Scottish",3.4,Average,22,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2NT,215,55.9493527778,-3.1930972222,0,0
+The Albanach,"Scottish, British",3.3,Average,15,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1PE,215,55.9501500000,-3.1884600000,0,0
+The Fountain,British,3.2,Average,15,£,45,3,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH11 1AX,215,55.9405170000,-3.2176630000,0,0
+The Ox,British,3.2,Average,10,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH3 6LX,215,55.9591270000,-3.1909520000,0,0
+Teuchters Landing,"British, Scottish",3.2,Average,13,£,35,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6LU,215,55.9774694444,-3.1713583333,0,0
+The White Hart Inn,"Scottish, British",3.2,Average,12,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JU,215,55.9473000000,-3.1965250000,0,0
+The Conan Doyle (Nicholson's),"British, Scottish",3.2,Average,7,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 3JD,215,55.9565083333,-3.1877083333,0,0
+1780 Bar & Restaurant,"Scottish, British",3.2,Average,10,£,50,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 4LS,215,55.9514250000,-3.2053388889,0,0
+The Starbank Inn,"British, Contemporary",3.2,Average,8,£,35,3,Leith,"Leith, Edinburgh",Edinburgh,EH5 3BZ,215,55.9798930000,-3.2021070000,0,0
+The Potting Shed,British,3.1,Average,31,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9BT,215,55.9450416667,-3.1870833333,0,0
+Clerk's Bar,"Grill, Burger",3.1,Average,12,£,35,3,Newington,"Newington, Edinburgh",Edinburgh,EH8 9PT,215,55.9396890000,-3.1800840000,0,0
+The Other Place,"American, Scottish",3.1,Average,18,£,45,3,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH7 4EB,215,55.9627194444,-3.1964111111,0,0
+Dirty Dicks,British,3.1,Average,9,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 4LS,215,55.9515000000,-3.2049000000,0,0
+Platform 5,British,3.1,Average,8,£,35,3,Haymarket,"Haymarket, Edinburgh",Edinburgh,EH11 5DR,215,55.9462030000,-3.2184990000,0,0
+Greyfriars Bobby (Nicholson's),"British, Scottish",3.1,Average,8,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QE,215,55.9470138889,-3.1912222222,0,0
+The Brauhaus,Drinks Only,3.1,Average,6,£,25,2,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9JG,215,55.9443583333,-3.2018805556,0,0
+The Amber Rose,British,3.1,Average,5,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 4LS,215,55.9519090000,-3.2034280000,0,0
+Haymarket (Nicholson's),"British, Scottish",3.1,Average,7,£,45,3,West End,"West End, Edinburgh",Edinburgh,EH12 5DS,215,55.9462750000,-3.2163361111,0,0
+The Royal Mile Tavern,"Scottish, British",3.1,Average,7,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1SG,215,55.9502638889,-3.1868694444,0,0
+The Old Bell Inn,British,3.1,Average,7,£,45,3,Newington,"Newington, Edinburgh",Edinburgh,EH9 1PH,215,55.9348916667,-3.1791055556,0,0
+Arcade,"Scottish, British",3.0,Average,9,£,45,3,"Arcade, Old Town","Arcade, Old Town, Edinburgh",Edinburgh,EH1 1PB,215,55.9504490000,-3.1886990000,0,0
+The Royal Dick,British,3.0,Average,7,£,40,3,Newington,"Newington, Edinburgh",Edinburgh,EH9 1PL,215,55.9399620000,-3.1815890000,0,0
+Mathers Bar,Drinks Only,3.1,Average,5,£,30,3,West End,"West End, Edinburgh",Edinburgh,EH1 3JU,215,55.9503277778,-3.2084138889,0,0
+The Canons' Gait,"Scottish, British",3.0,Average,6,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8AB,215,55.9506638889,-3.1824416667,0,0
+The Blue Goose,British,3.0,Average,6,£,40,3,Craiglockhart,"Craiglockhart, Edinburgh",Edinburgh,EH14 1TG,215,55.9233138889,-3.2475972222,0,0
+Mathers Bar,British,3.0,Average,5,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 4PA,215,55.9569777778,-3.1880361111,0,0
+Finnegan's Wake,Drinks Only,3.0,Average,4,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2HE,215,55.9486361111,-3.1937388889,0,0
+The Harp & Castle,British,3.0,Average,4,£,25,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 5BU,215,55.9652972222,-3.1764833333,0,0
+Black Bull,British,3.0,Average,3,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2HY,215,55.9472000000,-3.1970222222,0,0
+Village Inn,Drinks Only,3.0,Average,2,£,20,2,Gorgie,"Gorgie, Edinburgh",Edinburgh,EH14 2ER,215,55.9251710000,-3.2554000000,0,0
+The Standing Order (JD Wetherspoon),British,2.7,Average,14,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2JR,215,55.9530944444,-3.1997527778,0,0
+McCowans,"British, Grill",2.9,Average,15,£,35,3,"Fountain Park, Fountainbridge","Fountain Park, Fountainbridge, Edinburgh",Edinburgh,EH11 1AF,215,55.9408140000,-3.2174640000,0,0
+The Slug & Lettuce,British,2.9,Average,8,£,35,3,"Omni Centre, New Town","Omni Centre, New Town, Edinburgh",Edinburgh,EH1 3BN,215,55.9563638889,-3.1863250000,0,0
+Alexander Graham Bell (JD Wetherspoon),British,2.9,Average,6,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 4JZ,215,55.9520110000,-3.2053290000,0,0
+Shakespeare,British,2.9,Average,6,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1,215,55.9475138889,-3.2063027778,0,0
+The Cuckoo's Nest,American,2.9,Average,4,£,30,3,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9JP,215,55.9422555556,-3.2036111111,0,0
+Doctors (Taylor Walker),British,2.9,Average,6,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QN,215,55.9457750000,-3.1908020000,0,0
+The Castle Arms,"Scottish, British",2.9,Average,4,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2PW,215,55.9483111111,-3.1944250000,0,0
+The Spylaw Tavern,British,2.9,Average,2,£,45,3,Colinton,"Colinton, Edinburgh",Edinburgh,EH13 0JT,215,55.9076888889,-3.2581861111,0,0
+Robin's Nest,"British, Grill",2.9,Average,3,£,35,3,Liberton,"Liberton, Edinburgh",Edinburgh,EH17 7PY,215,55.9150111111,-3.1490750000,0,0
+Ensign Ewart,"Scottish, British",2.9,Average,4,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2PE,215,55.9490666667,-3.1943333333,0,0
+The Playfair (JD Wetherspoon),British,2.9,Average,4,£,35,3,"Omni Centre, New Town","Omni Centre, New Town, Edinburgh",Edinburgh,EH1 3AJ,215,55.9563861111,-3.1862750000,0,0
+The Kilted Pig,British,2.9,Average,4,£,35,3,Craiglockhart,"Craiglockhart, Edinburgh",Edinburgh,EH14 1AL,215,55.9279888889,-3.2298250000,0,0
+Tolbooth Tavern,British,2.9,Average,6,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8BN,215,55.9513555556,-3.1800277778,0,0
+The Abbotsford Bar,Scottish,2.9,Average,4,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PR,215,55.9532730000,-3.1945890000,0,0
+Teuchters,"British, Scottish",2.9,Average,3,£,25,2,"Teuchters, West End","Teuchters, West End, Edinburgh",Edinburgh,EH3 7NH,215,55.9494700000,-3.2119890000,0,0
+Corstorphine Inn,British,2.9,Average,4,£,35,3,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH12 7SU,215,55.9406290000,-3.2834160000,0,0
+The Stockbridge Tap,British,2.8,Average,6,£,35,3,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1HN,215,55.9588166667,-3.2100083333,0,0
+Hunter's Tryst,British,2.8,Average,4,£,35,3,Colinton,"Colinton, Edinburgh",Edinburgh,EH13 9NG,215,55.9026750000,-3.2209590000,0,0
+The White Lady (JD Wetherspoon),British,2.8,Average,4,£,35,3,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH12 8AT,215,55.9428888889,-3.2826305556,0,0
+The Peartree,Drinks Only,2.8,Average,7,£,20,2,"The Counting House, Old Town","The Counting House, Old Town, Edinburgh",Edinburgh,EH8 9DB,215,55.9446666667,-3.1853527778,0,0
+Maggie Dickson's,"Scottish, British",2.8,Average,4,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JR,215,55.9477527778,-3.1949777778,0,0
+Ryrie's,British,2.8,Average,5,£,40,3,Haymarket,"Haymarket, Edinburgh",Edinburgh,EH12 5EY,215,55.9460660000,-3.2172560000,0,0
+The Guildford Arms,"Scottish, British",2.8,Average,5,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 2AA,215,55.9535722222,-3.1899694444,0,0
+Bar 50,"Finger Food, Pizza",2.8,Average,4,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1NE,215,55.9491777778,-3.1855250000,0,0
+The Merlin,British,2.7,Average,8,£,35,3,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 4PU,215,55.9292833333,-3.2097472222,0,0
+Greenmantle,British,2.7,Average,6,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9ER,215,55.9438861111,-3.1835833333,0,0
+The Mitre (Nicholson's),"British, Scottish",2.7,Average,4,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1SG,215,55.9502555556,-3.1868888889,0,0
+Barony,"Scottish, British",2.7,Average,5,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 3RJ,215,55.9583138889,-3.1913250000,0,0
+The Chanter,"Scottish, British",2.8,Average,4,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AF,215,55.9458583333,-3.2040750000,0,0
+The White Horse Bar,British,2.7,Average,4,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8AA,215,55.9506194444,-3.1835027778,0,0
+The Three Sisters,British,2.5,Average,13,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1JS,215,55.9487070000,-3.1893640000,0,0
+The Cockatoo,"European, Scottish, British",2.5,Average,4,£,40,3,Newcraighall,"Newcraighall, Edinburgh",Edinburgh,EH22 1RY,215,55.9111750000,-3.0874361111,0,0
+The Malt Shovel (Taylor Walker),"Scottish, British",2.5,Average,4,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1BP,215,55.9507500000,-3.1900750000,0,0
+The Tron,British,2.4,Poor,7,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH11QW 1QW,215,55.9498130000,-3.1880980000,0,0
+The Leith Beer Co.,British,2.4,Poor,12,£,35,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6RA,215,55.9754777778,-3.1706194444,0,0
+Milnes Bar (Taylor Walker),British,2.4,Poor,7,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PJ,215,55.9528666667,-3.1969361111,0,0
+The Granary,"British, Scottish, European",2.3,Poor,33,£,40,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6QN,215,55.9765138889,-3.1693222222,0,0
+The Advocate,"Scottish, British",0,Not rated,3,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1QW,215,55.9495360000,-3.1879090000,0,0
+Blue Blazer,Finger Food,0,Not rated,3,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9DX,215,55.9460416667,-3.2034666667,0,0
+Jake's place,British,0,Not rated,3,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1DE,215,55.9510000000,-3.1902333333,0,0
+The Black Rose Tavern,British,0,Not rated,1,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2NH,215,55.9524583333,-3.1981888889,0,0
+The Cask & Still,Finger Food,0,Not rated,2,£,30,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 5EA,215,55.9674490000,-3.1747760000,0,0
+Shandwick's,British,0,Not rated,2,£,25,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 4AW,215,55.9510472222,-3.2062388889,0,0
+The Waiting Room,British,0,Not rated,2,£,40,3,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 5HZ,215,55.9250250000,-3.2105416667,0,0
+The Grosvenor (Taylor Walker),British,0,Not rated,3,£,35,3,West End,"West End, Edinburgh",Edinburgh,EH2 4RT,215,55.9497555556,-3.2091333333,0,0
+The Ventoux,Drinks Only,0,Not rated,1,£,20,2,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9JH,215,55.9436027778,-3.2031250000,0,0
+Cask & Barrel,Drinks Only,0,Not rated,1,£,20,2,Newington,"Newington, Edinburgh",Edinburgh,EH8 9PZ,215,55.9389740000,-3.1799870000,0,0
+Rockville Hotel Restaurant,"Scottish, British",0,Not rated,2,£,35,3,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 2HF,215,55.9486805556,-3.0878222222,0,0
+Sandy Bell's,Scottish,0,Not rated,3,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QH,215,55.9460611111,-3.1909083333,0,0
+The Bailie Bar,British,0,Not rated,3,£,40,3,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 5AL,215,55.9571444444,-3.2074027778,0,0
+The Stable Bar,British,0,Not rated,2,£,45,3,Gracemount,"Gracemount, Edinburgh",Edinburgh,EH16 6TJ,215,55.9036000000,-3.1818472222,0,0
+The Sheep Heid Inn,"British, Scottish",3.7,Good,33,£,55,4,Duddingston,"Duddingston, Edinburgh",Edinburgh,EH15 3QA,215,55.9419900000,-3.1484740000,0,0
+Hemma,Swedish,3.4,Average,17,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8AE,215,55.9506305556,-3.1773388889,0,0
+Dalriada,Finger Food,2.8,Average,4,£,35,3,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 2EL,215,55.9506240000,-3.1002870000,0,0
+Jake's place,British,0,Not rated,3,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1DE,215,55.9510000000,-3.1902333333,0,0
+Blackfriars Bar,Finger Food,0,Not rated,3,£,30,3,"Blackfriars, Old Town","Blackfriars, Old Town, Edinburgh",Edinburgh,EH1 1NB,215,55.9496730000,-3.1856170000,0,0
+The Royal Ettrick Hotel Restaurant,British,0,Not rated,2,£,40,3,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH10 5BJ,215,55.9344790000,-3.2212080000,0,0
+The Pond,Drinks Only,0,Not rated,0,£,25,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 7JT,215,55.9758530000,-3.1606160000,0,0
+Iona Bar,Drinks Only,0,Not rated,0,£,20,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 8LF,215,55.9633305556,-3.1707972222,0,0
+Roseleaf Bar Cafe,"Scottish, Cafe",4.6,Excellent,68,£,45,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6EW,215,55.9766440000,-3.1736790000,0,0
+Nobles Cafe Bar & Restaurant,"Scottish, European",4.3,Very Good,51,£,35,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6RS,215,55.9748333333,-3.1671944444,0,0
+Hard Rock Cafe,American,4.2,Very Good,87,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PF,215,55.9534944444,-3.1962944444,0,0
+The Holyrood 9A,"Burger, Grill, European",4.2,Very Good,52,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8AE,215,55.9492750000,-3.1823527778,0,0
+Treacle,British,4.1,Very Good,51,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 3JU,215,55.9573277778,-3.1882833333,0,0
+The Bon Vivant,British,4.1,Very Good,39,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DY,215,55.9538222222,-3.1996805556,0,0
+The Boozy Cow,"Burger, Grill",4.0,Very Good,39,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2EY,215,55.9519740000,-3.1995690000,0,0
+Hamilton Bar & Kitchen,"Scottish, British",4.0,Very Good,43,£,65,4,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 5AU,215,55.9581638889,-3.2076083333,0,0
+Whiski Bar & Restaurant,"Scottish, British",3.9,Good,37,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1SG,215,55.9502250000,-3.1866250000,0,0
+The Devil's Advocate,Scottish,3.8,Good,30,£,50,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1ND,215,55.9499830000,-3.1911460000,0,0
+The Basement,"Mexican, Grill",3.8,Good,39,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 3RH,215,55.9571305556,-3.1879250000,0,0
+Monteiths,"Scottish, British, Steak",3.7,Good,35,£,55,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1SR,215,55.9503560000,-3.1863850000,0,0
+Indigo Yard,"British, Mediterranean",3.7,Good,38,£,50,4,West End,"West End, Edinburgh",Edinburgh,EH2 4QZ,215,55.9513890000,-3.2095450000,0,0
+Panda & Sons,Finger Food,3.7,Good,25,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 4NF,215,55.9537250000,-3.2054010000,0,0
+99 Hanover Street,Drinks Only,3.6,Good,25,£,30,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DJ,215,55.9546055556,-3.1978833333,0,0
+Villager,British,3.7,Good,20,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1EJ,215,55.9479830000,-3.1916330000,0,0
+Veritas,Italian,3.6,Good,19,£,45,3,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1LY,215,55.9580800000,-3.2094630000,0,0
+Serrano Manchego,"Spanish, Tapas",3.6,Good,33,£,30,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 8SA,215,55.9651640000,-3.1763450000,0,0
+The Cambridge Bar,"Finger Food, Burger",3.6,Good,29,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 4JB,215,55.9529027778,-3.2060583333,0,0
+Malmaison Cafe Bar,"European, Beverages",3.6,Good,22,£,55,4,"Malmaison, Leith","Malmaison, Leith, Edinburgh",Edinburgh,EH6 7DB,215,55.9777870000,-3.1683590000,0,0
+Le Di-Vin,French,3.6,Good,12,£,45,3,West End,"West End, Edinburgh",Edinburgh,EH3 7TE,215,55.9515390000,-3.2101100000,0,0
+Montpeliers,British,3.5,Good,47,£,35,3,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4DG,215,55.9360500000,-3.2091833333,0,0
+Bar Soba,"Street Food, Asian",3.5,Good,35,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DR,215,55.9544860000,-3.1980550000,0,0
+Sygn,"American, European",3.5,Good,32,£,40,3,West End,"West End, Edinburgh",Edinburgh,EH2 4QZ,215,55.9513160000,-3.2095720000,0,0
+Lebowskis,"American, Burger",3.5,Good,37,£,40,3,West End,"West End, Edinburgh",Edinburgh,EH3 8BJ,215,55.9457027778,-3.2063750000,0,0
+The Hanging Bat,American,3.5,Good,31,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AD,215,55.9456222222,-3.2055222222,0,0
+Wings,Finger Food,3.5,Good,23,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1RW,215,55.9492770000,-3.1892510000,0,0
+The City Cafe,American,3.5,Good,25,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH11QR,215,55.9492720000,-3.1878050000,0,0
+The Safari Lounge,"European, Asian, Turkish",3.5,Good,19,£,30,3,Meadowbank,"Meadowbank, Edinburgh",Edinburgh,EH7 5SN,215,55.9571916667,-3.1677083333,0,0
+The Lioness of Leith,European,3.5,Good,21,£,55,4,Leith,"Leith, Edinburgh",Edinburgh,EH6 8HH,215,55.9701840000,-3.1695680000,0,0
+Heads and Tales - The Rutland Hotel,Drinks Only,3.5,Good,14,£,30,3,West End,"West End, Edinburgh",Edinburgh,EH1 2AE,215,55.9500670000,-3.2078560000,0,0
+Pickles,Finger Food,3.5,Good,14,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 3SA,215,55.9586833333,-3.1901638889,0,0
+Paradise Palms,Street Food,3.4,Average,20,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1HB,215,55.9462910000,-3.1892200000,0,0
+Hoot The Redeemer,Drinks Only,3.4,Average,15,£,30,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2DL,215,55.9526040000,-3.1968090000,0,0
+Le Monde - Le Monde Hotel,"Brasserie, Scottish",3.4,Average,28,£,55,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PF,215,55.9535240000,-3.1960930000,0,0
+The Blackbird,"Scottish, British",3.4,Average,22,£,55,4,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9LH,215,55.9410527778,-3.2035861111,0,0
+Maxie's,"British, European, Contemporary",3.3,Average,17,£,50,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2PW,215,55.9484472222,-3.1942944444,0,0
+The World Famous Frankenstein & Bier Keller,"Scottish, British",3.4,Average,25,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1EN,215,55.9472694444,-3.1914111111,0,0
+Jekyll & Hyde,British,3.4,Average,14,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DR,215,55.9544833333,-3.1978138889,0,0
+Michael Neave Kitchen and Whisky Bar,"British, Scottish",3.4,Average,14,£,70,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1RW,215,55.9492250000,-3.1893320000,0,1
+The Beer Kitchen,British,3.3,Average,16,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AW,215,55.9466280000,-3.2057700000,0,0
+OX184,Burger,3.3,Average,20,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1JJ,215,55.9490230000,-3.1857670000,0,0
+52 Canoes Tiki Den,"Finger Food, American, Mexican",3.3,Average,16,£,35,3,West End,"West End, Edinburgh",Edinburgh,EH3 7PR,215,55.9514400000,-3.2116090000,0,0
+WestRoom,"Scottish, British",3.3,Average,19,£,40,3,West End,"West End, Edinburgh",Edinburgh,EH3 7PR,215,55.9512530000,-3.2111630000,0,0
+Palm Court - Balmoral Hotel,British,3.3,Average,12,£,50,4,"The Balmoral Hotel, New Town","The Balmoral Hotel, New Town, Edinburgh",Edinburgh,EH2 2EQ,215,55.9531111111,-3.1897027778,0,1
+Whiski Rooms,"Scottish, British",3.3,Average,22,£,55,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2LP,215,55.9499694444,-3.1935444444,0,0
+Tonic,Drinks Only,3.3,Average,10,£,30,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 3BN,215,55.9526870000,-3.2038830000,0,0
+All Bar One,British,3.3,Average,21,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PA,215,55.9536472222,-3.1971111111,0,0
+The Flying Dog,"Finger Food, American",3.3,Average,11,£,35,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6BX,215,55.9735930000,-3.1737000000,0,0
+The Mercat Bar,"Scottish, British",3.3,Average,8,£,40,3,West End,"West End, Edinburgh",Edinburgh,EH12 5DX,215,55.9471890000,-3.2158240000,0,0
+Ecco Vino,Italian,3.3,Average,24,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1BP,215,55.9506540000,-3.1905020000,0,0
+Ghillie Dhu,"Scottish, British",3.3,Average,15,£,45,3,West End,"West End, Edinburgh",Edinburgh,EH1 2AD,215,55.9499333333,-3.2082500000,0,0
+Divino Enoteca,Italian,3.3,Average,14,£,50,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QD,215,55.9474305556,-3.1918888889,0,0
+The Whistle Stop Barber Shop,Grill,3.2,Average,14,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH11LS,215,55.9473570000,-3.1859450000,0,0
+No. 8 Lister Square,British,3.2,Average,9,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9GL,215,55.9436410000,-3.1938700000,0,0
+Copper Blossom,British,3.2,Average,9,£,60,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 3ES,215,55.9529021000,-3.2022726000,0,0
+The Jolly Botanist,British,3.2,Average,15,£,45,3,West End,"West End, Edinburgh",Edinburgh,EH3 8DT,215,55.9463090000,-3.2152260000,0,0
+Cross & Corner,British,3.2,Average,12,£,30,3,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH3 5HA,215,55.9623138889,-3.1969361111,0,0
+Under the Stairs,"European, Asian",3.1,Average,18,£,60,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QD,215,55.9476560000,-3.1921270000,0,0
+56 North,American,3.2,Average,13,£,50,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9JP,215,55.9440388889,-3.1855027778,0,0
+La Petite Mort,"British, European",3.2,Average,8,£,55,4,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9LR,215,55.9416510000,-3.2023430000,0,0
+Element,"Scottish, British",3.2,Average,9,£,50,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 3JF,215,55.9521416667,-3.2008277778,0,0
+Akva,Swedish,3.2,Average,10,£,35,3,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH3 9QG,215,55.9431950000,-3.2083740000,0,0
+Boteco Do Brasil,Brazilian,3.2,Average,14,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1HB,215,55.9461960000,-3.1889350000,0,0
+Bramble Bar,Drinks Only,3.2,Average,16,£,30,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1JE,215,55.9548910000,-3.1967170000,0,0
+Ryan's Bar,"British, Cafe",3.2,Average,12,£,35,3,West End,"West End, Edinburgh",Edinburgh,EH2 4D6,215,55.9503527778,-3.2083861111,0,0
+Mother's,British,3.2,Average,9,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH3 6TG,215,55.9563390000,-3.2026710000,0,0
+The Royal McGregor,Scottish,3.2,Average,13,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1QS,215,55.9498430000,-3.1890620000,0,0
+The Last Word Saloon,Finger Food,3.2,Average,9,£,30,3,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 5AL,215,55.9577110000,-3.2068360000,0,0
+Revolution,British,3.2,Average,12,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1HU,215,55.9470944444,-3.1909750000,0,0
+The Old Chain Pier,"British, Contemporary",3.2,Average,9,£,45,3,Leith,"Leith, Edinburgh",Edinburgh,EH5 3ND,215,55.9800440000,-3.2043980000,0,0
+Belushi's Bar,"British, Burger",3.2,Average,6,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1DE,215,55.9510944444,-3.1902166667,0,0
+Cafe Renroc,"Cafe, British",3.2,Average,12,£,20,2,Broughton,"Broughton, Edinburgh",Edinburgh,EH7 5HZ,215,55.9597950000,-3.1786360000,0,0
+The Street,British,3.2,Average,6,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 3ST,215,55.9567680000,-3.1875390000,0,0
+Stac Polly - The Gin & Wine Bar,"Scottish, Brasserie",3.2,Average,7,£,35,3,"Stac Polly, New Town","Stac Polly, New Town, Edinburgh",Edinburgh,EH3 6NL,215,55.9570830000,-3.1933650000,0,0
+The Southern,"Burger, Grill, American",3.1,Average,11,£,50,4,Newington,"Newington, Edinburgh",Edinburgh,EH8 9PR,215,55.9406277778,-3.1811138889,0,0
+Candy,American,3.1,Average,15,£,45,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 4JN,215,55.9524472222,-3.2042305556,0,0
+Clouds & Soil,British,3.1,Average,8,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 3JT,215,55.9567900000,-3.1875350000,0,0
+Whigham's Wine Cellars,Seafood,3.1,Average,13,£,50,4,New Town,"New Town, Edinburgh",Edinburgh,EH3 9JR,215,55.9508520000,-3.2080000000,0,0
+Sofi's Bar,Finger Food,3.1,Average,8,£,30,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6ED,215,55.9743611111,-3.1721250000,0,0
+Beer & Skittles,Finger Food,3.1,Average,13,£,40,3,"Twelve Picardy Place, New Town","Twelve Picardy Place, New Town, Edinburgh",Edinburgh,EH1 3JJ,215,55.9574290000,-3.1872540000,0,0
+The Bow Bar,British,3.1,Average,10,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2HH,215,55.9484833333,-3.1941777778,0,0
+Angel's Share,British,3.1,Average,8,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 4EL,215,55.9507330000,-3.2079570000,0,0
+The Fiddlers Arms,"British, Scottish",3.1,Average,10,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2HY,215,55.9470833333,-3.1975500000,0,0
+The Lucky Liquor Co.,Drinks Only,3.1,Average,8,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 3NH,215,55.9542940000,-3.2015090000,0,0
+The Rat Pack Piano Bar,Drinks Only,3.1,Average,10,£,40,3,West End,"West End, Edinburgh",Edinburgh,EH2 4RG,215,55.9499555556,-3.2083083333,0,0
+The Auld Hoose,"Scottish, British",3.1,Average,7,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9QN,215,55.9434611111,-3.1800777778,0,0
+Traverse Bar Cafe,Cafe,3.1,Average,5,£,35,3,"Traverse Theatre, Old Town","Traverse Theatre, Old Town, Edinburgh",Edinburgh,EH1 2ED,215,55.9477833333,-3.2048583333,0,0
+Badabing,"Italian, American, Grill",3.0,Average,10,£,40,3,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH3 9QB,215,55.9431190000,-3.2088320000,0,0
+Salt Cafe,Cafe,3.0,Average,16,£,30,3,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 4BZ,215,55.9326840000,-3.2103970000,0,0
+Guild of Foresters,British,3.0,Average,9,£,40,3,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 1DA,215,55.9551361111,-3.1179861111,0,0
+BrewDog,Finger Food,3.0,Average,12,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1JS,215,55.9487190000,-3.1894070000,0,0
+The Voodoo Rooms,European,3.0,Average,13,£,55,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 2AA,215,55.9536861111,-3.1907111111,0,0
+The Newsroom,"British, Burger",3.0,Average,6,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 3AT,215,55.9536555556,-3.1881472222,0,0
+The Doric,Scottish,3.0,Average,9,£,50,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1DE,215,55.9509972222,-3.1906138889,0,0
+The Skylark,British,3.0,Average,7,£,35,3,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 2AW,215,55.9519750000,-3.1111270000,0,0
+Teviot Row House,British,3.0,Average,5,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH89AJ,215,55.9451300000,-3.1886430000,0,0
+Badger & Co,Finger Food,3.0,Average,4,£,0,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 3AF,215,0.0000000000,0.0000000000,0,0
+Castle of Gourmet Mash,Grill,3.0,Average,5,£,50,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2NG,215,55.9498870000,-3.1936340000,0,0
+Dragonfly,Finger Food,3.0,Average,8,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JD,215,55.9464694444,-3.1996888889,0,0
+Forth Floor Brasserie,European,3.7,Good,37,£,40,3,"Harvey Nichols, New Town","Harvey Nichols, New Town, Edinburgh",Edinburgh,EH2 2AD,215,55.9549060000,-3.1917390000,0,1
+The Honours,Scottish,3.6,Good,26,£,80,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 3LU,215,55.9536750000,-3.2040833333,0,0
+Browns,British,3.4,Average,30,£,50,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 4JS,215,55.9522630000,-3.2057370000,0,1
+North Bridge Brasserie - The Scotsman Hotel,"Scottish, British",3.4,Average,17,£,50,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1TR,215,55.9512660000,-3.1885280000,0,0
+Bread St. Brasserie - DoubleTree by Hilton Hotel Edinburgh City Centre,"European, Mediterranean",3.3,Average,9,£,45,3,"DoubleTree by Hilton Hotel Edinburgh City Centre, Old Town","DoubleTree by Hilton Hotel Edinburgh City Centre, Old Town, Edinburgh",Edinburgh,EH3 9AF,215,55.9458110000,-3.2033500000,0,0
+Malmaison Brasserie,"European, Grill",3.2,Average,10,£,65,4,"Malmaison, Leith","Malmaison, Leith, Edinburgh",Edinburgh,EH6 7DB,215,55.9777870000,-3.1683590000,0,1
+Galvin Brasserie De Luxe - Waldorf Astoria Edinburgh - The Caledonian,French,3.2,Average,9,£,70,4,Waldorf Astoria Edinburgh - The Caledonian,"Waldorf Astoria Edinburgh - The Caledonian, Edinburgh",Edinburgh,EH1 2AB,215,55.9498090000,-3.2071800000,0,0
+Stac Polly - The Gin & Wine Bar,"Scottish, Brasserie",3.2,Average,7,£,35,3,"Stac Polly, New Town","Stac Polly, New Town, Edinburgh",Edinburgh,EH3 6NL,215,55.9570830000,-3.1933650000,0,0
+Bisque Brasserie,"Scottish, British, Grill",3.0,Average,3,£,35,3,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4HH,215,55.9379550000,-3.2060180000,0,0
+The Museum Brasserie,British,2.9,Average,8,£,30,3,"National Museum of Scotland, Old Town","National Museum of Scotland, Old Town, Edinburgh",Edinburgh,EH1 1JF,215,55.9469150000,-3.1904180000,0,0
+Shackleton's Bar & Brasserie,British,0,Not rated,1,£,45,3,"Channings Hotel, Stockbridge","Channings Hotel, Stockbridge, Edinburgh",Edinburgh,EH4 1EZ,215,55.9562050000,-3.2194190000,0,0
+Brasserie Les Amis,"French, Deli",0,Not rated,2,£,50,4,West End,"West End, Edinburgh",Edinburgh,EH3 8BU,215,55.9457490000,-3.2094680000,0,0
+The Raeburn Restaurant,British,0,Not rated,3,£,50,4,"The Raeburn, Stockbridge","The Raeburn, Stockbridge, Edinburgh",Edinburgh,EH4 1HG,215,55.9595330000,-3.2147490000,0,0
+Metro Bar & Brasserie- Apex Grassmarket Hotel,British,0,Not rated,3,£,60,4,"Apex International Hotel, Old Town","Apex International Hotel, Old Town, Edinburgh",Edinburgh,EH1 2HS,215,55.9474610000,-3.1953060000,0,0
+Princes Dining Rooms,"British, Brasserie",0,Not rated,3,£,50,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 2DG,215,55.9529880000,-3.1944750000,0,0
+Roseleaf Bar Cafe,"Scottish, Cafe",4.6,Excellent,68,£,45,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6EW,215,55.9766440000,-3.1736790000,0,0
+Mimi's Bakehouse,"Cafe, Bakery, Desserts",4.5,Excellent,73,£,35,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6RA,215,55.9750972222,-3.1713277778,0,0
+Edinburgh Larder Cafe,"Cafe, British",4.4,Very Good,52,£,55,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1NB,215,55.9500120000,-3.1860060000,0,0
+Dishoom Edinburgh,"Cafe, Indian",4.2,Very Good,45,£,0,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 2BD,215,55.9537170000,-3.1925700000,0,0
+Love Crumbs,"Bakery, Cafe",4.1,Very Good,57,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9DP,215,55.9459500000,-3.2016833333,0,0
+Hula Juice Bar & Gallery,"Juices, Cafe",3.9,Good,59,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JP,215,55.9481160000,-3.1946840000,0,0
+Urban Angel,Cafe,4.2,Very Good,89,£,35,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DJ,215,55.9546694444,-3.1980083333,0,0
+Porto & Fi,Cafe,4.0,Very Good,27,£,35,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 4NQ,215,55.9801760000,-3.1977760000,0,0
+Cairngorm Coffee Co.,Cafe,4.0,Very Good,32,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 1EP,215,55.9536890000,-3.2003300000,0,0
+Loudons Cafe & Bakery,"Cafe, Bakery",3.9,Good,67,£,30,3,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,,215,0.0000000000,0.0000000000,0,0
+Artisan Roast,"Cafe, Coffee and Tea",3.9,Good,42,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH1 3RJ,215,55.9579277778,-3.1888805556,0,0
+Fortitude Coffee Merchants,Cafe,3.9,Good,22,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH1 3EB,215,55.9560310000,-3.1916950000,0,0
+The Water of Leith Cafe Bistro,"French, Cafe",3.9,Good,18,£,30,3,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH3 5JP,215,55.9629990000,-3.2005880000,0,0
+The Elephant House,Cafe,3.8,Good,79,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1EN,215,55.9475555556,-3.1917805556,0,0
+Mademoiselle Macaron,"Cafe, Desserts",3.8,Good,24,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AP,215,55.9469030000,-3.2050920000,0,0
+Wellington Coffee,"Cafe, Coffee and Tea",3.8,Good,36,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 2HN,215,55.9534530000,-3.1974750000,0,0
+Peter's Yard,"Cafe, Bakery, Swedish",3.8,Good,45,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9GG,215,55.9436027778,-3.1911555556,0,0
+Kilimanjaro,Cafe,3.8,Good,22,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9EJ,215,55.9445860000,-3.1836350000,0,0
+Di Giorgio,"Cafe, Italian",3.8,Good,44,£,20,2,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH3 5AE,215,55.9622027778,-3.1996333333,0,0
+Union Of Genius,Cafe,3.8,Good,22,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QN,215,55.9463388889,-3.1912361111,0,0
+Falko,"Cafe, Bakery, German",3.8,Good,21,£,15,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4DG,215,55.9357620000,-3.2095690000,0,0
+Dovecot Cafe by Stag Espresso,Cafe,3.8,Good,22,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1LT,215,55.9485630000,-3.1850940000,0,0
+Papii,"Cafe, Greek",3.7,Good,32,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DJ,215,55.9544555556,-3.1980194444,0,0
+Fredericks Coffee House,Cafe,3.7,Good,25,£,25,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 2JR,215,55.9526370000,-3.2003750000,0,0
+The Blue Bear,Cafe,3.7,Good,26,£,20,2,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH3 5EA,215,55.9622777778,-3.2000444444,0,0
+Word of Mouth Cafe,Cafe,3.7,Good,14,£,20,2,Leith,"Leith, Edinburgh",Edinburgh,EH7 5HL,215,55.9625694444,-3.1786777778,0,0
+The Treehouse,Cafe,3.6,Good,14,£,20,2,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9LJ,215,55.9410138889,-3.2034083333,0,0
+Brew Lab,Cafe,3.6,Good,40,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9AA,215,55.9469820000,-3.1867760000,0,0
+Cafe Rouge,"French, Cafe",3.6,Good,32,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 1EP,215,55.9535527778,-3.2003305556,0,1
+Tani Modi,"Deli, Cafe",3.6,Good,12,£,20,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DJ,215,55.9545138889,-3.1975694444,0,0
+The Caffeine Drip,"Cafe, African",3.5,Good,21,£,25,2,West End,"West End, Edinburgh",Edinburgh,EH3 7PR,215,55.9516870000,-3.2112300000,0,0
+Patisserie Valerie,"Cafe, Desserts, Bakery",3.5,Good,22,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1EN,215,55.9475222222,-3.1914666667,0,0
+The Chocolate Tree,"Desserts, Cafe",3.5,Good,16,£,15,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4EQ,215,55.9368972222,-3.2075750000,0,0
+Castello Coffee Co.,Cafe,3.5,Good,21,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 3AH,215,55.9512444444,-3.2028027778,0,0
+Coffee Angel,Cafe,3.5,Good,28,£,15,2,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH3 5DZ,215,55.9618388889,-3.2014416667,0,0
+Cuckoo's Bakery,"Bakery, Cafe, Desserts",3.5,Good,20,£,20,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 5DQ,215,55.9601361111,-3.2007361111,0,0
+Earthy Causewayside,"Cafe, Deli",3.5,Good,21,£,25,2,Newington,"Newington, Edinburgh",Edinburgh,EH9 1SX,215,55.9346470000,-3.1786140000,0,0
+Cafe Truva,"Turkish, Cafe",3.5,Good,11,£,25,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 6RG,215,55.9737333333,-3.1763194444,0,0
+Embo,"Cafe, Deli",3.5,Good,7,£,15,2,Broughton,"Broughton, Edinburgh",Edinburgh,EH7 4AG,215,55.9605222222,-3.1818638889,0,0
+Cafe Montagu,Cafe,3.5,Good,4,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH3 5QX,215,55.9704583333,-3.2082250000,0,0
+Leo's Beanery,Cafe,3.4,Average,21,£,25,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 6TF,215,55.9564944444,-3.2021027778,0,0
+Broughton Delicatessen & Cafe,"Cafe, Deli",3.4,Average,12,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 6PD,215,55.9583361111,-3.1901750000,0,0
+Machina Espresso,Cafe,3.4,Average,13,£,20,2,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9HW,215,55.9429380000,-3.2012790000,0,0
+Peter's Yard,"Cafe, Bakery, Swedish",3.4,Average,20,£,20,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1LU,215,55.9581333333,-3.2093777778,0,0
+Milk,Cafe,3.4,Average,18,£,20,2,West End,"West End, Edinburgh",Edinburgh,EH3 8EA,215,55.9460638889,-3.2139555556,0,0
+Saint Giles Cafe Bar,Cafe,3.4,Average,15,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1PT,215,55.9496194444,-3.1921555556,0,0
+Caffe Centro,"Italian, Cafe",3.4,Average,15,£,25,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 2LE,215,55.9533000000,-3.1978250000,0,0
+Aroma Coffee Bar,Cafe,3.4,Average,13,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1LL,215,55.9479333333,-3.1863777778,0,0
+Filmhouse Cafe Bar,Cafe,3.4,Average,13,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9BZ,215,55.9461972222,-3.2052722222,0,0
+Le Marche Francais,"French, Cafe, Bakery",3.4,Average,11,£,25,2,West End,"West End, Edinburgh",Edinburgh,EH12 5DS,215,55.9467583333,-3.2160222222,0,0
+Cafe Artista,"Cafe, Deli",3.4,Average,6,£,20,2,Marchmont,"Marchmont, Edinburgh",Edinburgh,EH9 1HD,215,55.9362580000,-3.1941070000,0,0
+The Purple Pig Cafe,Cafe,3.4,Average,8,£,20,2,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9LG,215,55.9416166667,-3.2032138889,0,0
+Patisserie Valerie,"Cafe, Desserts, Bakery",3.3,Average,18,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1SB,215,55.9504500000,-3.1877944444,0,0
+Patisserie Maxime,"Bakery, Desserts, Cafe",3.3,Average,18,£,25,2,West End,"West End, Edinburgh",Edinburgh,EH2 4PA,215,55.9505450000,-3.2090840000,0,0
+Black Medicine Coffee Co.,Cafe,3.3,Average,31,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9DH,215,55.9471500000,-3.1858990000,0,0
+Piecebox,Cafe,3.3,Average,18,£,25,2,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH11 1HW,215,55.9376944444,-3.2165027778,0,0
+Elephants and Bagels,"Deli, Cafe",3.3,Average,22,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9BJ,215,55.9455550000,-3.1848740000,0,0
+Henderson's Deli,"Deli, Cafe, Healthy Food",3.3,Average,13,£,30,3,"Henderson's, New Town","Henderson's, New Town, Edinburgh",Edinburgh,EH2 1DR,215,55.9542700000,-3.1980010000,0,0
+Project Coffee,Cafe,3.3,Average,13,£,18,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4DF,215,55.9361330000,-3.2096260000,0,0
+The Milkman,"Cafe, Coffee and Tea",3.3,Average,10,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1BP,215,55.9506990000,-3.1909790000,0,0
+Clarinda's Tearoom,"Cafe, Bakery",3.3,Average,12,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8BS,215,55.9520138889,-3.1770972222,0,0
+Qupi Cafe,"Cafe, Greek, Healthy Food",3.3,Average,13,£,20,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 8NR,215,55.9676027778,-3.1745500000,0,0
+The Roamin Nose,Cafe,3.3,Average,9,£,30,3,New Town,"New Town, Edinburgh",Edinburgh,EH3 5EP,215,55.9607777778,-3.1995138889,0,0
+Zebra Coffee Co.,Cafe,3.3,Average,10,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2LN,215,55.9498277778,-3.1928694444,0,0
+Cafe Braw,"Cafe, Deli",3.3,Average,6,£,12,1,West End,"West End, Edinburgh",Edinburgh,EH4 3BR,215,55.9513290000,-3.2192430000,0,0
+Cafe Plum,Cafe,3.3,Average,7,£,15,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1BH,215,55.9592972222,-3.2136527778,0,0
+Caffeine,Cafe,3.3,Average,6,£,20,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 5DQ,215,55.9603361111,-3.2007416667,0,0
+PekoeTea,"Cafe, Coffee and Tea",3.3,Average,4,£,10,1,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9LJ,215,55.9416900000,-3.2034190000,0,0
+The Square,"Cafe, Deli",3.2,Average,9,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 1HJ,215,55.9557222222,-3.1927638889,0,0
+Café Portrait,Cafe,3.2,Average,10,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 1JD,215,55.9555070000,-3.1937200000,0,0
+Cafe Nom De Plume,Cafe,3.2,Average,12,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH1 3SA,215,55.9587670000,-3.1904020000,0,0
+Casa Angelina,"Cafe, Bakery, Desserts",3.2,Average,14,£,20,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 6LX,215,55.9591527778,-3.1912722222,0,0
+Mimi's Picnic Parlour,"Desserts, Bakery, Cafe",3.2,Average,10,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH88AA,215,55.9507611111,-3.1833138889,0,0
+The Deacon's House,"Cafe, British",3.2,Average,12,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2PS,215,55.9493416667,-3.1932833333,0,0
+Pep & Fodder,"Cafe, Healthy Food",3.2,Average,9,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH1 3BG,215,55.9536210000,-3.1878840000,0,0
+Snax Cafe,Cafe,3.2,Average,14,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 2AA,215,55.9537416667,-3.1906305556,0,0
+The Hideout Cafe,Cafe,3.2,Average,8,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 6AT,215,55.9737920000,-3.1689690000,0,0
+Millers Sandwich Bar,"Cafe, Deli",3.2,Average,6,£,15,2,Newington,"Newington, Edinburgh",Edinburgh,EH8 9LY,215,55.9408240000,-3.1812080000,0,0
+Bite Me!,Cafe,3.1,Average,7,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH3 8AG,215,55.9463527778,-3.2128416667,0,0
+Cafe Renroc,"Cafe, British",3.2,Average,12,£,20,2,Broughton,"Broughton, Edinburgh",Edinburgh,EH7 5HZ,215,55.9597950000,-3.1786360000,0,0
+Coffee Mavi,Cafe,3.2,Average,6,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9BH,215,55.9457694444,-3.2024888889,0,0
+Bonnington's Eaterie,"Cafe, Deli",3.2,Average,3,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9JQ,215,55.9419527778,-3.1806388889,0,0
+Annabelle's,Cafe,3.2,Average,3,£,15,2,Marchmont,"Marchmont, Edinburgh",Edinburgh,EH9 1NX,215,55.9381750000,-3.1858540000,0,0
+Just the Ticket,"Cafe, Deli",3.2,Average,3,£,15,2,Meadowbank,"Meadowbank, Edinburgh",Edinburgh,EH7 5DJ,215,55.9565416667,-3.1718027778,0,0
+Maxi's Cafe,Cafe,3.1,Average,20,£,20,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1HX,215,55.9591333333,-3.2118722222,0,0
+Cafe Luca,"Cafe, Desserts",3.1,Average,10,£,20,2,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 4DB,215,55.9337166667,-3.2103583333,0,0
+Southern Cross Cafe,Cafe,3.1,Average,15,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1BS,215,55.9506060000,-3.1886650000,0,0
+Filament Coffee,"Cafe, Coffee and Tea",3.1,Average,7,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9HX,215,55.9425263000,-3.1825694000,0,0
+La Barantine,"Bakery, French, Cafe, Desserts",3.1,Average,6,£,20,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4DF,215,55.9358361111,-3.2096500000,0,0
+Peppers,Cafe,3.1,Average,12,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9DS,215,55.9461055556,-3.2010027778,0,0
+Fountain Cafe,Cafe,3.1,Average,11,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH3 8AP,215,55.9464390000,-3.2169510000,0,0
+Pret A Manger,Cafe,3.1,Average,9,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PJ,215,55.9531340000,-3.1966800000,0,0
+Henri,Cafe,3.1,Average,8,£,20,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,RH4 1HN,215,55.9585888889,-3.2125388889,0,0
+Anteaques,Cafe,3.2,Average,13,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9JH,215,55.9427200000,-3.1829300000,0,0
+Circus Cafe Bistro,"Cafe, British",3.2,Average,6,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1SU,215,55.9504670000,-3.1835950000,0,0
+The Wee Boulangerie,"Cafe, Bakery",3.1,Average,8,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9JG,215,55.9416194444,-3.1813194444,0,0
+La Cerise,"Cafe, Bakery, Desserts",3.1,Average,8,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 5LQ,215,55.9736944444,-3.1771750000,0,0
+Brass & Copper,Cafe,3.1,Average,5,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH3 7NH,215,55.9495120000,-3.2121520000,0,0
+Sprio & Co,"Italian, Cafe",3.1,Average,7,£,15,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 5AB,215,55.9578805556,-3.2067055556,0,0
+Relish Cafe Deli,"Cafe, Deli",3.1,Average,7,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 6JA,215,55.9763861111,-3.1708888889,0,0
+Tani Modi,"Deli, Cafe",3.6,Good,12,£,20,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DJ,215,55.9545138889,-3.1975694444,0,0
+Earthy Causewayside,"Cafe, Deli",3.5,Good,21,£,25,2,Newington,"Newington, Edinburgh",Edinburgh,EH9 1SX,215,55.9346470000,-3.1786140000,0,0
+Embo,"Cafe, Deli",3.5,Good,7,£,15,2,Broughton,"Broughton, Edinburgh",Edinburgh,EH7 4AG,215,55.9605222222,-3.1818638889,0,0
+Broughton Delicatessen & Cafe,"Cafe, Deli",3.4,Average,12,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 6PD,215,55.9583361111,-3.1901750000,0,0
+Elephants and Bagels,"Deli, Cafe",3.3,Average,22,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9BJ,215,55.9455550000,-3.1848740000,0,0
+Henderson's Deli,"Deli, Cafe, Healthy Food",3.3,Average,13,£,30,3,"Henderson's, New Town","Henderson's, New Town, Edinburgh",Edinburgh,EH2 1DR,215,55.9542700000,-3.1980010000,0,0
+Cafe Braw,"Cafe, Deli",3.3,Average,6,£,12,1,West End,"West End, Edinburgh",Edinburgh,EH4 3BR,215,55.9513290000,-3.2192430000,0,0
+The Square,"Cafe, Deli",3.2,Average,9,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 1HJ,215,55.9557222222,-3.1927638889,0,0
+Polentoni,"Italian, Deli, Bakery",3.2,Average,7,£,25,2,Leith,"Leith, Edinburgh",Edinburgh,EH7 5RG,215,55.9583970000,-3.1716670000,0,0
+Millers Sandwich Bar,"Cafe, Deli",3.2,Average,6,£,15,2,Newington,"Newington, Edinburgh",Edinburgh,EH8 9LY,215,55.9408240000,-3.1812080000,0,0
+Just the Ticket,"Cafe, Deli",3.2,Average,3,£,15,2,Meadowbank,"Meadowbank, Edinburgh",Edinburgh,EH7 5DJ,215,55.9565416667,-3.1718027778,0,0
+Graze On Grassmarket,Deli,3.1,Average,9,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2HJ,215,55.9475230000,-3.1950590000,0,0
+Shore Deli Co.,"Deli, Cafe",3.1,Average,7,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 6RA,215,55.9757111111,-3.1706166667,0,0
+Relish Cafe Deli,"Cafe, Deli",3.1,Average,7,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 6JA,215,55.9763861111,-3.1708888889,0,0
+Maialino,"Cafe, Deli",3.1,Average,2,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH3 7LJ,215,55.9487640000,-3.2137390000,0,0
+Goya 23,"Spanish, Deli",2.9,Average,4,£,15,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 6TP,215,55.9573690000,-3.2073450000,0,0
+Victor Hugo Delicatessen,"Deli, Cafe",2.9,Average,5,£,20,2,Marchmont,"Marchmont, Edinburgh",Edinburgh,EH9 1LP,215,55.9393740000,-3.1871730000,0,0
+The Richmond Cafe,"Cafe, Deli",2.9,Average,8,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9DZ,215,55.9458805556,-3.1818500000,0,0
+Gaia Italian Deli,"Italian, Deli",2.9,Average,5,£,20,2,Leith,"Leith, Edinburgh",Edinburgh,EH7 4NY,215,55.9636694444,-3.1778472222,0,0
+Cafe No. 33,"Deli, Cafe",2.9,Average,6,£,15,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1LR,215,55.9587680000,-3.2097970000,0,0
+Crolla's,"Deli, Cafe",2.9,Average,6,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 4HR,215,55.9529944444,-3.2071388889,0,0
+Baget Stuffed,Deli,2.9,Average,5,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9BZ,215,55.9455580000,-3.1848980000,0,0
+Wolfits,"Deli, Cafe",2.8,Average,4,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 4AZ,215,55.9513583333,-3.2050444444,0,0
+Herbie West End,"Deli, Bakery",2.8,Average,4,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH3 7NG,215,55.9497570000,-3.2122090000,0,0
+Dimitri's,"Deli, Cafe",2.7,Average,4,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH12 5EA,215,55.9466222222,-3.2163583333,0,0
+Pronto,"Italian, Cafe, Deli",2.7,Average,3,£,25,2,West End,"West End, Edinburgh",Edinburgh,EH3 8BJ,215,55.9457277778,-3.2069222222,0,0
+Ola Kala,"Greek, Deli",2.6,Average,7,£,20,2,West End,"West End, Edinburgh",Edinburgh,EH3 8EA,215,55.9461910000,-3.2154990000,0,0
+Rocket,"Cafe, Deli",2.6,Average,4,£,10,1,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 4DR,215,55.9321472222,-3.2100777778,0,0
+Philpotts,Deli,2.6,Average,5,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9BG,215,55.9453611111,-3.2053333333,0,0
+New Town Deli,Deli,2.6,Average,4,£,20,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 5DH,215,55.9604638889,-3.2021194444,0,0
+Laura's Kitchen,"Deli, Cafe",2.6,Average,5,£,10,1,West End,"West End, Edinburgh",Edinburgh,EH3 7LW,215,55.9488070000,-3.2136260000,0,0
+Glass & Thompson,"Deli, Cafe",2.6,Average,4,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 6HZ,215,55.9561388889,-3.1985888889,0,0
+Lime,"Deli, Cafe",2.6,Average,2,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DX,215,55.9542200000,-3.1981690000,0,0
+Earthy Canonmills,"Deli, British, Cafe",2.5,Average,26,£,30,3,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH3 5HA,215,55.9628130000,-3.1998660000,0,0
+Karine,"Cafe, Deli, Coffee and Tea",0,Not rated,3,£,15,2,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 5HX,215,55.9261760000,-3.2093990000,0,0
+Alexanders,Deli,0,Not rated,3,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9DP,215,55.9460950000,-3.2016410000,0,0
+Brasserie Les Amis,"French, Deli",0,Not rated,2,£,50,4,West End,"West End, Edinburgh",Edinburgh,EH3 8BU,215,55.9457490000,-3.2094680000,0,0
+Henderson's Holyrood,"Deli, Cafe",0,Not rated,1,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8AU,215,55.9504450000,-3.1779280000,0,0
+181 Delicatessen,"Deli, Cafe",0,Not rated,3,£,15,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4DG,215,55.9356020000,-3.2098250000,0,0
+Vigo Deli,"Deli, Cafe",0,Not rated,2,£,15,2,Murrayfield,"Murrayfield, Edinburgh",Edinburgh,EH12 6AW,215,55.9456333333,-3.2340888889,0,0
+Quick & Plenty Cafe,"Cafe, Deli",0,Not rated,3,£,10,1,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9LH,215,55.9412527778,-3.2035083333,0,0
+Bagel Factory,Deli,0,Not rated,3,£,10,1,"Waverley Station, New Town","Waverley Station, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9520350000,-3.1899010000,0,0
+Sugarhouse Sandwiches,Deli,0,Not rated,3,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8DD,215,55.9514583333,-3.1799861111,0,0
+Cafe Panino,"Cafe, Deli",0,Not rated,2,£,15,2,West End,"West End, Edinburgh",Edinburgh,E2H 4PH,215,55.9505250000,-3.2094110000,0,0
+Lezzetli,"Cafe, Deli",0,Not rated,2,£,15,2,Haymarket,"Haymarket, Edinburgh",Edinburgh,EH12 5HT,215,55.9457083333,-3.2220500000,0,0
+Dicle Cafe,"Cafe, Deli, Turkish",0,Not rated,1,£,15,2,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH7 4DX,215,55.9621500000,-3.1951520000,0,0
+Pinocchio,"Cafe, Deli",0,Not rated,2,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH2 4QS,215,55.9507333333,-3.2095888889,0,0
+D'espresso Bistro,"Deli, Italian",0,Not rated,1,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH3 8EG,215,55.9474350000,-3.2113750000,0,0
+Fresco,"Cafe, Deli",0,Not rated,2,£,15,2,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 4DA,215,55.9333920000,-3.2102810000,0,0
+Coletti & Co.,"Cafe, Deli",0,Not rated,0,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2DJ,215,55.9480270000,-3.2059220000,0,0
+New Town Deli,"Cafe, Deli",0,Not rated,2,£,20,2,New Town,"New Town, Edinburgh",Edinburgh,EH1 3SA,215,55.9583888889,-3.1897416667,0,0
+Demarco's Deli,"Cafe, Deli",0,Not rated,1,£,15,2,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 1EU,215,55.9528361111,-3.1139638889,0,0
+Take It Away Spud,"Deli, British",0,Not rated,1,£,15,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 6TP,215,55.9574055556,-3.2074861111,0,0
+Number 1 Sandwich Bar,Deli,0,Not rated,0,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 6PW,215,55.9754820000,-3.1673310000,0,0
+Fresh Cut Sandwich and Salad Bar,Deli,0,Not rated,2,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2DJ,215,55.9478750000,-3.2062694444,0,0
+Smith's Deli,"Deli, Cafe",0,Not rated,2,£,15,2,Newington,"Newington, Edinburgh",Edinburgh,EH93AA,215,55.9303583333,-3.1761361111,0,0
+Loaded Sandwich Bar,Deli,0,Not rated,3,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 6PR,215,55.9762277778,-3.1693916667,0,0
+Armstrong's Deli,"Deli, Cafe",0,Not rated,2,£,10,1,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH3 9QG,215,55.9439960000,-3.2067740000,0,0
+Street Bar,Deli,0,Not rated,2,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 8AN,215,55.9468305556,-3.2083166667,0,0
+Rudi's,Deli,0,Not rated,1,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QN,215,55.9457960000,-3.1908150000,0,0
+Rapid Rolls,Deli,0,Not rated,0,£,10,1,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH3 9PU,215,55.9440080000,-3.2067850000,0,0
+The Sandwich Shop,Deli,0,Not rated,0,£,10,1,Newington,"Newington, Edinburgh",Edinburgh,EH16,215,55.9390444444,-3.1741888889,0,0
+Crusts Sandwich Bar,Deli,0,Not rated,0,£,10,1,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH39QG,215,55.9438100000,-3.2069320000,0,0
+Picnics,Deli,0,Not rated,1,£,10,1,Newington,"Newington, Edinburgh",Edinburgh,EH9 1QW,215,55.9378800000,-3.1783560000,0,0
+The Deli Global,"Deli, Cafe",0,Not rated,2,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH11EJ,215,55.9480440000,-3.1917630000,0,0
+Lime,"Deli, Cafe",0,Not rated,1,£,10,1,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH111BP,215,55.9401940000,-3.2188310000,0,0
+"Breakfast, Brunch & Lunch","Cafe, Deli, Scottish",0,Not rated,1,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9RU,215,55.9473583333,-3.1818805556,0,0
+Bobby's Sandwich Bar,Deli,0,Not rated,1,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QQ,215,55.9466166667,-3.1909000000,0,0
+Deli 194,"Deli, Cafe",0,Not rated,1,£,15,2,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 1EX,215,55.9528310000,-3.1133490000,0,0
+Grange Takeaway,Deli,0,Not rated,1,£,10,1,Newington,"Newington, Edinburgh",Edinburgh,EH9 1PW,215,55.9373444444,-3.1807916667,0,0
+Wee Coffee Bar,"Cafe, Deli",0,Not rated,1,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH3 8BX,215,55.9459944444,-3.2097916667,0,0
+Lezzetli,"Cafe, Deli",0,Not rated,1,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 5DQ,215,55.9604800000,-3.2010800000,0,0
+Ravenous Sandwich Bar,"Deli, Cafe",0,Not rated,0,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 6TN,215,55.9576388889,-3.1994888889,0,0
+Dundas Deli,Deli,0,Not rated,1,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 5DQ,215,55.9604480000,-3.2011630000,0,0
+Mr Hot Potato,"Deli, British",0,Not rated,1,£,15,2,Meadowbank,"Meadowbank, Edinburgh",Edinburgh,EH8 7AD,215,55.9550250000,-3.1503222222,0,0
+Thistle Sandwich Bar,Deli,0,Not rated,0,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 1DY,215,55.9538500000,-3.2000500000,0,0
+On A Roll,Deli,0,Not rated,0,£,15,2,Newington,"Newington, Edinburgh",Edinburgh,EH1 1HN,215,55.9296750000,-3.1605166667,0,0
+Sandwich Express,"Deli, Polish",0,Not rated,0,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH7 5HN,215,55.9622083333,-3.1800833333,0,0
+Simply Sandwiches,"Cafe, Deli",0,Not rated,2,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2DJ,215,55.9476916667,-3.2064083333,0,0
+Deli Fresco,"Deli, Cafe",0,Not rated,1,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH1 3AT,215,55.9549055556,-3.1875111111,0,0
+The Yellow Deli,"Cafe, Deli",0,Not rated,0,£,20,2,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9JT,215,55.9428830000,-3.2018510000,0,0
+Derricks Takeaway,Deli,0,Not rated,1,£,10,1,Leith,"Leith, Edinburgh",Edinburgh,EH6 6LA,215,55.9777944444,-3.1797444444,0,0
+Bonnington Brunch,"Cafe, Deli",0,Not rated,0,£,20,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 5BE,215,55.9691388889,-3.1844222222,0,0
+Finnegans Sandwich Bar,Deli,0,Not rated,0,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH3 5DQ,215,55.9599222222,-3.2003138889,0,0
+LB's Takeaway,Deli,0,Not rated,0,£,15,2,Broughton,"Broughton, Edinburgh",Edinburgh,EH5 7HR,215,55.9609690000,-3.1805730000,0,0
+No. 63 Deli & Takeaway,"Deli, Cafe",0,Not rated,0,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH12DJ,215,55.9475690000,-3.2060660000,0,0
+Mel Boy's,Deli,0,Not rated,0,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9DS,215,55.9462597000,-3.2015704000,0,0
+Stockbridge Kitchen,"Cafe, Deli",0,Not rated,0,£,20,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 6SY,215,55.9577100000,-3.2077470000,0,0
+Salut,Deli,0,Not rated,0,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2RB,215,55.9456000000,-3.1902140000,0,0
+Sandwich Culture,Deli,0,Not rated,0,£,15,2,Haymarket,"Haymarket, Edinburgh",Edinburgh,EH12 5JZ,215,55.9456055556,-3.2201750000,0,0
+Blueberry Blue,"Cafe, Deli",0,Not rated,0,£,10,1,Gorgie,"Gorgie, Edinburgh",Edinburgh,EH11 3LE,215,55.9303020000,-3.2555340000,0,0
+Sweet Service,"Deli, Cafe",0,Not rated,0,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 4NF,215,55.9532611111,-3.2065638889,0,0
+Jill's Deli,Deli,0,Not rated,0,£,15,2,Drumbrae,"Drumbrae, Edinburgh",Edinburgh,EH4 7NT,215,55.9596027778,-3.2888583333,0,0
+Deli Di Rollo,"Deli, Ice Cream",0,Not rated,0,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9JR,215,55.9433800000,-3.1847450000,0,0
+Daneli's Deli,Deli,0,Not rated,0,£,20,2,West End,"West End, Edinburgh",Edinburgh,EH2 4QS,215,55.9509694444,-3.2098666667,0,0
+The Rite Bite,"Deli, Cafe",0,Not rated,0,£,10,1,Gorgie,"Gorgie, Edinburgh",Edinburgh,EH11 3AL,215,55.9309490000,-3.2537890000,0,0
+Nice One! Sandwich & Snack Bar,Deli,0,Not rated,0,£,15,2,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9JG,215,55.9442360000,-3.2020240000,0,0
+Oink,British,4.7,Excellent,91,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JW,215,55.9486472222,-3.1939916667,0,0
+Los Cardos,Mexican,4.6,Excellent,50,£,20,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 8PD,215,55.9655277778,-3.1764500000,0,0
+Supper Bowl,"Fast Food, Pizza, Fish and Chips",4.0,Very Good,33,£,20,2,Gilmerton,"Gilmerton, Edinburgh",Edinburgh,EH17 8QH,215,55.9057520000,-3.1334990000,0,0
+The Baked Potato Shop,Fast Food,3.7,Good,28,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1BP,215,55.9505940000,-3.1906730000,0,0
+The Piemaker,Bakery,3.6,Good,21,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1LL,215,55.9483944444,-3.1867083333,0,0
+Dough,Pizza,3.3,Average,10,£,25,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 4BA,215,55.9514352000,-3.2043411000,0,0
+Palm Court - Balmoral Hotel,British,3.3,Average,12,£,50,4,"The Balmoral Hotel, New Town","The Balmoral Hotel, New Town, Edinburgh",Edinburgh,EH2 2EQ,215,55.9531111111,-3.1897027778,0,1
+Taco Mazama,Mexican,3.3,Average,16,£,20,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 2DR,215,55.9530710000,-3.1975990000,0,0
+Auld Jock's Pie Shoppe,British,3.3,Average,12,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2HH,215,55.9479416667,-3.1941944444,0,0
+Zucca Café & Restaurant,"Italian, Cafe",3.3,Average,8,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AX,215,55.9468805556,-3.2048194444,0,0
+Efes,Fast Food,3.3,Average,3,£,20,2,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9LJ,215,55.9410250000,-3.2035555556,0,0
+Maki & Ramen Sushi Bar,"Sushi, Ramen, Japanese",3.2,Average,14,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9EF,215,55.9453670000,-3.1835380000,0,0
+Taquito,"Fast Food, Mexican",3.2,Average,8,£,10,1,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9LZ,215,55.9429070000,-3.2038400000,0,0
+Meltmongers,American,3.2,Average,7,£,20,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,,215,55.9376515663,-3.2062911721,0,0
+The Filling Place,Cafe,3.2,Average,3,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH7 5RQ,215,55.9586830000,-3.1715880000,0,0
+Five Guys,"Burger, Fast Food, American",3.1,Average,11,£,25,2,Newcraighall,"Newcraighall, Edinburgh",Edinburgh,EH15 3RD,215,55.9356840000,-3.1026820000,0,0
+St Andrews,Fast Food,3.1,Average,3,£,20,2,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 2AT,215,55.9517055556,-3.1098722222,0,0
+El Toro Loco,"Mexican, Street Food",3.2,Average,10,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JU,215,55.9476795000,-3.1948923000,0,0
+Pinto,Mexican,3.0,Average,11,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH2 4RN,215,55.9500860000,-3.2087190000,0,0
+Flip!,Healthy Food,3.0,Average,10,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9JB,215,55.9420055556,-3.1820166667,0,0
+Uncle's Fish & Chips,Fast Food,3.0,Average,10,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1EJ,215,55.9480420000,-3.1917570000,0,0
+Illegal Jacks,"Tex-Mex, Mexican, American",3.0,Average,4,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9ET,215,55.9433660000,-3.1841965000,0,0
+Oink,British,3.0,Average,9,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH88BZ,215,55.9520944444,-3.1770250000,0,0
+Latitude Coffee Co,Cafe,3.0,Average,8,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 3DT,215,55.9520890000,-3.2015020000,0,0
+Clamshell,Fast Food,3.0,Average,5,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1QS,215,55.9498250000,-3.1912300000,0,0
+Marmaris,Fast Food,3.0,Average,4,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9JH,215,55.9422000000,-3.1823555556,0,0
+Tasty Noodle,Chinese,2.9,Average,10,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9LP,215,55.9429190000,-3.1846210000,0,0
+Gaia Italian Deli,"Italian, Deli",2.9,Average,5,£,20,2,Leith,"Leith, Edinburgh",Edinburgh,EH7 4NY,215,55.9636694444,-3.1778472222,0,0
+Hank's Sandwich Bar,Finger Food,2.9,Average,4,£,15,2,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH3 9RX,215,55.9428170000,-3.2111110000,0,0
+Yum Yum,"Fast Food, Arabian",2.9,Average,4,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1EJ,215,55.9478650000,-3.1917190000,0,0
+Baget Stuffed,Deli,2.9,Average,5,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9BZ,215,55.9455580000,-3.1848980000,0,0
+Jaflong Tandoori Cuisine,"Indian, Fast Food",2.9,Average,4,£,20,2,Gorgie,"Gorgie, Edinburgh",Edinburgh,EH14 2BH,215,55.9253805556,-3.2587472222,0,0
+St. Johns Fish Bar,Italian,2.9,Average,1,£,25,2,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH12 7XD,215,55.9429750000,-3.2895166667,0,0
+Pinto,Mexican,2.8,Average,9,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AN,215,55.9459950000,-3.2053420000,0,0
+Hot Kung Fu,Chinese,2.8,Average,5,£,25,2,Newington,"Newington, Edinburgh",Edinburgh,EH9 1QS,215,55.9389722222,-3.1796250000,0,0
+Troy,"Turkish, Cafe",2.8,Average,6,£,20,2,Dalry,"Dalry, Edinburgh",Edinburgh,EH11 2BA,215,55.9453670000,-3.2175450000,0,0
+The Golden Grill,"British, Fast Food",2.7,Average,4,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH12 5DS,215,55.9466750000,-3.2161083333,0,0
+New Garden Grove,"Chinese, Afghani",2.6,Average,4,£,20,2,Newington,"Newington, Edinburgh",Edinburgh,EH16 5BS,215,55.9385694444,-3.1739555556,0,0
+The Sandwich Hub,Deli,2.6,Average,5,£,10,1,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH11 1DY,215,55.9397848000,-3.2200594000,0,0
+Duddingston Fry,Fast Food,2.6,Average,4,£,15,2,Duddingston,"Duddingston, Edinburgh",Edinburgh,EH15 3EJ,215,55.9345410000,-3.1140550000,0,0
+Social Bite,"Cafe, Healthy Food",2.6,Average,4,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH2 3DT,215,55.9491760000,-3.2106930000,0,0
+Three Coins,Fast Food,2.5,Average,8,£,15,2,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9JR,215,55.9432570000,-3.2034670000,0,0
+Kingfisher,"Fast Food, Fish and Chips",2.5,Average,4,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AH,215,55.9458277778,-3.2021083333,0,0
+McDonald's,Fast Food,2.5,Average,4,£,10,1,"Princes Mall, New Town","Princes Mall, New Town, Edinburgh",Edinburgh,EH1 1BQ,215,55.9527805556,-3.1905916667,0,0
+Deep Sea,"Pizza, Fast Food, Fish and Chips",2.5,Average,4,£,18,2,Broughton,"Broughton, Edinburgh",Edinburgh,EH1 3NH,215,55.9576527778,-3.1841944444,0,0
+Domino's,Pizza,2.2,Poor,5,£,25,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 8NP,215,55.9684916667,-3.1735638889,0,0
+McDonald's,Fast Food,0,Not rated,2,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 4BL,215,55.9504305556,-3.2064666667,0,0
+Sakura Tree,Japanese,0,Not rated,2,£,30,3,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9NA,215,55.9426200000,-3.2034830000,0,0
+Pret A Manger,Cafe,0,Not rated,2,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1QJ,215,55.9508850000,-3.1880810000,0,0
+Alexanders,Deli,0,Not rated,3,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9DP,215,55.9460950000,-3.2016410000,0,0
+The Grassmarket Cafe,Cafe,0,Not rated,2,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QA,215,55.9478444444,-3.1936138889,0,0
+Saiko Kitchen,"Vietnamese, Thai, Dim Sum, Asian",0,Not rated,2,£,20,2,Marchmont,"Marchmont, Edinburgh",Edinburgh,EH9 1JH,215,55.9382330000,-3.1927990000,0,0
+Yum Yum,"Fast Food, Arabian",0,Not rated,2,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1BP,215,55.9500890000,-3.1874550000,0,0
+@pizza,Pizza,0,Not rated,2,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,,215,0.0000000000,0.0000000000,0,0
+Cafe Piccante,Fast Food,0,Not rated,3,£,20,2,New Town,"New Town, Edinburgh",Edinburgh,EH1 3JU,215,55.9568861111,-3.1878611111,0,0
+Bagel Factory,Deli,0,Not rated,3,£,10,1,"Waverley Station, New Town","Waverley Station, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9520350000,-3.1899010000,0,0
+Burger King,"Fast Food, Burger",0,Not rated,2,£,15,2,"Waverley Station, New Town","Waverley Station, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9519750000,-3.1899440000,0,0
+Globetrotter,"British, American, Pizza",0,Not rated,1,£,15,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4DG,215,55.9357944444,-3.2098805556,0,0
+McChens,Chinese,0,Not rated,1,£,15,2,"Gyle Shopping Centre, Corstophine","Gyle Shopping Centre, Corstophine, Edinburgh",Edinburgh,EH12 9JY,215,55.9383555556,-3.3143138889,0,0
+The Gorgie Fish Bar,"Fast Food, Fish and Chips",0,Not rated,1,£,15,2,Gorgie,"Gorgie, Edinburgh",Edinburgh,EH11 2NS,215,55.9376111111,-3.2316666667,0,0
+KFC,Fast Food,0,Not rated,2,£,15,2,"Princes Mall, New Town","Princes Mall, New Town, Edinburgh",Edinburgh,EH1 1BQ,215,55.9527888889,-3.1904555556,0,0
+The Montgomery,"Italian, Fish and Chips, Fast Food",0,Not rated,2,£,20,2,Broughton,"Broughton, Edinburgh",Edinburgh,EH7 5JU,215,55.9590805556,-3.1833250000,0,0
+Social Bite,"Cafe, Healthy Food",0,Not rated,3,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 3DT,215,55.9521300000,-3.2014770000,0,0
+Elfalafel,Fast Food,0,Not rated,3,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1EZ,215,55.9461222222,-3.1900138889,0,0
+McDonald's,Fast Food,0,Not rated,1,£,10,1,Gorgie,"Gorgie, Edinburgh",Edinburgh,EH11 2QL,215,55.9364472222,-3.2396361111,0,0
+Spud U Like,Fast Food,0,Not rated,3,£,10,1,"Princes Mall, New Town","Princes Mall, New Town, Edinburgh",Edinburgh,EH1 1BQ,215,55.9527583333,-3.1905833333,0,0
+McDonald's,Fast Food,0,Not rated,1,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 2AU,215,55.9532388889,-3.1914416667,0,0
+La Campagnola,Fast Food,0,Not rated,2,£,20,2,West End,"West End, Edinburgh",Edinburgh,EH3 7PT,215,55.9513820000,-3.2120450000,0,0
+Palmyra Pizza,"Pizza, Fast Food",0,Not rated,3,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9DH,215,55.9465333333,-3.1851777778,0,0
+Baguette Express,Deli,0,Not rated,2,£,10,1,"Gyle Shopping Centre, Corstophine","Gyle Shopping Centre, Corstophine, Edinburgh",Edinburgh,EH12 9JY,215,55.9387972222,-3.3151777778,0,0
+Ali's Takeaway,"Fast Food, Pizza",0,Not rated,1,£,25,2,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH11 3JY,215,55.9325420000,-3.2604240000,0,0
+Mam Kangu's Delicacy,African,0,Not rated,2,£,15,2,Dalry,"Dalry, Edinburgh",Edinburgh,EH11 2EB,215,55.9425117000,-3.2216046000,0,0
+KFC,Fast Food,0,Not rated,1,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 1HJ,215,55.9533166667,-3.1914527778,0,0
+KFC,Fast Food,0,Not rated,3,£,15,2,Meadowbank,"Meadowbank, Edinburgh",Edinburgh,EH7 5TS,215,55.9573930000,-3.1670480000,0,0
+KFC,Fast Food,0,Not rated,2,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9DT,215,55.9429055556,-3.1836222222,0,0
+Subway,Fast Food,0,Not rated,3,£,15,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4DG,215,55.9359090000,-3.2094270000,0,0
+Chicken Club,Fast Food,0,Not rated,1,£,20,2,Newington,"Newington, Edinburgh",Edinburgh,EH8 9PS,215,55.9402777778,-3.1812944444,0,0
+Greggs,Bakery,0,Not rated,3,£,10,1,Leith,"Leith, Edinburgh",Edinburgh,EH6 5LD,215,55.9712638889,-3.1730638889,0,0
+Rotato,Fast Food,0,Not rated,2,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9LP,215,55.9433333333,-3.1848611111,0,0
+Take It Away Spud,"Deli, British",0,Not rated,1,£,15,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 6TP,215,55.9574055556,-3.2074861111,0,0
+Mister Lee's,Chinese,0,Not rated,1,£,20,2,Drylaw,"Drylaw, Edinburgh",Edinburgh,EH4 2TX,215,55.9674416667,-3.2458722222,0,0
+The Pasty Shop,Bakery,0,Not rated,3,£,15,2,"Waverley Station, New Town","Waverley Station, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9519510000,-3.1899410000,0,0
+Number 1 Sandwich Bar,Deli,0,Not rated,0,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 6PW,215,55.9754820000,-3.1673310000,0,0
+Greggs,Bakery,0,Not rated,1,£,10,1,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9JP,215,55.9425250000,-3.2034638889,0,0
+The City Kebab House,Fast Food,0,Not rated,2,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9PU,215,55.9445640000,-3.2054900000,0,0
+Cappadocia,Fast Food,0,Not rated,2,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QN,215,55.9459583333,-3.1910472222,0,0
+Taco Mazama,Mexican,0,Not rated,2,£,20,2,"Ocean Terminal Shopping Centre, Leith","Ocean Terminal Shopping Centre, Leith, Edinburgh",Edinburgh,EH6 6JJ,215,55.9810810000,-3.1779650000,0,0
+Loaded Sandwich Bar,Deli,0,Not rated,3,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 6PR,215,55.9762277778,-3.1693916667,0,0
+Tempting Tattie,Cafe,0,Not rated,1,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1DT,215,55.9511833333,-3.1845277778,0,0
+The Piemaker,"Bakery, British",0,Not rated,3,£,10,1,Leith,"Leith, Edinburgh",Edinburgh,EH6 5HX,215,55.9714888889,-3.1729666667,0,0
+Che's Takeaway,Fast Food,0,Not rated,1,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QH,215,55.9460611111,-3.1909083333,0,0
+No. 1 Kebab,Fast Food,0,Not rated,2,£,20,2,West End,"West End, Edinburgh",Edinburgh,EH3 8EA,215,55.9440416667,-3.2116750000,0,0
+Rudi's,Deli,0,Not rated,1,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QN,215,55.9457960000,-3.1908150000,0,0
+Rapid Rolls,Deli,0,Not rated,0,£,10,1,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH3 9PU,215,55.9440080000,-3.2067850000,0,0
+The Sandwich Shop,Deli,0,Not rated,0,£,10,1,Newington,"Newington, Edinburgh",Edinburgh,EH16,215,55.9390444444,-3.1741888889,0,0
+McDonald's,Fast Food,0,Not rated,1,£,10,1,Drylaw,"Drylaw, Edinburgh",Edinburgh,EH4 2NF,215,55.9613638889,-3.2422527778,0,0
+McDonald's,Fast Food,0,Not rated,0,£,10,1,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH12 8HW,215,55.9423555556,-3.2935305556,0,0
+Crusts Sandwich Bar,Deli,0,Not rated,0,£,10,1,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,EH39QG,215,55.9438100000,-3.2069320000,0,0
+Picnics,Deli,0,Not rated,1,£,10,1,Newington,"Newington, Edinburgh",Edinburgh,EH9 1QW,215,55.9378800000,-3.1783560000,0,0
+Sea Breeze,Fast Food,0,Not rated,2,£,15,2,Meadowbank,"Meadowbank, Edinburgh",Edinburgh,EH7 5SU,215,55.9573166667,-3.1678555556,0,0
+The Kitchin,"British, French",4.4,Very Good,140,£,90,4,Leith,"Leith, Edinburgh",Edinburgh,EH6 6LX,215,55.9769800000,-3.1727780000,0,0
+Castle Terrace,"British, Scottish, French",4.3,Very Good,54,£,90,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2EL,215,55.9467277778,-3.2022861111,0,0
+Restaurant Mark Greenaway,"Scottish, British, French, European",4.3,Very Good,36,£,85,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 3LJ,215,55.9538416667,-3.2041666667,0,1
+Ondine,"Seafood, Scottish",4.1,Very Good,58,£,75,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1AD,215,55.9488416667,-3.1922666667,0,0
+Wedgwood,"Scottish, British",4.1,Very Good,65,£,70,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8BQ,215,55.9506722222,-3.1832388889,0,0
+The Witchery & The Secret Garden,"British, Scottish, Seafood",4.1,Very Good,111,£,100,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH12NF,215,55.9482805556,-3.1957500000,0,1
+Restaurant Martin Wishart,French,4.0,Very Good,72,£,160,4,Leith,"Leith, Edinburgh",Edinburgh,EH6 6RA,215,55.9754527778,-3.1703694444,0,0
+The Stockbridge Restaurant,British,4.0,Very Good,30,£,70,4,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 5AL,215,55.9578330000,-3.2065060000,0,0
+Number One - Balmoral Hotel,European,3.9,Good,33,£,160,4,"The Balmoral Hotel, New Town","The Balmoral Hotel, New Town, Edinburgh",Edinburgh,EH2 2EQ,215,55.9531230000,-3.1896850000,0,1
+Purslane Restaurant,Scottish,3.9,Good,22,£,80,4,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 5AH,215,55.9579555556,-3.2066444444,0,0
+Angels With Bagpipes,Scottish,3.8,Good,41,£,60,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1PW,215,55.9498070000,-3.1912830000,0,0
+The Rhubarb Restaurant,"British, Scottish",3.8,Good,32,£,100,4,Newington,"Newington, Edinburgh",Edinburgh,EH16 5UT,215,55.9368350000,-3.1572210000,0,1
+Aizle,"Scottish, Contemporary",3.8,Good,16,£,80,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9QY,215,55.9419830000,-3.1791260000,0,0
+21212,"French, Contemporary",3.8,Good,29,£,120,4,Broughton,"Broughton, Edinburgh",Edinburgh,EH7 5AB,215,55.9568460000,-3.1797330000,0,0
+The Observatory - The Glasshouse,"Scottish, British, European",3.8,Good,21,£,70,4,New Town,"New Town, Edinburgh",Edinburgh,EH1 3AA,215,55.9568416667,-3.1856527778,0,0
+The Grain Store,"Scottish, British",3.7,Good,26,£,60,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JW,215,55.9486000000,-3.1940027778,0,0
+Tower Restaurant,"Scottish, British",3.6,Good,38,£,70,4,"National Museum of Scotland, Old Town","National Museum of Scotland, Old Town, Edinburgh",Edinburgh,EH1 1JF,215,55.9470130000,-3.1909310000,0,0
+The Honours,Scottish,3.6,Good,26,£,80,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 3LU,215,55.9536750000,-3.2040833333,0,0
+Restaurant at The Bonham,French,3.6,Good,11,£,60,4,"The Bonham, West End","The Bonham, West End, Edinburgh",Edinburgh,EH3 7RN,215,55.9513450000,-3.2158890000,0,0
+Cucina - G&V Royal Mile Hotel,Italian,3.5,Good,27,£,70,4,"G&V Royal Mile Hotel, Old Town","G&V Royal Mile Hotel, Old Town, Edinburgh",Edinburgh,EH11AD,215,55.9492120000,-3.1927790000,0,1
+Hadrian's Brasserie - Balmoral Hotel,"Scottish, British",3.5,Good,20,£,70,4,"The Balmoral Hotel, New Town","The Balmoral Hotel, New Town, Edinburgh",Edinburgh,EH2 2EQ,215,55.9531230000,-3.1896850000,0,1
+Michael Neave Kitchen and Whisky Bar,"British, Scottish",3.4,Average,14,£,70,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1RW,215,55.9492250000,-3.1893320000,0,1
+Forth Floor,"European, Contemporary",3.3,Average,17,£,80,4,"Harvey Nichols, New Town","Harvey Nichols, New Town, Edinburgh",Edinburgh,EH2 2AD,215,55.9549060000,-3.1917390000,0,0
+The Dining Room,Scottish,3.3,Average,10,£,75,4,New Town,"New Town, Edinburgh",Edinburgh,EH12 1JX,215,55.9545610000,-3.1996130000,0,0
+Galvin Brasserie De Luxe - Waldorf Astoria Edinburgh - The Caledonian,French,3.2,Average,9,£,70,4,Waldorf Astoria Edinburgh - The Caledonian,"Waldorf Astoria Edinburgh - The Caledonian, Edinburgh",Edinburgh,EH1 2AB,215,55.9498090000,-3.2071800000,0,0
+The Pompadour - Waldorf Astoria Edinburgh - The Caledonian,French,3.3,Average,11,£,125,4,Waldorf Astoria Edinburgh - The Caledonian,"Waldorf Astoria Edinburgh - The Caledonian, Edinburgh",Edinburgh,EH1 2AB,215,55.9498090000,-3.2071800000,0,1
+The Table,"European, Scottish",3.2,Average,8,£,120,4,New Town,"New Town, Edinburgh",Edinburgh,EH3 6QG,215,55.9562530000,-3.1984224000,0,0
+One Square Restaurant - The Sheraton Hotel,"Scottish, British",3.1,Average,15,£,60,4,"The Sheraton Hotel, West End","The Sheraton Hotel, West End, Edinburgh",Edinburgh,EH3 9SR,215,55.9470470000,-3.2071440000,0,1
+Brasserie - No. 11 Boutique Hotel,"Scottish, European",3.1,Average,13,£,60,4,Broughton,"Broughton, Edinburgh",Edinburgh,EH7 5JB,215,55.9581027778,-3.1795333333,0,0
+Blackwood's Bar & Grill - Nira Caledonia,"British, Scottish, Grill",3.0,Average,6,£,65,4,New Town,"New Town, Edinburgh",Edinburgh,EH3 6EF,215,55.9566416667,-3.2064861111,0,0
+One Square Bar - The Sheraton Hotel,British,2.9,Average,4,£,60,4,"The Sheraton Hotel, West End","The Sheraton Hotel, West End, Edinburgh",Edinburgh,EH3 9SR,215,55.9470470000,-3.2071440000,0,0
+Stac Polly,"Scottish, British, Seafood",2.7,Average,5,£,60,4,"Stac Polly, New Town","Stac Polly, New Town, Edinburgh",Edinburgh,EH3 6NL,215,55.9573166667,-3.1938500000,0,0
+The Club Room - The Dome,"British, Grill",0,Not rated,3,£,55,4,"The Dome, New Town","The Dome, New Town, Edinburgh",Edinburgh,EH2 2PF,215,55.9536930000,-3.1956300000,0,0
+The Atholl - The Howard,European,0,Not rated,3,£,70,4,"The Howard, New Town","The Howard, New Town, Edinburgh",Edinburgh,EH3 6QH,215,55.9581444444,-3.1988694444,0,0
+Carberry Tower,British,0,Not rated,1,£,0,1,Newcraighall,"Newcraighall, Edinburgh",Edinburgh,,215,55.9160606334,-3.0205321046,0,0
+Restaurant 100,"Scottish, Seafood",0,Not rated,1,£,80,4,New Town,"New Town, Edinburgh",Edinburgh,EH2 3AB,215,55.9514950000,-3.2001950000,0,0
+Mimi's Bakehouse,"Cafe, Bakery, Desserts",4.5,Excellent,73,£,35,3,Leith,"Leith, Edinburgh",Edinburgh,EH6 6RA,215,55.9750972222,-3.1713277778,0,0
+Love Crumbs,"Bakery, Cafe",4.1,Very Good,57,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9DP,215,55.9459500000,-3.2016833333,0,0
+Loudons Cafe & Bakery,"Cafe, Bakery",3.9,Good,67,£,30,3,Fountainbridge,"Fountainbridge, Edinburgh",Edinburgh,,215,0.0000000000,0.0000000000,0,0
+Peter's Yard,"Cafe, Bakery, Swedish",3.8,Good,45,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9GG,215,55.9436027778,-3.1911555556,0,0
+The Manna House,"Bakery, Desserts",3.8,Good,28,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH7 5RG,215,55.9582472222,-3.1719083333,0,0
+Falko,"Cafe, Bakery, German",3.8,Good,21,£,15,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4DG,215,55.9357620000,-3.2095690000,0,0
+The Piemaker,Bakery,3.6,Good,21,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1LL,215,55.9483944444,-3.1867083333,0,0
+Patisserie Valerie,"Cafe, Desserts, Bakery",3.5,Good,22,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1EN,215,55.9475222222,-3.1914666667,0,0
+Cuckoo's Bakery,"Bakery, Cafe, Desserts",3.5,Good,20,£,20,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 5DQ,215,55.9601361111,-3.2007361111,0,0
+Peter's Yard,"Cafe, Bakery, Swedish",3.4,Average,20,£,20,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1LU,215,55.9581333333,-3.2093777778,0,0
+Bibi's,"Bakery, Desserts",3.4,Average,12,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PJ,215,55.9534170000,-3.1975180000,0,0
+Sicilian Pastry Shop,"Bakery, Desserts",3.4,Average,13,£,10,1,Leith,"Leith, Edinburgh",Edinburgh,EH7 5LG,215,55.9626777778,-3.1779416667,0,0
+Le Marche Francais,"French, Cafe, Bakery",3.4,Average,11,£,25,2,West End,"West End, Edinburgh",Edinburgh,EH12 5DS,215,55.9467583333,-3.2160222222,0,0
+Patisserie Valerie,"Cafe, Desserts, Bakery",3.3,Average,18,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1SB,215,55.9504500000,-3.1877944444,0,0
+Clarinda's Tearoom,"Cafe, Bakery",3.3,Average,12,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8BS,215,55.9520138889,-3.1770972222,0,0
+Casa Angelina,"Cafe, Bakery, Desserts",3.2,Average,14,£,20,2,New Town,"New Town, Edinburgh",Edinburgh,EH3 6LX,215,55.9591527778,-3.1912722222,0,0
+Preacher's Patisserie,Bakery,3.2,Average,8,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9DS,215,55.9463527778,-3.2013194444,0,0
+Mimi's Picnic Parlour,"Desserts, Bakery, Cafe",3.2,Average,10,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH88AA,215,55.9507611111,-3.1833138889,0,0
+Polentoni,"Italian, Deli, Bakery",3.2,Average,7,£,25,2,Leith,"Leith, Edinburgh",Edinburgh,EH7 5RG,215,55.9583970000,-3.1716670000,0,0
+Cuckoo's Bakery,"Bakery, Coffee and Tea, Desserts",3.1,Average,6,£,15,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4ES,215,55.9370510000,-3.2073140000,0,0
+La Barantine,"Bakery, French, Cafe, Desserts",3.1,Average,6,£,20,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4DF,215,55.9358361111,-3.2096500000,0,0
+The Wee Boulangerie,"Cafe, Bakery",3.1,Average,8,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9JG,215,55.9416194444,-3.1813194444,0,0
+La Cerise,"Cafe, Bakery, Desserts",3.1,Average,8,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 5LQ,215,55.9736944444,-3.1771750000,0,0
+Casa Amiga,"Portuguese, Bakery, Cafe",3.0,Average,13,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 5BX,215,55.9657220000,-3.1765120000,0,0
+Söderberg,Bakery,3.0,Average,7,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9GL,215,55.9439910000,-3.1938970000,0,0
+The Haven,"Cafe, Bakery",3.0,Average,5,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 4JG,215,55.9796170000,-3.1876820000,0,0
+Jacob,"Cafe, Bakery",3.0,Average,5,£,20,2,Haymarket,"Haymarket, Edinburgh",Edinburgh,EH12 5LA,215,55.9459083333,-3.2215583333,0,0
+Edinburgh Coffee Cake,"Cafe, Bakery, Desserts",2.9,Average,4,£,15,2,Newington,"Newington, Edinburgh",Edinburgh,EH8 9PR,215,55.9405580000,-3.1809840000,0,0
+Patisserie Valerie,"Cafe, Desserts, Bakery",2.8,Average,6,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 3JD,215,55.9518777778,-3.2027027778,0,0
+Madeleine,"Bakery, Desserts",2.8,Average,5,£,10,1,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1HU,215,55.9589000000,-3.2112833333,0,0
+Herbie West End,"Deli, Bakery",2.8,Average,4,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH3 7NG,215,55.9497570000,-3.2122090000,0,0
+Morrison's Bakery,"Bakery, Deli",2.7,Average,4,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH3 8AG,215,55.9462083333,-3.2120861111,0,0
+Cobbs,"Cafe, Bakery",2.7,Average,5,£,15,2,Marchmont,"Marchmont, Edinburgh",Edinburgh,EH9 1BQ,215,55.9364110000,-3.1949090000,0,0
+Marie Delices,"Desserts, Bakery",2.7,Average,5,£,10,1,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 6AQ,215,55.9244000000,-3.2083083333,0,0
+The Pine Tree Bakery,Bakery,2.7,Average,4,£,5,1,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9NA,215,55.9422444444,-3.2032333333,0,0
+Patisserie Florentin,"Cafe, Bakery, Desserts",2.6,Average,4,£,20,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 6SG,215,55.9571888889,-3.2057916667,0,0
+Archipelago Bakery,Bakery,0,Not rated,2,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 3NH,215,55.9571900000,-3.1990720000,0,0
+Leo and Ted,Cafe,0,Not rated,3,£,0,1,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9LJ,215,0.0000000000,0.0000000000,0,0
+Sugar Daddy's,Bakery,0,Not rated,2,£,20,2,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH7 4EA,215,55.9621960000,-3.1962560000,0,0
+Cassia,"Bakery, Cafe",0,Not rated,3,£,10,1,Leith,"Leith, Edinburgh",Edinburgh,EH7 5HN,215,55.9687830000,-3.1733550000,0,0
+Daniel's Swiss Bakery,Bakery,0,Not rated,3,£,10,1,Leith,"Leith, Edinburgh",Edinburgh,EH6 4ER,215,55.9792325000,-3.1834209000,0,0
+Marcella's Italian Bakery,"Bakery, Italian",0,Not rated,2,£,15,2,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9JU,215,55.9428900000,-3.2017420000,0,0
+Söderberg Bakery Shop,Bakery,0,Not rated,2,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH2 4QS,215,55.9509820000,-3.2097410000,0,0
+Pinnies & Poppy Seeds,"Bakery, Desserts",0,Not rated,2,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1SU,215,55.9500860000,-3.1836330000,0,0
+Jacob,"Cafe, Bakery",0,Not rated,1,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1LL,215,55.9485060000,-3.1865300000,0,0
+Melinda's Cake Boutique,Bakery,0,Not rated,2,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 8HH,215,55.9702060000,-3.1695370000,0,0
+Greggs,Bakery,0,Not rated,3,£,10,1,Leith,"Leith, Edinburgh",Edinburgh,EH6 5LD,215,55.9712638889,-3.1730638889,0,0
+The Pasty Shop,Bakery,0,Not rated,3,£,15,2,"Waverley Station, New Town","Waverley Station, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9519510000,-3.1899410000,0,0
+Storries Home Bakery,Bakery,0,Not rated,1,£,10,1,Leith,"Leith, Edinburgh",Edinburgh,EH6 8PD,215,55.9654833333,-3.1763750000,0,0
+Cafe Citron,"Cafe, Desserts, Bakery",0,Not rated,2,£,15,2,Blackhall,"Blackhall, Edinburgh",Edinburgh,EH4 3NF,215,55.9575111111,-3.2496083333,0,0
+Greggs,Bakery,0,Not rated,1,£,10,1,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9JP,215,55.9425250000,-3.2034638889,0,0
+Söderberg Bakery Shop,"Bakery, Cafe",0,Not rated,2,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9GG,215,55.9436050000,-3.1925480000,0,0
+Breadstix,Bakery,0,Not rated,2,£,10,1,Colinton,"Colinton, Edinburgh",Edinburgh,EH10 6PZ,215,55.9087020000,-3.2095770000,0,0
+La Barantine Victoria,"Bakery, French, Cafe, Desserts",0,Not rated,2,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JW,215,55.9482900000,-3.1948060000,0,0
+The Piemaker,"Bakery, British",0,Not rated,3,£,10,1,Leith,"Leith, Edinburgh",Edinburgh,EH6 5HX,215,55.9714888889,-3.1729666667,0,0
+Bon,"Cafe, Bakery, Desserts",0,Not rated,1,£,15,2,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH12 7XF,215,55.9426694444,-3.2905638889,0,0
+Edinburgh Bakehouse,Bakery,0,Not rated,1,£,15,2,Newington,"Newington, Edinburgh",Edinburgh,EH9 1QW,215,55.9375833333,-3.1782694444,0,0
+A La Carte,"British, Bakery",0,Not rated,1,£,15,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4ER,215,55.9366720000,-3.2084060000,0,0
+Greggs,Bakery,0,Not rated,2,£,10,1,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4DF,215,55.9361140000,-3.2096420000,0,0
+Greggs,Bakery,0,Not rated,1,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QP,215,55.9454944444,-3.1908500000,0,0
+Bad Tempered Baker,Bakery,0,Not rated,1,£,0,1,Leith,"Leith, Edinburgh",Edinburgh,EH6 7EX,215,55.9734467000,-3.1675175000,0,0
+Greggs,Bakery,0,Not rated,1,£,10,1,Davidson's Mains,"Davidson's Mains, Edinburgh",Edinburgh,EH4 5BZ,215,55.9653888889,-3.2737916667,0,0
+Greggs,Bakery,0,Not rated,1,£,10,1,Newcraighall,"Newcraighall, Edinburgh",Edinburgh,EH15 3RH,215,55.9339166667,-3.1043250000,0,0
+Greggs,Bakery,0,Not rated,1,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9BG,215,55.9451861111,-3.2055111111,0,0
+Cafe Blush,"Cafe, Bakery, Desserts",0,Not rated,0,£,15,2,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 4QT,215,55.9279722222,-3.2094222222,0,0
+Greggs,Bakery,0,Not rated,1,£,10,1,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH11 3EF,215,55.9330080000,-3.2620370000,0,0
+Bakery Andante,Bakery,0,Not rated,1,£,10,1,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 4QL,215,55.9269720000,-3.2093870000,0,0
+McArthur's Bakery,Bakery,0,Not rated,0,£,10,1,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH12 7JN,215,55.9362540000,-3.2793090000,0,0
+Greggs,Bakery,0,Not rated,1,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PR,215,55.9532280000,-3.1949410000,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,"Ocean Terminal Shopping Centre, Leith","Ocean Terminal Shopping Centre, Leith, Edinburgh",Edinburgh,EH6 6JJ,215,55.9811940000,-3.1776270000,0,0
+Greggs,Bakery,0,Not rated,1,£,10,1,Dalry,"Dalry, Edinburgh",Edinburgh,EH11 2BJ,215,55.9449194444,-3.2176416667,0,0
+Greggs,Bakery,0,Not rated,1,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1LL,215,55.9477500000,-3.1862000000,0,0
+Bayne's,Bakery,0,Not rated,0,£,10,1,Drylaw,"Drylaw, Edinburgh",Edinburgh,EH4 2TX,215,55.9674194444,-3.2461666667,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 1EX,215,55.9528722222,-3.1140333333,0,0
+Goodfellow & Steven,Bakery,0,Not rated,0,£,10,1,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 4QH,215,55.9277611111,-3.2093333333,0,0
+Abinger's,"Cafe, Bakery",0,Not rated,0,£,15,2,Blackhall,"Blackhall, Edinburgh",Edinburgh,EH4 3PH,215,55.9558611111,-3.2588083333,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 5HY,215,55.9257194444,-3.2094277778,0,0
+Millie's Cookies,"Bakery, Desserts",0,Not rated,0,£,10,1,"Gyle Shopping Centre, Corstophine","Gyle Shopping Centre, Corstophine, Edinburgh",Edinburgh,EH12 9JY,215,55.9411861111,-3.3147750000,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,Leith,"Leith, Edinburgh",Edinburgh,EH7 5RH,215,55.9592055556,-3.1717111111,0,0
+Millie's Cookies,"Bakery, Desserts",0,Not rated,0,£,10,1,"Waverley Station, New Town","Waverley Station, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9519990000,-3.1899440000,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,Gorgie,"Gorgie, Edinburgh",Edinburgh,EH11 2PN,215,55.9372000000,-3.2343250000,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,West End,"West End, Edinburgh",Edinburgh,EH2 4PG,215,55.9506944444,-3.2094555556,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,Newington,"Newington, Edinburgh",Edinburgh,EH8 9JD,215,55.9420805556,-3.1804111111,0,0
+La Croissanterie,"Cafe, Bakery",0,Not rated,0,£,15,2,Newington,"Newington, Edinburgh",Edinburgh,EH9 1ST,215,55.9336290000,-3.1782530000,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,"Princes Mall, New Town","Princes Mall, New Town, Edinburgh",Edinburgh,EH1 1BQ,215,0.0000000000,0.0000000000,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH1 3JU,215,55.9570388889,-3.1882138889,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,West End,"West End, Edinburgh",Edinburgh,EH12 5EB,215,55.9466833333,-3.2164722222,0,0
+Goodfellow & Steven,Bakery,0,Not rated,0,£,10,1,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1HH,215,55.9595250000,-3.2134638889,0,0
+Bayne's,Bakery,0,Not rated,0,£,10,1,Leith,"Leith, Edinburgh",Edinburgh,EH7 5RH,215,55.9592580000,-3.1714930000,0,0
+Bakers Brunch,Bakery,0,Not rated,0,£,15,2,Gracemount,"Gracemount, Edinburgh",Edinburgh,EH17 8HP,215,55.9024130000,-3.1540200000,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,Newcraighall,"Newcraighall, Edinburgh",Edinburgh,EH16 4BG,215,55.9327380000,-3.1400720000,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH12 7SD,215,55.9425388889,-3.2815833333,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,"Westside Plaza Shopping Centre, Corstorphine","Westside Plaza Shopping Centre, Corstorphine, Edinburgh",Edinburgh,EH14 2SW,215,55.9154180000,-3.2848720000,0,0
+Douglas Bakery,Bakery,0,Not rated,0,£,15,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 8NP,215,55.9686805556,-3.1734027778,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH4 1AU,215,55.9574510000,-3.2183750000,0,0
+Parkhead Bakers,Bakery,0,Not rated,0,£,0,1,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH11 4SQ,215,55.9241539000,-3.2599462000,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9DT,215,55.9424472222,-3.1807944444,0,0
+Greggs,Bakery,0,Not rated,0,£,10,1,Broughton,"Broughton, Edinburgh",Edinburgh,EH7 4AA,215,55.9591777778,-3.1833166667,0,0
+Bayne's,Bakery,0,Not rated,0,£,10,1,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 1AH,215,55.9535390000,-3.1147120000,0,0
+Bayne's,Bakery,0,Not rated,0,£,10,1,Drumbrae,"Drumbrae, Edinburgh",Edinburgh,EH4 7QD,215,55.9605430000,-3.2945460000,0,0
+Mary's Milk Bar,"Ice Cream, Desserts",4.4,Very Good,46,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2HY,215,55.9471388889,-3.1973805556,0,0
+Mademoiselle Macaron,"Cafe, Desserts",3.8,Good,24,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AP,215,55.9469030000,-3.2050920000,0,0
+The Chocolate Tree,"Desserts, Cafe",3.5,Good,16,£,15,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4EQ,215,55.9368972222,-3.2075750000,0,0
+Affogato,"Ice Cream, Desserts, Cafe",3.5,Good,16,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH2 4QS,215,55.9507250000,-3.2095972222,0,0
+Frisky,"Ice Cream, Desserts",3.4,Average,9,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2QH,215,55.9461416667,-3.1905805556,0,0
+Patisserie Maxime,"Bakery, Desserts, Cafe",3.3,Average,18,£,25,2,West End,"West End, Edinburgh",Edinburgh,EH2 4PA,215,55.9505450000,-3.2090840000,0,0
+Martone,"Italian, Ice Cream, Desserts",3.3,Average,13,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 3BQ,215,55.9536555556,-3.1881472222,0,0
+Frisky,"Ice Cream, Desserts",3.2,Average,10,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2DJ,215,55.9479166667,-3.2067000000,0,0
+Cafe Luca,"Cafe, Desserts",3.1,Average,10,£,20,2,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 4DB,215,55.9337166667,-3.2103583333,0,0
+Artisan Cheesecakes,Desserts,3.1,Average,5,£,15,2,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4ES,215,55.9371440000,-3.2071150000,0,0
+Krispy Kreme,Desserts,3.0,Average,6,£,15,2,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH11 4DF,215,55.9255850000,-3.3056320000,0,0
+Scoopz Cafe,"Cafe, Ice Cream, Desserts",2.9,Average,4,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 9DB,215,55.9448277778,-3.1851416667,0,0
+Marie Delices,"Desserts, Bakery",2.7,Average,5,£,10,1,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 6AQ,215,55.9244000000,-3.2083083333,0,0
+Victor & Carina Contini Royal Mile Cafe,"Cafe, Ice Cream, Desserts",2.6,Average,4,£,25,2,"Cannonball House, Old Town","Cannonball House, Old Town, Edinburgh",Edinburgh,EH2NE,215,55.9490240000,-3.1951550000,0,0
+Mallow Valley Cheescake Cafe,"Cafe, Desserts",0,Not rated,3,£,20,2,West End,"West End, Edinburgh",Edinburgh,EH3 8HD,215,55.9462760000,-3.2155050000,0,0
+S.Luca,Desserts,0,Not rated,3,£,15,2,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 1HJ,215,55.9560010000,-3.1131700000,0,0
+Shakeaway,Desserts,0,Not rated,3,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 3JD,215,55.9520527778,-3.2017472222,0,0
+Coco Chocolate,"Desserts, Cafe",0,Not rated,3,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH1 3RJ,215,55.9579666667,-3.1892638889,0,0
+Patisserie Valerie,"Cafe, Desserts, Bakery",0,Not rated,2,£,20,2,"Fort Kinnaird Retail Park, Newcraighall","Fort Kinnaird Retail Park, Newcraighall, Edinburgh",Edinburgh,EH15 3RD,215,55.9352250000,-3.1042920000,0,0
+Cocoa Bar Cafe,"Cafe, Desserts",0,Not rated,0,£,15,2,"St James Shopping Centre, New Town","St James Shopping Centre, New Town, Edinburgh",Edinburgh,EH1 3SS,215,55.9548670000,-3.1884360000,0,0
+Meadowberry,"Ice Cream, Desserts",0,Not rated,1,£,0,1,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4ES,215,55.9373190000,-3.2071140000,0,0
+Ben's Cookies,"Desserts, Bakery",0,Not rated,1,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 3AA,215,55.9513000000,-3.2021650000,0,0
+Deadly Donuts,"Bakery, Cafe",0,Not rated,0,£,15,2,Marchmont,"Marchmont, Edinburgh",Edinburgh,EH9 1JJ,215,55.9384210000,-3.1917020000,0,0
+Millie's Cookies,"Bakery, Desserts",0,Not rated,1,£,10,1,"St James Shopping Centre, New Town","St James Shopping Centre, New Town, Edinburgh",Edinburgh,EH1 3SJ,215,55.9553222222,-3.1887277778,0,0
+Favers Candy Emporium,"Cafe, Desserts",0,Not rated,1,£,15,2,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 1AF,215,55.9533480000,-3.1155790000,0,0
+Choco Latte,"Cafe, Desserts",0,Not rated,0,£,20,2,Newington,"Newington, Edinburgh",Edinburgh,EH8,215,55.9408388889,-3.1814555556,0,0
+Millie's Cookies,"Bakery, Desserts",0,Not rated,0,£,10,1,"Waverley Station, New Town","Waverley Station, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9519990000,-3.1899440000,0,0
+Codonis,"Ice Cream, Desserts",0,Not rated,0,£,10,1,"Gyle Shopping Centre, Corstophine","Gyle Shopping Centre, Corstophine, Edinburgh",Edinburgh,EH12 9JY,215,55.9383555556,-3.3143138889,0,0
+The Marshmallow Lady,"Desserts, Coffee and Tea",0,Not rated,0,£,15,2,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH7 4EA,215,55.9620670000,-3.1959800000,0,0
+Jannettas Gelateria,Desserts,0,Not rated,3,£,0,1,St Andrews,"St Andrews, St Andrews",St Andrews,KY16 9QR,215,0.0000000000,0.0000000000,0,0
+Costa Coffee,Cafe,0,Not rated,2,£,10,1,"Gyle Shopping Centre, Corstophine","Gyle Shopping Centre, Corstophine, Edinburgh",Edinburgh,EH12 9JY,215,55.9411916667,-3.3147861111,0,0
+Chopstix,Chinese,0,Not rated,2,£,0,1,"Princes Mall, New Town","Princes Mall, New Town, Edinburgh",Edinburgh,EH1 1BQ,215,55.9528480000,-3.1912760000,0,0
+Spud U Like,Fast Food,0,Not rated,3,£,10,1,"Princes Mall, New Town","Princes Mall, New Town, Edinburgh",Edinburgh,EH1 1BQ,215,55.9527583333,-3.1905833333,0,0
+Metropole,"Cafe, British",0,Not rated,1,£,25,2,"Gyle Shopping Centre, Corstophine","Gyle Shopping Centre, Corstophine, Edinburgh",Edinburgh,EH12 9JY,215,55.9382944444,-3.3143777778,0,0
+Pizza Hut Express,Pizza,0,Not rated,1,£,30,3,"Gyle Shopping Centre, Corstophine","Gyle Shopping Centre, Corstophine, Edinburgh",Edinburgh,EH12 9JY,215,55.9383000000,-3.3146055556,0,0
+Pizza Mafia,Pizza,0,Not rated,1,£,15,2,"Princes Mall, New Town","Princes Mall, New Town, Edinburgh",Edinburgh,EH1 1BQ,215,55.9527200000,-3.1906350000,0,0
+Costa Coffee,Cafe,0,Not rated,0,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9519750000,-3.1899870000,0,0
+The Water of Leith Cafe Bistro,"French, Cafe",3.9,Good,18,£,30,3,Canonmills,"Canonmills, Edinburgh",Edinburgh,EH3 5JP,215,55.9629990000,-3.2005880000,0,0
+Edinburgh Larder Bistro,Scottish,3.6,Good,32,£,35,3,West End,"West End, Edinburgh",Edinburgh,EH2 4PH,215,55.9508694444,-3.2098111111,0,0
+Bistro - Hotel Du Vin,French,3.5,Good,33,£,55,4,"Hotel Du Vin, Old Town","Hotel Du Vin, Old Town, Edinburgh",Edinburgh,EH1 1EZ,215,55.9463320000,-3.1902970000,0,0
+Maxie's,"British, European, Contemporary",3.3,Average,17,£,50,4,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2PW,215,55.9484472222,-3.1942944444,0,0
+Cafe Cassis,French,3.4,Average,11,£,40,3,Newington,"Newington, Edinburgh",Edinburgh,EH16 5AA,215,55.9377600000,-3.1770260000,0,0
+Laila's,Mediterranean,3.2,Average,13,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1BS,215,55.9506380000,-3.1888210000,0,0
+Circus Cafe Bistro,"Cafe, British",3.2,Average,6,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1SU,215,55.9504670000,-3.1835950000,0,0
+The Skylark,British,3.0,Average,7,£,35,3,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 2AW,215,55.9519750000,-3.1111270000,0,0
+The Broadsheet Bistro,European,2.5,Average,4,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1PT,215,55.9497027778,-3.1923250000,0,0
+D'espresso Bistro,"Deli, Italian",0,Not rated,1,£,15,2,West End,"West End, Edinburgh",Edinburgh,EH3 8EG,215,55.9474350000,-3.2113750000,0,0
+La Locanda,Italian,0,Not rated,3,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1BS,215,55.9506170000,-3.1891650000,0,0
+Redwood Bistro,American,0,Not rated,1,£,40,3,Corstorphine,"Corstorphine, Edinburgh",Edinburgh,EH12 7TZ,215,55.9423938000,-3.2932434000,0,0
+Bell's Diner,American,4.1,Very Good,53,£,25,2,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 5AN,215,55.9575611111,-3.2073861111,0,0
+Katie's Diner,"American, Steak, Burger",3.7,Good,13,£,45,3,Bruntsfield,"Bruntsfield, Edinburgh",Edinburgh,EH10 4HP,215,55.9396360000,-3.2039740000,0,0
+The City Cafe,American,3.5,Good,25,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH11QR,215,55.9492720000,-3.1878050000,0,0
+Filling Station,American,3.4,Average,15,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2NN,215,55.9524833333,-3.1987305556,0,1
+Frankie & Benny's,American,3.0,Average,5,£,30,3,"Gyle Shopping Centre, Corstophine","Gyle Shopping Centre, Corstophine, Edinburgh",Edinburgh,EH12 9JX,215,55.9377250000,-3.3141055556,0,0
+Bruno's Diner,American,2.6,Average,4,£,30,3,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9RP,215,55.9442570000,-3.2028980000,0,0
+Ed's Easy Diner,"American, Fast Food",2.3,Poor,7,£,25,2,Newcraighall,"Newcraighall, Edinburgh",Edinburgh,EH15 3DR,215,55.9330780000,-3.1061030000,0,0
+Filling Station,American,2.2,Poor,18,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1PE,215,55.9500270000,-3.1892780000,0,1
+Frankie & Benny's,American,0,Not rated,2,£,30,3,"Omni Centre, New Town","Omni Centre, New Town, Edinburgh",Edinburgh,EH1 3BH,215,55.9559833333,-3.1859250000,0,0
+Frankie & Benny's,American,0,Not rated,3,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1QS,215,55.9498680000,-3.1887680000,0,0
+The Rat Pack Piano Bar,Drinks Only,3.1,Average,10,£,40,3,West End,"West End, Edinburgh",Edinburgh,EH2 4RG,215,55.9499555556,-3.2083083333,0,0
+The Cabaret Voltaire,Drinks Only,2.7,Average,4,£,45,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1QR,215,55.9492330000,-3.1878590000,0,0
+Opium,Drinks Only,2.6,Average,4,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1JW,215,55.9481730000,-3.1914660000,0,0
+Opal Lounge,Drinks Only,2.6,Average,4,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2HT,215,55.9536690000,-3.1989560000,0,0
+Espionage,Drinks Only,2.5,Average,5,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2EX,215,55.9487222222,-3.1933277778,0,0
+The Hive,Drinks Only,2.4,Poor,6,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1LG,215,55.9497722222,-3.1871194444,0,0
+Chalky's,Drinks Only,0,Not rated,0,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH1 3JT,215,55.9572040000,-3.1872590000,0,0
+Henry's Cellar Bar,Drinks Only,0,Not rated,2,£,25,2,West End,"West End, Edinburgh",Edinburgh,EH3 8BJ,215,55.9454222222,-3.2063500000,0,0
+Whynot,Drinks Only,0,Not rated,2,£,30,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PF,215,55.9534860000,-3.1960730000,0,0
+The Bongo Club,Drinks Only,0,Not rated,2,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1JX,215,55.9482940000,-3.1925800000,0,0
+The Shack,Drinks Only,0,Not rated,1,£,30,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 3DT,215,55.9519833333,-3.2018027778,0,0
+The Liquid Rooms,Drinks Only,0,Not rated,1,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2HE,215,55.9485500000,-3.1935540000,0,0
+Sneaky Pete's,Drinks Only,0,Not rated,1,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1JW,215,55.9481860000,-3.1914620000,0,0
+The Citrus Club,Drinks Only,0,Not rated,0,£,25,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AP,215,55.9468130000,-3.2049240000,0,0
+CAV,Drinks Only,0,Not rated,1,£,40,3,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9BP,215,55.9436860000,-3.2043470000,0,0
+Castle Clvb,Drinks Only,0,Not rated,1,£,20,2,West End,"West End, Edinburgh",Edinburgh,EH2 4PF,215,55.9504760000,-3.2092470000,0,0
+Shanghai,Drinks Only,0,Not rated,1,£,40,3,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PF,215,55.9535735000,-3.1961414000,0,0
+Silk,Drinks Only,0,Not rated,1,£,40,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JY,215,55.9471930000,-3.2010940000,0,0
+Club Tropicana,Drinks Only,0,Not rated,0,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2DJ,215,55.9479290000,-3.2059170000,0,0
+La Belle Angèle,Drinks Only,0,Not rated,0,£,35,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1HJ,215,55.9481950000,-3.1881380000,0,0
+Movement,Drinks Only,0,Not rated,0,£,30,3,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1JW,215,55.9483660000,-3.1915670000,0,0
+Studio 24,Drinks Only,0,Not rated,0,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8DP,215,55.9527530000,-3.1789910000,0,0
+Barnacles & Bones,"British, Scottish, Street Food, Seafood",3.1,Average,7,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH1 3JR,215,55.9560772897,-3.1871616574,0,0
+Tupiniquim,"Street Food, Brazilian, Cafe",3.1,Average,11,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AU,215,55.9454050000,-3.1916430000,0,0
+McChens,Chinese,0,Not rated,1,£,15,2,"Gyle Shopping Centre, Corstophine","Gyle Shopping Centre, Corstophine, Edinburgh",Edinburgh,EH12 9JY,215,55.9383555556,-3.3143138889,0,0
+Zumo Juice Bar,Juices,0,Not rated,0,£,10,1,"St James Shopping Centre, New Town","St James Shopping Centre, New Town, Edinburgh",Edinburgh,EH1 3SS,215,55.9552027778,-3.1884805556,0,0
+Crumbs of Portobello,"Cafe, Desserts",0,Not rated,1,£,15,2,Portobello,"Portobello, Edinburgh",Edinburgh,EH15 1HJ,215,55.9557770000,-3.1130370000,0,0
+Rio Juice,Juices,0,Not rated,1,£,15,2,"Ocean Terminal Shopping Centre, Leith","Ocean Terminal Shopping Centre, Leith, Edinburgh",Edinburgh,EH6 6JJ,215,55.9803370000,-3.1797020000,0,0
+The Counter,Cafe,0,Not rated,1,£,5,1,Morningside,"Morningside, Edinburgh",Edinburgh,EH10 4QQ,215,55.9285320000,-3.2097990000,0,0
+Milk,Cafe,0,Not rated,0,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH7 5AA,215,55.9549600000,-3.1834940000,0,0
+Waverley Cafe,"Coffee and Tea, Street Food",0,Not rated,0,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 1DF,215,55.9508470000,-3.1916050000,0,0
+Caffe Nero Express,Coffee and Tea,0,Not rated,0,£,10,1,"Waverley Station, New Town","Waverley Station, New Town, Edinburgh",Edinburgh,EH2 2AF,215,55.9523150000,-3.1880740000,0,0
+Delights of Brazil,Brazilian,0,Not rated,0,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9519906000,-3.1897580000,0,0
+Bonnie Burrito,"Street Food, Mexican",0,Not rated,0,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9HB,215,55.9447145000,-3.1970479000,0,0
+The Counter,Cafe,0,Not rated,0,£,5,1,Tollcross,"Tollcross, Edinburgh",Edinburgh,EH3 9RP,215,55.9444003000,-3.2017784000,0,0
+The Wee Red Box Cafe,Cafe,0,Not rated,0,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 2PR,215,55.9529530000,-3.1960340000,0,0
+Zumo Juice Bar,Juices,0,Not rated,0,£,10,1,"Gyle Shopping Centre, Corstophine","Gyle Shopping Centre, Corstophine, Edinburgh",Edinburgh,EH12 9JT,215,55.9386270000,-3.3143020000,0,0
+Mr. Pretzel's,Bakery,0,Not rated,0,£,15,2,"Ocean Terminal Shopping Centre, Leith","Ocean Terminal Shopping Centre, Leith, Edinburgh",Edinburgh,EH6 6JJ,215,55.9803730000,-3.1797020000,0,0
+Coffee Drive,Cafe,0,Not rated,0,£,12,1,Duddingston,"Duddingston, Edinburgh",Edinburgh,EH15 3LJ,215,55.9390570000,-3.1152510000,0,0
+Codonis,"Ice Cream, Desserts",0,Not rated,0,£,10,1,"Gyle Shopping Centre, Corstophine","Gyle Shopping Centre, Corstophine, Edinburgh",Edinburgh,EH12 9JY,215,55.9383555556,-3.3143138889,0,0
+Scott's In The Park,"Desserts, Fast Food",0,Not rated,0,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 2HG,215,55.9513620000,-3.1993940000,0,0
+Carpe Diem,Coffee and Tea,0,Not rated,0,£,10,1,New Town,"New Town, Edinburgh",Edinburgh,EH2 2HG,215,55.9514426000,-3.1936004000,0,0
+Scott's In The Park Cafe,"Desserts, Fast Food",0,Not rated,0,£,15,2,New Town,"New Town, Edinburgh",Edinburgh,EH2 2HG,215,55.9514426000,-3.1936004000,0,0
+The Counter,Cafe,0,Not rated,0,£,5,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2ED,215,55.9479407000,-3.2048226000,0,0
+The Little Inn,Cafe,3.0,Average,4,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2PW,215,55.9490083333,-3.1943611111,0,0
+Sugarhouse Sandwiches,Deli,0,Not rated,3,£,15,2,Old Town,"Old Town, Edinburgh",Edinburgh,EH8 8DD,215,55.9514583333,-3.1799861111,0,0
+Lounge Bar - G&V Royal Mile Hotel,European,2.7,Average,4,£,50,4,"G&V Royal Mile Hotel, Old Town","G&V Royal Mile Hotel, Old Town, Edinburgh",Edinburgh,EH1 1AD,215,55.9492120000,-3.1927790000,0,0
+Andrew Usher & Co.,British,0,Not rated,1,£,20,2,Old Town,"Old Town, Edinburgh",Edinburgh,,215,0.0000000000,0.0000000000,0,0
+Chats Lounge Bar - Marriott Hotel,Cafe,0,Not rated,1,£,45,3,"Marriott Hotel, Corstorphine","Marriott Hotel, Corstorphine, Edinburgh",Edinburgh,EH12 8NF,215,55.9400710000,-3.3123230000,0,0
+The Claret Jug - The Howard,Drinks Only,0,Not rated,0,£,30,3,"The Howard, New Town","The Howard, New Town, Edinburgh",Edinburgh,EH3 6QH,215,55.9581444444,-3.1988694444,0,0
+The Alan Breck Lounge,Drinks Only,0,Not rated,0,£,20,2,Leith,"Leith, Edinburgh",Edinburgh,EH6 7AD,215,55.9712650000,-3.1702670000,0,0
+Swany's Lounge Bar,Drinks Only,0,Not rated,0,£,20,2,Newington,"Newington, Edinburgh",Edinburgh,EH91SX,215,55.9347750000,-3.1788527778,0,0
+Polo Lounge Bar & Restaurant,British,0,Not rated,0,£,35,3,Newington,"Newington, Edinburgh",Edinburgh,EH9 1RQ,215,55.9350490000,-3.1749620000,0,0
+Fresh Revolution,Street Food,0,Not rated,3,£,10,1,"Edinburgh Farmers Market, Old Town","Edinburgh Farmers Market, Old Town, Edinburgh",Edinburgh,EH1 2EL,215,55.9477850000,-3.2034850000,0,0
+Aye Love Real Food,"Street Food, Scottish",0,Not rated,0,£,10,1,"Edinburgh Farmers Market, Old Town","Edinburgh Farmers Market, Old Town, Edinburgh",Edinburgh,EH1 2EL,215,55.9479460000,-3.2038760000,0,0
+Aye Love Real Food,"Street Food, Scottish",0,Not rated,1,£,10,1,Stockbridge Market,"Stockbridge Market, Edinburgh",Edinburgh,EH1 3TQ,215,55.9574990000,-3.2082980000,0,0
+Missy's Vegan Cupcakes,Desserts,0,Not rated,0,£,10,1,"Grassmarket Market,  Old Town","Grassmarket Market,  Old Town, Edinburgh",Edinburgh,EH1 2JU,215,55.9473430000,-3.1970680000,0,0
+Casa Roble,Spanish,0,Not rated,2,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH1 2JU,215,55.9473430000,-3.1970680000,0,0
+Gusto,Street Food,0,Not rated,1,£,10,1,Stockbridge Market,"Stockbridge Market, Edinburgh",Edinburgh,EH1 3TQ,215,55.9574990000,-3.2082980000,0,0
+Scoff,"Street Food, Scottish",0,Not rated,1,£,10,1,Portobello Market,"Portobello Market, Edinburgh",Edinburgh,EH15 1LP,215,55.9513630000,-3.1158500000,0,0
+Northern Edge Coffee,Coffee and Tea,0,Not rated,0,£,10,1,"Edinburgh Farmers Market, Old Town","Edinburgh Farmers Market, Old Town, Edinburgh",Edinburgh,EH1 2EL,215,55.9477530000,-3.2035090000,0,0
+Buffalo Farm BBQ,"Grill, Street Food",0,Not rated,0,£,10,1,"Edinburgh Farmers Market, Old Town","Edinburgh Farmers Market, Old Town, Edinburgh",Edinburgh,EH1 2EL,215,55.9477750000,-3.2038860000,0,0
+Mighty Mexican,"Street Food, Mexican",0,Not rated,0,£,10,1,"The Tram Stop Market, New Town","The Tram Stop Market, New Town, Edinburgh",Edinburgh,EH1 3JD,215,55.9563330000,-3.1872060000,0,0
+Knights Kitchen,"Street Food, African",0,Not rated,0,£,10,1,"Grassmarket Market,  Old Town","Grassmarket Market,  Old Town, Edinburgh",Edinburgh,EH1 2JU,215,55.9473160000,-3.1969390000,0,0
+Blue Banana,Caribbean,0,Not rated,0,£,10,1,"Grassmarket Market,  Old Town","Grassmarket Market,  Old Town, Edinburgh",Edinburgh,EH1 2JU,215,55.9473400000,-3.1971270000,0,0
+Highland Cottage Kitchen,Desserts,0,Not rated,0,£,10,1,Stockbridge Market,"Stockbridge Market, Edinburgh",Edinburgh,EH£ 6TQ,215,55.9574990000,-3.2082980000,0,0
+Vanilla Cream,Desserts,0,Not rated,0,£,10,1,Stockbridge Market,"Stockbridge Market, Edinburgh",Edinburgh,EH3 6TQ,215,55.9574990000,-3.2082980000,0,0
+Alplings,Street Food,0,Not rated,0,£,10,1,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,,215,55.9574990000,-3.2082980000,0,0
+Casa Roble,Spanish,0,Not rated,0,£,10,1,Stockbridge Market,"Stockbridge Market, Edinburgh",Edinburgh,EH1 3TQ,215,55.9574990000,-3.2082980000,0,0
+Orinoco,Street Food,0,Not rated,0,£,10,1,"Grassmarket Market,  Old Town","Grassmarket Market,  Old Town, Edinburgh",Edinburgh,EH1 2JU,215,55.9473160000,-3.1969390000,0,0
+The Wee Pie Company,Street Food,0,Not rated,0,£,10,1,Stockbridge Market,"Stockbridge Market, Edinburgh",Edinburgh,EH1 3TQ,215,55.9574990000,-3.2082980000,0,0
+Bad Tempered Baker,Desserts,0,Not rated,0,£,5,1,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH1 3TQ,215,55.9574990000,-3.2082980000,0,0
+The Olive Stall,Healthy Food,0,Not rated,0,£,10,1,"Grassmarket Market,  Old Town","Grassmarket Market,  Old Town, Edinburgh",Edinburgh,EH1 2JU,215,55.9473430000,-3.1970680000,0,0
+Mimi's Bakehouse,"Bakery, Desserts",3.1,Average,5,£,10,1,"Platform 2 Market, New Town","Platform 2 Market, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9524890000,-3.1875540000,0,0
+Edin-Burgers,"Burger, Street Food",0,Not rated,2,£,10,1,"Platform 2 Market, New Town","Platform 2 Market, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9519870000,-3.1899010000,0,0
+Daizy Delicious Crepes & Waffles,Desserts,0,Not rated,1,£,10,1,"Platform 2 Market, New Town","Platform 2 Market, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9524910000,-3.1877540000,0,0
+Jones & Son,Street Food,0,Not rated,0,£,10,1,"The Tram Stop Market, New Town","The Tram Stop Market, New Town, Edinburgh",Edinburgh,EH1 3JD,215,55.9563330000,-3.1872060000,0,0
+The French Connection,French,0,Not rated,1,£,10,1,"Grassmarket Market,  Old Town","Grassmarket Market,  Old Town, Edinburgh",Edinburgh,EH1 2JU,215,55.9473390000,-3.1970740000,0,0
+Punjabi Kitchen,"Indian, Street Food",0,Not rated,1,£,10,1,"Platform 2 Market, New Town","Platform 2 Market, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9524910000,-3.1877540000,0,0
+Rost,"Street Food, Scottish",0,Not rated,1,£,15,2,"The Tram Stop Market, New Town","The Tram Stop Market, New Town, Edinburgh",Edinburgh,EH1 3JD,215,55.9563330000,-3.1872060000,0,0
+Bakery Andante,"Bakery, Desserts",0,Not rated,1,£,10,1,"Platform 2 Market, New Town","Platform 2 Market, New Town, Edinburgh",Edinburgh,EH1 1BB,215,55.9519870000,-3.1899010000,0,0
+Mighty Mexican,"Street Food, Mexican",0,Not rated,0,£,10,1,"The Tram Stop Market, New Town","The Tram Stop Market, New Town, Edinburgh",Edinburgh,EH1 3JD,215,55.9563330000,-3.1872060000,0,0
+The French Connection,French,0,Not rated,0,£,10,1,Stockbridge Market,"Stockbridge Market, Edinburgh",Edinburgh,EH1 3TQ,215,55.9574990000,-3.2082980000,0,0
+Food Shack UK,"Burger, Grill",0,Not rated,0,£,10,1,Marchmont,"Marchmont, Edinburgh",Edinburgh,EH9 1JZ,215,55.9397570000,-3.1949570000,0,0
+American Hot Dogs and Burgers,American,0,Not rated,0,£,10,1,Old Town,"Old Town, Edinburgh",Edinburgh,EH3 9AU,215,55.9453510000,-3.1911520000,0,0
+The Laughing Stock,"British, Fast Food",0,Not rated,0,£,0,1,Clackmannanshire,"Clackmannanshire, Edinburgh",Edinburgh,FK14 7PX,215,0.0000000000,0.0000000000,0,0
+Smith & Gertrude,Finger Food,3.0,Average,4,£,35,3,Stockbridge,"Stockbridge, Edinburgh",Edinburgh,EH3 5AU,215,55.9583610000,-3.2078870000,0,0
+Veeno,Finger Food,0,Not rated,1,£,0,1,New Town,"New Town, Edinburgh",Edinburgh,,215,55.9525003694,-3.1984483929,0,0

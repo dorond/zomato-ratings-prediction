@@ -1,0 +1,859 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,locality_verbose,city,zipcode,country_id,latitude,longitude,has_online_delivery,has_table_booking
+Hasan Kolcuoğlu,Turkish,4.9,Excellent,936,QR,250,4,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3693911000,51.5511967000,0,0
+The Cheesecake Factory,"American, Desserts",4.9,Excellent,287,QR,250,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3268115769,51.3524338603,0,0
+Applebee's,"American, Tex-Mex",4.7,Excellent,386,QR,220,4,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2607007200,51.4433349296,0,0
+Azraq - Banana Island Resort,"International, Sushi",4.5,Excellent,103,QR,500,4,"Banana Island Resort, Souq Waqif","Banana Island Resort, Souq Waqif, Doha",Doha,,166,25.2930930000,51.5346000000,0,0
+Ocean Basket,"Seafood, Mediterranean, Sushi",4.5,Excellent,133,QR,200,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3276561749,51.3514357433,0,0
+Yee Hwa,"Korean, Japanese, Sushi",4.4,Very Good,379,QR,150,4,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2771235800,51.5002400056,0,0
+Maison De Sushi,"Japanese, Sushi, Salad",4.4,Very Good,198,QR,260,4,"Zero One Mall, Ain Khalid","Zero One Mall, Ain Khalid, Doha",Doha,,166,25.2252217520,51.4774358645,0,0
+Eggspectation,"International, Burger",4.4,Very Good,184,QR,250,4,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3690648531,51.5528401360,1,0
+Sridan - Shangri-La Hotel,Middle Eastern,4.4,Very Good,153,QR,400,4,"Shangri-La Hotel, Dafna","Shangri-La Hotel, Dafna, Doha",Doha,,166,25.3243510000,51.5329890000,0,0
+Applebee's,"American, Tex-Mex",4.4,Very Good,202,QR,220,4,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2470910393,51.4889764041,0,0
+Hasan Kolcuoğlu,Turkish,4.3,Very Good,394,QR,250,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3267879390,51.3501657173,0,0
+Turkey Central Restaurant,Turkish,4.3,Very Good,597,QR,60,3,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2733132233,51.4962927997,0,0
+Wok of Fame,"Arabian, Asian, Continental",4.4,Very Good,602,QR,120,4,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2603362544,51.4428900182,0,0
+P.F. Chang's,"Asian, Chinese",4.3,Very Good,397,QR,220,4,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2606124842,51.4438016340,0,0
+Max's Restaurant,Filipino,4.3,Very Good,172,QR,150,4,Al Sadd,"Al Sadd, Doha",Doha,,166,25.2814249432,51.5002980083,0,0
+Shakespeare & Co.,"International, Cafe, Desserts",4.3,Very Good,211,QR,160,4,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2477697097,51.4883947000,0,0
+Shakespeare & Co.,"International, Cafe, Desserts",4.3,Very Good,254,QR,160,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3729594430,51.5433045477,1,0
+Burger Boutique,"American, Fast Food, Burger",4.3,Very Good,201,QR,230,4,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3353260793,51.4601832256,0,0
+L'wzaar Seafood Market,Seafood,4.3,Very Good,203,QR,300,4,Katara,"Katara, Doha",Doha,,166,25.3582865209,51.5268931165,0,0
+La Casa Twenty Eight,Continental,4.3,Very Good,114,QR,300,4,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3687655437,51.5518024564,0,0
+Indi Grill,"International, Indian",4.2,Very Good,171,QR,150,4,Al Sadd,"Al Sadd, Doha",Doha,,166,25.2858550000,51.5050360000,0,0
+Spice & Sizzle,"Pakistani, Mughlai, Chinese, Thai",4.2,Very Good,400,QR,170,4,Salwa Road,"Salwa Road, Doha",Doha,,166,25.2636588544,51.4963725954,1,0
+Applebee's,"American, Tex-Mex, Burger",4.2,Very Good,274,QR,220,4,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3248635545,51.5292913467,0,0
+Zaatar W Zeit,"Lebanese, Healthy Food",4.2,Very Good,229,QR,110,3,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2866201488,51.5327916294,1,0
+Sumo Sushi & Bento,"Japanese, Sushi",4.2,Very Good,150,QR,150,4,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3862805602,51.4417651668,0,0
+Maharaja Darbar Restaurant,North Indian,4.2,Very Good,223,QR,85,3,"Plaza Mall (Asian Town), Mesaimeer","Plaza Mall (Asian Town), Mesaimeer, Doha",Doha,,166,25.1849551193,51.4631527662,1,0
+Chi'Zen,"Chinese, Asian",4.2,Very Good,205,QR,280,4,"Oryx Rotana,Umm Ghuwailina","Oryx Rotana,Umm Ghuwailina, Doha",Doha,,166,25.2668279443,51.5544313565,0,1
+ISLA,Mexican,4.2,Very Good,131,QR,250,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3665767454,51.5402582288,0,0
+The Village Restaurant,"Indian, Iranian",4.2,Very Good,238,QR,250,4,"The Village, Salwa Road","The Village, Salwa Road, Doha",Doha,,166,25.2653947084,51.4980680868,0,0
+Little Yee Hwa,"Korean, Japanese, Sushi",4.2,Very Good,136,QR,90,3,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2844238018,51.5115109831,0,0
+The Butcher Shop & Grill,Steak,4.3,Very Good,222,QR,250,4,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2608156386,51.4438777417,0,0
+Trader Vic's - Hilton,"Finger Food, Asian, Sushi",4.2,Very Good,250,QR,450,4,"Hilton, Dafna","Hilton, Dafna, Doha",Doha,,166,25.3261410000,51.5395950000,0,1
+Choices - Oryx Rotana,"Sushi, International",4.3,Very Good,174,QR,450,4,"Oryx Rotana,Umm Ghuwailina","Oryx Rotana,Umm Ghuwailina, Doha",Doha,,166,25.2684710000,51.5542770000,0,0
+Paul,"French, Cafe, Bakery",4.2,Very Good,186,QR,250,4,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2582355529,51.4433181658,0,0
+Tamarind Indian,Indian,4.2,Very Good,188,QR,400,4,"Lagoona Mall, Westbay","Lagoona Mall, Westbay, Doha",Doha,,166,25.3776399948,51.5256395191,1,0
+41 Degrees WS Grill,"American, Salad",4.2,Very Good,106,QR,230,4,"Shoumoukh Towers, Fereej Bin Mahmoud","Shoumoukh Towers, Fereej Bin Mahmoud, Doha",Doha,,166,25.2807073526,51.5073495358,0,0
+P.F. Chang's,"Asian, Chinese",4.2,Very Good,78,QR,220,4,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3348345654,51.4614616334,0,0
+Shanghai Club - Shangri-La Hotel,"Cantonese, Chinese",4.2,Very Good,71,QR,400,4,"Shangri-La Hotel, Dafna","Shangri-La Hotel, Dafna, Doha",Doha,,166,25.3243540000,51.5329640000,0,0
+Roti & Boti,Indian,4.1,Very Good,924,QR,160,4,Umm Ghuwailina,"Umm Ghuwailina, Doha",Doha,,166,25.2828664782,51.5469235182,1,0
+Zaitoon Restaurant & Grills,"Indian, Chinese, Arabian, Fast Food, Kebab, Middle Eastern",4.1,Very Good,455,QR,75,3,Al Ghanim,"Al Ghanim, Doha",Doha,,166,25.2864491717,51.5410682559,1,0
+Kakori House,"North Indian, Indian",4.1,Very Good,336,QR,150,4,"Quality Mall, Nuaija","Quality Mall, Nuaija, Doha",Doha,,166,25.2518765251,51.5170128644,1,0
+Afghan Brothers Restaurant,"Khaleeji, Afghani",4.1,Very Good,248,QR,85,3,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2730191344,51.4956755564,1,0
+Emirgan Sutis,Turkish,4.1,Very Good,208,QR,250,4,"Al Emadi Financial Square, Al Hilal","Al Emadi Financial Square, Al Hilal, Doha",Doha,,166,25.2624114498,51.5269906819,1,0
+Shake Shack,"Fast Food, American",4.1,Very Good,251,QR,105,3,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2604229743,51.4439810067,0,0
+Zaoq,Pakistani,4.1,Very Good,219,QR,150,4,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3334915284,51.4620205387,1,0
+The Cheesecake Factory,"American, Desserts",4.1,Very Good,111,QR,250,4,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3842923004,51.4422298595,0,0
+Three Peppers Restaurant,"Chinese, Asian",4.1,Very Good,179,QR,120,4,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2556651157,51.5626690909,0,0
+Max's Restaurant,Filipino,4.1,Very Good,116,QR,150,4,Al Muntazah,"Al Muntazah, Doha",Doha,,166,25.2749188751,51.5259912238,0,0
+Vapiano,"Italian, Cafe",4.1,Very Good,212,QR,150,4,"The Gate, Dafna","The Gate, Dafna, Doha",Doha,,166,25.3216199124,51.5261374041,0,0
+Neo,"Japanese, Sushi, Chinese, Continental",4.1,Very Good,181,QR,300,4,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2695439813,51.5056409687,0,0
+The French Olive,"Italian, French",4.2,Very Good,147,QR,250,4,"Barwa Towers, Al Sadd","Barwa Towers, Al Sadd, Doha",Doha,,166,25.2857088743,51.5051735938,0,0
+Texas Roadhouse,"Steak, American, Burger",4.1,Very Good,105,QR,275,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3266367168,51.3511742279,0,0
+Zaman Al Khair Restaurant,"Arabian, Syrian",4.1,Very Good,107,QR,150,4,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1855725457,51.5995595232,0,0
+Layali,Lebanese,4.2,Very Good,103,QR,250,4,"Lagoona Mall, Westbay","Lagoona Mall, Westbay, Doha",Doha,,166,25.3778093285,51.5258343145,0,0
+Shebestan Palace,Iranian,4.1,Very Good,147,QR,250,4,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2806852215,51.5041322261,0,0
+Emirgan Sutis,Turkish,4.1,Very Good,94,QR,250,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3712623915,51.5469174832,1,0
+Kebab King,"Indian, Arabian",4.1,Very Good,125,QR,120,4,Bin Omran,"Bin Omran, Doha",Doha,,166,25.3096889385,51.4964778721,0,0
+Cactus Senshi,"Sushi, Japanese, Arabian",4.1,Very Good,111,QR,200,4,"Shoumoukh Towers, Fereej Bin Mahmoud","Shoumoukh Towers, Fereej Bin Mahmoud, Doha",Doha,,166,25.2807173570,51.5073264018,1,0
+Parisa,Iranian,4.1,Very Good,61,QR,280,4,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2875159560,51.5333525464,0,0
+Jasmine Thai Restaurant,Thai,4.1,Very Good,94,QR,200,4,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2877924271,51.5320241824,0,0
+Carluccio's,Italian,4.1,Very Good,66,QR,200,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3266855079,51.3511269540,0,0
+TWG Tea Salon & Boutique,"French, Cafe, Asian",4.1,Very Good,33,QR,200,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3249693206,51.3500212133,0,0
+The Cheesecake Factory,"American, Desserts",4.0,Very Good,94,QR,250,4,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2570535892,51.4419522509,0,0
+Eatopia,"International, Middle Eastern, Sushi, Burger, Pizza, Italian, Desserts, Bakery",4.0,Very Good,311,QR,150,4,"The Gate, Dafna","The Gate, Dafna, Doha",Doha,,166,25.3265015561,51.5257538483,1,0
+Kababs & Kurries,North Indian,4.0,Very Good,188,QR,135,4,"Zero One Mall, Ain Khalid","Zero One Mall, Ain Khalid, Doha",Doha,,166,25.2251723134,51.4773356169,1,0
+Romano's Macaroni Grill,Italian,4.0,Very Good,156,QR,200,4,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2610842870,51.4434103668,0,0
+Seasonal Tastes - The Westin Doha Hotel & Spa,"International, Sushi",4.0,Very Good,157,QR,400,4,"The Westin Doha Hotel & Spa, Fereej Bin Mahmoud","The Westin Doha Hotel & Spa, Fereej Bin Mahmoud, Doha",Doha,,166,25.2761800000,51.5129090000,0,0
+800 Degrees Neapolitan Pizzeria,Pizza,3.9,Good,301,QR,150,4,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3867503590,51.4422104135,0,0
+Nando's,Portuguese,4.0,Very Good,223,QR,220,4,"Al Emadi Financial Square, Al Hilal","Al Emadi Financial Square, Al Hilal, Doha",Doha,,166,25.2623189703,51.5257350728,0,0
+Olive Oil - City Centre Rotana Doha,"International, Sushi",4.0,Very Good,130,QR,300,4,"City Centre Rotana Doha, Westbay","City Centre Rotana Doha, Westbay, Doha",Doha,25522,166,25.3243085960,51.5332432970,0,1
+Jones The Grocer,"Healthy Food, British, Burger",4.0,Very Good,234,QR,250,4,"The Gate, Dafna","The Gate, Dafna, Doha",Doha,,166,25.3236092029,51.5271050110,0,0
+Turkey Restaurant,Turkish,4.0,Very Good,167,QR,65,3,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2541319849,51.5626573563,0,0
+Fuddruckers,"American, Fast Food, Burger",4.0,Very Good,162,QR,150,4,Dafna,"Dafna, Doha",Doha,,166,25.3120972920,51.5132581070,0,0
+Biella,"Italian, Pizza",4.0,Very Good,136,QR,200,4,"The Mall, Old Airport Area","The Mall, Old Airport Area, Doha",Doha,,166,25.2531449611,51.5372196212,1,0
+Remman Cafe,Lebanese,4.0,Very Good,133,QR,200,4,"Ezdan Hotel West Bay,Dafna","Ezdan Hotel West Bay,Dafna, Doha",Doha,,166,25.3175897108,51.5204621851,0,0
+Bandar Aden Restaurant,Khaleeji,4.0,Very Good,163,QR,100,3,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2894518469,51.5329820663,0,0
+Oishi Sushi,"Japanese, Sushi",4.0,Very Good,106,QR,270,4,"Royal Plaza Mall, Al Sadd","Royal Plaza Mall, Al Sadd, Doha",Doha,,166,25.2815610637,51.5015180781,0,0
+Brioche Dorée,"French, Desserts",4.0,Very Good,124,QR,210,4,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3362427382,51.4606247842,0,0
+Mamig,"Lebanese, Middle Eastern",4.0,Very Good,143,QR,300,4,Katara,"Katara, Doha",Doha,,166,25.3604212384,51.5281426907,0,0
+Triangle,"American, Italian",4.0,Very Good,110,QR,200,4,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3692414695,51.5514541045,0,0
+Biella,"Italian, Pizza",4.0,Very Good,113,QR,200,4,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3251414556,51.5292219445,1,0
+L2 - DoubleTree by Hilton,International,4.0,Very Good,74,QR,200,4,"DoubleTree by Hilton, Al Salata","DoubleTree by Hilton, Al Salata, Doha",Doha,,166,25.2886110000,51.5444330000,0,0
+Gazebo,"Indian, North Indian",4.0,Very Good,105,QR,120,4,"Barzan Souq, Umm Salal Mohammed","Barzan Souq, Umm Salal Mohammed, Doha",Doha,,166,25.4090323527,51.4220244437,1,0
+Chef's Garden,"Continental, Healthy Food, Cafe",4.1,Very Good,73,QR,200,4,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3096807550,51.4329212531,0,0
+Melenzane,Italian,4.0,Very Good,94,QR,240,4,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3361960721,51.4606073499,0,0
+Paul,"French, Cafe, Bakery",4.0,Very Good,112,QR,250,4,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3341369880,51.4663077146,0,0
+Nando's,Portuguese,4.0,Very Good,86,QR,220,4,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3365190982,51.4610874653,0,0
+Zaatar W Zeit,"Lebanese, Healthy Food",4.0,Very Good,95,QR,110,3,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1857005816,51.6003155708,1,0
+Al Mandarin,"Healthy Food, Fast Food, Beverages",4.0,Very Good,81,QR,70,3,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2718694525,51.5091318637,0,0
+Ard Canaan Restaurant,"Arabian, Middle Eastern",4.0,Very Good,74,QR,300,4,Katara,"Katara, Doha",Doha,,166,25.3592775362,51.5264904499,0,0
+Stock Burger Co - Holiday Inn Doha,"Burger, Finger Food",3.9,Good,48,QR,60,3,"Holiday Inn Doha - The Business Park, Najma","Holiday Inn Doha - The Business Park, Najma, Doha",Doha,,166,25.2732350000,51.5425070000,0,0
+Q Lounge & Restaurant - Banana Island Resort,Mediterranean,3.9,Good,39,QR,400,4,"Banana Island Resort, Souq Waqif","Banana Island Resort, Souq Waqif, Doha",Doha,,166,25.2930930000,51.5346000000,0,0
+Boston's - City Centre Rotana Doha,American,4.0,Very Good,58,QR,300,4,"City Centre Rotana Doha, Westbay","City Centre Rotana Doha, Westbay, Doha",Doha,,166,25.3251620000,51.5330770000,0,0
+"Mezzo - AlRayyan Hotel Doha, Curio Collection by Hilton",International,4.0,Very Good,30,QR,350,4,"AlRayyan Hotel Doha, Curio Collection by Hilton, Al Gharafa","AlRayyan Hotel Doha, Curio Collection by Hilton, Al Gharafa, Doha",Doha,,166,25.3248530000,51.3513200000,0,0
+MRA Bakery Sweets & Restaurant,"Kerala, Indian, Chinese, Bakery",3.9,Good,501,QR,60,3,Al Ghanim,"Al Ghanim, Doha",Doha,37751,166,25.2800707033,51.5368193015,0,0
+IHOP,"American, Fast Food, Burger",3.9,Good,284,QR,150,4,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3357863793,51.4605225250,0,0
+Spicy Route,Indian,3.9,Good,110,QR,200,4,Barwa Village,"Barwa Village, Doha",Doha,,166,25.2127826173,51.5823384002,1,0
+Applebee's,"American, Tex-Mex, Burger",3.9,Good,238,QR,220,4,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2771111498,51.5078055114,0,0
+Red Lobster,Seafood,3.9,Good,315,QR,250,4,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2854293669,51.5059494227,1,0
+Caravan Bukhara,Indian,3.8,Good,265,QR,120,4,Dafna,"Dafna, Doha",Doha,,166,25.3131853696,51.5134844184,0,0
+Zaffran Café,"Indian, Street Food, Desserts",4.3,Very Good,384,QR,45,2,"The Centre, Muntazah","The Centre, Muntazah, Doha",Doha,,166,25.2741066532,51.5154152736,1,0
+Tofu House Restaurant,Korean,4.3,Very Good,227,QR,80,3,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2841655124,51.5111203864,0,0
+Mashawi Al Arabi,Turkish,4.2,Very Good,185,QR,60,3,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2731455624,51.4974206686,0,0
+Gokul Gujarati Restaurant,Indian,4.1,Very Good,349,QR,50,2,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2855315296,51.5142216906,0,0
+Al Jamal Restaurant,Pakistani,4.1,Very Good,124,QR,60,3,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2849782733,51.5131702647,0,0
+Mashawi Al Arabi,Turkish,4.1,Very Good,99,QR,60,3,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2527986669,51.5584147722,0,0
+Al Nashama Restaurant & Sweets,"Arabian, Desserts",4.1,Very Good,69,QR,35,2,Al Muntazah,"Al Muntazah, Doha",Doha,,166,25.2720462107,51.5266336128,0,0
+Take Away,"Arabian, Fast Food",4.0,Very Good,203,QR,60,3,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2807091716,51.4982290193,0,0
+Beyti Kabab,Turkish,4.0,Very Good,90,QR,70,3,Abu Hamour,"Abu Hamour, Doha",Doha,,166,25.2321083785,51.4861158282,0,0
+Shujaa Restaurant,Afghani,4.0,Very Good,71,QR,35,2,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2889649972,51.5331486985,0,0
+Khosh Kabab,"Indian, Iranian",4.0,Very Good,66,QR,35,2,Al Ghanim,"Al Ghanim, Doha",Doha,,166,25.2792500271,51.5375217050,0,0
+Al Banuche Cafeteria,Cafeteria,4.0,Very Good,69,QR,25,1,Al Hilal,"Al Hilal, Doha",Doha,,166,25.2662864275,51.5515070781,0,0
+Habeeb Restaurant,Turkish,3.9,Good,223,QR,45,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2506823698,51.5535220876,0,0
+Burgeri,"Fast Food, American",3.9,Good,168,QR,100,3,Al Waab,"Al Waab, Doha",Doha,,166,25.2611425042,51.4394403622,0,0
+Biryani Express,"Pakistani, Biryani, Indian",3.9,Good,164,QR,70,3,Al Rayyan,"Al Rayyan, Doha",Doha,,166,25.2870181851,51.4206555113,1,0
+Beirut Restaurant,Lebanese,3.9,Good,121,QR,30,2,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2845729546,51.5089058876,0,0
+JP's Delizia,"Chinese, Cafeteria, Juices",3.9,Good,114,QR,60,3,Najma,"Najma, Doha",Doha,,166,25.2703331912,51.5458013490,0,0
+Take Away,"Arabian, Fast Food",3.9,Good,96,QR,60,3,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2532610998,51.5637879074,0,0
+Lamazani Grill,Iranian,3.8,Good,95,QR,45,2,Al Ghanim,"Al Ghanim, Doha",Doha,,166,25.2798606083,51.5369564295,0,0
+Falafel Al Akawi,Arabian,3.9,Good,68,QR,30,2,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2877524116,51.5136228874,0,0
+Which Wich,"Fast Food, Healthy Food",3.9,Good,59,QR,90,3,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3683296049,51.5515989438,0,0
+Monoprix,"Bakery, Continental, Fast Food, Salad",3.8,Good,23,QR,100,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3854139568,51.4416960999,0,0
+Firefly Burger,"American, Fast Food, Burger",3.8,Good,169,QR,75,3,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2731097866,51.4948745817,1,0
+KFC,Fast Food,3.8,Good,139,QR,45,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2612231592,51.5580677614,1,0
+Hardee's,Fast Food,3.8,Good,141,QR,40,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2591449113,51.5602423623,1,0
+Thai Corner,"Thai, Asian",3.8,Good,134,QR,70,3,"The Centre, Muntazah","The Centre, Muntazah, Doha",Doha,,166,25.2748579359,51.5156489611,0,0
+Tea Time,Cafeteria,3.8,Good,130,QR,35,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2530800689,51.5594584867,0,0
+The Gurkha Nepali Restaurant,Nepalese,3.8,Good,85,QR,40,2,Najma,"Najma, Doha",Doha,,166,25.2675956447,51.5442859009,0,0
+Thai Cuisine,Thai,3.8,Good,98,QR,65,3,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2839939255,51.5134817362,1,0
+Istanbul Sultan Dining Restaurant,Turkish,3.8,Good,85,QR,60,3,"Abu Hamour Petrol Station, Abu Hamour","Abu Hamour Petrol Station, Abu Hamour, Doha",Doha,,166,25.2386582884,51.4993619174,0,0
+Petra,Arabian,3.8,Good,71,QR,60,3,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2616055117,51.5572641045,0,0
+Ali Baba Restaurant,Arabian,3.8,Good,77,QR,30,2,Al Mansoura,"Al Mansoura, Doha",Doha,,166,25.2686337912,51.5328761190,0,0
+Jabal Lebnan Restaurant,Lebanese,3.8,Good,72,QR,55,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2741951823,51.5054488555,1,0
+Firefly Burger,"American, Fast Food",3.8,Good,41,QR,75,3,"Al Souq Al Jadeed, Al Gharafa","Al Souq Al Jadeed, Al Gharafa, Doha",Doha,,166,25.3276431438,51.4510392398,1,0
+Turkish Laayonak Restaurant,Turkish,3.8,Good,64,QR,40,2,Umm Ghuwailina,"Umm Ghuwailina, Doha",Doha,,166,25.2798678843,51.5474633127,0,0
+Al Mandarin,"Healthy Food, Beverages",3.8,Good,23,QR,50,2,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2860426453,51.5319906548,0,0
+Smoothie Factory,Beverages,3.8,Good,26,QR,60,3,Al Sadd,"Al Sadd, Doha",Doha,,166,25.2821955830,51.4968889207,0,0
+Silver Sticks Restaurant & Grill,"Arabian, Khaleeji",3.7,Good,81,QR,60,3,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2854160281,51.5150779858,1,0
+Abou Shawarma,Lebanese,3.7,Good,95,QR,80,3,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3282410563,51.4527712762,0,0
+Bahri Restaurant,"Egyptian, Bakery",3.7,Good,65,QR,65,3,Bin Omran,"Bin Omran, Doha",Doha,,166,25.3076033372,51.4971554652,0,0
+Tea Time,Cafeteria,3.7,Good,62,QR,35,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2714437763,51.5090765432,0,0
+My Sandwich,Fast Food,3.7,Good,44,QR,60,3,"Woqod Petrol Station, Al Hilal","Woqod Petrol Station, Al Hilal, Doha",Doha,,166,25.2578583446,51.5363673493,0,0
+Zanjabeel Cafeteria,Cafeteria,3.7,Good,48,QR,35,2,Ain Khalid,"Ain Khalid, Doha",Doha,,166,25.2246524490,51.4498835430,1,0
+Delhi Bakery,"Indian, Bakery, Desserts",3.7,Good,49,QR,10,1,Al Doha Al Jadeeda,"Al Doha Al Jadeeda, Doha",Doha,,166,25.2764535625,51.5363408625,0,0
+Noor Turkey,"Turkish, Arabian",3.7,Good,38,QR,45,2,Al Muntazah,"Al Muntazah, Doha",Doha,,166,25.2700484941,51.5205983073,0,0
+McDonald's,"Fast Food, Burger",3.7,Good,18,QR,50,2,Muaither,"Muaither, Doha",Doha,,166,25.2623832512,51.4304355159,0,0
+Al Saida for Sugarcane Juice,"Beverages, Juices",3.8,Good,18,QR,30,2,Al Ghanim,"Al Ghanim, Doha",Doha,,166,25.2793452222,51.5436049551,0,0
+Bawarchi Restaurant,Hyderabadi,3.6,Good,117,QR,40,2,Barwa Village,"Barwa Village, Doha",Doha,,166,25.2129773583,51.5811615810,0,0
+Sandwich Factory,"Fast Food, Lebanese, Healthy Food",3.6,Good,105,QR,120,4,"The Gate, Dafna","The Gate, Dafna, Doha",Doha,24318,166,25.3230139951,51.5257934108,1,0
+McDonald's,"Fast Food, Burger",3.6,Good,90,QR,50,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2614448086,51.5576225147,0,0
+Delhi Zaiqa,"Indian, Arabian, Chinese",3.6,Good,72,QR,60,3,Najma,"Najma, Doha",Doha,,166,25.2668127842,51.5450097620,1,0
+IKEA Restaurant,International,3.7,Good,76,QR,70,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3870823370,51.4397357404,0,0
+Dawah Restaurant,"Pakistani, Arabian",3.6,Good,85,QR,60,3,Najma,"Najma, Doha",Doha,,166,25.2708377007,51.5436448529,0,0
+Tea World,"Cafeteria, Chinese",3.6,Good,64,QR,35,2,Al Hilal,"Al Hilal, Doha",Doha,,166,25.2666645192,51.5511490032,0,0
+Vitamin Palace,"Cafeteria, Beverages",3.6,Good,69,QR,45,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2733641582,51.4973526075,0,0
+Turkey Anadolu Restaurant & Sweets,Turkish,3.6,Good,70,QR,55,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2499624747,51.5502762794,0,0
+Grill House Restaurant,Pakistani,3.6,Good,48,QR,50,2,Muaither,"Muaither, Doha",Doha,,166,25.2725073575,51.4127322659,1,0
+Take Away,"Arabian, Fast Food, Juices",3.7,Good,45,QR,60,3,Ain Khalid,"Ain Khalid, Doha",Doha,,166,25.2331495578,51.4840555564,0,0
+Lahmajun,Turkish,3.6,Good,32,QR,65,3,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2849794859,51.5086380020,1,0
+Sufra Sultan Istanbul Restaurant,Turkish,3.6,Good,49,QR,35,2,Ain Khalid,"Ain Khalid, Doha",Doha,,166,25.2294615652,51.4878213778,0,0
+Al Reef Lebanese Bakery,Lebanese,3.6,Good,33,QR,70,3,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2751353454,51.5077431500,0,0
+Mashawi Al Arabi,Turkish,3.6,Good,32,QR,60,3,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1641801609,51.5974047035,0,0
+Zanjabeel Cafeteria,Cafeteria,3.6,Good,33,QR,35,2,Westbay,"Westbay, Doha",Doha,,166,25.3566789441,51.4975973591,1,0
+Tea Time,Cafeteria,3.6,Good,36,QR,35,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2729557688,51.4930191636,0,0
+Falafel Fayda,Arabian,3.6,Good,34,QR,25,1,"Abu Hamour Petrol Station, Abu Hamour","Abu Hamour Petrol Station, Abu Hamour, Doha",Doha,,166,25.2380860156,51.4998205751,0,0
+Beirut Restaurant,Lebanese,3.6,Good,36,QR,30,2,"Al Souq Al Jadeed, Al Gharafa","Al Souq Al Jadeed, Al Gharafa, Doha",Doha,,166,25.3278661870,51.4505494013,0,0
+Shawarma Zaman Al Khair,Arabian,3.6,Good,23,QR,70,3,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1857752186,51.5996902809,0,0
+Cono Warma,"Lebanese, Fast Food",3.6,Good,22,QR,55,2,Salwa Road,"Salwa Road, Doha",Doha,,166,25.2711542308,51.4815808833,0,0
+Petra,Arabian,3.6,Good,18,QR,60,3,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2729757790,51.4948665351,0,0
+Patata Patata,Fast Food,3.6,Good,13,QR,45,2,"Souq Al Wakrah, Al Wakrah","Souq Al Wakrah, Al Wakrah, Doha",Doha,,166,25.1703383434,51.6104533151,0,0
+Take Away,"Arabian, Fast Food",3.6,Good,26,QR,60,3,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1658749514,51.6075297073,0,0
+McDonald's,"Fast Food, Burger",3.6,Good,21,QR,50,2,"Mirqab Mall, Al Nasr","Mirqab Mall, Al Nasr, Doha",Doha,,166,25.2726398497,51.5001414344,0,0
+Kamoon & Lemon,"Italian, Fast Food, Italian, Kebab, Pizza, Middle Eastern",3.6,Good,18,QR,80,3,Umm Salal Mohammed,"Umm Salal Mohammed, Doha",Doha,,166,25.4095511235,51.4219101146,1,0
+Jamaica Cocktail,Beverages,3.6,Good,16,QR,30,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2730676440,51.4955317229,0,0
+Al Naurah,Arabian,3.6,Good,20,QR,20,1,Najma,"Najma, Doha",Doha,,166,25.2639102137,51.5375689790,0,0
+Bombay Chowpatty,"Street Food, Indian",3.5,Good,209,QR,30,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2619460197,51.5576030687,0,0
+Oriental Bakery,"Indian, Chinese",3.5,Good,113,QR,45,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2529472521,51.5639404580,0,0
+Beit Jeddi Restaurant,"Arabian, Lebanese",3.5,Good,67,QR,50,2,Al Muntazah,"Al Muntazah, Doha",Doha,,166,25.2668121778,51.5197400004,0,0
+Yellow Cab Pizza Co.,Pizza,3.5,Good,53,QR,80,3,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2476414359,51.5668278560,0,0
+Banana Restaurant,"Indian, Chinese, Arabian",3.5,Good,42,QR,80,3,Musheireb,"Musheireb, Doha",Doha,,166,25.2815610637,51.5181028470,0,0
+Central Restaurant,Indonesian,3.5,Good,27,QR,40,2,Umm Ghuwailina,"Umm Ghuwailina, Doha",Doha,,166,25.2794819513,51.5473456308,0,0
+Tofu House Restaurant,Korean,3.5,Good,23,QR,80,3,Al Mansoura,"Al Mansoura, Doha",Doha,,166,25.2686895000,51.5315979000,0,0
+Shatta Restaurant,Egyptian,3.5,Good,39,QR,40,2,Najma,"Najma, Doha",Doha,,166,25.2696134125,51.5379991382,0,0
+Buns Burger,"Burger, American",3.5,Good,37,QR,130,4,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2726298446,51.4908080176,0,0
+Top Star Vegetarian Restaurant,Indian,3.5,Good,42,QR,30,2,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2840454622,51.5134331211,0,0
+Salamath Restaurant,"Sri Lankan, Chinese",3.5,Good,39,QR,40,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2517919218,51.5559662506,0,0
+Kabool Restaurant,Indian,3.5,Good,41,QR,35,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2530737010,51.5591973066,0,0
+Bursa Istanbul Restaurant Center,Turkish,3.5,Good,40,QR,65,3,Al Aziziyah,"Al Aziziyah, Doha",Doha,,166,25.2480787188,51.4526257664,0,0
+Shawarma Zaman Al Khair,Arabian,3.5,Good,37,QR,80,3,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2714698506,51.5090322867,0,0
+Summer Land Restaurant,Arabian,3.5,Good,19,QR,65,3,"Qatar Petrol Station, Markhiya","Qatar Petrol Station, Markhiya, Doha",Doha,,166,25.3490882630,51.4564516023,0,0
+Sharwa Restaurant,Indian,3.5,Good,35,QR,40,2,Salwa Road,"Salwa Road, Doha",Doha,,166,25.2487570805,51.4748978242,1,0
+Tea Time,Cafeteria,3.5,Good,23,QR,35,2,Muaither,"Muaither, Doha",Doha,,166,25.2631039823,51.4304677024,0,0
+Sharwa Restaurant,Indian,3.5,Good,16,QR,40,2,Najma,"Najma, Doha",Doha,,166,25.2662000150,51.5456846729,0,0
+Chez Mazen,Arabian,3.5,Good,28,QR,55,2,"Abu Hamour Petrol Station, Abu Hamour","Abu Hamour Petrol Station, Abu Hamour, Doha",Doha,,166,25.2376247381,51.4995932579,0,0
+Sea Shell Restaurant,"Cafeteria, Fast Food",3.5,Good,31,QR,50,2,"Qatar Petrol Station, Markhiya","Qatar Petrol Station, Markhiya, Doha",Doha,,166,25.3490779611,51.4562138915,0,0
+Bharath Vasanta Bhavan,"South Indian, North Indian, Chinese",3.5,Good,27,QR,60,3,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2550780648,51.5626037121,1,0
+Baid O Tomat,Khaleeji,3.5,Good,23,QR,100,3,"Qatar Petrol Station, Markhiya","Qatar Petrol Station, Markhiya, Doha",Doha,,166,25.3493294463,51.4568837732,0,0
+Kabab Al Tayeb,Iranian,3.5,Good,22,QR,35,2,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2872152323,51.5334876627,0,0
+Tea Time,Cafeteria,3.5,Good,17,QR,35,2,Markhiya,"Markhiya, Doha",Doha,,166,25.3389069188,51.4775253832,0,0
+Own Pizza,Italian,3.5,Good,20,QR,150,4,"Qatar Petrol Station, Markhiya","Qatar Petrol Station, Markhiya, Doha",Doha,,166,25.3487067924,51.4568542689,0,0
+Sugar & Spice,"Cafe, Desserts",4.6,Excellent,178,QR,100,3,Al Waab,"Al Waab, Doha",Doha,,166,25.2610679134,51.4397069067,0,0
+"Meesh Cafe - Crowne Plaza Doha, The Business Park","Cafe, Healthy Food",4.4,Very Good,135,QR,150,4,"Crowne Plaza Doha - The Business Park,Najma","Crowne Plaza Doha - The Business Park,Najma, Doha",Doha,,166,25.2732213000,51.5425424000,0,0
+Mokarabia,Cafe,4.4,Very Good,90,QR,100,3,"Ezdan Hotel West Bay,Dafna","Ezdan Hotel West Bay,Dafna, Doha",Doha,,166,25.3176669944,51.5206398815,0,0
+dipndip,"Cafe, Desserts",4.3,Very Good,191,QR,130,4,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3678012655,51.5520324558,0,0
+Shakespeare & Co.,"International, Cafe, Desserts",4.3,Very Good,211,QR,160,4,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2477697097,51.4883947000,0,0
+Shakespeare & Co.,"International, Cafe, Desserts",4.3,Very Good,254,QR,160,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3729594430,51.5433045477,1,0
+Sugar & Spice,"Cafe, Desserts",4.3,Very Good,142,QR,100,3,"Lagoona Mall, Westbay","Lagoona Mall, Westbay, Doha",Doha,,166,25.3763383282,51.5254256129,0,0
+Paul,"French, Cafe, Bakery",4.2,Very Good,186,QR,250,4,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2582355529,51.4433181658,0,0
+W Cafe - W Doha Hotel,"Cafe, Continental, Desserts",4.2,Very Good,72,QR,200,4,"W Doha Hotel, Dafna","W Doha Hotel, Dafna, Doha",Doha,,166,25.3291320000,51.5303740000,0,0
+FiLLi,"Cafe, Fast Food, Juices",4.1,Very Good,151,QR,55,2,Al Aziziyah,"Al Aziziyah, Doha",Doha,,166,25.2407235432,51.4569263533,1,0
+Magnolia Bakery,"Cafe, Bakery, Continental",4.1,Very Good,211,QR,200,4,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2473002813,51.4896707609,1,0
+Vapiano,"Italian, Cafe",4.1,Very Good,212,QR,150,4,"The Gate, Dafna","The Gate, Dafna, Doha",Doha,,166,25.3216199124,51.5261374041,0,0
+Tuile Coffee Shop,"Cafe, Desserts",4.0,Very Good,65,QR,100,3,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2595278768,51.4434063435,0,0
+Chapati & Karak,"Cafe, Street Food",4.1,Very Good,109,QR,20,1,Katara,"Katara, Doha",Doha,,166,25.3589788085,51.5255446360,0,0
+TWG Tea Salon & Boutique,"French, Cafe, Asian",4.1,Very Good,33,QR,200,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3249693206,51.3500212133,0,0
+The Bagel Bar Coffee House,"Cafe, American",4.0,Very Good,115,QR,85,3,Dafna,"Dafna, Doha",Doha,,166,25.3265770158,51.5375240520,0,0
+Chef's Garden,"Continental, Healthy Food, Cafe",4.1,Very Good,73,QR,200,4,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3096807550,51.4329212531,0,0
+Paul,"French, Cafe, Bakery",4.0,Very Good,112,QR,250,4,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3341369880,51.4663077146,0,0
+Bread and Bagels,"Cafe, American",4.0,Very Good,106,QR,140,4,Dafna,"Dafna, Doha",Doha,,166,25.3300650803,51.5281463787,0,0
+Figaro Coffee,Cafe,4.0,Very Good,67,QR,100,3,"Ghanem Business Center, Fereej Bin Mahmoud","Ghanem Business Center, Fereej Bin Mahmoud, Doha",Doha,,166,25.2744804761,51.5126499161,0,0
+Quick Bites - Marriott Marquis Doha,"Cafe, Desserts",4.0,Very Good,83,QR,250,4,"Marriott Marquis Doha, Dafna","Marriott Marquis Doha, Dafna, Doha",Doha,,166,25.3254280000,51.5283300000,0,0
+Pappa Roti,Cafe,3.9,Good,82,QR,70,3,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2593553454,51.4439575374,0,0
+Luminous Espresso Industry,Cafe,4.0,Very Good,28,QR,140,4,Dafna,"Dafna, Doha",Doha,,166,25.3252250000,51.5403890000,0,0
+Evergreen Organics,"Healthy Food, Cafe",3.9,Good,99,QR,250,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3761123089,51.5415429189,0,0
+Mokarabia,Cafe,4.0,Very Good,89,QR,100,3,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3669990578,51.5504807979,0,0
+Edem 46 Restaurant,"Cafe, Turkish, Desserts",3.9,Good,75,QR,100,3,Al Sadd,"Al Sadd, Doha",Doha,,166,25.2795441009,51.5068721026,1,0
+Brooks Cafe,Cafe,3.9,Good,41,QR,0,1,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2532708033,51.5591724962,0,0
+Pappa Roti,Cafe,3.9,Good,135,QR,70,3,"Al Emadi Financial Square, Al Hilal","Al Emadi Financial Square, Al Hilal, Doha",Doha,,166,25.2622073885,51.5268414840,0,0
+Caffe Vergnano 1882,"Cafe, Italian",3.9,Good,91,QR,130,4,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2749816334,51.5100139752,0,0
+The Coffee Bean & Tea Leaf,Cafe,3.9,Good,70,QR,60,3,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3261972926,51.5306612849,0,0
+Pappa Roti,Cafe,3.9,Good,43,QR,70,3,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3355281994,51.4606804401,0,0
+Café Bateel,"Continental, Cafe",3.9,Good,25,QR,250,4,Dafna,"Dafna, Doha",Doha,,166,25.3172663311,51.5286388993,1,0
+dippingo,"Desserts, Cafe",3.8,Good,98,QR,90,3,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3352982006,51.4606311545,0,0
+Chac Late,"Cafe, Desserts",3.8,Good,119,QR,100,3,Katara,"Katara, Doha",Doha,,166,25.3602918718,51.5260130167,0,0
+Opera Cafe,"Cafe, Continental",3.8,Good,92,QR,150,4,"The Mall, Old Airport Area","The Mall, Old Airport Area, Doha",Doha,,166,25.2524863342,51.5377222002,0,0
+Alison Nelson's Chocolate Bar,"Cafe, Desserts, Continental",3.7,Good,115,QR,120,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3655803368,51.5407088399,0,0
+Baba Chapatea,Cafe,3.8,Good,134,QR,55,2,Al Wakrah,"Al Wakrah, Doha",Doha,0,166,25.1718977156,51.5979170054,0,0
+Torch Tea Garden - The Torch Doha,"Cafe, International, Burger",3.8,Good,66,QR,220,4,"THE TORCH DOHA, Al Waab ","THE TORCH DOHA, Al Waab , Doha",Doha,,166,25.2623083579,51.4450351149,0,0
+Starbucks Coffee,Cafe,3.8,Good,89,QR,65,3,"Al Emadi Centre, Al Hilal","Al Emadi Centre, Al Hilal, Doha",Doha,,166,25.2704775102,51.5090876073,0,0
+Arnag,"Cafe, Desserts, Bakery",3.8,Good,36,QR,100,3,"Souq Al Wakrah, Al Wakrah","Souq Al Wakrah, Al Wakrah, Doha",Doha,,166,25.1707925934,51.6092010587,0,0
+Caffe Vergnano 1882,"Cafe, Italian",3.8,Good,89,QR,130,4,"Qatar Handball Association, Dafna","Qatar Handball Association, Dafna, Doha",Doha,,166,25.3163995361,51.5136842430,0,0
+Le Monde Cafe,Cafe,3.8,Good,24,QR,100,3,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2880628347,51.5136248991,0,0
+Lina's,"French, Cafe",3.8,Good,59,QR,185,4,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3332266769,51.4620282501,0,0
+Luxe Lounge - The Westin Doha Hotel & Spa,Cafe,3.8,Good,59,QR,250,4,"The Westin Doha Hotel & Spa, Fereej Bin Mahmoud","The Westin Doha Hotel & Spa, Fereej Bin Mahmoud, Doha",Doha,,166,25.2761800000,51.5129090000,0,0
+Al Jazeera Cafe,"Cafe, Healthy Food",3.8,Good,31,QR,120,4,Katara,"Katara, Doha",Doha,,166,25.3615037312,51.5277316421,0,0
+dipndip,"Cafe, Desserts",3.8,Good,38,QR,130,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3268409728,51.3500067964,0,0
+Caribou Coffee,Cafe,3.8,Good,36,QR,50,2,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3248387039,51.5293221921,0,0
+Cafe DeLORD,"Mediterranean, Cafe",3.8,Good,52,QR,230,4,"Ghanem Business Center, Fereej Bin Mahmoud","Ghanem Business Center, Fereej Bin Mahmoud, Doha",Doha,,166,25.2741451573,51.5124893188,0,0
+Panini Coffee Shop,Cafe,3.8,Good,30,QR,80,3,Barwa Village,"Barwa Village, Doha",Doha,,166,25.2124249848,51.5828228742,0,0
+Shades Cafe & Eatery,"Cafe, Salad",3.7,Good,27,QR,120,4,Dafna,"Dafna, Doha",Doha,,166,25.3172326899,51.5277983621,0,0
+Sarab Lounge - The St. Regis,Cafe,3.8,Good,25,QR,250,4,"The St. Regis, Westbay","The St. Regis, Westbay, Doha",Doha,,166,25.3503250000,51.5301270000,0,0
+Caribou Coffee,Cafe,3.8,Good,49,QR,50,2,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3729027942,51.5443395451,0,0
+Baba Chapatea,"Cafe, Qatari",3.8,Good,34,QR,55,2,Abu Hamour,"Abu Hamour, Doha",Doha,,166,25.2278844290,51.4916042984,0,0
+Pool Cafe - Sheraton Grand Doha Resort and Convention Hotel,Cafe,3.8,Good,13,QR,280,4,"Sheraton Grand Doha Resort and Convention Hotel, Dafna","Sheraton Grand Doha Resort and Convention Hotel, Dafna, Doha",Doha,,166,25.3179690000,51.5365970000,0,0
+Café #999,"Cafe, Contemporary, Continental, International, Middle Eastern, Burger, Healthy Food, Desserts",3.7,Good,105,QR,150,4,Bin Omran,"Bin Omran, Doha",Doha,,166,25.3032860729,51.5080212546,0,0
+Doha Rocks!,"Cafe, Indian",3.7,Good,209,QR,80,3,Al Hilal,"Al Hilal, Doha",Doha,,166,25.2627695417,51.5558462217,0,0
+Fanajeen Café,"Cafe, Continental, Healthy Food, Mediterranean, Middle Eastern, Burger, International, Desserts",3.8,Good,53,QR,150,4,"The Gate, Dafna","The Gate, Dafna, Doha",Doha,,166,25.3230864264,51.5244160965,0,0
+Fouj Cafe,"Cafe, Continental, Bakery, Burger, Qatari",3.7,Good,83,QR,150,4,Al Asmakh,"Al Asmakh, Doha",Doha,,166,25.2819230402,51.5348287672,0,0
+The Atelier Art Cafe,"Cafe, Continental",3.7,Good,80,QR,260,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3706937739,51.5403772518,0,0
+Tim Hortons,"Cafe, Bakery",3.7,Good,72,QR,70,3,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3249444701,51.5294469148,0,0
+Café Coco,"Cafe, Bakery",3.7,Good,55,QR,100,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3860979106,51.4412340894,0,0
+Karaki,"Cafe, Qatari",3.7,Good,49,QR,55,2,"Megapolis, The Pearl Qatar","Megapolis, The Pearl Qatar, Doha",Doha,,166,25.3673598702,51.5510293096,0,0
+Cioccolatitaliani,"Italian, Cafe, Desserts",3.8,Good,50,QR,220,4,"Lagoona Mall, Westbay","Lagoona Mall, Westbay, Doha",Doha,,166,25.3772128728,51.5248925239,0,0
+Paul,"French, Cafe, Bakery",3.7,Good,55,QR,250,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3697376906,51.5407430381,0,0
+La Varenne,"French, Cafe",3.7,Good,65,QR,400,4,"Tornado Tower, Dafna","Tornado Tower, Dafna, Doha",Doha,,166,25.3187128952,51.5248475969,0,0
+Caribou Coffee,Cafe,3.7,Good,55,QR,50,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2759042061,51.5077377856,0,0
+Al Shurfa Arabic Lounge,"Cafe, Continental",3.7,Good,44,QR,200,4,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2891011092,51.5332452580,0,0
+Tea Club,"Continental, Cafe",3.7,Good,53,QR,60,3,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3636499042,51.5423744917,0,0
+Chaya Kada,"Cafe, Beverages",3.7,Good,54,QR,30,2,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2839539087,51.5127779916,0,0
+Pappa Roti,Cafe,3.8,Good,45,QR,70,3,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3323121163,51.4624922723,0,0
+Orangery Cafe Trottoir - La Cigale Hotel,"Cafe, Bakery, Desserts",3.7,Good,22,QR,300,4,"La Cigale Hotel, Bin Mahmoud","La Cigale Hotel, Bin Mahmoud, Doha",Doha,,166,25.2800190000,51.5078670000,0,0
+Al Koot Cafe,"Cafe, Italian",3.7,Good,25,QR,150,4,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2876845064,51.5331413224,0,0
+The Coffee Bean & Tea Leaf,Cafe,3.7,Good,24,QR,60,3,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3665319087,51.5516733751,0,0
+Tiger Cookies,"Cafe, Desserts",3.7,Good,37,QR,65,3,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2389230433,51.5715431795,0,0
+Life with Cacao,"Desserts, Cafe, Continental",3.7,Good,25,QR,200,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3254514799,51.3501097262,0,0
+Caramel - City Centre Rotana Doha,"Cafe, Desserts",3.7,Good,18,QR,150,4,"City Centre Rotana Doha, Westbay","City Centre Rotana Doha, Westbay, Doha",Doha,,166,25.3251640000,51.5330790000,0,0
+Urban Jazz Kitchen,"Cafe, Continental, Burger",3.6,Good,86,QR,250,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3724853494,51.5420828015,0,0
+Paul,"French, Cafe, Bakery",3.6,Good,76,QR,250,4,"Lagoona Mall, Westbay","Lagoona Mall, Westbay, Doha",Doha,,166,25.3749378926,51.5255178139,0,0
+The Dining Room - Fraser Suites Doha,Cafe,3.6,Good,27,QR,100,3,"Fraser Suites Doha, Al Souq","Fraser Suites Doha, Al Souq, Doha",Doha,,166,25.2906070000,51.5439140000,0,0
+Espression by LavAzza,"Cafe, Italian",3.6,Good,76,QR,170,4,"The Gate, Dafna","The Gate, Dafna, Doha",Doha,,166,25.3243756348,51.5270305797,0,0
+Angelina,"Cafe, French",3.6,Good,64,QR,200,4,"The Gate, Dafna","The Gate, Dafna, Doha",Doha,,166,25.3217856878,51.5265561640,0,0
+Eli France Cafe,"Continental, Cafe",3.7,Good,53,QR,170,4,Salwa Road,"Salwa Road, Doha",Doha,,166,25.2511866577,51.4745347202,0,0
+Java U,Cafe,3.6,Good,62,QR,50,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2769901831,51.5010248870,0,0
+Caffe Vergnano 1882,"Cafe, Italian",3.6,Good,49,QR,130,4,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2475474289,51.4889408648,0,0
+Red Velvet Cupcakery,"Cafe, Desserts",3.6,Good,53,QR,80,3,Katara,"Katara, Doha",Doha,,166,25.3582153226,51.5256995335,0,0
+Cafe Ceramique,"Cafe, Fast Food",3.6,Good,41,QR,100,3,"The Mall, Old Airport Area","The Mall, Old Airport Area, Doha",Doha,,166,25.2537126145,51.5372585133,0,0
+Fy Cafe,"Cafe, Continental",3.6,Good,39,QR,300,4,"Barwa Towers, Al Sadd","Barwa Towers, Al Sadd, Doha",Doha,,166,25.2859410893,51.5052802116,0,0
+Cafe Murano - Marsa Malaz Kempinski,"Cafe, Desserts",3.6,Good,29,QR,250,4,"Marsa Malaz Kempinski, Pearl Qatar","Marsa Malaz Kempinski, Pearl Qatar, Doha",Doha,,166,25.3764060000,51.5495680000,0,0
+N.ZAIN Cafe,"Khaleeji, Cafe, Qatari",3.6,Good,20,QR,200,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3762120080,51.5446889028,0,0
+L'Evidence Cafe,"Cafe, Bakery, Desserts",3.6,Good,23,QR,80,3,Al Muntazah,"Al Muntazah, Doha",Doha,,166,25.2734508687,51.5238015354,0,0
+Volume Cafe,"Arabian, Cafe",3.6,Good,42,QR,200,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3760641798,51.5451706946,0,0
+Baiz Cafe & Restaurant,"Continental, Cafe",3.6,Good,24,QR,200,4,"Souq Al Wakrah, Al Wakrah","Souq Al Wakrah, Al Wakrah, Doha",Doha,,166,25.1710823779,51.6110035032,0,0
+Starbucks Coffee,Cafe,3.6,Good,40,QR,65,3,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3252102490,51.5307464451,0,0
+Magnolia Bakery,"Cafe, Bakery, Continental",3.6,Good,16,QR,200,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3264345818,51.3519805670,0,0
+Ladurée,"Cafe, French",3.6,Good,36,QR,300,4,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2602571149,51.4365801215,0,0
+Anima Lounge,"Cafe, Healthy Food, Burger",3.6,Good,43,QR,250,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3654670323,51.5440847352,0,0
+Karak Mqanes,"Cafe, Qatari",3.6,Good,28,QR,150,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,38058,166,25.3686952604,51.5486022457,1,0
+Caffé Concerto,"European, Cafe",3.6,Good,23,QR,200,4,"Mirqab Mall, Al Nasr","Mirqab Mall, Al Nasr, Doha",Doha,,166,25.2732530000,51.5014340000,0,0
+Al Baranda Coffeeshop,"Cafe, Khaleeji",3.6,Good,18,QR,60,3,"Souq Al Wakrah, Al Wakrah","Souq Al Wakrah, Al Wakrah, Doha",Doha,,166,25.1692265314,51.6103114933,0,0
+Tim Hortons,"Cafe, Bakery",3.5,Good,28,QR,70,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3854924087,51.4423411712,0,0
+Al Aker Sweets,"Desserts, Arabian",4.7,Excellent,139,QR,65,3,Salwa Road,"Salwa Road, Doha",Doha,,166,25.2629084120,51.4962099865,0,0
+Al Aker Sweets,"Desserts, Arabian",4.5,Excellent,95,QR,65,3,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2867553540,51.5330078825,0,0
+Haagen Dazs,"Ice Cream, Desserts",4.2,Very Good,48,QR,60,3,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2600955003,51.4440916479,0,0
+Poffy's,"Ice Cream, Desserts, Beverages",3.9,Good,34,QR,60,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3838879200,51.4432340115,0,0
+Al Aker Sweets,"Desserts, Arabian",4.0,Very Good,48,QR,65,3,"Souq Al Wakrah, Al Wakrah","Souq Al Wakrah, Al Wakrah, Doha",Doha,,166,25.1690830025,51.6105046123,0,0
+Al Aker Sweets,"Desserts, Arabian",4.0,Very Good,42,QR,65,3,Fereej Bin Mahmoud,"Fereej Bin Mahmoud, Doha",Doha,,166,25.2848542829,51.5088348091,0,0
+Krispy Kreme,"Desserts, Coffee",4.0,Very Good,81,QR,35,2,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2611100602,51.4436561242,0,0
+dippingo,"Desserts, Cafe",3.8,Good,98,QR,90,3,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3352982006,51.4606311545,0,0
+Chac Late,"Cafe, Desserts",3.8,Good,119,QR,100,3,Katara,"Katara, Doha",Doha,,166,25.3602918718,51.5260130167,0,0
+Alison Nelson's Chocolate Bar,"Cafe, Desserts, Continental",3.7,Good,115,QR,120,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3655803368,51.5407088399,0,0
+Cold Stone Creamery,Ice Cream,3.8,Good,46,QR,30,2,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2608541469,51.4436403662,0,0
+Nafeeseh Sweets,"Desserts, Arabian",3.8,Good,26,QR,70,3,Abu Hamour,"Abu Hamour, Doha",Doha,,166,25.2303074478,51.4875474572,0,0
+Cold Stone Creamery,Ice Cream,3.8,Good,22,QR,30,2,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2569841507,51.4381854236,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.7,Good,30,QR,30,2,"Al Meera, Mansoura","Al Meera, Mansoura, Doha",Doha,,166,25.2714819781,51.5292946994,0,0
+Life with Cacao,"Desserts, Cafe, Continental",3.7,Good,25,QR,200,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3254514799,51.3501097262,0,0
+Haagen Dazs,"Ice Cream, Desserts",3.7,Good,27,QR,60,3,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3693011494,51.5394743532,0,0
+Haagen Dazs,"Ice Cream, Desserts",3.7,Good,29,QR,60,3,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3335912264,51.4660039544,0,0
+Al Aker Sweets,"Desserts, Arabian",3.7,Good,26,QR,65,3,"Al Souq Al Jadeed, Al Gharafa","Al Souq Al Jadeed, Al Gharafa, Doha",Doha,,166,25.3278134568,51.4508001879,0,0
+Pinkberry,"Ice Cream, Desserts",3.7,Good,36,QR,50,2,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3343197161,51.4674298838,0,0
+Pinkberry,"Ice Cream, Desserts",3.7,Good,32,QR,50,2,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2604945333,51.4441094175,0,0
+Marble Slab Creamery,Desserts,3.6,Good,29,QR,60,3,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3727328477,51.5447425470,0,0
+TCBY,Desserts,3.6,Good,35,QR,30,2,"Caravan Complex, Al Hilal","Caravan Complex, Al Hilal, Doha",Doha,,166,25.2710299231,51.5110804886,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.6,Good,25,QR,30,2,Umm Ghuwailina,"Umm Ghuwailina, Doha",Doha,,166,25.2823207888,51.5453390032,0,0
+Al Aker Sweets,"Desserts, Arabian",3.7,Good,19,QR,65,3,Salwa Road,"Salwa Road, Doha",Doha,,166,25.2542344772,51.4819909260,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.5,Good,26,QR,30,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1714480213,51.5977369621,0,0
+La Creme,Desserts,3.6,Good,13,QR,40,2,"Royal Plaza Mall, Al Sadd","Royal Plaza Mall, Al Sadd, Doha",Doha,,166,25.2812830625,51.5015425533,0,0
+Cold Stone Creamery,Ice Cream,3.6,Good,20,QR,30,2,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3319351384,51.4629556239,0,0
+Menchie's Frozen Yogurt,Desserts,3.6,Good,20,QR,45,2,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3683738350,51.5516435355,0,0
+Chocoglaze,"Cafe, Desserts",3.5,Good,20,QR,130,4,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2468035585,51.4890743047,0,0
+Gelato Mondo,Desserts,3.5,Good,25,QR,30,2,"Woqod Petrol Station, Al Hilal","Woqod Petrol Station, Al Hilal, Doha",Doha,,166,25.2580339104,51.5360894054,0,0
+Gharissa,Ice Cream,3.5,Good,29,QR,30,2,"Souq Al Wakrah, Al Wakrah","Souq Al Wakrah, Al Wakrah, Doha",Doha,,166,25.1703198335,51.6104077175,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.5,Good,22,QR,30,2,Al Sadd,"Al Sadd, Doha",Doha,,166,25.2820385451,51.5027059615,0,0
+Pinkberry,"Ice Cream, Desserts",3.5,Good,20,QR,50,2,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3320266557,51.4623849839,0,0
+Haagen Dazs,"Ice Cream, Desserts",3.5,Good,22,QR,60,3,"Lagoona Mall, Westbay","Lagoona Mall, Westbay, Doha",Doha,,166,25.3748673100,51.5253850445,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.5,Good,13,QR,30,2,"The Centre, Muntazah","The Centre, Muntazah, Doha",Doha,,166,25.2749740539,51.5161059424,0,0
+Cold Stone Creamery,Ice Cream,3.4,Average,15,QR,30,2,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3348630502,51.4614381641,0,0
+Pierre Herme Paris,Desserts,3.5,Good,13,QR,150,4,"Lagoona Mall, Westbay","Lagoona Mall, Westbay, Doha",Doha,,166,25.3747749164,51.5254658461,0,0
+Dunkin' Donuts,Desserts,3.5,Good,14,QR,30,2,"Lulu Hypermarket, Old Airport Area","Lulu Hypermarket, Old Airport Area, Doha",Doha,,166,25.2557254581,51.5457195416,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.4,Average,12,QR,30,2,Barwa Village,"Barwa Village, Doha",Doha,,166,25.2131229588,51.5828708187,0,0
+Cinnzeo,Desserts,3.3,Average,37,QR,60,3,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3249644718,51.5301737934,0,0
+Patisserie Suisse,"Bakery, Desserts",3.4,Average,24,QR,30,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2535846501,51.5606678277,0,0
+Dunkin' Donuts,Desserts,3.4,Average,17,QR,30,2,Markhiya,"Markhiya, Doha",Doha,,166,25.3212422950,51.4894786477,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.5,Good,10,QR,30,2,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2471095375,51.4892074093,0,0
+Maia Chocolate,"Desserts, Turkish",3.4,Average,19,QR,150,4,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3692245046,51.5516264364,0,0
+Cold Stone Creamery,Ice Cream,3.4,Average,15,QR,30,2,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3250102330,51.5298116952,0,0
+Pinkberry,"Ice Cream, Desserts",3.4,Average,15,QR,50,2,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3361154670,51.4610572904,0,0
+Cinnzeo,"Desserts, Coffee",3.4,Average,13,QR,60,3,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2556860385,51.4373733848,0,0
+Cold Stone Creamery,Ice Cream,3.4,Average,11,QR,30,2,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2556269090,51.4373606443,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.4,Average,7,QR,30,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2729124134,51.4943844080,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.4,Average,12,QR,30,2,"Lulu Hypermarket, Old Airport Area","Lulu Hypermarket, Old Airport Area, Doha",Doha,,166,25.2557284904,51.5457480401,0,0
+Le Macaron Paris,Desserts,3.3,Average,11,QR,40,2,"Al Mana Petrol Station, Salwa Road","Al Mana Petrol Station, Salwa Road, Doha",Doha,,166,25.2628471636,51.4937802404,0,0
+Wafflemeister,"Desserts, Cafe",3.3,Average,27,QR,90,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3866637296,51.4421225712,0,0
+Fauchon,"Desserts, Cafe, French",3.3,Average,13,QR,100,3,"Lagoona Mall, Westbay","Lagoona Mall, Westbay, Doha",Doha,,166,25.3766345896,51.5240586922,0,0
+La Gelateria Fina,"Desserts, Beverages",3.3,Average,12,QR,65,3,Katara,"Katara, Doha",Doha,,166,25.3563977826,51.5254691988,0,0
+Edible Arrangements,"Desserts, Healthy Food",3.2,Average,9,QR,80,3,"Lagoona Mall, Westbay","Lagoona Mall, Westbay, Doha",Doha,,166,25.3750845105,51.5253572166,0,0
+Violette Chocolatier,Desserts,3.3,Average,8,QR,100,3,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3674277306,51.5506511182,0,0
+Cinnzeo,Desserts,3.3,Average,18,QR,60,3,"The Mall, Old Airport Area","The Mall, Old Airport Area, Doha",Doha,,166,25.2529909179,51.5371042863,0,0
+Khan Le Kunafa,"Desserts, Arabian",3.3,Average,8,QR,55,2,Muaither,"Muaither, Doha",Doha,,166,25.2683481805,51.4235043526,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.3,Average,14,QR,30,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1782694203,51.6035898775,0,0
+Guylian,Desserts,3.3,Average,12,QR,150,4,"Al Hazm Mall, Markhiya","Al Hazm Mall, Markhiya, Doha",Doha,,166,25.3313442141,51.4986246452,0,0
+Shahad Al Jazeera Sweets & Pastries,"Bakery, Desserts",3.3,Average,15,QR,50,2,"Abu Hamour Petrol Station, Abu Hamour","Abu Hamour Petrol Station, Abu Hamour, Doha",Doha,,166,25.2378082182,51.4996629953,0,0
+Alison Nelson's Chocolate Bar,"Cafe, Desserts, Continental",3.3,Average,12,QR,120,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3259742463,51.3507568091,0,0
+Gelarto Rosa,"Desserts, Cafe",3.3,Average,9,QR,120,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3657930097,51.5449370071,0,0
+Biscotti - Grand Hyatt,"Desserts, Bakery",3.3,Average,8,QR,200,4,"Grand Hyatt, Westbay","Grand Hyatt, Westbay, Doha",Doha,,166,25.3770270000,51.5274240000,0,0
+Poffertjes,Desserts,3.3,Average,11,QR,55,2,Katara,"Katara, Doha",Doha,,166,25.3548904670,51.5252894908,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.3,Average,11,QR,30,2,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3341672912,51.4654862881,0,0
+Dunkin' Donuts,Desserts,3.3,Average,11,QR,30,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2617155780,51.5575316548,0,0
+Haagen Dazs,"Ice Cream, Desserts",3.3,Average,12,QR,60,3,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3249481068,51.5301265195,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.3,Average,11,QR,30,2,"Lulu Hypermarket, Mesaimeer","Lulu Hypermarket, Mesaimeer, Doha",Doha,,166,25.1965619079,51.5084623173,0,0
+King Sweets,"Pakistani, Desserts, Street Food",3.3,Average,11,QR,25,1,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2513622331,51.5553198382,0,0
+Haagen Dazs,"Ice Cream, Desserts",3.3,Average,6,QR,60,3,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3274888922,51.3486998901,0,0
+La Cigale Traiteur - La Cigale Hotel,"Bakery, Desserts, Ice Cream",3.3,Average,14,QR,100,3,"La Cigale Hotel, Bin Mahmoud","La Cigale Hotel, Bin Mahmoud, Doha",Doha,,166,25.2800190000,51.5078670000,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.2,Average,15,QR,30,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2617122427,51.5571940318,0,0
+Madeleine,"Desserts, Ice Cream, Bakery",3.2,Average,9,QR,55,2,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.2974033478,51.4705258235,0,0
+Fauchon,"Desserts, Cafe, French",3.2,Average,21,QR,75,3,"Royal Plaza Mall, Al Sadd","Royal Plaza Mall, Al Sadd, Doha",Doha,,166,25.2814255496,51.5013102070,0,0
+GODIVA,"Desserts, Cafe",3.3,Average,14,QR,170,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3249696237,51.3499477878,0,0
+Amorino,Desserts,3.3,Average,5,QR,100,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3856002422,51.4438408613,0,0
+Patchi,Desserts,3.2,Average,7,QR,80,3,Al Sadd,"Al Sadd, Doha",Doha,,166,25.2844271365,51.5054964647,0,0
+Popcorn Girl,Desserts,3.2,Average,11,QR,40,2,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3324887865,51.4620574191,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.2,Average,11,QR,30,2,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2609957483,51.4432031661,0,0
+Dunkin' Donuts,"Desserts, Coffee",3.3,Average,10,QR,30,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1783455790,51.6036361456,0,0
+Krispy Kreme,"Desserts, Coffee",3.2,Average,9,QR,35,2,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3279710415,51.3506505266,0,0
+Bateel,Desserts,3.3,Average,9,QR,50,2,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3849777752,51.4424585178,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.2,Average,6,QR,30,2,"Westbay Petrol Station, Dafna","Westbay Petrol Station, Dafna, Doha",Doha,,166,25.3261100136,51.5175439417,0,0
+Galler Chocolatier,"Desserts, Cafe",3.2,Average,7,QR,230,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3259942477,51.3507789373,0,0
+Dunkin' Donuts,"Desserts, Coffee",3.2,Average,11,QR,30,2,"The Centre, Muntazah","The Centre, Muntazah, Doha",Doha,,166,25.2750031591,51.5161247179,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.2,Average,6,QR,30,2,Al Aziziyah,"Al Aziziyah, Doha",Doha,,166,25.2522173636,51.4507160336,0,0
+Dr. Juice,Healthy Food,3.2,Average,8,QR,70,3,Al Asmakh,"Al Asmakh, Doha",Doha,,166,25.2813209580,51.5343664214,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.2,Average,7,QR,30,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2539394325,51.5620488301,0,0
+Dunkin' Donuts,"Desserts, Coffee",3.1,Average,6,QR,30,2,"Messila Petrol Station, Madinat Khalifa","Messila Petrol Station, Madinat Khalifa, Doha",Doha,,166,25.2948037303,51.4843224362,0,0
+Haagen Dazs,"Ice Cream, Desserts",3.1,Average,9,QR,60,3,"Mirqab Mall, Al Nasr","Mirqab Mall, Al Nasr, Doha",Doha,,166,25.2732486451,51.5009353682,0,0
+Gelato Mondo,Desserts,3.2,Average,5,QR,30,2,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3285331929,51.3497322053,0,0
+il Gelato Di Bruno,"Desserts, Cafe, Bakery",3.2,Average,7,QR,80,3,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3669633097,51.5507818758,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.1,Average,9,QR,30,2,"Al Asmakh Mall (Centerpoint Mall), Al Sadd","Al Asmakh Mall (Centerpoint Mall), Al Sadd, Doha",Doha,,166,25.2821807281,51.4954002947,0,0
+Bateel,Desserts,3.2,Average,5,QR,50,2,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3251023616,51.5296594799,0,0
+Pinkberry,"Ice Cream, Desserts",3.2,Average,5,QR,50,2,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3280192260,51.3508332521,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.2,Average,7,QR,30,2,"Royal Plaza Mall, Al Sadd","Royal Plaza Mall, Al Sadd, Doha",Doha,,166,25.2814491963,51.5017212555,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.2,Average,3,QR,30,2,Muaither,"Muaither, Doha",Doha,,166,25.2738744156,51.4077755436,0,0
+Monkey Cookies,Desserts,3.2,Average,4,QR,40,2,"Barzan Souq, Umm Salal Mohammed","Barzan Souq, Umm Salal Mohammed, Doha",Doha,,166,25.4079957130,51.4187410846,0,0
+il Gelato Di Bruno,"Desserts, Bakery, Cafe",3.2,Average,6,QR,80,3,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3271746305,51.3499015197,0,0
+Magnolia Bakery,"Cafe, Bakery, Continental",4.1,Very Good,211,QR,200,4,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2473002813,51.4896707609,1,0
+Eatopia,"International, Middle Eastern, Sushi, Burger, Pizza, Italian, Desserts, Bakery",4.0,Very Good,311,QR,150,4,"The Gate, Dafna","The Gate, Dafna, Doha",Doha,,166,25.3265015561,51.5257538483,1,0
+MRA Bakery Sweets & Restaurant,"Kerala, Indian, Chinese, Bakery",3.9,Good,501,QR,60,3,Al Ghanim,"Al Ghanim, Doha",Doha,37751,166,25.2800707033,51.5368193015,0,0
+Monoprix,"Bakery, Continental, Fast Food, Salad",3.8,Good,23,QR,100,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3854139568,51.4416960999,0,0
+Opera Patisserie,"Bakery, Desserts",3.8,Good,76,QR,50,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2803550737,51.4983634651,0,0
+Delhi Bakery,"Indian, Bakery, Desserts",3.7,Good,49,QR,10,1,Al Doha Al Jadeeda,"Al Doha Al Jadeeda, Doha",Doha,,166,25.2764535625,51.5363408625,0,0
+Orangery Cafe Trottoir - La Cigale Hotel,"Cafe, Bakery, Desserts",3.7,Good,22,QR,300,4,"La Cigale Hotel, Bin Mahmoud","La Cigale Hotel, Bin Mahmoud, Doha",Doha,,166,25.2800190000,51.5078670000,0,0
+Batteel Cafe,"Bakery, Beverages",3.6,Good,29,QR,35,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2668358275,51.5013558045,0,0
+Magnolia Bakery,"Bakery, Desserts",3.6,Good,55,QR,100,3,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3330572807,51.4620480314,1,0
+Le Pain Quotidien,"European, Bakery, Desserts",3.6,Good,30,QR,220,4,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3843280434,51.4422328770,0,0
+Magnolia Bakery,"Cafe, Bakery, Continental",3.6,Good,16,QR,200,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3264345818,51.3519805670,0,0
+The Four Bakers,"Bakery, Arabian, Pizza",3.6,Good,41,QR,55,2,Abu Hamour,"Abu Hamour, Doha",Doha,,166,25.2304175425,51.4875501394,0,0
+Opera Bakery,Bakery,3.6,Good,22,QR,15,1,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2528338422,51.5588285029,0,0
+Ci Gusta,"Bakery, Desserts",3.5,Good,29,QR,45,2,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3374308997,51.4597607777,0,0
+Le Pain Quotidien,"European, Bakery, Desserts",3.5,Good,20,QR,220,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3263760930,51.3504647836,0,0
+Batteel Bakery,"Bakery, Beverages",3.5,Good,17,QR,35,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1790492099,51.6045132279,0,0
+La Patisserie - Souq Waqif Boutique Hotel Al Bidda,Bakery,3.5,Good,13,QR,150,4,"Souq Waqif Boutique Hotel Al Bidda, Souq Waqif","Souq Waqif Boutique Hotel Al Bidda, Souq Waqif, Doha",Doha,,166,25.2892169103,51.5324607119,0,0
+New Day Cafe & Bakery,"Cafe, Bakery, Healthy Food",3.5,Good,17,QR,200,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3722050000,51.5472030000,0,0
+Sweet Moments The Boutique,"Bakery, Desserts",3.4,Average,9,QR,70,3,Al Muntazah,"Al Muntazah, Doha",Doha,,166,25.2669956138,51.5195928141,0,0
+Monoprix,"Bakery, Continental, Fast Food",3.4,Average,15,QR,100,3,Dafna,"Dafna, Doha",Doha,,166,25.3177970127,51.5275187418,0,0
+Patisserie Suisse,"Bakery, Desserts",3.4,Average,24,QR,30,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2535846501,51.5606678277,0,0
+Jazz Cafe,"Cafe, Bakery",3.4,Average,15,QR,80,3,"Woqod Petrol Station, Al Hilal","Woqod Petrol Station, Al Hilal, Doha",Doha,,166,25.2582164500,51.5361175686,0,0
+Hot Bread Bakery,"Bakery, Desserts, Arabian",3.4,Average,25,QR,30,2,Najma,"Najma, Doha",Doha,,166,25.2642331292,51.5376182646,0,0
+Ci Gusta,"Bakery, Desserts",3.4,Average,9,QR,45,2,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3853055173,51.4430160820,0,0
+Magnolia Bakery - Mondrian Doha,"Cafe, Bakery, Continental",3.5,Good,17,QR,110,3,"Mondrian Doha, Westbay","Mondrian Doha, Westbay, Doha",Doha,24685,166,25.3767410000,51.5232350000,0,0
+Tasmeem,"Bakery, Desserts",3.4,Average,10,QR,45,2,"The Mall, Old Airport Area","The Mall, Old Airport Area, Doha",Doha,,166,25.2524114349,51.5377510339,0,0
+Al Naurah,Arabian,3.4,Average,14,QR,20,1,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1625537000,51.5978169000,0,0
+Soghaat Sweets & Bakers,Bakery,3.3,Average,44,QR,100,3,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2722296388,51.5087456256,0,0
+Ci Gusta,"Bakery, Desserts",3.3,Average,14,QR,45,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2729205994,51.4945393056,0,0
+Saida Bakery & Stores,"Bakery, Lebanese",3.3,Average,14,QR,15,1,Musheireb,"Musheireb, Doha",Doha,,166,25.2861202522,51.5230525285,0,0
+Opera Bakery,Bakery,3.3,Average,14,QR,40,2,Ain Khalid,"Ain Khalid, Doha",Doha,,166,25.2332748142,51.4840817079,0,0
+Batteel Bakery,"Bakery, Beverages",3.4,Average,10,QR,35,2,"Westbay Petrol Station, Dafna","Westbay Petrol Station, Dafna, Doha",Doha,,166,25.3259109083,51.5175258368,0,0
+Batteel Bakery & Cafe,"Bakery, Beverages",3.3,Average,17,QR,35,2,"Al Jazeera Petrol Station, Salwa Road","Al Jazeera Petrol Station, Salwa Road, Doha",Doha,,166,25.2422246975,51.4633871242,0,0
+Shahad Al Jazeera Sweets & Pastries,"Bakery, Desserts",3.3,Average,15,QR,50,2,"Abu Hamour Petrol Station, Abu Hamour","Abu Hamour Petrol Station, Abu Hamour, Doha",Doha,,166,25.2378082182,51.4996629953,0,0
+Hot Bread Bakery,Bakery,3.3,Average,17,QR,35,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2503585085,51.5519989282,0,0
+Batteel Cafe,"Bakery, Beverages",3.2,Average,10,QR,35,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2731783063,51.4949513599,0,0
+Omar Al Khayyam Bakery,"Bakery, Arabian",3.3,Average,12,QR,10,1,Al Doha Al Jadeeda,"Al Doha Al Jadeeda, Doha",Doha,,166,25.2753178593,51.5321619809,0,0
+La Cigale Traiteur - La Cigale Hotel,"Bakery, Desserts, Ice Cream",3.3,Average,14,QR,100,3,"La Cigale Hotel, Bin Mahmoud","La Cigale Hotel, Bin Mahmoud, Doha",Doha,,166,25.2800190000,51.5078670000,0,0
+Opera Patisserie,"Bakery, Desserts",3.2,Average,7,QR,50,2,Bin Omran,"Bin Omran, Doha",Doha,,166,25.2923547159,51.5034710616,0,0
+Patisserie Suisse,"Bakery, Desserts",3.2,Average,11,QR,30,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1777284194,51.6038466990,0,0
+Al Midyaf Bakery & Sweets,"Bakery, Desserts",3.2,Average,17,QR,25,1,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1537611578,51.5992574394,0,0
+Opera Patisserie,"Bakery, Desserts",3.2,Average,7,QR,50,2,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.2969192581,51.4714444801,0,0
+French Corner,"Bakery, Desserts",3.2,Average,8,QR,40,2,Markhiya,"Markhiya, Doha",Doha,,166,25.3200442765,51.4917773008,0,0
+Al Gharafa Automatic Bakery,Bakery,3.2,Average,11,QR,25,1,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3283525774,51.4523682743,0,0
+Choowy Goowy,"Bakery, Desserts",3.2,Average,9,QR,30,2,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2575011479,51.4419019595,0,0
+Al Fanar Pastry,Bakery,3.2,Average,11,QR,25,1,Abu Hamour,"Abu Hamour, Doha",Doha,,166,25.2534715440,51.5020347387,0,0
+Opera,"Bakery, Desserts",3.2,Average,11,QR,50,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1657769364,51.6074703634,0,0
+Al Senioura Sweet Company,"Bakery, Desserts",3.2,Average,6,QR,30,2,Markhiya,"Markhiya, Doha",Doha,,166,25.3227391196,51.4871642366,0,0
+Al Said Bakery,"Bakery, Desserts",3.2,Average,12,QR,10,1,Al Doha Al Jadeeda,"Al Doha Al Jadeeda, Doha",Doha,,166,25.2747584928,51.5239601210,0,0
+Amazing Cupcake,"Bakery, Desserts",3.2,Average,7,QR,30,2,Al Aziziyah,"Al Aziziyah, Doha",Doha,,166,25.2553258030,51.4406711608,0,0
+Al Rayyan Bakery,"Bakery, Turkish",3.1,Average,20,QR,25,1,Al Rayyan,"Al Rayyan, Doha",Doha,,166,25.2889740916,51.4202820137,0,0
+Gulf Pastry (Fatayer Al Khaleej),"Bakery, Arabian",3.2,Average,17,QR,35,2,Al Muntazah,"Al Muntazah, Doha",Doha,,166,25.2694317996,51.5202117339,0,0
+Pretzelmaker,"Cafe, Bakery",3.1,Average,8,QR,100,3,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3757006670,51.5426742285,0,0
+Family Bakers,Bakery,3.1,Average,5,QR,10,1,"Family Food Centre, Old Airport Area","Family Food Centre, Old Airport Area, Doha",Doha,,166,25.2625460755,51.5566572547,0,0
+Batteel Bakery,"Bakery, Beverages",3.1,Average,6,QR,35,2,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3563277951,51.4390417188,0,0
+Gulf Anwar Bakery,Bakery,3.1,Average,6,QR,30,2,Bin Omran,"Bin Omran, Doha",Doha,,166,25.3039018445,51.4903949574,0,0
+Village Bakery,Bakery,3.1,Average,6,QR,20,1,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1673315117,51.5977758542,0,0
+Toscana,"Bakery, Desserts",3.0,Average,3,QR,30,2,"Abu Hamour Petrol Station, Abu Hamour","Abu Hamour Petrol Station, Abu Hamour, Doha",Doha,,166,25.2374718884,51.4995161444,0,0
+My Bake,"Bakery, Desserts",3.1,Average,5,QR,30,2,Muaither,"Muaither, Doha",Doha,,166,25.2615360758,51.4303788543,0,0
+Batteel Bakery,"Bakery, Beverages",3.1,Average,4,QR,35,2,Muaither,"Muaither, Doha",Doha,,166,25.2649201936,51.4304569736,0,0
+South Madinat Khalifa Bakery,Bakery,3.1,Average,4,QR,15,1,Madinat Khalifa,"Madinat Khalifa, Doha",Doha,,166,25.3201618665,51.4740817621,0,0
+Patisserie Suisse,"Bakery, Desserts",3.1,Average,16,QR,30,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2736333852,51.5026935562,0,0
+Hot Ankara Bakery & BBQ,"Bakery, Turkish, BBQ",2.9,Average,10,QR,40,2,Madinat Khalifa,"Madinat Khalifa, Doha",Doha,,166,25.3187807830,51.4833622053,0,0
+Al Muzzamil Sweets,"Bakery, Desserts",3.0,Average,7,QR,20,1,Al Doha Al Jadeeda,"Al Doha Al Jadeeda, Doha",Doha,,166,25.2748891635,51.5322146192,0,0
+Family Bakers,Bakery,3.0,Average,7,QR,10,1,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2728047826,51.4938707650,0,0
+Tasmeem,"Bakery, Desserts",3.1,Average,5,QR,45,2,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3420888892,51.4319057018,0,0
+Tasmeem,"Bakery, Desserts",3.0,Average,4,QR,45,2,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2469557900,51.4892637357,0,0
+Toscana,"Bakery, Desserts",3.0,Average,6,QR,30,2,Al Rayyan,"Al Rayyan, Doha",Doha,,166,25.2975482409,51.4206424356,0,0
+Gulf Pastry (Fatayer Al Khaleej),"Bakery, Arabian",3.0,Average,5,QR,35,2,Ain Khalid,"Ain Khalid, Doha",Doha,,166,25.2239272434,51.4497554675,0,0
+Gulf Pastry (Fatayer Al Khaleej),"Bakery, Arabian",3.0,Average,4,QR,35,2,Al Aziziyah,"Al Aziziyah, Doha",Doha,,166,25.2411814730,51.4560854808,0,0
+Batteel Bakery,"Bakery, Beverages",3.0,Average,5,QR,35,2,Al Rayyan,"Al Rayyan, Doha",Doha,,166,25.2931937946,51.4202072471,0,0
+Shahad Al Jazeera Sweets & Pastries,"Bakery, Desserts",3.0,Average,3,QR,50,2,Al Rayyan,"Al Rayyan, Doha",Doha,,166,25.3003496752,51.4202709496,0,0
+Bake Home,"Bakery, Desserts",3.0,Average,1,QR,30,2,Muaither,"Muaither, Doha",Doha,,166,25.2567388416,51.4301696420,0,0
+Al Khaima Sweets & Pastries,"Bakery, Desserts",2.9,Average,6,QR,30,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1713497073,51.5979109704,0,0
+Shahad Al Jazeera Sweets & Pastries,"Bakery, Desserts",2.9,Average,5,QR,50,2,Muaither,"Muaither, Doha",Doha,,166,25.2397109359,51.4299497008,0,0
+Simsmia Bakery & Sweets,Bakery,2.9,Average,5,QR,25,1,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1840979989,51.6001492739,0,0
+La Gazele,"Bakery, Moroccan",2.9,Average,4,QR,50,2,Bin Omran,"Bin Omran, Doha",Doha,,166,25.3124218978,51.4949664474,0,0
+London Bakery,Bakery,2.9,Average,4,QR,30,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2735633498,51.5027173609,0,0
+Batteel Bakery,"Bakery, Beverages",2.9,Average,3,QR,35,2,"Al Souq Al Jadeed, Al Gharafa","Al Souq Al Jadeed, Al Gharafa, Doha",Doha,,166,25.3276352646,51.4508223161,0,0
+Eureka Bakery,"Bakery, Turkish",2.9,Average,4,QR,40,2,"Al Furjan Market, Umm Salal Mohammed","Al Furjan Market, Umm Salal Mohammed, Doha",Doha,,166,25.3962677078,51.4450629428,0,0
+Patisserie Suisse,"Bakery, Desserts",2.9,Average,1,QR,30,2,"Al Souq Al Jadeed, Al Gharafa","Al Souq Al Jadeed, Al Gharafa, Doha",Doha,,166,25.3277049656,51.4508937299,0,0
+Tannour Al Mualleem,"Bakery, Arabian",2.9,Average,2,QR,25,1,Muaither,"Muaither, Doha",Doha,,166,25.2686756322,51.4156726375,0,0
+Toscana,"Bakery, Desserts",2.8,Average,9,QR,30,2,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2745050337,51.5065740421,0,0
+Sable Sweets,"Bakery, Desserts",2.8,Average,4,QR,100,3,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1678122000,51.5976269000,0,0
+Al Amana Bakery,"Bakery, Desserts",2.8,Average,3,QR,30,2,Musheireb,"Musheireb, Doha",Doha,,166,25.2796074631,51.5188649297,0,0
+Al Beit Al Urdoni,"Bakery, Arabian",2.8,Average,3,QR,25,1,Umm Ghuwailina,"Umm Ghuwailina, Doha",Doha,,166,25.2831693348,51.5481251478,0,0
+Lebanese Modern Bakery,"Bakery, Desserts",2.8,Average,2,QR,25,1,Al Aziziyah,"Al Aziziyah, Doha",Doha,,166,25.2423939173,51.4594265074,0,0
+Al Arab Bakery & Sweets,"Bakery, Desserts",2.8,Average,4,QR,15,1,Al Doha Al Jadeeda,"Al Doha Al Jadeeda, Doha",Doha,,166,25.2774288763,51.5310357884,0,0
+Batteel Cafe,"Bakery, Beverages",2.7,Average,6,QR,35,2,"Abu Hamour Petrol Station, Abu Hamour","Abu Hamour Petrol Station, Abu Hamour, Doha",Doha,,166,25.2378067018,51.4999265224,0,0
+Hot Bread Bakery,"Bakery, Desserts",2.8,Average,10,QR,25,1,Al Doha Al Jadeeda,"Al Doha Al Jadeeda, Doha",Doha,,166,25.2749546503,51.5259167925,0,0
+Al Naurah,"Bakery, Arabian",2.7,Average,6,QR,25,1,Bin Omran,"Bin Omran, Doha",Doha,,166,25.3063672961,51.4983235672,0,0
+New Tawar Bakery,Bakery,2.7,Average,2,QR,15,1,Al Ghanim,"Al Ghanim, Doha",Doha,,166,25.2807989085,51.5400144830,0,0
+My Bake,"Bakery, Desserts",2.7,Average,2,QR,30,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1685495470,51.5976927057,0,0
+Gulf Pastry (Fatayer Al Khaleej),"Bakery, Arabian",2.6,Average,6,QR,35,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1610502746,51.5980125591,0,0
+Pakistan Sweets,"Bakery, Desserts, Pakistani",2.4,Poor,40,QR,30,2,Al Ghanim,"Al Ghanim, Doha",Doha,,166,25.2799203323,51.5439479426,0,0
+Choco Palace,"Bakery, Desserts",0,Not rated,3,QR,20,1,Muaither,"Muaither, Doha",Doha,,166,25.2690167268,51.4092269540,0,0
+Al Reem Lebanese Bakery,"Bakery, Lebanese",0,Not rated,3,QR,15,1,Al Hilal,"Al Hilal, Doha",Doha,,166,25.2644905514,51.4988754317,0,0
+Patisserie Champs Elysees,"Bakery, Desserts",3.0,Average,4,QR,50,2,Abu Hamour,"Abu Hamour, Doha",Doha,,166,25.2307933196,51.4872162044,0,0
+Patisserie Suisse,"Bakery, Desserts",0,Not rated,3,QR,30,2,Abu Hamour,"Abu Hamour, Doha",Doha,,166,25.2565575127,51.4982705936,0,0
+Golden Sweets,"Bakery, Desserts",0,Not rated,3,QR,10,1,Musheireb,"Musheireb, Doha",Doha,,166,25.2814085724,51.5287052840,0,0
+Poffy's,"Ice Cream, Desserts, Beverages",3.9,Good,34,QR,60,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3838879200,51.4432340115,0,0
+Attila Mongolian Grill,"Mongolian, Chinese, Japanese, Sushi",3.8,Good,79,QR,100,3,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2606743402,51.4432531223,0,0
+Ginger Club,"Chinese, Thai",3.7,Good,76,QR,85,3,"Wathnan Mall, Muaither","Wathnan Mall, Muaither, Doha",Doha,,166,25.2685849767,51.4235576615,1,0
+Zaffran Café,"Indian, Street Food, Desserts",3.8,Good,97,QR,45,2,"Lulu Hypermarket, Mesaimeer","Lulu Hypermarket, Mesaimeer, Doha",Doha,,166,25.1967463600,51.5085437894,0,0
+Wrap It,"Fast Food, Arabian",3.7,Good,29,QR,65,3,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3339969872,51.4653592184,0,0
+Vanelli's,Italian,3.7,Good,33,QR,80,3,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2607771303,51.4434371889,0,0
+Mr. Taco,Mexican,3.6,Good,76,QR,50,2,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2470822451,51.4892603830,0,0
+Wrap It,"Fast Food, Arabian",3.6,Good,75,QR,65,3,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2607346801,51.4432266355,0,0
+Golden Dragon,Chinese,3.6,Good,39,QR,65,3,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2554404235,51.4374384284,0,0
+Wrap It,"Fast Food, Arabian",3.6,Good,43,QR,65,3,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3366369752,51.4604276419,0,0
+Hollywood Stars,"Fast Food, Tex-Mex",3.6,Good,35,QR,75,3,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2607850139,51.4432155713,0,0
+Yellow Cab Pizza Co.,Pizza,3.6,Good,30,QR,80,3,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2470152269,51.4891913161,0,0
+Jollibee,"Fast Food, Filipino",3.6,Good,21,QR,40,2,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3324493918,51.4618921280,0,0
+Auntie Anne's,"American, Bakery",3.5,Good,15,QR,60,3,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3278049714,51.3507346809,0,0
+Koushari & More,Egyptian,3.7,Good,20,QR,85,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3866846297,51.4421376586,0,0
+Grand Joud,Arabian,3.6,Good,20,QR,75,3,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2468090170,51.4895366505,0,0
+Dine Smart Restaurant,"Chinese, Italian, Healthy Food, Burger",3.5,Good,67,QR,100,3,"Lulu Hypermarket, Mesaimeer","Lulu Hypermarket, Mesaimeer, Doha",Doha,,166,25.1965327838,51.5084743872,1,0
+Golden Dragon,Chinese,3.4,Average,61,QR,65,3,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3329800068,51.4636194706,0,0
+Diwaniyat Al Boukhari,Arabian,3.5,Good,54,QR,100,3,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3250023536,51.5298053250,0,0
+Shater Abbas,"Arabian, Iranian",3.5,Good,44,QR,180,4,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3246753571,51.5296930075,1,0
+New York Fries,"Fast Food, American",3.4,Average,34,QR,45,2,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3279519495,51.3509247825,0,0
+Ci Gusta,"Bakery, Desserts",3.5,Good,29,QR,45,2,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3374308997,51.4597607777,0,0
+Hardee's,Fast Food,3.5,Good,25,QR,40,2,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2607916846,51.4435806870,0,0
+McDonald's,"Fast Food, Burger",3.5,Good,29,QR,50,2,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3247517271,51.5288387239,0,0
+Koushari & More,Egyptian,3.4,Average,16,QR,85,3,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3278231543,51.3508345932,0,0
+Shater Abbas,"Arabian, Iranian",3.4,Average,22,QR,180,4,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2557018063,51.4369938523,1,0
+Bharath Vasanta Bhavan,"South Indian, North Indian, Chinese",3.4,Average,19,QR,60,3,"Quality Mall, Abu Hamour","Quality Mall, Abu Hamour, Doha",Doha,,166,25.2570181119,51.4978250116,0,0
+Ci Gusta,"Bakery, Desserts",3.4,Average,9,QR,45,2,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3853055173,51.4430160820,0,0
+Evviva,Italian,3.3,Average,33,QR,90,3,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3367300040,51.4603361115,0,0
+Stack,"Fast Food, American, Burger",2.9,Average,48,QR,90,3,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3367969726,51.4604507759,0,0
+Shamiana,Indian,3.4,Average,24,QR,90,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3865619551,51.4422221482,0,0
+Steak 'n Shake,"American, Fast Food",3.3,Average,29,QR,100,3,"Tawar Mall, Markhiya","Tawar Mall, Markhiya, Doha",Doha,,166,25.3369518184,51.4803427085,0,0
+Motee Maahal,"North Indian, Chinese",3.2,Average,34,QR,85,3,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3322866613,51.4620483667,0,0
+Fatburger,"American, Fast Food, Burger",3.3,Average,29,QR,100,3,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3366469750,51.4603656158,0,0
+Gerry's Grill,Asian,3.3,Average,15,QR,115,3,"Lulu Hypermarket, Mesaimeer","Lulu Hypermarket, Mesaimeer, Doha",Doha,,166,25.1964978956,51.5084180608,0,0
+Tandoor Express,"Indian, North Indian",3.2,Average,22,QR,80,3,"Al Meera, Al HIlal","Al Meera, Al HIlal, Doha",Doha,,166,25.2585263422,51.5261337161,0,0
+Khan Le Kunafa,"Desserts, Arabian",3.3,Average,8,QR,55,2,Muaither,"Muaither, Doha",Doha,,166,25.2683481805,51.4235043526,0,0
+McDonald's,"Fast Food, Burger",3.3,Average,13,QR,50,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2381308999,51.5631277487,0,0
+Burger King,Fast Food,3.3,Average,15,QR,45,2,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3250705409,51.5293728188,0,0
+Asiana,"Indian, Chinese",3.3,Average,15,QR,85,3,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3341536548,51.4652847871,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.3,Average,11,QR,30,2,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3341672912,51.4654862881,0,0
+Broaster Chicken,Fast Food,3.3,Average,10,QR,50,2,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3281780226,51.5263429284,0,0
+Golden Dragon,Chinese,3.3,Average,73,QR,65,3,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3245092825,51.5298438817,0,0
+Shater Abbas,"Arabian, Iranian",3.2,Average,20,QR,180,4,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3866325309,51.4423099905,1,0
+Lazeez Restaurant,Indian,3.3,Average,13,QR,50,2,"Royal Plaza Mall, Al Sadd","Royal Plaza Mall, Al Sadd, Doha",Doha,,166,25.2813530934,51.5017108619,0,0
+Al Mankal Restaurant,Lebanese,3.2,Average,22,QR,90,3,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3366669747,51.4604195952,0,0
+McDonald's,"Fast Food, Burger",3.3,Average,20,QR,50,2,"Lulu Hypermarket, Mesaimeer","Lulu Hypermarket, Mesaimeer, Doha",Doha,,166,25.1966225830,51.5086768940,0,0
+El Dokan,"Egyptian, Street Food",3.3,Average,20,QR,100,3,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3325809094,51.4635031298,0,0
+McDonald's,"Fast Food, Burger",3.2,Average,23,QR,50,2,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2606588762,51.4436557889,0,0
+Firely Burger,"American, Fast Food, Burger",3.2,Average,17,QR,75,3,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1699963652,51.5871885046,1,0
+Pizza Hut,Pizza,3.2,Average,11,QR,80,3,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3341085030,51.4653401077,0,0
+Al Zanj Restaurant,"International, African",3.2,Average,9,QR,60,3,"Quality Mall, Abu Hamour","Quality Mall, Abu Hamour, Doha",Doha,,166,25.2568898478,51.4979856089,0,0
+Lissan Al Asfour,Arabian,3.2,Average,17,QR,70,3,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3325021200,51.4627088606,1,0
+McDonald's,"Fast Food, Burger",3.2,Average,10,QR,50,2,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2468927140,51.4889298007,0,0
+Mister Pizza,Pizza,3.2,Average,10,QR,85,3,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3278819455,51.3509821147,0,0
+Shater Abbas,"Arabian, Iranian",3.2,Average,7,QR,180,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3276861766,51.3508121297,1,0
+Pizza Hut,Pizza,3.2,Average,7,QR,80,3,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3248223390,51.5288266540,0,0
+Pampangenos,Filipino,3.2,Average,8,QR,80,3,"Quality Mall, Abu Hamour","Quality Mall, Abu Hamour, Doha",Doha,,166,25.2568013060,51.4978813380,0,0
+Dunkin' Donuts,"Desserts, Coffee",3.2,Average,9,QR,30,2,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2558109684,51.4373566210,0,0
+Al Sultan Restaurant,"Arabian, Lebanese",3.2,Average,9,QR,90,3,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2550886778,51.4371353388,0,0
+Vanelli's,Italian,3.2,Average,13,QR,80,3,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2550613871,51.4370877296,0,0
+Elevation Burger,"American, Fast Food",3.2,Average,10,QR,100,3,"Qatar Foundation, Al Gharafa","Qatar Foundation, Al Gharafa, Doha",Doha,,166,25.3145947035,51.4423311129,1,0
+Al Mandarin,"Healthy Food, Fast Food, Beverages",3.2,Average,11,QR,70,3,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3341657761,51.4654725417,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.2,Average,7,QR,30,2,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2554170749,51.4392224327,0,0
+Man'oushe Street,"Lebanese, Healthy Food",3.2,Average,10,QR,120,4,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3245780762,51.5297667682,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.2,Average,7,QR,30,2,"Royal Plaza Mall, Al Sadd","Royal Plaza Mall, Al Sadd, Doha",Doha,,166,25.2814491963,51.5017212555,0,0
+Jollibee,"Fast Food, Filipino",3.0,Average,24,QR,40,2,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2470704183,51.4892281964,0,0
+Hollywood Stars,"Fast Food, Tex-Mex",3.1,Average,26,QR,75,3,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3246526279,51.5288910270,0,0
+Thai Smile Restaurant,Thai,3.1,Average,26,QR,100,3,"Lulu Hypermarket, Mesaimeer","Lulu Hypermarket, Mesaimeer, Doha",Doha,,166,25.1964259956,51.5086916462,0,0
+KFC,Fast Food,3.1,Average,19,QR,45,2,"Al Meera, Al HIlal","Al Meera, Al HIlal, Doha",Doha,,166,25.2585894121,51.5261129290,1,0
+Remman Cafe Express,Lebanese,3.1,Average,14,QR,100,3,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3277131479,51.3506907597,0,0
+Camden Food Co.,"Cafe, Healthy Food",3.0,Average,8,QR,85,3,"Eat Street Food Court, Hamad International Airport","Eat Street Food Court, Hamad International Airport, Doha",Doha,,166,25.2614716360,51.6133837891,0,0
+Pizza Hut,Pizza,3.1,Average,7,QR,80,3,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3324369673,51.4626357704,0,0
+Jollibee,"Fast Food, Filipino",3.1,Average,12,QR,40,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1700303507,51.5872391313,0,0
+Waraq Ghar - Tawar Mall,Syrian,3.1,Average,9,QR,80,3,"Tawar Mall, Markhiya","Tawar Mall, Markhiya, Doha",Doha,,166,25.3377027116,51.4804741368,0,0
+Zaatar W Zeit,"Lebanese, Healthy Food",3.1,Average,10,QR,110,3,"Qatar Foundation, Al Gharafa","Qatar Foundation, Al Gharafa, Doha",Doha,,166,25.3146971447,51.4423995093,1,0
+Saj Haretna Restaurant,Arabian,3.1,Average,9,QR,80,3,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3324039363,51.4627296478,0,0
+Hardee's,Fast Food,3.1,Average,7,QR,40,2,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3278277000,51.3508040830,0,0
+Parfait,Desserts,3.1,Average,5,QR,30,2,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2556138702,51.4373730496,0,0
+Burger King,Fast Food,3.1,Average,11,QR,45,2,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2470328154,51.4892801642,0,0
+Attila Mongolian Grill,"Mongolian, Chinese, Japanese, Sushi",3.1,Average,9,QR,100,3,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3279210386,51.3508513570,0,0
+Dunkin' Donuts,"Desserts, Coffee",3.1,Average,6,QR,30,2,"Royal Plaza Mall, Al Sadd","Royal Plaza Mall, Al Sadd, Doha",Doha,,166,25.2814707209,51.5015656874,0,0
+Subway,"Healthy Food, Fast Food",3.1,Average,6,QR,50,2,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2469821727,51.4893317968,0,0
+Burger King,Fast Food,3.1,Average,7,QR,45,2,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3867149197,51.4422479644,0,0
+Pizza Hut,Pizza,3.0,Average,26,QR,80,3,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2608098775,51.4434961975,0,0
+Fajita's,Mexican,2.8,Average,18,QR,55,2,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3316457374,51.4623299986,0,0
+The Rice Room,Asian,3.0,Average,5,QR,80,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3866779659,51.4424759522,0,0
+Burger King,Fast Food,3.0,Average,7,QR,45,2,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3324154517,51.4627497643,0,0
+Cactus Cabana,Arabian,3.0,Average,12,QR,75,3,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2608401990,51.4434988797,0,0
+Zaatar W Zeit,"Lebanese, Healthy Food",3.0,Average,12,QR,110,3,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3278389128,51.3507205993,0,0
+Thai Noodles Restaurant,"Thai, Asian",3.0,Average,5,QR,70,3,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2470276601,51.4892211556,0,0
+Jamila's Rasoi,"Indian, Chinese",3.1,Average,10,QR,50,2,"Safari Mall, Ain Khalid","Safari Mall, Ain Khalid, Doha",Doha,,166,25.2188291481,51.4966163412,0,0
+Pizza Hut,Pizza,2.9,Average,10,QR,80,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3866628209,51.4422358945,0,0
+Hollywood Stars,"Fast Food, Tex-Mex",3.0,Average,8,QR,75,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3880176860,51.4416022226,0,0
+DQ,Fast Food,3.0,Average,4,QR,60,3,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3324781802,51.4620557427,0,0
+Shater Abbas,"Arabian, Iranian",3.0,Average,4,QR,180,4,"Tawar Mall, Markhiya","Tawar Mall, Markhiya, Doha",Doha,,166,25.3371654507,51.4803571254,1,0
+Angeles Restaurant,"Filipino, Italian",3.0,Average,8,QR,45,2,"Royal Plaza Mall, Al Sadd","Royal Plaza Mall, Al Sadd, Doha",Doha,,166,25.2813433922,51.5016853809,0,0
+La Creperie,Desserts,3.0,Average,4,QR,40,2,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2559850209,51.4380285144,0,0
+McDonald's,"Fast Food, Burger",3.0,Average,5,QR,50,2,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3879577124,51.4417024702,0,0
+Three Lines,Fast Food,3.0,Average,4,QR,120,4,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3278028501,51.3508017361,0,0
+Nobu - Four Seasons Hotel,"Japanese, Sushi",4.5,Excellent,138,QR,700,4,"Four Seasons Hotel, Dafna","Four Seasons Hotel, Dafna, Doha",Doha,,166,25.3232370000,51.5410500000,0,0
+Zengo - Kempinski Residences & Suites,"Asian, Sushi",4.3,Very Good,72,QR,500,4,"Kempinski Residences & Suites, Dafna","Kempinski Residences & Suites, Dafna, Doha",Doha,,166,25.3284640000,51.5309220000,0,0
+Trader Vic's - Hilton,"Finger Food, Asian, Sushi",4.2,Very Good,250,QR,450,4,"Hilton, Dafna","Hilton, Dafna, Doha",Doha,,166,25.3261410000,51.5395950000,0,1
+Shanghai Club - Shangri-La Hotel,"Cantonese, Chinese",4.2,Very Good,71,QR,400,4,"Shangri-La Hotel, Dafna","Shangri-La Hotel, Dafna, Doha",Doha,,166,25.3243540000,51.5329640000,0,0
+Mix Bar - The Westin Doha Hotel & Spa,Finger Food,4.0,Very Good,172,QR,280,4,"The Westin Doha Hotel & Spa, Fereej Bin Mahmoud","The Westin Doha Hotel & Spa, Fereej Bin Mahmoud, Doha",Doha,,166,25.2761800000,51.5129090000,0,0
+Wahm - W Doha Hotel,"Finger Food, Mediterranean",3.8,Good,78,QR,500,4,"W Doha Hotel, Dafna","W Doha Hotel, Dafna, Doha",Doha,,166,25.3286350000,51.5301110000,0,0
+Jazz Club - Oryx Rotana,"Finger Food, Continental",3.8,Good,56,QR,450,4,"Oryx Rotana,Umm Ghuwailina","Oryx Rotana,Umm Ghuwailina, Doha",Doha,,166,25.2684710000,51.5542770000,0,0
+Z Lounge - Kempinski Residences & Suites,"Finger Food, International, Sushi",3.8,Good,37,QR,300,4,"Kempinski Residences & Suites, Dafna","Kempinski Residences & Suites, Dafna, Doha",Doha,,166,25.3284640000,51.5309220000,0,0
+The Den - Shangri-La Hotel,Finger Food,3.8,Good,41,QR,250,4,"Shangri-La Hotel, Dafna","Shangri-La Hotel, Dafna, Doha",Doha,,166,25.3243540000,51.5329640000,0,0
+Al Nafourah Garden - Oryx Rotana,Lebanese,3.7,Good,57,QR,300,4,"Oryx Rotana,Umm Ghuwailina","Oryx Rotana,Umm Ghuwailina, Doha",Doha,,166,25.2684710000,51.5542770000,0,0
+The Club - The St. Regis,European,3.7,Good,26,QR,600,4,"The St. Regis, Westbay","The St. Regis, Westbay, Doha",Doha,,166,25.3503250000,51.5301270000,0,0
+Strata - InterContinental The City Hotel,Finger Food,3.6,Good,47,QR,450,4,"InterContinental The City Hotel, Dafna","InterContinental The City Hotel, Dafna, Doha",Doha,,166,25.3262880000,51.5247410000,0,0
+Admiral's Club - The Ritz-Carlton,"Finger Food, Seafood, Burger",3.6,Good,36,QR,450,4,"The Ritz Carlton, Westbay","The Ritz Carlton, Westbay, Doha",Doha,,166,25.3794560000,51.5317740000,0,0
+Al Jalsa Garden Lounge - InterContinental The City Hotel,"Continental, Finger Food",3.6,Good,25,QR,250,4,"InterContinental The City Hotel, Dafna","InterContinental The City Hotel, Dafna, Doha",Doha,,166,25.3262880000,51.5247410000,0,0
+C.mondo - Centro Capital Doha,"Finger Food, Continental",3.6,Good,23,QR,250,4,"Centro Capital Doha, Fereej Bin Mahmoud","Centro Capital Doha, Fereej Bin Mahmoud, Doha",Doha,,166,25.2846060000,51.5119010000,0,0
+The Rooftop - The St. Regis,Finger Food,3.6,Good,23,QR,350,4,"The St. Regis, Westbay","The St. Regis, Westbay, Doha",Doha,,166,25.3503280000,51.5284520000,0,0
+Vintage Lounge - The St. Regis,Finger Food,3.6,Good,15,QR,300,4,"The St. Regis, Westbay","The St. Regis, Westbay, Doha",Doha,,166,25.3503290000,51.5284520000,0,0
+Oyster Bay & Bar - The St. Regis,Caribbean,3.6,Good,15,QR,350,4,"The St. Regis, Westbay","The St. Regis, Westbay, Doha",Doha,,166,25.3503250000,51.5301270000,0,0
+Dunes Lounge - Grand Hyatt,"Finger Food, Pizza",3.5,Good,27,QR,300,4,"Grand Hyatt, Westbay","Grand Hyatt, Westbay, Doha",Doha,,166,25.3770270000,51.5274240000,0,0
+The Lounge - Kempinski Residences & Suites,"Finger Food, Burger",3.5,Good,21,QR,450,4,"Kempinski Residences & Suites, Dafna","Kempinski Residences & Suites, Dafna, Doha",Doha,,166,25.3284500000,51.5309190000,0,0
+Lava - InterContinental Doha,Japanese,3.5,Good,19,QR,400,4,"Hotel InterContinental Doha, Westbay","Hotel InterContinental Doha, Westbay, Doha",Doha,,166,25.3487550000,51.5295130000,0,0
+Cigar Lounge - Sharq Village & Spa,Finger Food,3.4,Average,14,QR,350,4,"Sharq Village & Spa, Al Salata","Sharq Village & Spa, Al Salata, Doha",Doha,,166,25.2854410000,51.5567450000,0,0
+Bab Al Baher - Hilton,"Finger Food, Continental",3.3,Average,17,QR,300,4,"Hilton, Dafna","Hilton, Dafna, Doha",Doha,24572,166,25.3261410000,51.5395950000,0,0
+Crystal - W Doha Hotel,Finger Food,3.3,Average,24,QR,450,4,"W Doha Hotel, Dafna","W Doha Hotel, Dafna, Doha",Doha,,166,25.3290830000,51.5305240000,0,0
+Illusion - Marsa Malaz Kempinski,Finger Food,3.3,Average,14,QR,400,4,"Marsa Malaz Kempinski, Pearl Qatar","Marsa Malaz Kempinski, Pearl Qatar, Doha",Doha,,166,25.3764070000,51.5495670000,0,0
+The View Pool Side Restaurant - Doha Marriott Hotel,Finger Food,3.3,Average,10,QR,300,4,"Doha Marriott Hotel, Al Salata","Doha Marriott Hotel, Al Salata, Doha",Doha,,166,25.2865520000,51.5625710000,0,0
+Library Bar & Cigar Lounge - Four Seasons Hotel,Finger Food,3.2,Average,11,QR,400,4,"Four Seasons Hotel, Dafna","Four Seasons Hotel, Dafna, Doha",Doha,,166,25.3242980000,51.5391600000,0,0
+The Library - Radisson Blu Hotel,Finger Food,3.2,Average,7,QR,300,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2727027778,51.5131638889,0,0
+Society Lounge - Hilton,Finger Food,3.2,Average,11,QR,300,4,"Hilton, Dafna","Hilton, Dafna, Doha",Doha,,166,25.3259340000,51.5401130000,0,0
+Habanos - The Ritz-Carlton,Finger Food,3.2,Average,6,QR,500,4,"The Ritz Carlton, Westbay","The Ritz Carlton, Westbay, Doha",Doha,,166,25.3793100000,51.5311950000,0,0
+Noir Lounge & Club - M Doha Hotel,Finger Food,2.9,Average,28,QR,300,4,"M Doha Hotel, Dafna","M Doha Hotel, Dafna, Doha",Doha,,166,25.3282710000,51.5329380000,0,0
+Club Ozone,"Drinks Only, Snacks",3.1,Average,23,QR,240,4,"The Avenue, A Murwab Hotel, Al Sadd","The Avenue, A Murwab Hotel, Al Sadd, Doha",Doha,,166,25.2889960000,51.4964560000,0,0
+"Liquidity - Crowne Plaza Doha, The Business Park",Finger Food,3.1,Average,17,QR,300,4,"Crowne Plaza Doha - The Business Park,Najma","Crowne Plaza Doha - The Business Park,Najma, Doha",Doha,,166,25.2736231000,51.5422516000,0,0
+"Arguelina Lounge - Crowne Plaza Doha, The Business Park","Finger Food, Lebanese",3.1,Average,11,QR,250,4,"Crowne Plaza Doha - The Business Park,Najma","Crowne Plaza Doha - The Business Park,Najma, Doha",Doha,,166,25.2735480000,51.5413420000,0,0
+Hive Lounge - InterContinental The City Hotel,Finger Food,3.1,Average,9,QR,300,4,"InterContinental The City Hotel, Dafna","InterContinental The City Hotel, Dafna, Doha",Doha,,166,25.3262880000,51.5247410000,0,0
+Rise - Mondrian Doha,Drinks Only,3.1,Average,10,QR,300,4,"Mondrian Doha, Westbay","Mondrian Doha, Westbay, Doha",Doha,24685,166,25.3767410000,51.5232350000,0,0
+High Heels - Hilton,Finger Food,3.1,Average,6,QR,500,4,"Hilton, Dafna","Hilton, Dafna, Doha",Doha,,166,25.3259300000,51.5401060000,0,0
+Manhattan - Radisson Blu Hotel,Drinks Only,3.0,Average,7,QR,350,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2726777778,51.5131138889,0,0
+Pearl Lounge Club - Doha Marriott Hotel,Finger Food,2.7,Average,11,QR,300,4,"Doha Marriott Hotel, Al Salata","Doha Marriott Hotel, Al Salata, Doha",Doha,,166,25.2851428863,51.5514973551,0,0
+Fahrenheit - Horizon Manor,Finger Food,2.7,Average,17,QR,300,4,"Horizon Manor, Al Souq","Horizon Manor, Al Souq, Doha",Doha,,166,25.2889340000,51.5397700000,0,0
+Qube - Radisson Blu Hotel,Continental,2.6,Average,19,QR,350,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2727111111,51.5131694444,0,0
+Gravity - Gokulam Park,Finger Food,0,Not rated,3,QR,300,4,"Gokulam Park, Al Salata","Gokulam Park, Al Salata, Doha",Doha,,166,25.2876540000,51.5470520000,0,0
+After Eight - Swiss-Belhotel,Finger Food,0,Not rated,3,QR,300,4,"Swiss-Belhotel, Al Salata","Swiss-Belhotel, Al Salata, Doha",Doha,,166,25.2872625236,51.5407738835,0,0
+X Lounge,Drinks Only,0,Not rated,3,QR,0,1,"Hotel InterContinental Doha, Westbay","Hotel InterContinental Doha, Westbay, Doha",Doha,,166,25.3486660000,51.5299610000,0,0
+Bollywood Lounge,Drinks Only,0,Not rated,2,QR,220,4,"Grand Regal Hotel, Al Ghanim","Grand Regal Hotel, Al Ghanim, Doha",Doha,,166,25.2820730000,51.5425300000,0,0
+The Pool Lounge - Holiday Inn Doha,Finger Food,0,Not rated,0,QR,80,3,"Holiday Inn Doha - The Business Park, Najma","Holiday Inn Doha - The Business Park, Najma, Doha",Doha,,166,25.2732590000,51.5425230000,0,0
+Africana Lounge - Swiss-Belhotel,Finger Food,0,Not rated,0,QR,300,4,"Swiss-Belhotel, Al Salata","Swiss-Belhotel, Al Salata, Doha",Doha,,166,25.2868690354,51.5402243659,0,0
+Shisha Lounge,"International, Snacks",0,Not rated,0,QR,0,1,"Sharq Village & Spa, Al Salata","Sharq Village & Spa, Al Salata, Doha",Doha,,166,25.2851359721,51.5568177990,0,0
+Delhi Belly Cafeteria,"Indian, North Indian, Cafeteria",3.6,Good,60,QR,30,2,Najma,"Najma, Doha",Doha,,166,25.2693170000,51.5353280000,1,0
+Al Safair Restaurant & Juicestall,Cafeteria,3.2,Average,6,QR,30,2,Muaither,"Muaither, Doha",Doha,,166,25.2608741591,51.4304697141,0,0
+Nile Cafe,Cafeteria,3.1,Average,5,QR,35,2,Markhiya,"Markhiya, Doha",Doha,,166,25.3187477483,51.4948578179,0,0
+Ansar Tea Cafeteria,Cafeteria,3.1,Average,8,QR,40,2,Salwa Road,"Salwa Road, Doha",Doha,,166,25.2648695584,51.4957037196,0,0
+Jubilee,"Indian, Chinese, Beverages",2.9,Average,4,QR,40,2,Najma,"Najma, Doha",Doha,,166,25.2705711962,51.5435000136,0,0
+Tea And Glory,Cafeteria,0,Not rated,2,QR,45,2,Al Rayyan,"Al Rayyan, Doha",Doha,,166,25.3005282106,51.4202702791,0,0
+Karak Zaffron,Cafeteria,0,Not rated,1,QR,45,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1493502704,51.5981647745,0,0
+Le Leimoon Cafe,"Cafeteria, Fast Food",0,Not rated,3,QR,45,2,Al Aziziyah,"Al Aziziyah, Doha",Doha,,166,25.2490891337,51.4546997845,0,0
+Jubilee Cafeteria,Cafeteria,0,Not rated,2,QR,0,1,Musheireb,"Musheireb, Doha",Doha,,166,25.2839563340,51.5198278427,0,0
+Shawarma Spot Cafeteria,Cafeteria,0,Not rated,1,QR,45,2,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3261172869,51.4627323300,0,0
+Tea 4 You,Cafeteria,0,Not rated,2,QR,40,2,Al Wakrah,"Al Wakrah, Doha",Doha,,166,25.1629754343,51.5981684625,1,0
+Straang T,Cafeteria,0,Not rated,2,QR,30,2,Dafna,"Dafna, Doha",Doha,,166,25.3161919287,51.5132249147,0,0
+Makkah Cafeteria,Cafeteria,0,Not rated,1,QR,30,2,Muaither,"Muaither, Doha",Doha,,166,25.2535509912,51.4104369655,0,0
+Arabian Fried Chicken,"Arabian, Middle Eastern",0,Not rated,2,QR,50,2,"Plaza Mall (Asian Town), Mesaimeer","Plaza Mall (Asian Town), Mesaimeer, Doha",Doha,,166,25.1851128895,51.4630582184,0,0
+Fast Hot Chicken,Cafeteria,0,Not rated,2,QR,35,2,Umm Salal Mohammed,"Umm Salal Mohammed, Doha",Doha,,166,25.3950095539,51.4291604608,0,0
+Adukkala Cafeteria,Cafeteria,0,Not rated,1,QR,30,2,Al Doha Al Jadeeda,"Al Doha Al Jadeeda, Doha",Doha,,166,25.2765029802,51.5373896062,0,0
+Tea Town,Cafeteria,0,Not rated,1,QR,50,2,Najma,"Najma, Doha",Doha,,166,25.2690985893,51.5353595093,0,0
+Food Arena,Cafeteria,0,Not rated,1,QR,10,1,Bin Omran,"Bin Omran, Doha",Doha,,166,25.3071825000,51.4900507812,0,0
+Evening Spice,Indian,0,Not rated,0,QR,45,2,Mesaimeer,"Mesaimeer, Doha",Doha,,166,25.1864672774,51.4622703195,0,0
+Sana Al Madeena Restaurant & Juice Stall,Cafeteria,0,Not rated,0,QR,45,2,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3354324000,51.4443612000,0,0
+Red Chilli Cafeteria,"Indian, Beverages",0,Not rated,0,QR,25,1,Umm Ghuwailina,"Umm Ghuwailina, Doha",Doha,,166,25.2743619322,51.5460977331,0,0
+Smart Tea Cafeteria,Cafeteria,0,Not rated,0,QR,0,1,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3279698293,51.4507234097,0,0
+Afwaj Cafeteria,Cafeteria,0,Not rated,0,QR,40,2,Umm Salal Mohammed,"Umm Salal Mohammed, Doha",Doha,,166,25.3952418621,51.4295859262,0,0
+Thahira Cafeteria & Juice Stall,"Cafeteria, Beverages",0,Not rated,0,QR,25,1,Umm Salal Mohammed,"Umm Salal Mohammed, Doha",Doha,,166,25.3941433160,51.4286820218,0,0
+Feni Cafeteria,Bangladeshi,0,Not rated,0,QR,0,1,Najma,"Najma, Doha",Doha,,166,25.2674322207,51.5379086137,0,0
+Salateen Cafeteria,Cafeteria,0,Not rated,0,QR,0,1,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3292990000,51.3916450000,0,0
+Thalassery Palace Cafeteria,Cafeteria,0,Not rated,0,QR,0,1,Al Ghanim,"Al Ghanim, Doha",Doha,,166,25.2843574106,51.5376299992,0,0
+The Gravity,Cafeteria,0,Not rated,0,QR,30,2,"Woqod Petrol Station Rawdat Hamama, Umm Salal Mohammed","Woqod Petrol Station Rawdat Hamama, Umm Salal Mohammed, Doha",Doha,,166,25.4348473498,51.4147818089,0,0
+Elements - Four Seasons Hotel,"Continental, Seafood, Sushi",4.8,Excellent,114,QR,400,4,"Four Seasons Hotel, Dafna","Four Seasons Hotel, Dafna, Doha",Doha,,166,25.3242950000,51.5391530000,0,0
+Gymkhana,Indian,4.6,Excellent,389,QR,250,4,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2892760235,51.5332033485,0,1
+Paper Moon,Italian,4.6,Excellent,284,QR,400,4,Umm Ghuwailina,"Umm Ghuwailina, Doha",Doha,,166,25.2729287854,51.5446624160,0,0
+Spice Market - W Doha Hotel,"Asian, Sushi",4.6,Excellent,286,QR,600,4,"W Doha Hotel, Dafna","W Doha Hotel, Dafna, Doha",Doha,,166,25.3286320000,51.5300950000,0,0
+Market By Jean Georges - W Doha Hotel,"European, Contemporary, Sushi",4.5,Excellent,225,QR,450,4,"W Doha Hotel, Dafna","W Doha Hotel, Dafna, Doha",Doha,,166,25.3291320000,51.5303740000,0,0
+Vine - The St. Regis,"International, Sushi",4.5,Excellent,154,QR,550,4,"The St. Regis, Westbay","The St. Regis, Westbay, Doha",Doha,,166,25.3503250000,51.5301270000,0,0
+Nobu - Four Seasons Hotel,"Japanese, Sushi",4.5,Excellent,138,QR,700,4,"Four Seasons Hotel, Dafna","Four Seasons Hotel, Dafna, Doha",Doha,,166,25.3232370000,51.5410500000,0,0
+Isaan - Grand Hyatt,Thai,4.5,Excellent,129,QR,400,4,"Grand Hyatt, Westbay","Grand Hyatt, Westbay, Doha",Doha,,166,25.3770270000,51.5274240000,0,0
+Hakkasan - The St. Regis,"Chinese, Cantonese",4.5,Excellent,169,QR,700,4,"The St. Regis, Westbay","The St. Regis, Westbay, Doha",Doha,,166,25.3503250000,51.5301270000,0,0
+Cucina - Marriott Marquis Doha,Italian,4.4,Very Good,194,QR,285,4,"Marriott Marquis Doha, Dafna","Marriott Marquis Doha, Dafna, Doha",Doha,,166,25.3254280000,51.5283300000,0,0
+Sabai Thai - The Westin Doha Hotel & Spa,Thai,4.4,Very Good,164,QR,445,4,"The Westin Doha Hotel & Spa, Fereej Bin Mahmoud","The Westin Doha Hotel & Spa, Fereej Bin Mahmoud, Doha",Doha,,166,25.2761800000,51.5129090000,0,0
+La Spiga - W Doha Hotel,Italian,4.4,Very Good,116,QR,500,4,"W Doha Hotel, Dafna","W Doha Hotel, Dafna, Doha",Doha,,166,25.3286360000,51.5301050000,0,0
+Zaffran Dining Experience,Indian,4.3,Very Good,522,QR,345,4,"Al Emadi Financial Square, Al Hilal","Al Emadi Financial Square, Al Hilal, Doha",Doha,,166,25.2623832512,51.5270610899,1,0
+Megu,"Japanese, Sushi",4.2,Very Good,80,QR,400,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3656263856,51.5444173291,0,0
+Zengo - Kempinski Residences & Suites,"Asian, Sushi",4.3,Very Good,72,QR,500,4,"Kempinski Residences & Suites, Dafna","Kempinski Residences & Suites, Dafna, Doha",Doha,,166,25.3284640000,51.5309220000,0,0
+Ipanema - Marriott Marquis Doha,Brazilian,4.3,Very Good,115,QR,600,4,"Marriott Marquis Doha, Dafna","Marriott Marquis Doha, Dafna, Doha",Doha,,166,25.3254280000,51.5283300000,0,0
+Prime - InterContinental The City Hotel,Steak,4.3,Very Good,61,QR,400,4,"InterContinental The City Hotel, Dafna","InterContinental The City Hotel, Dafna, Doha",Doha,,166,25.3262880000,51.5247410000,0,0
+Three Sixty - The Torch Doha,"Mediterranean, Italian",4.2,Very Good,143,QR,650,4,"THE TORCH DOHA, Al Waab ","THE TORCH DOHA, Al Waab , Doha",Doha,,166,25.2622731854,51.4450347796,0,0
+Teatro - City Centre Rotana Doha,"Asian, Sushi, Indian, Italian",4.2,Very Good,69,QR,350,4,"City Centre Rotana Doha, Westbay","City Centre Rotana Doha, Westbay, Doha",Doha,,166,25.3242815026,51.5328000503,0,0
+Al Hubara - Sheraton Grand Doha Resort and Convention Hotel,"Seafood, Continental, Sushi",4.2,Very Good,66,QR,500,4,"Sheraton Grand Doha Resort and Convention Hotel, Dafna","Sheraton Grand Doha Resort and Convention Hotel, Dafna, Doha",Doha,,166,25.3179690000,51.5365970000,0,0
+Sawa - Marsa Malaz Kempinski,"European, Mediterranean",4.2,Very Good,42,QR,550,4,"Marsa Malaz Kempinski, Pearl Qatar","Marsa Malaz Kempinski, Pearl Qatar, Doha",Doha,,166,25.3764060000,51.5495680000,0,0
+IDAM By Alain Ducasse,French,4.2,Very Good,49,QR,1200,4,"Museum of Islamic Art, Al Souq","Museum of Islamic Art, Al Souq, Doha",Doha,,166,25.2932619998,51.5406672657,0,0
+Opal By Gordon Ramsay - The St. Regis,"European, Burger",4.1,Very Good,147,QR,400,4,"The St. Regis, Westbay","The St. Regis, Westbay, Doha",Doha,,166,25.3503250000,51.5301270000,0,0
+The Lagoon - The Ritz-Carlton,"Arabian, Middle Eastern",4.1,Very Good,49,QR,400,4,"The Ritz Carlton, Westbay","The Ritz Carlton, Westbay, Doha",Doha,23400,166,25.3793030000,51.5311950000,0,0
+Toro Toro,Latin American,4.1,Very Good,95,QR,400,4,"Marsa Malaz Kempinski, Pearl Qatar","Marsa Malaz Kempinski, Pearl Qatar, Doha",Doha,,166,25.3764060000,51.5495680000,0,0
+Antica Pesa,Italian,4.1,Very Good,74,QR,450,4,"Marsa Malaz, Pearl Qatar","Marsa Malaz, Pearl Qatar, Doha",Doha,,166,25.3764060000,51.5495680000,0,0
+Hunters Room & Grill - The Westin Doha Hotel & Spa,Steak,4.1,Very Good,80,QR,450,4,"The Westin Doha Hotel & Spa, Fereej Bin Mahmoud","The Westin Doha Hotel & Spa, Fereej Bin Mahmoud, Doha",Doha,,166,25.2761800000,51.5129090000,0,0
+Astor Grill - The St. Regis,Steak,4.0,Very Good,36,QR,600,4,"The St. Regis, Westbay","The St. Regis, Westbay, Doha",Doha,,166,25.3503250000,51.5301270000,0,0
+Al  Liwan - Sharq Village & Spa,Continental,4.1,Very Good,54,QR,400,4,"Sharq Village & Spa, Al Salata","Sharq Village & Spa, Al Salata, Doha",Doha,,166,25.2854470000,51.5566920000,0,0
+Yum Yum - K 108 Hotel,French,4.1,Very Good,72,QR,400,4,Al Ghanim,"Al Ghanim, Doha",Doha,,166,25.2813600000,51.5404860000,0,0
+The Square - InterContinental The City Hotel,"International, Sushi",4.0,Very Good,138,QR,450,4,"InterContinental The City Hotel, Dafna","InterContinental The City Hotel, Dafna, Doha",Doha,,166,25.3262880000,51.5247410000,0,0
+Mykonos - InterContinental Doha,Greek,4.0,Very Good,86,QR,500,4,"Hotel InterContinental Doha, Westbay","Hotel InterContinental Doha, Westbay, Doha",Doha,,166,25.3482070000,51.5299180000,0,0
+"Aramede - Crowne Plaza Doha, The Business Park","European, Middle Eastern",4.0,Very Good,64,QR,350,4,"Crowne Plaza Doha - The Business Park,Najma","Crowne Plaza Doha - The Business Park,Najma, Doha",Doha,22080,166,25.2735480000,51.5413420000,0,0
+Chingari - Radisson Blu Hotel,"Mughlai, Indian",4.0,Very Good,143,QR,450,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2727138889,51.5131916667,0,0
+The Cellar - Oryx Rotana,"Mediterranean, Spanish",4.0,Very Good,95,QR,400,4,"Oryx Rotana,Umm Ghuwailina","Oryx Rotana,Umm Ghuwailina, Doha",Doha,,166,25.2684710000,51.5542770000,0,0
+Salsa - Doha Marriott Hotel,Mexican,4.1,Very Good,63,QR,300,4,"Doha Marriott Hotel, Al Salata","Doha Marriott Hotel, Al Salata, Doha",Doha,,166,25.2865160000,51.5626670000,0,0
+CUT by Wolfgang Puck - Mondrian Doha,"American, Steak",4.0,Very Good,33,QR,400,4,"Mondrian Doha, Westbay","Mondrian Doha, Westbay, Doha",Doha,24685,166,25.3767410000,51.5232350000,0,0
+Fuego - Shangri-La Hotel,"Steak, Latin American",4.0,Very Good,41,QR,450,4,"Shangri-La Hotel, Dafna","Shangri-La Hotel, Dafna, Doha",Doha,,166,25.3243510000,51.5329890000,0,0
+Corniche - Doha Marriott Hotel,Continental,3.9,Good,103,QR,450,4,"Doha Marriott Hotel, Al Salata","Doha Marriott Hotel, Al Salata, Doha",Doha,,166,25.2865160000,51.5626670000,0,0
+JW's Steakhouse - Doha Marriott Hotel,Steak,3.9,Good,43,QR,700,4,"Doha Marriott Hotel, Al Salata","Doha Marriott Hotel, Al Salata, Doha",Doha,,166,25.2865160000,51.5626670000,0,0
+"Rodizio - Crowne Plaza Doha, The Business Park",Brazilian,3.9,Good,79,QR,400,4,"Crowne Plaza Doha - The Business Park,Najma","Crowne Plaza Doha - The Business Park,Najma, Doha",Doha,,166,25.2735480000,51.5413420000,0,0
+Blue - Mövenpick Hotel Al Aziziyah Doha,"Japanese, International, Sushi",3.9,Good,53,QR,500,4,"Mövenpick Hotel Al Aziziyah, Al Waab","Mövenpick Hotel Al Aziziyah, Al Waab, Doha",Doha,23833,166,25.2696720000,51.4377520000,0,0
+Al Sufra -  Marsa Malaz Kempinski,"Arabian, Syrian",3.9,Good,46,QR,400,4,"Marsa Malaz Kempinski, Pearl Qatar","Marsa Malaz Kempinski, Pearl Qatar, Doha",Doha,,166,25.3764060000,51.5495680000,0,0
+Parisa - Sharq Village & Spa,Iranian,3.9,Good,22,QR,550,4,"Sharq Village & Spa, Al Salata","Sharq Village & Spa, Al Salata, Doha",Doha,,166,25.2854420000,51.5567440000,0,0
+Burj Al Hamam,Lebanese,3.8,Good,158,QR,350,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3666055257,51.5416057035,0,0
+Hwang - InterContinental The City Hotel,"Chinese, Thai, Asian",3.8,Good,64,QR,400,4,"InterContinental The City Hotel, Dafna","InterContinental The City Hotel, Dafna, Doha",Doha,,166,25.3262880000,51.5247410000,0,0
+Seasons - Movenpick,"Continental, Seafood",3.8,Good,63,QR,400,4,"Movenpick, Al Salata","Movenpick, Al Salata, Doha",Doha,,166,25.2902730000,51.5446210000,0,0
+Flying Carpet - The Torch Doha,International,3.8,Good,57,QR,500,4,"THE TORCH DOHA, Al Waab ","THE TORCH DOHA, Al Waab , Doha",Doha,,166,25.2626760000,51.4450050000,0,0
+La Veranda - Sheraton Grand Doha Resort and Convention Hotel,Italian,3.8,Good,75,QR,450,4,"Sheraton Grand Doha Resort and Convention Hotel, Dafna","Sheraton Grand Doha Resort and Convention Hotel, Dafna, Doha",Doha,,166,25.3179690000,51.5365970000,0,0
+Ziryab,"Middle Eastern, Arabian, Indian",3.8,Good,56,QR,250,4,"Medina Centrale, Pearl Qatar","Medina Centrale, Pearl Qatar, Doha",Doha,,166,25.3687179813,51.5515154600,0,0
+Ruby Wu's - Radisson Blu Hotel,Chinese,3.8,Good,41,QR,350,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2727611111,51.5132027778,0,0
+Aroma - Kempinski Residences & Suites,European,3.8,Good,29,QR,400,4,"Kempinski Residences & Suites, Dafna","Kempinski Residences & Suites, Dafna, Doha",Doha,,166,25.3285350000,51.5311660000,0,0
+Signature by Sanjeev Kapoor - M Doha Hotel,Indian,3.7,Good,102,QR,400,4,"M Doha Hotel, Dafna","M Doha Hotel, Dafna, Doha",Doha,,166,25.3282710000,51.5329380000,0,0
+Flavours - Mövenpick Hotel Al Aziziyah Doha,International,3.7,Good,54,QR,450,4,"Mövenpick Hotel Al Aziziyah, Al Waab","Mövenpick Hotel Al Aziziyah, Al Waab, Doha",Doha,23833,166,25.2688117669,51.4382769540,0,0
+Al Nahham - Banana Island Resort,Middle Eastern,3.7,Good,23,QR,500,4,"Banana Island Resort, Souq Waqif","Banana Island Resort, Souq Waqif, Doha",Doha,,166,25.2930930000,51.5346000000,0,0
+The Italian Job - Radisson Blu Hotel,Italian,3.7,Good,44,QR,350,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2727083333,51.5131694444,0,0
+Morimoto - Mondrian Doha,"Contemporary, Japanese, Sushi",3.8,Good,31,QR,590,4,"Mondrian Doha, Westbay","Mondrian Doha, Westbay, Doha",Doha,24685,166,25.3767410000,51.5232350000,0,0
+The Anvil Room,Steak,3.7,Good,38,QR,500,4,"Tornado Tower, Dafna","Tornado Tower, Dafna, Doha",Doha,,166,25.3187789645,51.5247657895,0,0
+Al Sultan Brahim - The St. Regis,"Lebanese, Seafood",3.6,Good,44,QR,500,4,"The St. Regis, Westbay","The St. Regis, Westbay, Doha",Doha,,166,25.3503250000,51.5301270000,0,0
+Di Capri - La Cigale Hotel,Italian,3.6,Good,27,QR,400,4,"La Cigale Hotel, Bin Mahmoud","La Cigale Hotel, Bin Mahmoud, Doha",Doha,,166,25.2800190000,51.5078670000,0,0
+Bentley's Grill - Radisson Blu Hotel,Steak,3.6,Good,18,QR,450,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2729666667,51.5133888889,0,0
+Almayass,Lebanese,3.5,Good,69,QR,250,4,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3653943234,51.5437420830,0,0
+Le Central - La Cigale Hotel,"Mediterranean, Seafood",3.4,Average,14,QR,400,4,"La Cigale Hotel, Bin Mahmoud","La Cigale Hotel, Bin Mahmoud, Doha",Doha,,166,25.2800190000,51.5078670000,0,0
+Sakura - Radisson Blu Hotel,"Japanese, Sushi",3.5,Good,31,QR,450,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2727083333,51.5131694444,0,0
+Romeo & Juliet,"Italian, Moroccan, Arabian",3.4,Average,34,QR,400,4,Al Nasr,"Al Nasr, Doha",Doha,,166,25.2740090286,51.5092176944,0,0
+ForKnife - Mövenpick Hotel West Bay Doha,"International, Sushi",3.3,Average,61,QR,350,4,"Mövenpick Hotel West Bay Doha, Dafna","Mövenpick Hotel West Bay Doha, Dafna, Doha",Doha,,166,25.3251460000,51.5378430000,0,0
+Aziza - Marriott Marquis Doha,"Lebanese, Seafood",3.3,Average,25,QR,550,4,"Marriott Marquis Doha, Dafna","Marriott Marquis Doha, Dafna, Doha",Doha,,166,25.3254070000,51.5278120000,0,0
+Santorini - Shangri-La Hotel,Greek,3.4,Average,13,QR,400,4,"Shangri-La Hotel, Dafna","Shangri-La Hotel, Dafna, Doha",Doha,,166,25.3243510000,51.5329890000,0,0
+Sarooja,"Syrian, Arabian",3.3,Average,17,QR,0,1,Al Sadd,"Al Sadd, Doha",Doha,,166,25.2916880000,51.4969810000,0,0
+Takht-e-Jamshid,Iranian,3.2,Average,11,QR,400,4,"Al Hazm Mall, Markhiya","Al Hazm Mall, Markhiya, Doha",Doha,,166,25.3313805787,51.4971051738,0,0
+Picasso's - Radisson Blu Hotel,Spanish,3.2,Average,9,QR,220,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2727055556,51.5131638889,0,0
+Belgravia Restaurant,European,3.1,Average,18,QR,400,4,"Al Hazm Mall, Markhiya","Al Hazm Mall, Markhiya, Doha",Doha,,166,25.3322554485,51.4977670088,0,0
+Le Train Bleu,French,3.1,Average,9,QR,400,4,"Al Hazm Mall, Markhiya","Al Hazm Mall, Markhiya, Doha",Doha,,166,25.3310869338,51.4951347560,0,0
+Walima - Mondrian Doha,Middle Eastern,3.1,Average,5,QR,600,4,"Mondrian Doha, Westbay","Mondrian Doha, Westbay, Doha",Doha,24685,166,13.0833273000,80.2346299000,0,0
+The Pier,Arabian,3.0,Average,5,QR,400,4,"Four Seasons Hotel, Dafna","Four Seasons Hotel, Dafna, Doha",Doha,,166,25.3242950000,51.5391530000,0,0
+Bombay Balti - Radisson Blu Hotel,Indian,2.5,Average,57,QR,400,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2727277778,51.5131694444,0,0
+Bab Al Amoud,Arabian,0,Not rated,2,QR,400,4,"Al Hazm Mall, Markhiya","Al Hazm Mall, Markhiya, Doha",Doha,,166,25.3315627049,51.4981797338,0,0
+Tolaitola,"Arabian, Continental",0,Not rated,0,QR,400,4,Ezdan Palace Hotel,"Ezdan Palace Hotel, Doha",Doha,,166,0.0000000000,0.0000000000,0,0
+Dining by Design,"International, Seafood",0,Not rated,0,QR,2700,4,"Banana Island Resort, Souq Waqif","Banana Island Resort, Souq Waqif, Doha",Doha,,166,25.2930930000,51.5346000000,0,0
+Stock Burger Co - Holiday Inn Doha,"Burger, Finger Food",3.9,Good,48,QR,60,3,"Holiday Inn Doha - The Business Park, Najma","Holiday Inn Doha - The Business Park, Najma, Doha",Doha,,166,25.2732350000,51.5425070000,0,0
+Glo Cocktail Bar - Marriott Marquis Doha,Finger Food,4.0,Very Good,61,QR,300,4,"Marriott Marquis Doha, Dafna","Marriott Marquis Doha, Dafna, Doha",Doha,,166,25.3254280000,51.5283300000,0,0
+Champions Sports Bar -  Marriott Marquis Doha,"Finger Food, Burger",3.9,Good,132,QR,350,4,"Marriott Marquis Doha, Dafna","Marriott Marquis Doha, Dafna, Doha",Doha,,166,25.3254280000,51.5283300000,0,0
+Sky View Bar - La Cigale Hotel,"Finger Food, Snacks",3.8,Good,49,QR,350,4,"La Cigale Hotel, Bin Mahmoud","La Cigale Hotel, Bin Mahmoud, Doha",Doha,,166,25.2800190000,51.5078670000,0,0
+Pure - DoubleTree by Hilton,Finger Food,3.7,Good,62,QR,350,4,"DoubleTree by Hilton, Al Salata","DoubleTree by Hilton, Al Salata, Doha",Doha,,166,25.2879015603,51.5407698601,0,0
+"Misturado - Crowne Plaza Doha, The Business Park",Finger Food,3.5,Good,50,QR,300,4,"Crowne Plaza Doha - The Business Park,Najma","Crowne Plaza Doha - The Business Park,Najma, Doha",Doha,22080,166,25.2735480000,51.5413420000,0,0
+Jazz Up Bar - Movenpick,Finger Food,3.3,Average,12,QR,400,4,"Movenpick, Al Salata","Movenpick, Al Salata, Doha",Doha,,166,25.2880343388,51.5406236798,0,0
+Krossroads - Best Western Plus,Finger Food,3.3,Average,42,QR,350,4,"Best Western Plus Doha, Al Souq","Best Western Plus Doha, Al Souq, Doha",Doha,,166,25.2889340000,51.5397700000,0,0
+Madison Piano Bar - La Cigale Hotel,Finger Food,3.1,Average,8,QR,350,4,"La Cigale Hotel, Bin Mahmoud","La Cigale Hotel, Bin Mahmoud, Doha",Doha,,166,25.2801640000,51.5078170000,0,0
+Orion - Radisson Blu Hotel,Finger Food,3.2,Average,16,QR,350,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2727055556,51.5131750000,0,0
+FNK Bar - Hilton,Finger Food,2.9,Average,7,QR,300,4,"Hilton, Dafna","Hilton, Dafna, Doha",Doha,,166,25.3255778532,51.5396802127,0,0
+Le Club - Mercure Grand Hotel,Finger Food,0,Not rated,0,QR,300,4,"Mercure Grand Hotel, Al Asmakh","Mercure Grand Hotel, Al Asmakh, Doha",Doha,,166,25.2833710000,51.5279870000,0,0
+The junction,Drinks Only,0,Not rated,0,QR,0,1,"Swiss-Belhotel, Al Salata","Swiss-Belhotel, Al Salata, Doha",Doha,,166,25.2875370000,51.5402400000,0,0
+Sharq Arena- Sharq Village & Spa,"International, Finger Food",0,Not rated,0,QR,400,4,"Sharq Village & Spa, Al Salata","Sharq Village & Spa, Al Salata, Doha",Doha,,166,25.2850110000,51.5567460000,0,0
+The Irish Harp - Sheraton Grand Doha Resort and Convention Hotel,"Fast Food, Burger",3.9,Good,73,QR,450,4,"Sheraton Grand Doha Resort and Convention Hotel, Dafna","Sheraton Grand Doha Resort and Convention Hotel, Dafna, Doha",Doha,,166,25.3179690000,51.5365970000,0,0
+El Faro - Marsa Malaz Kempinski,"Finger Food, Spanish",3.8,Good,47,QR,400,4,"Marsa Malaz Kempinski, Pearl Qatar","Marsa Malaz Kempinski, Pearl Qatar, Doha",Doha,,166,25.3764060000,51.5495680000,0,0
+Hudson Tavern - Mondrian Doha,"American, Burger",3.6,Good,28,QR,280,4,"Mondrian Doha, Westbay","Mondrian Doha, Westbay, Doha",Doha,24685,166,25.3767410000,51.5232350000,0,0
+Shehrazad - Radisson Blu Hotel,"Finger Food, Continental",3.4,Average,52,QR,350,4,"Radisson Blu Hotel, Muntazah","Radisson Blu Hotel, Muntazah, Doha",Doha,,166,25.2727166667,51.5131805556,0,0
+Krossroads - Best Western Plus,Finger Food,3.3,Average,42,QR,350,4,"Best Western Plus Doha, Al Souq","Best Western Plus Doha, Al Souq, Doha",Doha,,166,25.2889340000,51.5397700000,0,0
+The Backyard,International,3.1,Average,5,QR,0,1,"Sheraton Grand Doha Resort and Convention Hotel, Dafna","Sheraton Grand Doha Resort and Convention Hotel, Dafna, Doha",Doha,,166,25.3183380000,51.5361520000,0,0
+Fahrenheit - Horizon Manor,Finger Food,2.7,Average,17,QR,300,4,"Horizon Manor, Al Souq","Horizon Manor, Al Souq, Doha",Doha,,166,25.2889340000,51.5397700000,0,0
+Vagabond,Drinks Only,0,Not rated,3,QR,0,1,"Horizon Manor, Al Souq","Horizon Manor, Al Souq, Doha",Doha,,166,25.2914404531,51.5392983332,0,0
+Minis Doha,Desserts,4.0,Very Good,28,QR,60,3,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3704738391,51.5477989241,0,0
+Exit 55,American,3.7,Good,65,QR,0,1,Dafna,"Dafna, Doha",Doha,,166,25.3178355030,51.5132778883,0,0
+Jamocha Cafe,Cafe,3.5,Good,31,QR,60,3,Hamad International Airport,"Hamad International Airport, Doha",Doha,,166,25.2611350000,51.6136020000,0,0
+Tiger Cookies,"Cafe, Desserts",3.5,Good,17,QR,65,3,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3366663687,51.4605097845,0,0
+Cactus,Mexican,3.5,Good,21,QR,80,3,Katara,"Katara, Doha",Doha,,166,25.3573766944,51.5268673003,0,0
+dipndip,"Cafe, Desserts",3.5,Good,31,QR,130,4,Dafna,"Dafna, Doha",Doha,,166,25.3211598616,51.5316952765,0,0
+Fries,Fast Food,3.3,Average,14,QR,40,2,Salwa Road,"Salwa Road, Doha",Doha,,166,25.2676424819,51.4821486664,0,0
+Poffertjes,Desserts,3.3,Average,9,QR,60,3,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3671205405,51.5401482582,0,0
+Usha Frshka,Beverages,3.3,Average,7,QR,50,2,Katara,"Katara, Doha",Doha,,166,25.3622399298,51.5288752690,0,0
+Cane Hut,Beverages,3.2,Average,7,QR,40,2,"Wathnan Mall, Muaither","Wathnan Mall, Muaither, Doha",Doha,,166,25.2686146899,51.4238453284,0,0
+Pick & Shake,Beverages,3.2,Average,8,QR,50,2,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3693980914,51.5483028442,0,0
+Minis Doha,Desserts,3.2,Average,5,QR,60,3,"Qatar Handball Association, Dafna","Qatar Handball Association, Dafna, Doha",Doha,,166,25.3163740777,51.5132916346,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.3,Average,4,QR,30,2,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3251229693,51.5296286345,0,0
+Chapati & Karak,Street Food,3.1,Average,11,QR,20,1,Katara,"Katara, Doha",Doha,,166,25.3619954396,51.5293969586,0,0
+Sukar Qasab,"Turkish, Desserts",3.1,Average,5,QR,80,3,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3346557775,51.4613432810,0,0
+Happy Ice,Desserts,3.1,Average,5,QR,35,2,Katara,"Katara, Doha",Doha,,166,25.3545208310,51.5251399577,0,0
+Aliwilim,Street Food,3.1,Average,5,QR,30,2,Katara,"Katara, Doha",Doha,,166,25.3580868626,51.5270077810,0,0
+El Dokan,"Egyptian, Street Food",3.0,Average,11,QR,100,3,Dafna,"Dafna, Doha",Doha,,166,25.3165016728,51.5136041120,0,0
+Magic Corn,Fast Food,3.0,Average,5,QR,25,1,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3265115568,51.5288199484,0,0
+Coffeeshop Company,Cafe,2.9,Average,4,QR,70,3,"Qatar Handball Association, Dafna","Qatar Handball Association, Dafna, Doha",Doha,,166,25.3173396751,51.5134203807,0,0
+EW Bites,American,3.0,Average,4,QR,0,1,Dafna,"Dafna, Doha",Doha,,166,25.3177594317,51.5117228776,0,0
+Chac Late,Desserts,2.9,Average,12,QR,50,2,Katara,"Katara, Doha",Doha,,166,25.3622223580,51.5290714055,0,0
+Bombay Chowpatty,"Street Food, Indian",3.0,Average,24,QR,30,2,Najma,"Najma, Doha",Doha,,166,25.2702579997,51.5463501960,0,0
+Burger Street,"Fast Food, Burger",2.9,Average,8,QR,80,3,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3763465072,51.5438071266,0,0
+Choco Shawerma Corner,Desserts,2.9,Average,4,QR,60,3,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3367163679,51.4604454115,0,0
+Magic Corn,Fast Food,2.9,Average,4,QR,25,1,"Lulu Hypermarket, Old Airport Area","Lulu Hypermarket, Old Airport Area, Doha",Doha,,166,25.2532571577,51.5440887585,0,0
+Gharissa,Ice Cream,2.7,Average,8,QR,30,2,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2895030782,51.5335547179,0,0
+Palm Grove,Indian,2.7,Average,10,QR,40,2,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2583641188,51.5602470562,0,0
+Mrs.Fields,"Cafe, Desserts, Bakery, Coffee, Tea",0,Not rated,3,QR,75,3,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3320881722,51.4627487585,0,0
+Minis Savory,"Continental, Burger, American",0,Not rated,3,QR,100,3,"Qatar Handball Association, Dafna","Qatar Handball Association, Dafna, Doha",Doha,,166,25.3173217937,51.5131937340,0,0
+Tiger cookies ,"Cafe, Desserts",2.9,Average,4,QR,65,3,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2895009562,51.5332516283,0,0
+Ci Gusta,"Bakery, Desserts",0,Not rated,3,QR,45,2,"Dar Al Salam Mall, Abu Hamour","Dar Al Salam Mall, Abu Hamour, Doha",Doha,,166,25.2474916312,51.4898176119,0,0
+Bubbles & Boba,Beverages,0,Not rated,3,QR,65,3,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3282743914,51.3512308896,0,0
+Gelato Divino,Desserts,0,Not rated,3,QR,25,1,"The Mall, Old Airport Area","The Mall, Old Airport Area, Doha",Doha,,166,25.2523877825,51.5377952904,0,0
+Jungle Juice,Beverages,0,Not rated,2,QR,45,2,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3238137671,51.5289034322,0,0
+Tiger Cookies,"Cafe, Desserts",0,Not rated,2,QR,65,3,Dafna,"Dafna, Doha",Doha,,166,25.3170014441,51.5136691555,0,0
+Dunkin' Donuts,"Desserts, Coffee",0,Not rated,3,QR,30,2,"City Center Mall, Dafna","City Center Mall, Dafna, Doha",Doha,,166,25.3248993149,51.5289778635,0,0
+Gharissa,Ice Cream,0,Not rated,2,QR,30,2,Al Souq,"Al Souq, Doha",Doha,,166,25.2986907077,51.5416630358,0,0
+Sweet Factory,Desserts,0,Not rated,3,QR,20,1,"Hyatt Plaza, Al Waab","Hyatt Plaza, Al Waab, Doha",Doha,,166,25.2542769297,51.4373613149,0,0
+Salt,"Burger, American",0,Not rated,1,QR,120,4,Salwa Road,"Salwa Road, Doha",Doha,,166,25.2665614310,51.4825964347,0,0
+Tiger Cookies,"Desserts, Coffee",0,Not rated,2,QR,50,2,Dafna,"Dafna, Doha",Doha,,166,25.3253975363,51.5302918106,0,0
+Harees Al Waldah,"Khaleeji, Qatari",0,Not rated,2,QR,55,2,"Wathnan Mall, Muaither","Wathnan Mall, Muaither, Doha",Doha,,166,25.2686595628,51.4240803570,0,0
+Bombay Chaat,Indian,0,Not rated,2,QR,40,2,Katara,"Katara, Doha",Doha,,166,25.3581310965,51.5257481486,0,0
+Poffertjes,Desserts,0,Not rated,1,QR,60,3,Katara,"Katara, Doha",Doha,,166,25.3593420686,51.5270094574,0,0
+Sweet Factory,Desserts,0,Not rated,1,QR,20,1,"Mall of Qatar, Al Gharafa","Mall of Qatar, Al Gharafa, Doha",Doha,,166,25.3279622531,51.3506595790,0,0
+BOOZA delights,Ice Cream,0,Not rated,1,QR,0,1,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3359880000,51.4607890000,0,0
+Sweet Factory,Desserts,0,Not rated,1,QR,20,1,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3343539587,51.4673487470,0,0
+Corn Corner,Street Food,0,Not rated,1,QR,30,2,"Safari Mall, Ain Khalid","Safari Mall, Ain Khalid, Doha",Doha,,166,25.2185328041,51.4960051328,0,0
+Magic Corn,Snacks,0,Not rated,1,QR,30,2,"Landmark Mall, Markhiya","Landmark Mall, Markhiya, Doha",Doha,,166,25.3340681998,51.4655318856,0,0
+Fy Cafe,"Cafe, Continental",0,Not rated,1,QR,300,4,Al Waab,"Al Waab, Doha",Doha,,166,25.2674388885,51.4320678711,0,0
+Coffeeshop Company,Cafe,0,Not rated,1,QR,70,3,Dafna,"Dafna, Doha",Doha,,166,0.0000000000,0.0000000000,0,0
+Yoku Moku,Desserts,0,Not rated,1,QR,55,2,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3360839522,51.4604692161,0,0
+Forty Fruity,Beverages,0,Not rated,1,QR,60,3,"Qatar Handball Association, Dafna","Qatar Handball Association, Dafna, Doha",Doha,,166,25.3183031432,51.5129268542,0,0
+Sweet Factory,Desserts,0,Not rated,1,QR,20,1,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2579659886,51.4427351207,0,0
+Coffeeshop Company,Cafe,0,Not rated,1,QR,70,3,Al Sadd,"Al Sadd, Doha",Doha,,166,0.0000000000,0.0000000000,0,0
+Gelato Divino,Desserts,0,Not rated,1,QR,25,1,Nuaija,"Nuaija, Doha",Doha,,166,25.2518346783,51.5170541033,0,0
+La Gelateria Fina,"Desserts, Beverages",0,Not rated,1,QR,40,2,Katara,"Katara, Doha",Doha,,166,25.3594935528,51.5270788595,0,0
+Fresh Corn,Snacks,0,Not rated,1,QR,15,1,Al Gharafa,"Al Gharafa, Doha",Doha,,166,25.3547047402,51.4374434575,0,0
+Mr. Pretzels,Desserts,0,Not rated,0,QR,50,2,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3850041279,51.4421711862,0,0
+Juicin' It,Healthy Food,0,Not rated,0,QR,60,3,"Doha Festival City, Umm Salal Mohammed","Doha Festival City, Umm Salal Mohammed, Doha",Doha,,166,25.3859310117,51.4418962598,0,0
+Stick House,Ice Cream,0,Not rated,0,QR,30,2,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2891708324,51.5334484354,0,0
+M & J Sweets,Desserts,0,Not rated,0,QR,60,3,Pearl Qatar,"Pearl Qatar, Doha",Doha,,166,25.3666845958,51.5427741408,0,0
+Caffarel,Desserts,0,Not rated,0,QR,35,2,"Gulf Mall, Al Gharafa","Gulf Mall, Al Gharafa, Doha",Doha,,166,25.3353521398,51.4615672454,0,0
+Sado,Snacks,0,Not rated,0,QR,20,1,"Lulu Hypermarket, Old Airport Area","Lulu Hypermarket, Old Airport Area, Doha",Doha,,166,25.2542960333,51.5444173291,0,0
+Magic Corn,Fast Food,0,Not rated,0,QR,25,1,"Villaggio, Al Waab","Villaggio, Al Waab, Doha",Doha,,166,25.2578671381,51.4413749054,0,0
+Corn Centre,Street Food,0,Not rated,0,QR,20,1,Salwa Road,"Salwa Road, Doha",Doha,,166,25.2415096045,51.4583449066,0,0
+Swirls Softy,Ice Cream,0,Not rated,0,QR,10,1,"Grand Mall, Mesaimeer","Grand Mall, Mesaimeer, Doha",Doha,,166,25.1883471331,51.4650745690,0,0
+Corner Corn Ice-Cream,Fast Food,0,Not rated,0,QR,10,1,Al Souq,"Al Souq, Doha",Doha,,166,25.2876344870,51.5392540768,0,0
+Gelato Divino,Desserts,0,Not rated,0,QR,25,1,"Ezdan Mall, Al Gharafa","Ezdan Mall, Al Gharafa, Doha",Doha,,166,25.3320627171,51.4623065293,0,0
+Roll It,Ice Cream,0,Not rated,0,QR,0,1,Souq Waqif,"Souq Waqif, Doha",Doha,,166,25.2893569629,51.5336532891,0,0
+Yummy Corn,Fast Food,0,Not rated,0,QR,0,1,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2549511561,51.5458350372,0,0
+Golden Corn,Fast Food,0,Not rated,0,QR,10,1,Al Souq,"Al Souq, Doha",Doha,,166,25.2875768888,51.5391739458,0,0
+Q Corn,Fast Food,0,Not rated,0,QR,15,1,"Grand Mall, Mesaimeer","Grand Mall, Mesaimeer, Doha",Doha,,166,25.1872254732,51.4644033462,0,0
+Sweet Corn,Snacks,0,Not rated,0,QR,20,1,Al Rayyan,"Al Rayyan, Doha",Doha,,166,25.3014608949,51.4203447104,0,0
+Corn House,Fast Food,0,Not rated,0,QR,10,1,Al Souq,"Al Souq, Doha",Doha,,166,25.2878706392,51.5393026918,0,0
+Al Waad Corn,Snacks,0,Not rated,0,QR,20,1,Al Rayyan,"Al Rayyan, Doha",Doha,,166,25.2877360416,51.4203363284,0,0
+Corn Center ,Snacks,0,Not rated,0,QR,0,1,Old Airport Area,"Old Airport Area, Doha",Doha,,166,25.2538151072,51.5449048206,0,0
+Black Orchid - Mondrian Doha,Drinks Only,3.2,Average,10,QR,300,4,"Mondrian Doha, Westbay","Mondrian Doha, Westbay, Doha",Doha,24685,166,25.3767410000,51.5232350000,0,0
+The Secret Garden,Drinks Only,0,Not rated,1,QR,0,1,"Marsa Malaz Kempinski, Pearl Qatar","Marsa Malaz Kempinski, Pearl Qatar, Doha",Doha,,166,25.3759560000,51.5505320000,0,0
+Dr Kanafa,Arabian,3.2,Average,7,QR,50,2,Abu Hamour,"Abu Hamour, Doha",Doha,,166,25.2277150000,51.4932130000,1,0
+Dolci Sera Sweets ,Desserts,0,Not rated,0,QR,70,3,Al Rayyan,"Al Rayyan, Doha",Doha,,166,25.2942740000,51.4205190000,0,0

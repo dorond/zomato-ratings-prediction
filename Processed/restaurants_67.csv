@@ -1,0 +1,806 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,locality_verbose,city,zipcode,country_id,latitude,longitude,has_online_delivery,has_table_booking
+Estadão,"Brazilian, Bar Food",4.3,Very Good,30,R$,25,1,República,"República, São Paulo",São Paulo,10000,30,-23.5485000000,-46.6426666667,0,0
+Vinil Burger,Burger,4.1,Very Good,15,R$,50,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5592670000,-46.6965330000,0,0
+Rinconcito Peruano,Peruvian,4.1,Very Good,18,R$,50,2,Bom Retiro,"Bom Retiro, São Paulo",São Paulo,,30,-23.5405000000,-46.6406666667,0,0
+The Dog Haüs,"American, Fast Food",4.0,Very Good,32,R$,50,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5830000000,-46.6760000000,0,0
+Hamburguer do Seu Oswaldo,"Fast Food, Burger",4.0,Very Good,21,R$,30,1,Ipiranga,"Ipiranga, São Paulo",São Paulo,,30,-23.5908333333,-46.6070000000,0,0
+Mr. Baker,"Bakery, Brazilian",4.0,Very Good,15,R$,50,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5813930000,-46.6768560000,0,0
+Bananeira,Brazilian,3.9,Good,10,R$,50,2,Vila Andrade,"Vila Andrade, São Paulo",São Paulo,,30,-23.6168333333,-46.7373333333,0,0
+Figone,"American, Burger",3.8,Good,14,R$,50,2,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5933333333,-46.6381666667,0,0
+Rock'n'Roll Burger,"American, Burger",3.7,Good,11,R$,60,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5516666667,-46.6513333333,0,0
+Hamburgueria do Sujinho,"American, Burger, Fast Food",3.8,Good,13,R$,60,3,República,"República, São Paulo",São Paulo,,30,-23.5413805556,-46.6386222222,0,0
+Lá da Venda,"Cafe, Brazilian",3.8,Good,11,R$,55,2,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,05435000,30,-23.5565000000,-46.6871666667,0,0
+A Casa do Porco,Bar Food,3.9,Good,11,R$,100,4,República,"República, São Paulo",São Paulo,,30,-23.5449050000,-46.6447100000,0,0
+Hobby Hamburguer,"American, Burger, Fast Food",3.7,Good,11,R$,70,3,Perdizes,"Perdizes, São Paulo",São Paulo,10000,30,-23.5418333333,-46.6715000000,0,0
+Iracema Pães e Doces,"Bakery, Brazilian",3.7,Good,8,R$,50,2,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5340000000,-46.6535000000,0,0
+Benjamin Abrahão,"Brazilian, Bakery, Desserts",3.7,Good,8,R$,60,3,Perdizes,"Perdizes, São Paulo",São Paulo,10000,30,-23.5381666667,-46.6715000000,0,0
+Cabana Burger,Burger,3.7,Good,5,R$,40,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,0.0000000000,0.0000000000,0,0
+St. Louis Burger Shop,"American, Burger",3.6,Good,8,R$,50,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5655000000,-46.6658333333,0,0
+Acai Mooca,"Juices, Desserts, Healthy Food",3.7,Good,8,R$,35,2,Mooca,"Mooca, São Paulo",São Paulo,10000,30,-23.5536666667,-46.5915000000,0,0
+Kopenhagen,"Desserts, Cafe",3.7,Good,3,R$,30,1,"Shopping Top Center, Bela Vista","Shopping Top Center, Bela Vista, São Paulo",São Paulo,,30,-23.5653333333,-46.6503333333,0,0
+Chicohamburguer,"American, Burger",3.6,Good,12,R$,60,3,Moema,"Moema, São Paulo",São Paulo,,30,-23.6002310000,-46.6589600000,0,0
+Hamburgueria do Sujinho,"American, Burger, Fast Food",3.6,Good,8,R$,60,3,Consolação,"Consolação, São Paulo",São Paulo,10000,30,-23.5528333333,-46.6605000000,0,0
+Galeria dos Pães,"Bakery, Brazilian",3.6,Good,15,R$,40,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5658333333,-46.6696666667,0,0
+Big Pizza e Calzone,Pizza,3.6,Good,10,R$,50,2,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5351666667,-46.6853333333,0,0
+Kidoairaku,Japanese,3.6,Good,6,R$,60,3,Liberdade,"Liberdade, São Paulo",São Paulo,,30,-23.5613333333,-46.6348333333,0,0
+La Bombe,"Patisserie, Desserts",3.6,Good,5,R$,30,1,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5814910000,-46.6769850000,0,0
+Pati Piva,"Desserts, Cafe",3.6,Good,3,R$,40,2,"Shopping Iguatemi, Pinheiros","Shopping Iguatemi, Pinheiros, São Paulo",São Paulo,10000,30,-23.5768333333,-46.6888333333,0,0
+Paulista Burger,American,3.5,Good,9,R$,55,2,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5568333333,-46.6588333333,0,0
+Benjamin Abrahão,"Bakery, Cafe",3.5,Good,11,R$,30,1,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5454140000,-46.6547460000,0,0
+La Buena Onda,Mexican,3.5,Good,10,R$,50,2,Tatuapé,"Tatuapé, São Paulo",São Paulo,10000,30,-23.5461666667,-46.5663333333,0,0
+St. Etienne,"Bakery, Brazilian",3.5,Good,9,R$,60,3,Alto de Pinheiros,"Alto de Pinheiros, São Paulo",São Paulo,,30,-23.5390000000,-46.7193333333,0,0
+Estação Consolação,Brazilian,3.5,Good,10,R$,50,2,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5545000000,-46.6603333333,0,0
+Rota do Acarajé,"Baiana, Brazilian",3.5,Good,8,R$,50,2,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5411666667,-46.6543333333,0,0
+Ofner,"Cafe, Desserts",3.5,Good,3,R$,35,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5808333333,-46.6791666667,0,0
+Baronesa,"Brazilian, Bakery, Pizza",3.5,Good,5,R$,50,2,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5389370000,-46.6578260000,0,0
+Augusta Bakery St.,"Brazilian, Desserts",3.5,Good,2,R$,60,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5521666667,-46.6531666667,0,0
+Cachoeira Tropical,"Healthy Food, Vegetarian",3.5,Good,4,R$,50,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6001666667,-46.6811666667,0,0
+Andaluza,"Brazilian, Desserts",3.5,Good,5,R$,60,3,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5900000000,-46.6405000000,0,0
+A Esperança,Pizza,3.5,Good,5,R$,60,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5814540000,-46.6774240000,0,0
+Maria Farofa,"Brazilian, North Eastern",3.5,Good,3,R$,40,2,Vila Guilherme,"Vila Guilherme, São Paulo",São Paulo,,30,-23.5037340000,-46.6085020000,0,0
+Ofner,"Cafe, Desserts",3.5,Good,4,R$,35,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5598333333,-46.6943333333,0,0
+Chamon Grill,"Brazilian, Japanese, Italian",3.5,Good,2,R$,55,2,"Galeria Metrópole, República","Galeria Metrópole, República, São Paulo",São Paulo,,30,-23.5467250000,-46.6424722222,0,0
+Prima Donna,Italian,3.5,Good,2,R$,60,3,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5361730000,-46.6607970000,0,0
+Barão da Itararé,"Brazilian, Bar Food",3.5,Good,2,R$,50,2,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5555000000,-46.6553333333,0,0
+Nico Hamburgueria,"Burger, American",3.3,Average,4,R$,60,3,Ipiranga,"Ipiranga, São Paulo",São Paulo,,30,-23.5883333333,-46.6068333333,0,0
+Burdog,"Burger, Fast Food, American",3.4,Average,9,R$,60,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5554700000,-46.6670710000,0,0
+Panetteria ZN,"Brazilian, Bakery, Desserts",3.4,Average,9,R$,55,2,Santana,"Santana, São Paulo",São Paulo,,30,-23.4834740000,-46.6364720000,0,0
+Tollocos,Mexican,3.4,Average,11,R$,50,2,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5568333333,-46.6590000000,0,0
+Kebab Paris,Arabian,3.4,Average,10,R$,35,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5643333333,-46.6800000000,0,0
+Top Burguer,American,3.4,Average,5,R$,55,2,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5338333333,-46.6840000000,0,0
+La Maison de la Crêpe,French,3.4,Average,5,R$,60,3,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5319630000,-46.6875420000,0,0
+China Esmeralda,Chinese,3.4,Average,7,R$,60,3,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5318920000,-46.6659960000,0,0
+Tigre Cego,"Brazilian, Burger",3.4,Average,7,R$,50,2,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5533200000,-46.6906540000,0,0
+Madureira,Healthy Food,3.4,Average,4,R$,60,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5820410000,-46.6785970000,0,0
+La Bombe,"Patisserie, Desserts",3.4,Average,7,R$,30,1,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5643333333,-46.6801666667,0,0
+Itiriki,"Brazilian, Desserts",3.4,Average,6,R$,40,2,Liberdade,"Liberdade, São Paulo",São Paulo,10000,30,-23.5555611111,-46.6349750000,0,0
+Esfiha Juventus,"Lebanese, Arabian",3.4,Average,7,R$,40,2,Mooca,"Mooca, São Paulo",São Paulo,10000,30,-23.5543333333,-46.6028333333,0,0
+Leiriense,"Bakery, Brazilian",3.4,Average,6,R$,55,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6056666667,-46.6925000000,0,0
+Flores na Varanda,Brazilian,3.4,Average,4,R$,50,2,Lapa,"Lapa, São Paulo",São Paulo,,30,-23.5295000000,-46.6961666667,0,0
+Doceria Alteza,"Desserts, Cafe",3.4,Average,5,R$,20,1,Liberdade,"Liberdade, São Paulo",São Paulo,,30,-23.5570000000,-46.6356666667,0,0
+Brasserie Victória,Arabian,3.4,Average,5,R$,60,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5881666667,-46.6751666667,0,0
+Yokoyama,"Brazilian, Fast Food",3.4,Average,4,R$,30,1,Cambuci,"Cambuci, São Paulo",São Paulo,,30,-23.5753611111,-46.6232861111,0,0
+Dona Deôla,"Bakery, Brazilian",3.4,Average,4,R$,50,2,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5388333333,-46.6603333333,0,0
+O Melhor Bolo de Chocolate do Mundo,"Desserts, Cafe",3.4,Average,2,R$,40,2,"Shopping Morumbi, Santo Amaro","Shopping Morumbi, Santo Amaro, São Paulo",São Paulo,10000,30,-23.6235000000,-46.6981666667,0,0
+Kappa Gourmet,"Brazilian, Japanese, Sushi",3.3,Average,6,R$,60,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5671590000,-46.6516640000,0,0
+Maoz Vegetarian,"Vegetarian, Healthy Food, Juices",3.3,Average,8,R$,35,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5570170000,-46.6590350000,0,0
+Hocca Bar,Brazilian,3.3,Average,4,R$,70,3,Mercado Municipal Paulistano,"Mercado Municipal Paulistano, São Paulo",São Paulo,,30,-23.5415583333,-46.6295555556,0,0
+Osnir Hamburguer,American,3.3,Average,9,R$,60,3,Saúde,"Saúde, São Paulo",São Paulo,,30,-23.6091666667,-46.6376666667,0,0
+Biggle's Burger,American,3.3,Average,5,R$,60,3,Butantã,"Butantã, São Paulo",São Paulo,,30,-23.5821666667,-46.7118333333,0,0
+Bar do Mané,Fast Food,3.3,Average,4,R$,40,2,Mercado Municipal Paulistano,"Mercado Municipal Paulistano, São Paulo",São Paulo,,30,-23.5416972222,-46.6293861111,0,0
+Jhony's,Brazilian,3.3,Average,6,R$,30,1,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5398333333,-46.6526666667,0,0
+Burger 700 Classic,American,3.3,Average,4,R$,55,2,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5351666667,-46.6743333333,0,0
+Dona Deôla,"Bakery, Brazilian",3.3,Average,4,R$,50,2,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5403694444,-46.6904250000,0,0
+Mariana's Grill,"Grill, Brazilian",3.3,Average,5,R$,55,2,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5866510000,-46.6340380000,0,0
+Pastelaria Brasileira,Fast Food,3.3,Average,4,R$,25,1,Perdizes,"Perdizes, São Paulo",São Paulo,10000,30,-23.5266666667,-46.6815000000,0,0
+Ugue's Lanchonete,Brazilian,3.3,Average,4,R$,30,1,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5435660000,-46.6542890000,0,0
+Pastificio Carasi,Italian,3.3,Average,3,R$,60,3,Mooca,"Mooca, São Paulo",São Paulo,10000,30,-23.5540000000,-46.5946666667,0,0
+Kalili,Arabian,3.3,Average,3,R$,45,2,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6578333333,0,0
+Quinto Pecado,"Cafe, Desserts",3.3,Average,2,R$,30,1,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5840000000,-46.6398333333,0,0
+La Vie en Douce,"Desserts, Cafe",3.3,Average,2,R$,25,1,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5603333333,-46.6678333333,0,0
+Ale Tedesco,"Cafe, Desserts",3.3,Average,2,R$,50,2,Santo Amaro,"Santo Amaro, São Paulo",São Paulo,,30,-23.6315888889,-46.7011638889,0,0
+Chocolat du Jour,"Cafe, Desserts",3.3,Average,1,R$,45,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5629840000,-46.6673720000,0,0
+Nutrisom Naturalmente,"Brazilian, Healthy Food",3.3,Average,2,R$,55,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5945700000,-46.6834670000,0,0
+Ô de Casa,"Desserts, Cafe",3.3,Average,1,R$,25,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5723950000,-46.6556480000,0,0
+Nutrisom,"Brazilian, Healthy Food",3.3,Average,1,R$,55,2,República,"República, São Paulo",São Paulo,10000,30,-23.5486666667,-46.6425000000,0,0
+Cantinho da Cecília,"Brazilian, Pizza, Italian",3.2,Average,8,R$,40,2,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5396666667,-46.6503333333,0,0
+Vila Angélica,Brazilian,3.2,Average,6,R$,60,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5516490000,-46.6609340000,0,0
+Lanchonete do Tio Zé,Brazilian,3.2,Average,5,R$,55,2,Cambuci,"Cambuci, São Paulo",São Paulo,,30,-23.5723500000,-46.6128694444,0,0
+Kebabel,Arabian,3.2,Average,6,R$,60,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5548333333,-46.6570000000,0,0
+Croasonho,"Desserts, Fast Food, Brazilian",3.2,Average,4,R$,50,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5624260000,-46.6926300000,0,0
+Café Suplicy,"Cafe, Desserts",3.2,Average,7,R$,35,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5645000000,-46.6653333333,0,0
+Brigaderia,"Desserts, Cafe",3.2,Average,5,R$,40,2,"Shopping Market Place, Santo Amaro","Shopping Market Place, Santo Amaro, São Paulo",São Paulo,,30,-23.6215000000,-46.6996666667,0,0
+Pibus Hamburguer,"American, Burger",3.2,Average,5,R$,45,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5895000000,-46.6771666667,0,0
+Mister Pão,"Brazilian, Bakery",3.2,Average,5,R$,60,3,Santana,"Santana, São Paulo",São Paulo,,30,-23.4812870000,-46.6400260000,0,0
+Jaf Burger,American,3.2,Average,4,R$,60,3,Alto de Pinheiros,"Alto de Pinheiros, São Paulo",São Paulo,,30,-23.5389333333,-46.7062750000,0,0
+Floriana Café,"Brazilian, Cafeteria",3.2,Average,3,R$,60,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5838333333,-46.6715000000,0,0
+Arabin,Arabian,3.2,Average,2,R$,50,2,Moema,"Moema, São Paulo",São Paulo,,30,-23.6109470000,-46.6604190000,0,0
+Pão do Parque,"Brazilian, Bakery",3.2,Average,3,R$,50,2,Butantã,"Butantã, São Paulo",São Paulo,,30,-23.5573250000,-46.7553277778,0,0
+Prosperità,Pizza,3.2,Average,2,R$,55,2,"Galeria Copan, Centro","Galeria Copan, Centro, São Paulo",São Paulo,,30,-23.5461277778,-46.6436527778,0,0
+Rosima,Arabian,3.2,Average,1,R$,50,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5742660000,-46.6561170000,0,0
+Pati Piva,"Desserts, Cafe",3.2,Average,1,R$,40,2,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6578333333,0,0
+Bacio di Latte - Oscar Freire,Ice Cream,4.6,Excellent,17,R$,30,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5677540000,-46.6635980000,0,0
+Bacio di Latte - Bela Cintra,Ice Cream,4.4,Very Good,28,R$,30,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5611666667,-46.6668333333,0,0
+Julice Boulangere,"Bakery, Desserts, French",4.2,Very Good,19,R$,75,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5606666667,-46.6926666667,0,0
+Cold Stone Creamery,Ice Cream,4.2,Very Good,13,R$,40,2,Moema,"Moema, São Paulo",São Paulo,,30,-23.6067370000,-46.6707030000,0,0
+D'Lucca Gelato,"Ice Cream, Desserts",4.0,Very Good,18,R$,30,1,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5872870000,-46.6773040000,0,0
+Frida e Mina,Desserts,3.9,Good,14,R$,35,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5633333333,-46.6826666667,0,0
+Bacio di Latte - Rua Rouxinol,Ice Cream,4.0,Very Good,16,R$,30,1,Moema,"Moema, São Paulo",São Paulo,,30,-23.6040000000,-46.6696666667,0,0
+Casa Mathilde,Desserts,3.9,Good,17,R$,50,2,Sé,"Sé, São Paulo",São Paulo,,30,-23.5454972222,-46.6347833333,0,0
+Los Hermanos Paleteria Mexicana,Ice Cream,3.9,Good,12,R$,30,1,Santana,"Santana, São Paulo",São Paulo,,30,-23.5032690000,-46.6333180000,0,0
+Gelatte di Gàbi,"Desserts, Ice Cream",3.8,Good,12,R$,25,1,Santana,"Santana, São Paulo",São Paulo,,30,-23.5033916667,-46.6376583333,0,0
+Condimento,"International, Desserts, Cafe",3.8,Good,10,R$,70,3,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5520944444,-46.5647416667,0,0
+Villa Grano,Bakery,3.7,Good,10,R$,70,3,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5565000000,-46.6913333333,0,0
+Maria Brigadeiro,Desserts,3.7,Good,6,R$,20,1,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5605000000,-46.6731666667,0,0
+Lu Bonometti,Desserts,3.7,Good,5,R$,25,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5740000000,-46.6588333333,0,0
+Gelati Italia,"Ice Cream, Cafe, Desserts",3.6,Good,12,R$,30,1,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5646666667,-46.6810000000,0,0
+Patisserie Douce France,"Bakery, Desserts",3.6,Good,3,R$,55,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5658333333,-46.6516666667,0,0
+Empório Moema,Bakery,3.5,Good,8,R$,60,3,Moema,"Moema, São Paulo",São Paulo,,30,-23.6026666667,-46.6683333333,0,0
+Joy Juice Smoothie Bar,Ice Cream,3.5,Good,4,R$,40,2,"Galeria Miami Plaza, Jardim Paulista","Galeria Miami Plaza, Jardim Paulista, São Paulo",São Paulo,,30,-23.5700790000,-46.6598080000,0,0
+Osvaldo Bolos,"Desserts, Cafe",3.5,Good,6,R$,30,1,Campo Grande,"Campo Grande, São Paulo",São Paulo,,30,0.0000000000,0.0000000000,0,0
+Confeitaria Dama,Desserts,3.5,Good,5,R$,40,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5605060000,-46.6980560000,0,0
+Mr. Cheney,Desserts,3.5,Good,5,R$,15,1,"Shopping Eldorado, Pinheiros","Shopping Eldorado, Pinheiros, São Paulo",São Paulo,,30,-23.5702710000,-46.6903300000,0,0
+GattaMelata,Desserts,3.4,Average,5,R$,30,1,Perdizes,"Perdizes, São Paulo",São Paulo,10000,30,-23.5355000000,-46.6680000000,0,0
+Ceci,Bakery,3.4,Average,5,R$,50,2,Saúde,"Saúde, São Paulo",São Paulo,,30,-23.6193333333,-46.6503333333,0,0
+Quartier Du Pain,Bakery,3.4,Average,3,R$,50,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5610000000,-46.6693333333,0,0
+Stuppendo,"Ice Cream, Desserts, Cafe",3.3,Average,6,R$,30,1,Moema,"Moema, São Paulo",São Paulo,,30,-23.6058940000,-46.6715130000,0,0
+PikurruchA'S,Desserts,3.2,Average,5,R$,25,1,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5358980000,-46.6812330000,0,0
+Bacio di Latte,Ice Cream,3.2,Average,5,R$,30,1,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5550000000,-46.6881666667,0,0
+Cuordicrema,Desserts,3.2,Average,4,R$,30,1,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5836666667,-46.6791666667,0,0
+Bread & Co,Bakery,3.2,Average,4,R$,85,3,Moema,"Moema, São Paulo",São Paulo,,30,-23.5911666667,-46.6675000000,0,0
+Sucrier,Desserts,3.2,Average,3,R$,25,1,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5812600000,-46.6776200000,0,0
+Peccati,Ice Cream,3.2,Average,1,R$,25,1,Cursino,"Cursino, São Paulo",São Paulo,,30,-23.6097130000,-46.6185930000,0,0
+A Trigueira,Bakery,3.2,Average,1,R$,100,4,Campo Belo,"Campo Belo, São Paulo",São Paulo,,30,-23.6176666667,-46.6723333333,0,0
+Cau Chocolates,Desserts,3.2,Average,1,R$,20,1,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6580000000,0,0
+Osvaldo Bolos,"Desserts, Cafe",3.2,Average,1,R$,30,1,Campo Grande,"Campo Grande, São Paulo",São Paulo,,30,0.0000000000,0.0000000000,0,0
+Delícia Delizia,Ice Cream,3.1,Average,4,R$,30,1,Vila Andrade,"Vila Andrade, São Paulo",São Paulo,,30,-23.6244440000,-46.7339910000,0,0
+Tal do bolo,Bakery,3.1,Average,2,R$,20,1,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6011666667,-46.6815000000,0,0
+Brigaderia,Desserts,3.1,Average,2,R$,40,2,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6580000000,0,0
+Folie,Desserts,3.1,Average,1,R$,40,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5601666667,-46.6766666667,0,0
+Casa Godinho,Bakery,3.1,Average,1,R$,60,3,Sé,"Sé, São Paulo",São Paulo,,30,-23.5465990000,-46.6363230000,0,0
+Haagen Dazs,Ice Cream,3.1,Average,1,R$,40,2,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6578333333,0,0
+Alaska,Ice Cream,3.0,Average,6,R$,40,2,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5718333333,-46.6448333333,0,0
+Gelateria Blu,Ice Cream,3.0,Average,4,R$,25,1,Moema,"Moema, São Paulo",São Paulo,,30,-23.6054340000,-46.6657250000,0,0
+Santo  Bolo,Desserts,3.0,Average,1,R$,20,1,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5426650000,-46.6825420000,0,0
+Ice by Nice,Ice Cream,3.0,Average,4,R$,55,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5688333333,-46.6921666667,0,0
+Yogo Sub,Desserts,3.0,Average,4,R$,30,1,"Conjunto Nacional, Jardim Paulista","Conjunto Nacional, Jardim Paulista, São Paulo",São Paulo,,30,-23.5586890000,-46.6599180000,0,0
+Patisserie Douce France,"Bakery, Desserts",3.0,Average,4,R$,55,2,"Shopping Morumbi, Santo Amaro","Shopping Morumbi, Santo Amaro, São Paulo",São Paulo,,30,-23.6229250000,-46.6985740000,0,0
+Dri Dri,Ice Cream,2.9,Average,4,R$,30,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5649710000,-46.6652990000,0,0
+Delasduas,Desserts,2.9,Average,4,R$,50,2,Campo Belo,"Campo Belo, São Paulo",São Paulo,,30,-23.6221666667,-46.6711666667,0,0
+Diletto,Ice Cream,2.9,Average,4,R$,20,1,"Shopping D&D, Itaim Bibi","Shopping D&D, Itaim Bibi, São Paulo",São Paulo,,30,-23.6088040000,-46.6975200000,0,0
+Diletto,Ice Cream,2.9,Average,4,R$,20,1,"Shopping Villa Lobos, Alto de Pinheiros","Shopping Villa Lobos, Alto de Pinheiros, São Paulo",São Paulo,10000,30,-23.5507361111,-46.7217944444,0,0
+The Original Cupcake,Desserts,2.8,Average,4,R$,20,1,"Shopping Metrô Tatuapé, Tatuapé","Shopping Metrô Tatuapé, Tatuapé, São Paulo",São Paulo,,30,-23.5416666667,-46.5768333333,0,0
+Brigaderia Gourmet,Desserts,2.8,Average,4,R$,20,1,"Shopping Plaza Sul, Cursino","Shopping Plaza Sul, Cursino, São Paulo",São Paulo,,30,-23.6200000000,-46.6268333333,0,0
+Brigadeiro Bistrô,Desserts,2.8,Average,4,R$,30,1,"Shopping Vila Olímpia, Itaim Bibi","Shopping Vila Olímpia, Itaim Bibi, São Paulo",São Paulo,,30,-23.5957670000,-46.6847080000,0,0
+Leticia,Bakery,2.8,Average,4,R$,50,2,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5496666667,-46.6830000000,0,0
+The Original Cupcake,Desserts,2.8,Average,4,R$,20,1,"Shopping Center 3, Jardim Paulista","Shopping Center 3, Jardim Paulista, São Paulo",São Paulo,,30,-23.5579680000,-46.6594320000,0,0
+Senza Parole,Desserts,2.8,Average,4,R$,25,1,Mooca,"Mooca, São Paulo",São Paulo,10000,30,-23.5528333333,-46.5880000000,0,0
+Brigadeiro Factory,Desserts,2.8,Average,4,R$,40,2,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5418027778,-46.6835416667,0,0
+Italianinha,Bakery,2.8,Average,4,R$,60,3,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5563950000,-46.6453350000,0,0
+Coco Café,Bakery,2.8,Average,4,R$,60,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5888333333,-46.6753333333,0,0
+Brigadeiro Bistrô,Desserts,2.8,Average,4,R$,30,1,"Shopping Eldorado, Pinheiros","Shopping Eldorado, Pinheiros, São Paulo",São Paulo,10000,30,-23.5728333333,-46.6956666667,0,0
+Nova Veredas,Bakery,2.7,Average,4,R$,30,1,Mooca,"Mooca, São Paulo",São Paulo,10000,30,-23.5610000000,-46.5945000000,0,0
+Pain et Chocolat,"Desserts, Cafe",2.7,Average,4,R$,80,3,Moema,"Moema, São Paulo",São Paulo,,30,-23.6056780000,-46.6715990000,0,0
+Leticia,Bakery,2.7,Average,1,R$,50,2,Lapa,"Lapa, São Paulo",São Paulo,,30,-23.5401666667,-46.7041666667,0,0
+Mr. Cheney,Desserts,2.6,Average,8,R$,15,1,"Shopping Center 3, Jardim Paulista","Shopping Center 3, Jardim Paulista, São Paulo",São Paulo,,30,-23.5579680000,-46.6594320000,0,0
+La Pastarella,Desserts,2.5,Average,4,R$,20,1,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5891666667,-46.6243333333,0,0
+"Basilicata – Pão, Empório e Restaurante","Bakery, Italian",0,Not rated,2,R$,60,3,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5585190000,-46.6465360000,0,0
+Vilinha Doces,Desserts,0,Not rated,3,R$,30,1,Lapa,"Lapa, São Paulo",São Paulo,,30,-23.5280000000,-46.6998333333,0,0
+Dona Belinha,Bakery,0,Not rated,0,R$,30,1,Rio Pequeno,"Rio Pequeno, São Paulo",São Paulo,,30,0.0000000000,0.0000000000,0,0
+Sonheria Dulca,"Desserts, Cafe",0,Not rated,3,R$,30,1,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5624630000,-46.6682150000,0,0
+Casa Elli,Ice Cream,0,Not rated,3,R$,35,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5625860000,-46.6651670000,0,0
+Brigadeiro Doceria & Café,Desserts,0,Not rated,2,R$,50,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5606040000,-46.6965110000,0,0
+Divino Doces Finos,Desserts,0,Not rated,2,R$,35,2,Mooca,"Mooca, São Paulo",São Paulo,10000,30,-23.5601666667,-46.5988333333,0,0
+Bartô Gelateria,Ice Cream,0,Not rated,2,R$,25,1,Tatuapé,"Tatuapé, São Paulo",São Paulo,03310000,30,-23.5520026819,-46.5648201027,0,0
+Ben & Jerry's,Ice Cream,0,Not rated,3,R$,30,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5628590000,-46.6695340000,0,0
+Cannoleria Casa di Dante,Desserts,0,Not rated,1,R$,70,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5541920000,-46.6546690000,0,0
+Padoca di Napoli,Bakery,0,Not rated,2,R$,50,2,Moema,"Moema, São Paulo",São Paulo,,30,-23.6020000000,-46.6720000000,0,0
+Armazem do Bolo,Desserts,0,Not rated,2,R$,20,1,Mooca,"Mooca, São Paulo",São Paulo,10000,30,-23.5658333333,-46.5936666667,0,0
+Saint Germain,Bakery,0,Not rated,2,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5811666667,-46.6800000000,0,0
+Bacio di Latte,Ice Cream,0,Not rated,1,R$,30,1,"Shopping Eldorado, Pinheiros","Shopping Eldorado, Pinheiros, São Paulo",São Paulo,,30,-23.5735540000,-46.6960790000,0,0
+Muu Shake,Desserts,0,Not rated,1,R$,15,1,Vila Prudente,"Vila Prudente, São Paulo",São Paulo,,30,-23.5796666667,-46.5813333333,0,0
+Chez Moná,Bakery,0,Not rated,1,R$,40,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5666666667,-46.6851666667,0,0
+Nutty Bavarian,Desserts,0,Not rated,1,R$,35,2,"Shopping Cidade Jardim, Morumbi","Shopping Cidade Jardim, Morumbi, São Paulo",São Paulo,,30,-23.6310000000,-46.7361666667,0,0
+Ben & Jerry's,Ice Cream,0,Not rated,1,R$,30,1,"Conjunto Nacional, Jardim Paulista","Conjunto Nacional, Jardim Paulista, São Paulo",São Paulo,,30,-23.5590230000,-46.6602480000,0,0
+Bollo de Bolo,Desserts,0,Not rated,3,R$,25,1,Freguesia do Ó,"Freguesia do Ó, São Paulo",São Paulo,,30,-23.4981833333,-46.7000111111,0,0
+Centro Gastronômico Requinte,Bakery,0,Not rated,2,R$,60,3,Penha,"Penha, São Paulo",São Paulo,,30,-23.5229920000,-46.5321880000,0,0
+Rosana Bolos e Doces,Desserts,0,Not rated,2,R$,25,1,Jabaquara,"Jabaquara, São Paulo",São Paulo,,30,-23.6553500000,-46.6481083333,0,0
+Marco Polo Gelateria & Caffé,"Ice Cream, Desserts, Cafe",0,Not rated,3,R$,50,2,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5481666667,-46.5686666667,0,0
+Le Pudding,Desserts,0,Not rated,2,R$,40,2,"Shopping Market Place, Santo Amaro","Shopping Market Place, Santo Amaro, São Paulo",São Paulo,,30,-23.6216940000,-46.6994130000,0,0
+Confeitaria da Luana Davidsohn,Desserts,0,Not rated,2,R$,40,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5619420000,-46.6884430000,0,0
+Vipiteno,"Ice Cream, Desserts",0,Not rated,2,R$,30,1,"Shopping Market Place, Santo Amaro","Shopping Market Place, Santo Amaro, São Paulo",São Paulo,,30,-23.6215000000,-46.6996666667,0,0
+Sodiê Doces,Desserts,0,Not rated,1,R$,20,1,Vila Campesina,"Vila Campesina, Osasco",Osasco,,30,-23.5433333333,-46.7730000000,0,0
+Dicunhada,"Desserts, Cafe",0,Not rated,3,R$,25,1,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5470000000,-46.5693333333,0,0
+Croasonho,"Desserts, Fast Food, Brazilian",0,Not rated,2,R$,50,2,Moema,"Moema, São Paulo",São Paulo,10000,30,-23.6085000000,-46.6633333333,0,0
+Truferia Suíça,Desserts,0,Not rated,1,R$,20,1,Santana,"Santana, São Paulo",São Paulo,,30,-23.4837600000,-46.6184050000,0,0
+Churros Cardeta,Desserts,0,Not rated,2,R$,10,1,"Multi Shopping Vila Mariana, Vila Mariana","Multi Shopping Vila Mariana, Vila Mariana, São Paulo",São Paulo,,30,-23.5815000000,-46.6438333333,0,0
+Casa de Bolos,Desserts,0,Not rated,2,R$,50,2,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5393333333,-46.6523333333,0,0
+Madame Brigadeiro,Desserts,0,Not rated,1,R$,30,1,Perdizes,"Perdizes, São Paulo",São Paulo,10000,30,-23.5383333333,-46.6721666667,0,0
+Sodiê Doces,Desserts,0,Not rated,1,R$,20,1,Ipiranga,"Ipiranga, São Paulo",São Paulo,,30,-23.5840000000,-46.6048333333,0,0
+Cia & Bolo,Desserts,0,Not rated,2,R$,30,1,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5334190000,-46.6762760000,0,0
+La Bucai,Desserts,0,Not rated,2,R$,25,1,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5405000000,-46.6570000000,0,0
+Mocotó,"Brazilian, North Eastern",4.7,Excellent,29,R$,120,4,Vila Maria,"Vila Maria, São Paulo",São Paulo,,30,-23.4862540000,-46.5816910000,0,0
+Z Deli Sandwich Shop,"Burger, Sandwich",4.6,Excellent,35,R$,50,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,01414002,30,-23.5630730000,-46.6670790000,0,0
+Esquina Mocotó,"Brazilian, North Eastern",4.4,Very Good,20,R$,100,4,Vila Maria,"Vila Maria, São Paulo",São Paulo,,30,-23.4865350000,-46.5816720000,0,0
+Butcher's Market,American,4.4,Very Good,40,R$,120,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5809870000,-46.6768560000,0,0
+Ritz,"American, Mediterranean, Contemporary, Burger",4.4,Very Good,21,R$,130,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5812700000,-46.6803450000,0,0
+Dalva e Dito,Brazilian,4.4,Very Good,24,R$,140,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5663520000,-46.6668990000,0,0
+Insalata,"Brazilian, Contemporary",4.3,Very Good,29,R$,130,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5728333333,-46.6600000000,0,0
+Shin Zushi,"Sushi, Japanese",4.3,Very Good,14,R$,200,4,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5750060000,-46.6436580000,0,0
+Le Jazz,French,4.3,Very Good,34,R$,120,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5650000000,-46.6806666667,0,0
+Mori Otha Sushi,"Sushi, Japanese",4.3,Very Good,30,R$,200,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5630380000,-46.6708340000,0,0
+Madero,"Steak, Burger",4.3,Very Good,21,R$,110,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5954720000,-46.6857400000,0,0
+Consulado Mineiro,"Mineira, Brazilian",4.3,Very Good,24,R$,130,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5586666667,-46.6803333333,0,0
+Hocca Bar,Brazilian,4.3,Very Good,17,R$,70,3,Sé,"Sé, São Paulo",São Paulo,,30,-23.5419860000,-46.6295070000,0,0
+Sainte Marie Gastronomia,"Lebanese, Arabian",4.1,Very Good,14,R$,120,4,Vila Sônia,"Vila Sônia, São Paulo",São Paulo,,30,-23.6092070000,-46.7469580000,0,0
+Bella Paulista,"Cafe, Bakery",4.2,Very Good,34,R$,80,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5558333333,-46.6601666667,0,0
+Coco Bambú,Seafood,4.2,Very Good,37,R$,200,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5852270000,-46.6704400000,0,0
+Nakka,"Japanese, Sushi",4.2,Very Good,15,R$,150,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5820000000,-46.6788333333,0,0
+Big Kahuna,"American, Fast Food",4.2,Very Good,22,R$,100,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5733490000,-46.6558360000,0,0
+Tantra Mongolian Grill,"Mongolian, Grill",4.2,Very Good,22,R$,150,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5943333333,-46.6830000000,0,0
+Bar da Dona Onça,"Brazilian, Beverages",4.2,Very Good,24,R$,180,4,República,"República, São Paulo",São Paulo,,30,-23.5461722222,-46.6451944444,0,0
+Frutaria São Paulo,"Healthy Food, Juices",4.2,Very Good,25,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5675100000,-46.6641340000,0,0
+Tordesilhas,Brazilian,4.2,Very Good,15,R$,190,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5605000000,-46.6675000000,0,0
+Hannover,Swiss,4.2,Very Good,18,R$,150,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6065450000,-46.6715480000,0,0
+Santo Grão,"Cafe, Brazilian",4.2,Very Good,19,R$,80,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5656200000,-46.6656340000,0,0
+Le Jazz,French,4.2,Very Good,20,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5645000000,-46.6743333333,0,0
+Meats,"Gourmet Fast Food, Burger",4.1,Very Good,63,R$,120,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5648333333,-46.6813333333,0,0
+Zé do Hamburger,"American, Fast Food, Burger",4.1,Very Good,26,R$,75,3,Perdizes,"Perdizes, São Paulo",São Paulo,10000,30,-23.5355000000,-46.6681666667,0,0
+Veridiana,"Pizza, Italian",4.1,Very Good,24,R$,130,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5689480000,-46.6570260000,0,0
+Jiquitaia,Brazilian,4.1,Very Good,16,R$,100,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5567100000,-46.6575230000,0,0
+Ramona,"Brazilian, American",4.1,Very Good,14,R$,100,4,República,"República, São Paulo",São Paulo,,30,-23.5475000000,-46.6428333333,0,0
+Blú Bistrô,Contemporary,4.1,Very Good,19,R$,120,4,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5356666667,-46.6683333333,0,0
+Suri,"Peruvian, Latin American",4.1,Very Good,19,R$,120,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5625000000,-46.6858333333,0,0
+Cantina Gigio,Italian,4.1,Very Good,21,R$,150,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5651666667,-46.6815000000,0,0
+La Mar,Peruvian,4.1,Very Good,15,R$,200,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5856666667,-46.6843333333,0,0
+P.J. Clarke's,"American, Steak, Burger",4.1,Very Good,16,R$,150,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5850000000,-46.6850000000,0,0
+St. Louis,"American, Fast Food",4.0,Very Good,17,R$,85,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5712590000,-46.6561870000,0,0
+Sal Gastronomia,"Author, Contemporary",4.0,Very Good,14,R$,250,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5550870000,-46.6646680000,0,0
+Hecho en Mexico,Mexican,4.0,Very Good,21,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5835000000,-46.6738333333,0,0
+Aska,Japanese,4.0,Very Good,21,R$,80,3,Liberdade,"Liberdade, São Paulo",São Paulo,,30,-23.5592080000,-46.6348200000,0,0
+Outback Steakhouse,"Steak, BBQ",4.0,Very Good,15,R$,150,4,"Shopping Market Place, Santo Amaro","Shopping Market Place, Santo Amaro, São Paulo",São Paulo,,30,-23.6215000000,-46.6996666667,0,0
+FrangÓ,"Bar Food, Brazilian, Beverages",4.0,Very Good,13,R$,80,3,Freguesia do Ó,"Freguesia do Ó, São Paulo",São Paulo,,30,-23.5017194444,-46.6994527778,0,0
+Myk,Greek,4.0,Very Good,13,R$,150,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5684590000,-46.6648720000,0,0
+General Prime Burger,American,4.0,Very Good,14,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5847850000,-46.6754240000,0,0
+Obá,"Mexican, Thai, Brazilian",4.0,Very Good,13,R$,100,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5596666667,-46.6693333333,0,0
+Na Garagem,"Burger, Gourmet Fast Food",4.0,Very Good,17,R$,70,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5656980000,-46.6886580000,0,0
+Frutaria São Paulo,"Healthy Food, Juices",4.0,Very Good,18,R$,120,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.5975000000,-46.6671666667,0,0
+Lamen Kazu,Japanese,4.0,Very Good,12,R$,80,3,Liberdade,"Liberdade, São Paulo",São Paulo,,30,-23.5578333333,-46.6360000000,0,0
+Corrientes 348,"Argentine, BBQ, Steak",4.0,Very Good,10,R$,160,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5809920000,-46.6877640000,0,0
+Outback Steakhouse,"Steak, BBQ",4.0,Very Good,11,R$,150,4,"Shopping Center Norte, Santana","Shopping Center Norte, Santana, São Paulo",São Paulo,,30,-23.5140000000,-46.6191666667,0,0
+Pita,"Arabian, Kebab, Fast Food",4.0,Very Good,17,R$,75,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5623333333,-46.6806666667,0,0
+Bráz,"Italian, Pizza",4.0,Very Good,15,R$,100,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6000000000,-46.6728333333,0,0
+Quintal do Bráz,Pizza,4.0,Very Good,14,R$,100,4,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5920000000,-46.6436666667,0,0
+Saj,Lebanese,4.0,Very Good,13,R$,120,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5561666667,-46.6895000000,0,0
+Brasil a Gosto,Brazilian,4.0,Very Good,9,R$,180,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5688650000,-46.6650760000,0,0
+Tappo Trattoria,Italian,4.0,Very Good,13,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5586666667,-46.6663333333,0,0
+Riviera Bar,"International, Beverages",4.0,Very Good,11,R$,100,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5549980000,-46.6632090000,0,0
+Walter Mancini,Italian,4.0,Very Good,5,R$,120,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,10000,30,-23.5485000000,-46.6433333333,0,0
+Bistrot de Paris,French,3.9,Good,7,R$,200,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5633800000,-46.6658000000,0,0
+New Dog,"American, Fast Food",3.9,Good,32,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5838333333,-46.6723333333,0,0
+Santo Grão,"Cafe, Brazilian",4.0,Very Good,12,R$,80,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5808420000,-46.6805900000,0,0
+K'Pop Chicken,Korean,3.9,Good,17,R$,60,3,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5996666667,-46.6378333333,0,0
+Sushi Mar,"Japanese, Sushi",3.9,Good,16,R$,160,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5713820000,-46.6584420000,0,0
+Bráz,"Italian, Pizza",3.9,Good,10,R$,100,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5481666667,-46.6576666667,0,0
+Lellis Tratoria,Italian,3.9,Good,15,R$,110,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5616666667,-46.6668333333,0,0
+Marakuthai Kumbukha,"Thai, Asian, Contemporary",3.9,Good,19,R$,130,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5576666667,-46.6668333333,0,0
+Tea Connection,"Coffee and Tea, Cafe",3.9,Good,14,R$,90,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5653333333,-46.6641666667,0,0
+Joakins,American,3.9,Good,22,R$,70,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5838333333,-46.6723333333,0,0
+Kaa,Italian,3.9,Good,14,R$,120,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5861710000,-46.6733160000,0,0
+ICI Brasserie,French,3.9,Good,13,R$,150,4,"Shopping JK Iguatemi, Itaim Bibi","Shopping JK Iguatemi, Itaim Bibi, São Paulo",São Paulo,,30,-23.5915000000,-46.6903333333,0,0
+Serafina,Italian,3.9,Good,11,R$,150,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5824080000,-46.6804960000,0,0
+Cantina Gigio,Italian,3.9,Good,19,R$,150,4,Brás,"Brás, São Paulo",São Paulo,10000,30,-23.5443333333,-46.6238333333,0,0
+Lanchonete da Cidade,"Fast Food, American",3.9,Good,17,R$,100,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5631666667,-46.6645000000,0,0
+Peixaria Bar e Venda,Seafood,3.9,Good,13,R$,120,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,10000,30,-23.5591666667,-46.6881666667,0,0
+L'Entrecôte de Paris,French,3.9,Good,16,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5658333333,-46.6640000000,0,0
+Philippe,French,3.9,Good,8,R$,200,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6080000000,-46.6711666667,0,0
+Artesão Forneria e Pizzas,Pizza,3.9,Good,12,R$,90,3,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5318333333,-46.6818333333,0,0
+Pé de Manga,"Brazilian, Beverages",3.9,Good,19,R$,100,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5535000000,-46.6941666667,0,0
+Acrópoles,Greek,3.9,Good,12,R$,110,4,Bom Retiro,"Bom Retiro, São Paulo",São Paulo,10000,30,-23.5280000000,-46.6393333333,0,0
+Fresto,"Gourmet Fast Food, Burger",3.9,Good,10,R$,80,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5823333333,-46.6836666667,0,0
+Yashiro,Asian,3.9,Good,23,R$,150,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5658680000,-46.6954090000,0,0
+Killa,Peruvian,3.9,Good,12,R$,100,4,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5296666667,-46.6828333333,0,0
+P.J. Clarke's,"American, Steak, Burger",3.9,Good,15,R$,150,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5655780000,-46.6662320000,0,0
+Aoyama,"Sushi, Japanese",3.9,Good,14,R$,180,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5828870000,-46.6759980000,0,0
+Taormina - Ristorante Siciliano,Italian,3.9,Good,15,R$,80,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,01421000,30,-23.5662370000,-46.6569620000,0,0
+Porque Sim,"Japanese, Sushi",3.9,Good,14,R$,70,3,Liberdade,"Liberdade, São Paulo",São Paulo,,30,-23.5578333333,-46.6356666667,0,0
+Maripili,"Spanish, Tapas",3.9,Good,10,R$,180,4,Santo Amaro,"Santo Amaro, São Paulo",São Paulo,,30,-23.6330250000,-46.7024340000,0,0
+Zucco,Italian,3.9,Good,13,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5631810000,-46.6672670000,0,0
+Almanara,Arabian,3.8,Good,13,R$,140,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5653710000,-46.6664540000,0,0
+Manequinho Butantã,Brazilian,3.9,Good,8,R$,90,3,Butantã,"Butantã, São Paulo",São Paulo,,30,-23.5733305556,-46.7317416667,0,0
+Windhuk,German,3.9,Good,5,R$,150,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6085000000,-46.6690000000,0,0
+Coco Bambú,Seafood,3.8,Good,24,R$,200,4,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5468870000,-46.5560280000,0,0
+Maremonti,"Italian, Pizza",3.8,Good,10,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5664650000,-46.6672220000,0,0
+Tandoor,Indian,3.8,Good,22,R$,130,4,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5733333333,-46.6480000000,0,0
+12 Burger & Bistro,"Contemporary, Gourmet Fast Food, Burger",3.8,Good,14,R$,120,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5595000000,-46.6920000000,0,0
+Margherita,"Italian, Pizza",3.8,Good,15,R$,100,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5621920000,-46.6657920000,0,0
+Zena Caffé,Italian,3.8,Good,14,R$,150,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5679400000,-46.6641960000,0,0
+Temakeria & Cia,Sushi,3.8,Good,20,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5841666667,-46.6730000000,0,0
+Tian,"Thai, Contemporary, Asian",3.8,Good,14,R$,90,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5808810000,-46.6794710000,0,0
+RUAA,International,3.8,Good,11,R$,100,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5578333333,-46.6915000000,0,0
+Maria Escaleira,European,3.8,Good,12,R$,80,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5664060000,-46.6855980000,0,0
+Coffee Lab,Cafe,4.5,Excellent,33,R$,40,2,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5560000000,-46.6915000000,0,0
+La Churreria,"Desserts, Cafe",4.3,Very Good,20,R$,20,1,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5783333333,-46.6706666667,0,0
+Santo Grão,"Cafe, Brazilian",4.2,Very Good,19,R$,80,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5656200000,-46.6656340000,0,0
+Urbe Café Bar,"Cafe, Contemporary",4.1,Very Good,24,R$,40,2,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5560000000,-46.6583333333,0,0
+Mr. Baker,"Bakery, Brazilian",4.0,Very Good,15,R$,50,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5813930000,-46.6768560000,0,0
+Santo Grão,"Cafe, Brazilian",4.0,Very Good,12,R$,80,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5808420000,-46.6805900000,0,0
+Tea Connection,"Coffee and Tea, Cafe",3.9,Good,14,R$,90,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5653333333,-46.6641666667,0,0
+Condimento,"International, Desserts, Cafe",3.8,Good,10,R$,70,3,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5520944444,-46.5647416667,0,0
+Deliqatê,"Cafe, Desserts",3.8,Good,11,R$,60,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5621666667,-46.6595000000,0,0
+Leckerhaus,"German, Desserts, Cafe",3.8,Good,8,R$,60,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5578333333,-46.6683333333,0,0
+O Gato que Ri,"Italian, International",3.7,Good,12,R$,175,4,República,"República, São Paulo",São Paulo,,30,-23.5410444444,-46.6448777778,0,0
+Café Girondino,"Contemporary, Cafe",3.7,Good,10,R$,120,4,Sé,"Sé, São Paulo",São Paulo,,30,-23.5443222222,-46.6342361111,0,0
+Starbucks Coffee,Cafe,3.7,Good,3,R$,40,2,"Shopping Eldorado, Pinheiros","Shopping Eldorado, Pinheiros, São Paulo",São Paulo,10000,30,-23.5723333333,-46.6960000000,0,0
+Benjamin Abrahão,"Brazilian, Bakery, Desserts",3.7,Good,8,R$,60,3,Perdizes,"Perdizes, São Paulo",São Paulo,10000,30,-23.5381666667,-46.6715000000,0,0
+Café Raiz,"Brazilian, Cafe",3.6,Good,8,R$,100,4,Perdizes,"Perdizes, São Paulo",São Paulo,10000,30,-23.5388333333,-46.6691666667,0,0
+Starbucks Coffee,Cafe,3.6,Good,4,R$,40,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5661666667,-46.6533333333,0,0
+Pati Piva,"Desserts, Cafe",3.6,Good,3,R$,40,2,"Shopping Iguatemi, Pinheiros","Shopping Iguatemi, Pinheiros, São Paulo",São Paulo,10000,30,-23.5768333333,-46.6888333333,0,0
+Benjamin Abrahão,"Bakery, Cafe",3.5,Good,11,R$,30,1,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5454140000,-46.6547460000,0,0
+Sofá Café,Cafe,3.5,Good,7,R$,70,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5685000000,-46.6911666667,0,0
+The Gourmet Tea,"Coffee and Tea, Cafe",3.5,Good,5,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5825000000,-46.6870000000,0,0
+Petit Paris 6,"Cafe, French",3.5,Good,10,R$,100,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5559300000,-46.6595340000,0,0
+Ofner,"Cafe, Desserts",3.5,Good,3,R$,35,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5808333333,-46.6791666667,0,0
+Ofner,"Cafe, Desserts",3.5,Good,4,R$,35,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5598333333,-46.6943333333,0,0
+Fundação Maria Luisa e Oscar Americano,Cafe,3.5,Good,3,R$,130,4,Morumbi,"Morumbi, São Paulo",São Paulo,,30,-23.6008410000,-46.7096430000,0,0
+Café Journal,"Cafe, Brazilian",3.4,Average,6,R$,150,4,Moema,"Moema, São Paulo",São Paulo,10000,30,-23.6096666667,-46.6595000000,0,0
+Octávio Café & Bistrô,"Cafe, Contemporary",3.4,Average,5,R$,90,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5821666667,-46.6831666667,0,0
+Doceria Alteza,"Desserts, Cafe",3.4,Average,5,R$,20,1,Liberdade,"Liberdade, São Paulo",São Paulo,,30,-23.5570000000,-46.6356666667,0,0
+Oscar Bistrô Café,Cafe,3.4,Average,4,R$,100,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5641790000,-46.6678600000,0,0
+Talchá,Cafe,3.4,Average,3,R$,27,1,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6578333333,0,0
+Starbucks Coffee,Cafe,3.3,Average,4,R$,40,2,"Shopping Pátio Paulista, Bela Vista","Shopping Pátio Paulista, Bela Vista, São Paulo",São Paulo,,30,-23.5706666667,-46.6423333333,0,0
+Santo Grão,"Cafe, Brazilian",3.3,Average,8,R$,80,3,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6578333333,0,0
+Stuppendo,"Ice Cream, Desserts, Cafe",3.3,Average,6,R$,30,1,Moema,"Moema, São Paulo",São Paulo,,30,-23.6058940000,-46.6715130000,0,0
+Reserva Cultural,"French, Cafe",3.3,Average,2,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5658333333,-46.6513333333,0,0
+Quinto Pecado,"Cafe, Desserts",3.3,Average,2,R$,30,1,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5840000000,-46.6398333333,0,0
+Ale Tedesco,"Cafe, Desserts",3.3,Average,2,R$,50,2,Santo Amaro,"Santo Amaro, São Paulo",São Paulo,,30,-23.6315888889,-46.7011638889,0,0
+Santo Grão,"Cafe, Brazilian",3.3,Average,1,R$,80,3,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,10000,30,-23.5595000000,-46.6896666667,0,0
+Fada Farinha,Cafe,3.2,Average,5,R$,25,1,Mooca,"Mooca, São Paulo",São Paulo,10000,30,-23.5680000000,-46.5933333333,0,0
+Viena Café,Cafe,3.2,Average,1,R$,50,2,"Conjunto Nacional, Jardim Paulista","Conjunto Nacional, Jardim Paulista, São Paulo",São Paulo,,30,-23.5586890000,-46.6599180000,0,0
+Café Suplicy,"Cafe, Desserts",3.2,Average,7,R$,35,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5645000000,-46.6653333333,0,0
+Brigaderia,"Desserts, Cafe",3.2,Average,5,R$,40,2,"Shopping Market Place, Santo Amaro","Shopping Market Place, Santo Amaro, São Paulo",São Paulo,,30,-23.6215000000,-46.6996666667,0,0
+Bar Emiliano - Emiliano,"Contemporary, Cafe, Beverages",3.2,Average,1,R$,200,4,"Emiliano, Jardim Paulista","Emiliano, Jardim Paulista, São Paulo",São Paulo,,30,-23.5662690000,-46.6654510000,0,0
+Via Café,Cafe,3.2,Average,2,R$,100,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6021666667,-46.6665000000,0,0
+Starbucks Coffee,Cafe,3.2,Average,1,R$,40,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6038333333,-46.6923333333,0,0
+Fina Farinha,Cafe,3.2,Average,2,R$,30,1,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,04549002,30,-23.6023333333,-46.6788333333,0,0
+Cau Chocolates,Desserts,3.2,Average,1,R$,20,1,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6580000000,0,0
+Pati Piva,"Desserts, Cafe",3.2,Average,1,R$,40,2,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6578333333,0,0
+Espaço Sabor e Simpatia,"Brazilian, Desserts",3.2,Average,1,R$,35,2,"Continental Shopping, Jaguaré","Continental Shopping, Jaguaré, São Paulo",São Paulo,,30,-23.5480000000,-46.7573333333,0,0
+Dulca,"Italian, Desserts",3.2,Average,4,R$,25,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5616666667,-46.6710000000,0,0
+Santo Grão,"Cafe, Brazilian",3.2,Average,4,R$,80,3,"Shopping Cidade Jardim, Morumbi","Shopping Cidade Jardim, Morumbi, São Paulo",São Paulo,,30,-23.5991500000,-46.6972230000,0,0
+Dulca,"Italian, Desserts",3.2,Average,4,R$,25,1,Consolação,"Consolação, São Paulo",São Paulo,10000,30,-23.5498333333,-46.6583333333,0,0
+The Gourmet Tea,"Coffee and Tea, Cafe",3.1,Average,6,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5650690000,-46.6837870000,0,0
+Wondercakes,"Desserts, Cafe",3.1,Average,4,R$,35,2,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6578333333,0,0
+Eco Mercato,"Brazilian, Healthy Food",3.1,Average,2,R$,50,2,República,"República, São Paulo",São Paulo,,30,-23.5461777778,-46.6441777778,0,0
+Tal do bolo,Bakery,3.1,Average,2,R$,20,1,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6011666667,-46.6815000000,0,0
+Fina Nata,"Cafe, Desserts",3.1,Average,1,R$,35,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5633333333,-46.6643333333,0,0
+Tanarive,"Cafe, Desserts",3.1,Average,4,R$,25,1,Vila Leopoldina,"Vila Leopoldina, São Paulo",São Paulo,,30,0.0000000000,0.0000000000,0,0
+Tanarive,"Cafe, Desserts",3.1,Average,4,R$,25,1,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5340880000,-46.6838730000,0,0
+Café e Cacao,Cafe,3.1,Average,4,R$,30,1,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6013333333,-46.6813333333,0,0
+Ofner,"Cafe, Desserts",3.0,Average,3,R$,35,2,Perdizes,"Perdizes, São Paulo",São Paulo,10000,30,-23.5411666667,-46.6708333333,0,0
+Santa Efigênia,"Brazilian, Cafe",3.0,Average,2,R$,50,2,"Galeria Copan, Centro","Galeria Copan, Centro, São Paulo",São Paulo,,30,-23.5463194444,-46.6452527778,0,0
+Café Sol,"Brazilian, Cafe",3.0,Average,1,R$,80,3,Liberdade,"Liberdade, São Paulo",São Paulo,10000,30,-23.5555361111,-46.6348027778,0,0
+Horácio Café,"Brazilian, Cafe",3.0,Average,4,R$,90,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5875000000,-46.6815000000,0,0
+Caffé Cino - Hilton Morumbi,Cafe,3.0,Average,4,R$,80,3,"Hilton Hotel, Morumbi","Hilton Hotel, Morumbi, São Paulo",São Paulo,,30,-23.6037580000,-46.6959480000,0,0
+Ice by Nice,Ice Cream,3.0,Average,4,R$,55,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5688333333,-46.6921666667,0,0
+Kukla Cookies,"Desserts, Cafe",3.0,Average,1,R$,30,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5595000000,-46.6643333333,0,0
+Di Capri,"Italian, Desserts, Cafe",3.0,Average,4,R$,100,4,"Shopping Cidade Jardim, Morumbi","Shopping Cidade Jardim, Morumbi, São Paulo",São Paulo,,30,-23.5991500000,-46.6972230000,0,0
+Café Suplicy,Cafe,3.0,Average,4,R$,35,2,"Shopping Market Place, Santo Amaro","Shopping Market Place, Santo Amaro, São Paulo",São Paulo,,30,-23.6215000000,-46.6996666667,0,0
+Família Dias Confeitaria,"Desserts, Cafe",3.0,Average,4,R$,30,1,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5381666667,-46.6636666667,0,0
+Starbucks Coffee,Cafe,3.0,Average,4,R$,40,2,"Shopping Market Place, Santo Amaro","Shopping Market Place, Santo Amaro, São Paulo",São Paulo,,30,-23.6215000000,-46.6996666667,0,0
+Cristallo,"Cafe, Desserts",3.0,Average,4,R$,50,2,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6580000000,0,0
+Starbucks Coffee,Cafe,3.0,Average,4,R$,40,2,Moema,"Moema, São Paulo",São Paulo,,30,-23.5955000000,-46.6671666667,0,0
+Starbucks Coffee,Cafe,3.0,Average,4,R$,40,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5596666667,-46.6620000000,0,0
+Starbucks Coffee,Cafe,3.0,Average,4,R$,40,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5813333333,-46.6833333333,0,0
+Saint Phylippe,"Cafe, Desserts",3.0,Average,4,R$,60,3,"Shopping Market Place, Santo Amaro","Shopping Market Place, Santo Amaro, São Paulo",São Paulo,,30,-23.6215000000,-46.6996666667,0,0
+Starbucks Coffee,Cafe,3.0,Average,4,R$,40,2,Moema,"Moema, São Paulo",São Paulo,,30,-23.6055000000,-46.6693333333,0,0
+Café Daslú,Cafe,3.0,Average,4,R$,90,3,"Shopping Cidade Jardim, Morumbi","Shopping Cidade Jardim, Morumbi, São Paulo",São Paulo,,30,-23.5991500000,-46.6972230000,0,0
+Armani Caffe,Italian,3.0,Average,4,R$,150,4,"Shopping Iguatemi, Pinheiros","Shopping Iguatemi, Pinheiros, São Paulo",São Paulo,10000,30,-23.5768333333,-46.6883333333,0,0
+Felícia,"Desserts, Cafe",3.0,Average,4,R$,30,1,Moema,"Moema, São Paulo",São Paulo,,30,-23.6096666667,-46.6626666667,0,0
+O Melhor Bolo de Chocolate do Mundo,"Desserts, Cafe",2.9,Average,1,R$,40,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5642650000,-46.6677930000,0,0
+Viena Café,Cafe,2.9,Average,1,R$,50,2,"Bourbon Shopping, Perdizes","Bourbon Shopping, Perdizes, São Paulo",São Paulo,,30,-23.5275560000,-46.6802250000,0,0
+Green Bean,Cafe,2.9,Average,4,R$,40,2,Jabaquara,"Jabaquara, São Paulo",São Paulo,,30,-23.6340000000,-46.6435000000,0,0
+Pati Piva,"Desserts, Cafe",2.9,Average,4,R$,40,2,"Shopping Cidade Jardim, Morumbi","Shopping Cidade Jardim, Morumbi, São Paulo",São Paulo,,30,-23.5991500000,-46.6972230000,0,0
+Café Literário Club,Cafe,2.9,Average,4,R$,15,1,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5856666667,-46.6385000000,0,0
+Café Littéraire By Suplicy Cafés,Cafe,2.9,Average,4,R$,50,2,"Shopping JK Iguatemi, Itaim Bibi","Shopping JK Iguatemi, Itaim Bibi, São Paulo",São Paulo,,30,-23.5916280000,-46.6894290000,0,0
+IL Barista,Cafe,2.9,Average,4,R$,50,2,"Shopping Morumbi, Santo Amaro","Shopping Morumbi, Santo Amaro, São Paulo",São Paulo,10000,30,-23.6236111111,-46.6989333333,0,0
+The Original Cupcake,Desserts,2.8,Average,4,R$,20,1,"Shopping Metrô Tatuapé, Tatuapé","Shopping Metrô Tatuapé, Tatuapé, São Paulo",São Paulo,,30,-23.5416666667,-46.5768333333,0,0
+Fran's Café,Cafe,2.8,Average,4,R$,35,2,Lapa,"Lapa, São Paulo",São Paulo,,30,-23.5266666667,-46.7090000000,0,0
+Fran's Café,Cafe,2.8,Average,4,R$,35,2,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5895000000,-46.6298333333,0,0
+O Melhor Bolo de Chocolate do Mundo,"Desserts, Cafe",2.8,Average,4,R$,40,2,"Shopping Pátio Paulista, Bela Vista","Shopping Pátio Paulista, Bela Vista, São Paulo",São Paulo,,30,-23.5706666667,-46.6438333333,0,0
+Ofner,"Cafe, Desserts",2.8,Average,4,R$,35,2,"Shopping Morumbi, Santo Amaro","Shopping Morumbi, Santo Amaro, São Paulo",São Paulo,,30,-23.6229250000,-46.6985740000,0,0
+Ofner,"Cafe, Desserts",2.8,Average,4,R$,35,2,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5426666667,-46.6578333333,0,0
+Ráscal Café,Cafe,2.8,Average,4,R$,150,4,"Shopping Villa Lobos, Alto de Pinheiros","Shopping Villa Lobos, Alto de Pinheiros, São Paulo",São Paulo,10000,30,-23.5515666667,-46.7218888889,0,0
+Caffeteria Mooca,"Cafe, Cafeteria",2.8,Average,4,R$,35,2,Mooca,"Mooca, São Paulo",São Paulo,10000,30,-23.5530000000,-46.5875000000,0,0
+Fran's Café,Cafe,2.8,Average,4,R$,35,2,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5396666667,-46.6563333333,0,0
+Brigadeiro Factory,Desserts,2.8,Average,4,R$,40,2,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5418027778,-46.6835416667,0,0
+Havanna,"Argentine, Cafe, Desserts",2.8,Average,4,R$,35,2,"Shopping Villa Lobos, Alto de Pinheiros","Shopping Villa Lobos, Alto de Pinheiros, São Paulo",São Paulo,10000,30,-23.5506611111,-46.7213861111,0,0
+O Melhor Bolo de Chocolate do Mundo,"Desserts, Cafe",2.8,Average,4,R$,40,2,"Shopping Eldorado, Pinheiros","Shopping Eldorado, Pinheiros, São Paulo",São Paulo,10000,30,-23.5726666667,-46.6956666667,0,0
+Astro Café,"Cafe, Desserts",2.8,Average,4,R$,30,1,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5621666667,-46.6883333333,0,0
+Fran's Café,Cafe,2.8,Average,4,R$,35,2,"Brascan Century Plaza, Itaim Bibi","Brascan Century Plaza, Itaim Bibi, São Paulo",São Paulo,,30,-23.5843333333,-46.6751666667,0,0
+Ofner,"Cafe, Desserts",2.8,Average,4,R$,35,2,"Shopping Iguatemi, Pinheiros","Shopping Iguatemi, Pinheiros, São Paulo",São Paulo,10000,30,-23.5775000000,-46.6886666667,0,0
+Veloso,"Brazilian, Bar Food, Beverages",4.5,Excellent,58,R$,70,3,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5851666667,-46.6356666667,0,0
+Les 3 Brasseurs,"French, Brazilian, Beverages",4.4,Very Good,30,R$,120,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5821350000,-46.6751100000,0,0
+Paribar,"Brazilian, Italian",4.2,Very Good,42,R$,150,4,República,"República, São Paulo",São Paulo,10000,30,-23.5466416667,-46.6415944444,0,0
+Bar do Juarez,"Brazilian, Bar Food",4.2,Very Good,35,R$,120,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6081666667,-46.6591666667,0,0
+Bar da Dona Onça,"Brazilian, Beverages",4.2,Very Good,24,R$,180,4,República,"República, São Paulo",São Paulo,,30,-23.5461722222,-46.6451944444,0,0
+Sancho Bar y Tapas,"Spanish, Tapas",4.1,Very Good,30,R$,70,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5563333333,-46.6580000000,0,0
+Pirajá,"Bar Food, Brazilian",4.1,Very Good,28,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5596800000,-46.6964680000,0,0
+Salve Jorge,Beverages,4.1,Very Good,15,R$,150,4,Sé,"Sé, São Paulo",São Paulo,,30,-23.5456250000,-46.6346472222,0,0
+The View - Transamérica Prime International,"International, Bar Food, Beverages",4.1,Very Good,14,R$,220,4,"Transamerica Prime International Hotel, Jardim Paulista","Transamerica Prime International Hotel, Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5663333333,-46.6525000000,0,0
+FrangÓ,"Bar Food, Brazilian, Beverages",4.0,Very Good,13,R$,80,3,Freguesia do Ó,"Freguesia do Ó, São Paulo",São Paulo,,30,-23.5017194444,-46.6994527778,0,0
+Exquisito!,"Mexican, Beverages",4.0,Very Good,12,R$,130,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5532080000,-46.6576730000,0,0
+Riviera Bar,"International, Beverages",4.0,Very Good,11,R$,100,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5549980000,-46.6632090000,0,0
+Ludus Luderia,"Brazilian, Bar Food",3.9,Good,11,R$,80,3,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5617840000,-46.6461070000,0,0
+Pé de Manga,"Brazilian, Beverages",3.9,Good,19,R$,100,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5535000000,-46.6941666667,0,0
+Bar do Juarez,"Brazilian, Bar Food",3.9,Good,6,R$,120,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5852270000,-46.6804200000,0,0
+Cão Véio,"International, Bar Food",3.8,Good,10,R$,110,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5581666667,-46.6791666667,0,0
+Bolinha,"Brazilian, Bar Food",3.8,Good,15,R$,200,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5786640000,-46.6815200000,0,0
+Spot,"Contemporary, International, Beverages",3.8,Good,19,R$,120,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5598333333,-46.6571666667,0,0
+Sujinho,"Brazilian, Bar Food",3.8,Good,18,R$,60,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5533333333,-46.6601666667,0,0
+Cervejaria Nacional,"Brazilian, Bar Food",3.8,Good,8,R$,120,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5650000000,-46.6906666667,0,0
+Serafim,"Brazilian, Bar Food",3.8,Good,5,R$,150,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6093333333,-46.6598333333,0,0
+São Cristovão,Brazilian,3.7,Good,7,R$,80,3,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,10000,30,-23.5581666667,-46.6905000000,0,0
+Sub Astor,"Brazilian, Bar Food",3.6,Good,9,R$,160,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5541666667,-46.6940000000,0,0
+bar.,"Brazilian, Burger, Bar Food, Beverages",3.7,Good,5,R$,300,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5661190000,-46.6800070000,0,0
+Rex,"Contemporary, Bar Food",3.6,Good,5,R$,150,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5596210000,-46.6672000000,0,0
+Bar da Dida,"Brazilian, Bar Food",3.6,Good,6,R$,100,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5590000000,-46.6683333333,0,0
+Esquina Grill do Fuad,"Brazilian, Grill",3.6,Good,5,R$,100,4,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5391340000,-46.6524290000,0,0
+Boteco São Bento,"Brazilian, Bar Food",3.6,Good,13,R$,150,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5871666667,-46.6771666667,0,0
+Sabiá,"Brazilian, Bar Food",3.5,Good,9,R$,120,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5541666667,-46.6918333333,0,0
+Bardega,"Contemporary, Bar Food",3.5,Good,4,R$,80,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5905370000,-46.6744100000,0,0
+Che Bárbaro,"Argentine, Bar Food",3.5,Good,4,R$,150,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5555000000,-46.6878333333,0,0
+Alberta #3,,3.5,Good,6,R$,80,3,República,"República, São Paulo",São Paulo,,30,-23.5480000000,-46.6426666667,0,0
+Pitico,"Kebab, Healthy Food, Beverages",3.5,Good,5,R$,50,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5662560000,-46.6961240000,0,0
+Champagne Bar & Caviar - Emiliano,International,3.5,Good,2,R$,150,4,"Emiliano, Jardim Paulista","Emiliano, Jardim Paulista, São Paulo",São Paulo,,30,-23.5662690000,-46.6654510000,0,0
+Baretto - Hotel Fasano,Drinks Only,3.5,Good,2,R$,200,4,"Hotel Fasano, Jardim Paulista","Hotel Fasano, Jardim Paulista, São Paulo",São Paulo,,30,-23.5648620000,-46.6692330000,0,0
+Astor,"Brazilian, Bar Food",3.4,Average,5,R$,100,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5540000000,-46.6941666667,0,0
+Wall Street Bar,"Bar Food, Brazilian",3.4,Average,6,R$,70,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5812160000,-46.6804390000,0,0
+Lil' Square,"Brazilian, Bar Food",3.4,Average,5,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5692380000,-46.6599040000,0,0
+Spetoo,"Brazilian, Bar Food",3.4,Average,5,R$,70,3,Tucuruvi,"Tucuruvi, São Paulo",São Paulo,,30,-23.4898560000,-46.6096510000,0,0
+Taberna 474,"Beverages, Mediterranean",3.4,Average,5,R$,140,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5705000000,-46.6878333333,0,0
+Amadeo,"Brazilian, Bar Food",3.4,Average,6,R$,75,3,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5868333333,-46.6428333333,0,0
+Patriarca Costelaria & Cerveja Gelada,"Brazilian, Bar Food",3.4,Average,5,R$,100,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,10000,30,-23.5585000000,-46.6910000000,0,0
+Sacra Rolha,"Brazilian, Bar Food",3.4,Average,4,R$,140,4,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5873333333,-46.6430000000,0,0
+Prainha Paulista,"Brazilian, Bar Food",3.4,Average,5,R$,80,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5665640000,-46.6512570000,0,0
+Alucci Alucci,Contemporary,3.4,Average,6,R$,350,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5636330000,-46.6696250000,0,0
+Botica do Quintana,"Brazilian, Bar Food",3.4,Average,4,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6101666667,-46.6925000000,0,0
+Vila Seu Justino,"Brazilian, Bar Food",3.4,Average,4,R$,80,3,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5568870000,-46.6867050000,0,0
+North Beer,"Brazilian, Bar Food, Pizza",3.4,Average,3,R$,100,4,Santana,"Santana, São Paulo",São Paulo,,30,-23.4896520000,-46.6102060000,0,0
+Balcão,"Brazilian, Bar Food",3.4,Average,4,R$,80,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5590000000,-46.6688333333,0,0
+Feed Food,"Bar Food, Brazilian",3.3,Average,5,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5597580000,-46.6771120000,0,0
+Eu Tu Eles,"Brazilian, Bar Food",3.3,Average,8,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5821666667,-46.6843333333,0,0
+BrewDog,"Beverages, Bar Food",3.3,Average,5,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5610660000,-46.6939040000,0,0
+Bar Original,"Brazilian, Bar Food",3.3,Average,6,R$,100,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6000000000,-46.6728333333,0,0
+Boteco Freguesia,"Bar Food, Brazilian, Beverages",3.3,Average,4,R$,100,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5552200000,-46.6880910000,0,0
+Empório Sagarana,"Beverages, Brazilian",3.3,Average,3,R$,125,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5568333333,-46.6881666667,0,0
+Dona Mathilde - Snooker Bar,"International, Bar Food",3.3,Average,3,R$,60,3,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5363333333,-46.6893333333,0,0
+Astronete,Drinks Only,3.3,Average,3,R$,80,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5510000000,-46.6493333333,0,0
+Robata Music Bar,"Japanese, Bar Food",3.3,Average,0,R$,150,4,Santana,"Santana, São Paulo",São Paulo,,30,-23.4999410000,-46.6188880000,0,0
+Alto da Harmonia,"Brazilian, Bar Food",3.2,Average,5,R$,90,3,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5556666667,-46.6878333333,0,0
+Zero Grau,Bar Food,3.2,Average,4,R$,100,4,Mooca,"Mooca, São Paulo",São Paulo,10000,30,-23.5678333333,-46.5880000000,0,0
+Boca de Ouro,"Brazilian, Bar Food",3.2,Average,4,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5593750000,-46.6838590000,0,0
+Sujinho,"Brazilian, Bar Food",3.2,Average,7,R$,60,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5535000000,-46.6598333333,0,0
+Bar Emiliano - Emiliano,"Contemporary, Cafe, Beverages",3.2,Average,1,R$,200,4,"Emiliano, Jardim Paulista","Emiliano, Jardim Paulista, São Paulo",São Paulo,,30,-23.5662690000,-46.6654510000,0,0
+Barê,Contemporary,3.2,Average,4,R$,150,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5615260000,-46.6684630000,0,0
+Jazz nos Fundos,Drinks Only,3.2,Average,5,R$,130,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5564540000,-46.6803970000,0,0
+Tatu Bola,"Brazilian, Bar Food, Grill",3.2,Average,4,R$,90,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5860000000,-46.6798333333,0,0
+Bar Filial,"Beverages, Bar Food, Brazilian",3.2,Average,5,R$,80,3,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5573333333,-46.6893333333,0,0
+Cervejaria Patriarca,"Brazilian, Bar Food",3.2,Average,1,R$,100,4,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5531200000,-46.5785140000,0,0
+Bebo Sim,"Bar Food, Brazilian",3.2,Average,2,R$,100,4,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5367830000,-46.6851910000,0,0
+Gibi Cultura Geek,"Beverages, Fast Food",3.1,Average,5,R$,50,2,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5888930000,-46.6392860000,0,0
+Garrafas Bar,"Beverages, Bar Food",3.1,Average,3,R$,100,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5551800000,-46.6896180000,0,0
+Coconut,"Brazilian, Bar Food",3.1,Average,5,R$,100,4,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5405000000,-46.6510000000,0,0
+Oscar,"Bar Food, Grill",3.1,Average,2,R$,110,4,Campo Grande,"Campo Grande, São Paulo",São Paulo,,30,-23.6954440000,-46.7006100000,0,0
+Squat,"International, Bar Food",3.1,Average,1,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5580000000,-46.6661666667,0,0
+Jabuti Chopperia,"Brazilian, Seafood",3.0,Average,4,R$,65,3,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5885000000,-46.6481666667,0,0
+Bar Mooca,"Brazilian, Bar Food",3.0,Average,5,R$,60,3,Mooca,"Mooca, São Paulo",São Paulo,,30,-23.5525000000,-46.5878333333,0,0
+Bar São Jorge,"Brazilian, Bar Food",3.0,Average,1,R$,75,3,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5523970000,-46.5728050000,0,0
+Casa do Espeto,"Brazilian, Bar Food",3.0,Average,5,R$,60,3,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5321666667,-46.6848333333,0,0
+Brazão Bar,"Brazilian, Bar Food",3.0,Average,1,R$,80,3,Jabaquara,"Jabaquara, São Paulo",São Paulo,,30,-23.6479916667,-46.6457361111,0,0
+Biroska - A Casa dos Artistas,"Brazilian, Bar Food",3.0,Average,2,R$,100,4,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5406666667,-46.6506666667,0,0
+Bar e Empório Laura Aguiar,"Brazilian, Beverages",3.0,Average,1,R$,40,2,Santana,"Santana, São Paulo",São Paulo,,30,-23.5020000000,-46.6206666667,0,0
+Red e Red Club,"Brazilian, Bar Food",3.0,Average,1,R$,50,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6226666667,-46.6871666667,0,0
+Bar do Salim,"Brazilian, Bar Food",3.0,Average,1,R$,80,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5651480000,-46.6862760000,0,0
+"Papo, Pinga e Petisco","Brazilian, Bar Food",3.0,Average,4,R$,90,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5489280000,-46.6463400000,0,0
+Grand Metrópole,"Brazilian, Bar Food",3.0,Average,4,R$,120,4,"Galeria Metrópole, República","Galeria Metrópole, República, São Paulo",São Paulo,,30,-23.5476416667,-46.6405500000,0,0
+Beer Bamboo,"Brazilian, Bar Food",3.0,Average,4,R$,100,4,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5863333333,-46.6413333333,0,0
+Forquilha,"Italian, Bar Food, Beverages",2.9,Average,5,R$,50,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5599450000,-46.7001830000,0,0
+Empanadas Bar,"Argentine, Bar Food",2.9,Average,6,R$,55,2,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5563333333,-46.6916666667,0,0
+Blá Bar,"Brazilian, Bar Food",2.9,Average,2,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5836440000,-46.6691830000,0,0
+Brook's SP,"Brazilian, Bar Food",2.9,Average,2,R$,80,3,Santo Amaro,"Santo Amaro, São Paulo",São Paulo,,30,-23.6363333333,-46.7193333333,0,0
+Ateliê do Espeto,"Brazilian, Bar Food",2.9,Average,1,R$,150,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,10000,30,-23.5588333333,-46.6906666667,0,0
+Livraria da Esquina,Bar Food,2.9,Average,1,R$,70,3,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5239560000,-46.6602690000,0,0
+Saloon,"American, Bar Food",2.9,Average,1,R$,40,2,Jabaquara,"Jabaquara, São Paulo",São Paulo,,30,-23.6465000000,-46.6705000000,0,0
+Expresso 278,"Brazilian, Bar Food",2.9,Average,4,R$,100,4,Belém,"Belém, São Paulo",São Paulo,,30,-23.5495000000,-46.5851666667,0,0
+Farol Madalena,"Bar Food, Brazilian",2.8,Average,4,R$,60,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5517530000,-46.6892160000,0,0
+Bar do Nelson,Brazilian,2.8,Average,4,R$,180,4,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5406666667,-46.6508333333,0,0
+Frey Café & Coisinhas,"Bar Food, Brazilian",2.8,Average,4,R$,70,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5540940000,-46.6539610000,0,0
+Canto Madalena,"Bar Food, Brazilian",2.7,Average,4,R$,80,3,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5533950000,-46.6856960000,0,0
+Bar Providência,"Beverages, Bar Food",2.7,Average,4,R$,60,3,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,04012080,30,-23.5835000000,-46.6485000000,0,0
+M.A.B Gastronomia,"Brazilian, International, Contemporary",2.7,Average,1,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5640000000,-46.6831666667,0,0
+D.O.M.,"Contemporary, Brazilian",4.9,Excellent,21,R$,600,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5658560000,-46.6672430000,0,0
+A Figueira Rubaiyat,"BBQ, Grill, Brazilian",4.8,Excellent,43,R$,300,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5655000000,-46.6698333333,0,0
+Maní,"Author, Fusion, Brazilian",4.6,Excellent,30,R$,300,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5617840000,-46.6797330000,0,0
+Cantina Famiglia Mancini,"Italian, Pizza",4.5,Excellent,51,R$,250,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,10000,30,-23.5506666667,-46.6451666667,0,0
+Vento Haragano,"Steak, BBQ",4.4,Very Good,17,R$,250,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5602700000,-46.6715770000,0,0
+Terraço Itália,Italian,4.3,Very Good,36,R$,400,4,República,"República, São Paulo",São Paulo,,30,-23.5451630000,-46.6434250000,0,0
+Arturito,Mediterranean,4.2,Very Good,29,R$,360,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5600210000,-46.6771670000,0,0
+Kinoshita,Sushi,4.1,Very Good,11,R$,230,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.5923333333,-46.6713333333,0,0
+Templo da Carne - Marcos Bassi,"Steak, BBQ",4.1,Very Good,13,R$,250,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,01327000,30,-23.5590000000,-46.6463333333,0,0
+Fasano - Hotel Fasano,International,4.1,Very Good,12,R$,500,4,"Hotel Fasano, Jardim Paulista","Hotel Fasano, Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5643333333,-46.6698333333,0,0
+Chalezinho,"Italian, Fondue",4.1,Very Good,16,R$,300,4,Vila Andrade,"Vila Andrade, São Paulo",São Paulo,,30,-23.6305000000,-46.7338333333,0,0
+Due Cuochi,Italian,4.1,Very Good,11,R$,250,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5813560000,-46.6797630000,0,0
+The View - Transamérica Prime International,"International, Bar Food, Beverages",4.1,Very Good,14,R$,220,4,"Transamerica Prime International Hotel, Jardim Paulista","Transamerica Prime International Hotel, Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5663333333,-46.6525000000,0,0
+Jam,"Sushi, Japanese",4.0,Very Good,11,R$,300,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5618333333,-46.6681666667,0,0
+Osaka,"Japanese, Peruvian, Fusion, Sushi",4.1,Very Good,15,R$,250,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5808790000,-46.6828800000,0,0
+Baby Beef Rubaiyat,"Steak, BBQ, Brazilian",4.0,Very Good,9,R$,300,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5715000000,-46.6461666667,0,0
+Gero,Italian,4.0,Very Good,13,R$,300,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5648333333,-46.6690000000,0,0
+Attimo,"Italian, Caipira",4.0,Very Good,12,R$,280,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.5948800000,-46.6664100000,0,0
+Barbacoa Churrascaria,BBQ,3.9,Good,10,R$,250,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5791580000,-46.6751690000,0,0
+ICI Bistro,French,3.9,Good,8,R$,300,4,Consolação,"Consolação, São Paulo",São Paulo,10000,30,-23.5495000000,-46.6581666667,0,0
+Fogo de Chão,BBQ,3.9,Good,11,R$,250,4,Santo Amaro,"Santo Amaro, São Paulo",São Paulo,,30,-23.6403416667,-46.6983194444,0,0
+Jam,"Sushi, Japanese",3.9,Good,9,R$,300,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5883740000,-46.6828210000,0,0
+La Tambouille,"French, Italian, Brazilian",3.8,Good,4,R$,300,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5816666667,-46.6825000000,0,0
+Don Curro,Spanish,3.8,Good,7,R$,400,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5598333333,-46.6753333333,0,0
+Clos de Tapas,Spanish,3.8,Good,13,R$,300,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.5915000000,-46.6705050000,0,0
+Due Cuochi,Italian,3.8,Good,10,R$,250,4,"Shopping Cidade Jardim, Morumbi","Shopping Cidade Jardim, Morumbi, São Paulo",São Paulo,,30,-23.5991500000,-46.6972230000,0,0
+Rodeio,"BBQ, Steak",3.8,Good,6,R$,300,4,"Shopping Iguatemi, Pinheiros","Shopping Iguatemi, Pinheiros, São Paulo",São Paulo,10000,30,-23.5783333333,-46.6886666667,0,0
+Brasserie Des Arts,French,3.8,Good,12,R$,230,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5672260000,-46.6674890000,0,0
+Fogo de Chão,BBQ,3.8,Good,8,R$,250,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6076020000,-46.6528410000,0,0
+Baby Beef Rubaiyat,"Steak, BBQ, Brazilian",3.8,Good,9,R$,300,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5823333333,-46.6840000000,0,0
+Jardineira Grill,"BBQ, Steak",3.8,Good,6,R$,220,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6008333333,-46.6826666667,0,0
+Dinho's,"Steak, BBQ",3.7,Good,7,R$,270,4,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5718333333,-46.6456666667,0,0
+Fogo de Chão,BBQ,3.8,Good,4,R$,250,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5981666667,-46.6873333333,0,0
+Varanda,"BBQ, Steak",3.7,Good,5,R$,260,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5829310000,-46.6697300000,0,0
+Tanuki,"Sushi, Japanese",3.7,Good,8,R$,260,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5509220000,-46.6896470000,0,0
+Adega Santiago,"Tapas, Spanish, Portuguese",3.7,Good,7,R$,300,4,"Shopping Cidade Jardim, Morumbi","Shopping Cidade Jardim, Morumbi, São Paulo",São Paulo,,30,-23.5991500000,-46.6972230000,0,0
+Restaurante Emiliano - Emiliano,"Italian, Contemporary",3.7,Good,4,R$,250,4,"Emiliano, Jardim Paulista","Emiliano, Jardim Paulista, São Paulo",São Paulo,,30,-23.5662690000,-46.6654510000,0,0
+Parigi,"Italian, French",3.7,Good,7,R$,350,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5806666667,-46.6826666667,0,0
+Aya,"Sushi, Japanese",3.7,Good,6,R$,260,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5683333333,-46.6883333333,0,0
+Mercearia do Francês,"French, Brazilian",3.7,Good,7,R$,250,4,Consolação,"Consolação, São Paulo",São Paulo,10000,30,-23.5495000000,-46.6581666667,0,0
+By Koji,"Sushi, Japanese",3.7,Good,4,R$,220,4,Morumbi,"Morumbi, São Paulo",São Paulo,,30,-23.5996020000,-46.7199000000,0,0
+Jun Sakamoto,"Sushi, Japanese",3.7,Good,8,R$,500,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5628860000,-46.6768560000,0,0
+Fogo de Chão,BBQ,3.6,Good,7,R$,250,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5603480000,-46.6626510000,0,0
+Tiger,"Thai, Japanese, Sushi, Asian",3.6,Good,4,R$,250,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.5943333333,-46.6716666667,0,0
+Bagatelle,French,3.6,Good,9,R$,250,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5653333333,-46.6658333333,0,0
+Chef Rouge,French,3.6,Good,7,R$,220,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5643333333,-46.6695000000,0,0
+Vicolo Nostro,Italian,3.6,Good,6,R$,300,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6241666667,-46.6883333333,0,0
+Le Vin Bistro,French,3.6,Good,8,R$,220,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,01417020,30,-23.5623420000,-46.6652020000,0,0
+Pomodori,Italian,3.6,Good,6,R$,400,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5831666667,-46.6738333333,0,0
+Tre Bicchieri,Italian,3.6,Good,7,R$,250,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5827450000,-46.6695690000,0,0
+Rodeio,"BBQ, Steak",3.5,Good,4,R$,300,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5637460000,-46.6678970000,0,0
+NB Steak,Steak,3.6,Good,7,R$,250,4,Campo Belo,"Campo Belo, São Paulo",São Paulo,,30,-23.6150000000,-46.6730000000,0,0
+Jamie's Italian,"Italian, Mediterranean, Author",3.5,Good,8,R$,200,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5869070000,-46.6799620000,0,0
+Bacalhoeiro,Portuguese,3.5,Good,4,R$,300,4,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5479740000,-46.5615320000,0,0
+Mexilhão,"Seafood, International",3.5,Good,4,R$,250,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5588333333,-46.6463333333,0,0
+Paellas Pepe,Spanish,3.5,Good,3,R$,300,4,Ipiranga,"Ipiranga, São Paulo",São Paulo,,30,-23.5908120000,-46.6072040000,0,0
+Adega Santiago,"Tapas, Spanish, Portuguese",3.5,Good,3,R$,300,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5711900000,-46.6890570000,0,0
+Tatini,Italian,3.5,Good,3,R$,260,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5695610000,-46.6581390000,0,0
+Limonn,Contemporary,3.5,Good,3,R$,250,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5820810000,-46.6785320000,0,0
+Marcel,French,3.5,Good,2,R$,220,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5633333333,-46.6710000000,0,0
+La Cocotte,French,3.5,Good,3,R$,250,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5665000000,-46.6650000000,0,0
+Villa's Churrascaria,BBQ,3.5,Good,1,R$,250,4,Vila Guilherme,"Vila Guilherme, São Paulo",São Paulo,,30,-23.5220790000,-46.6076630000,0,0
+Verbena - Hotel Transamérica,Italian,3.4,Average,2,R$,220,4,"Hotel Transamérica, Santo Amaro","Hotel Transamérica, Santo Amaro, São Paulo",São Paulo,,30,-23.6506666667,-46.7225000000,0,0
+Fogo de Chão,BBQ,3.4,Average,4,R$,250,4,"Shopping Center Norte, Santana","Shopping Center Norte, Santana, São Paulo",São Paulo,,30,-23.5156730000,-46.6180620000,0,0
+Boizão Grill,"Brazilian, BBQ, International",3.4,Average,3,R$,300,4,Belém,"Belém, São Paulo",São Paulo,,30,-23.5242120000,-46.6028060000,0,0
+Vecchio Torino,Italian,3.4,Average,3,R$,400,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5703333333,-46.6923333333,0,0
+Saint Vin Saint,"French, Contemporary, Mediterranean, International",3.4,Average,2,R$,250,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5945000000,-46.6796666667,0,0
+Kinu - Grand Hyatt Hotel,Japanese,3.4,Average,0,R$,400,4,"Grand Hyatt Hotel, Itaim Bibi","Grand Hyatt Hotel, Itaim Bibi, São Paulo",São Paulo,,30,-23.6167120000,-46.6982310000,0,0
+Trattoria do Piero,"Italian, Pizza",3.2,Average,6,R$,220,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5743333333,-46.6583333333,0,0
+Nonno Ruggero,Italian,3.3,Average,3,R$,450,4,Butantã,"Butantã, São Paulo",São Paulo,,30,-23.5997390000,-46.6971760000,0,0
+Compagnia Marinara,"Italian, Seafood",3.3,Average,2,R$,250,4,Alto de Pinheiros,"Alto de Pinheiros, São Paulo",São Paulo,,30,-23.5420000000,-46.7115000000,0,0
+Eau French Grill - Grand Hyatt Hotel,French,3.3,Average,0,R$,400,4,"Grand Hyatt Hotel, Itaim Bibi","Grand Hyatt Hotel, Itaim Bibi, São Paulo",São Paulo,,30,-23.6167120000,-46.6982310000,0,0
+Tom - Gran Estanplaza Hotel,"International, Brazilian",3.3,Average,0,R$,300,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6099440000,-46.6957600000,0,0
+Alfama dos Marinheiros,Portuguese,3.2,Average,3,R$,300,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5680980000,-46.6579950000,0,0
+Le Bilbouquet,French,3.2,Average,3,R$,300,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5644790000,-46.6695390000,0,0
+Barbacoa Churrascaria,"Brazilian, Steak",3.2,Average,4,R$,300,4,"Shopping Morumbi, Santo Amaro","Shopping Morumbi, Santo Amaro, São Paulo",São Paulo,,30,-23.6229250000,-46.6985740000,0,0
+Le Vin Bistro,French,3.2,Average,1,R$,220,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5448333333,-46.6611666667,0,0
+Kan Suke,Sushi,3.2,Average,1,R$,300,4,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5686610000,-46.6492000000,0,0
+Hillman Bistro - George V Casa Branca,International,3.2,Average,0,R$,300,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5681620000,-46.6619610000,0,0
+From the Galley,Contemporary,3.2,Average,4,R$,500,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5880000000,-46.6800000000,0,0
+Porto,"Portuguese, Mediterranean, Seafood",3.2,Average,4,R$,250,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5806666667,-46.6823333333,0,0
+Cantaloup,Contemporary,3.4,Average,3,R$,350,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5843820000,-46.6790020000,0,0
+L'osteria do Piero,"Italian, Pizza",3.1,Average,3,R$,300,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5591880000,-46.6665780000,0,0
+Huto,Japanese,3.1,Average,2,R$,280,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6095980000,-46.6590780000,0,0
+Varanda,"BBQ, Steak",3.1,Average,2,R$,260,4,"Shopping JK Iguatemi, Itaim Bibi","Shopping JK Iguatemi, Itaim Bibi, São Paulo",São Paulo,,30,-23.5913333333,-46.6901666667,0,0
+Aizomê,Japanese,3.1,Average,1,R$,240,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5699440000,-46.6520880000,0,0
+Le Vin Bistro e Patisserie,French,3.1,Average,1,R$,220,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5829070000,-46.6813190000,0,0
+Trindade,Portuguese,3.1,Average,4,R$,250,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5815000000,-46.6833333333,0,0
+Chef Vivi,Contemporary,3.0,Average,4,R$,180,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5520090000,-46.6917050000,0,0
+Casa Suiça,Swiss,3.0,Average,4,R$,280,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5665000000,-46.6846666667,0,0
+Churrascaria Anhembi,BBQ,3.0,Average,4,R$,210,4,Santana,"Santana, São Paulo",São Paulo,,30,-23.5143333333,-46.6318333333,0,0
+Taric Plaza - Hotel Golden Tulip Park Plaza,Contemporary,3.0,Average,4,R$,250,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5712640000,-46.6578450000,0,0
+Quench - Marriott Executive Apartments,International,3.0,Average,4,R$,250,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.5879140000,-46.6711370000,0,0
+Aguzzo Cucina e Vino,Italian,2.8,Average,4,R$,250,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5643210000,-46.6882070000,0,0
+Villa Tavola,Italian,2.6,Average,2,R$,220,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5606666667,-46.6461666667,0,0
+Ristorantino,Italian,0,Not rated,1,R$,0,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5622170000,-46.6718780000,0,0
+Sensi Gastronomia,"Italian, Mediterranean, Contemporary, Author",0,Not rated,1,R$,0,1,Campo Belo,"Campo Belo, São Paulo",São Paulo,,30,-23.6263170000,-46.6716220000,0,0
+Seen - Hotel Tivoli Mofarrej,Brazilian,0,Not rated,2,R$,200,4,"Tivoli Hotel, Jardim Paulista ","Tivoli Hotel, Jardim Paulista , São Paulo",São Paulo,,30,-23.5639600000,-46.6556990000,0,0
+Rancho Português,Portuguese,0,Not rated,3,R$,250,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6008333333,-46.6828333333,0,0
+Nino Cucina & Vino,Italian,0,Not rated,3,R$,200,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5809900000,-46.6792750000,0,0
+Julice Boulangere,"Bakery, Desserts, French",4.2,Very Good,19,R$,75,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5606666667,-46.6926666667,0,0
+Cepam,"Bakery, Brazilian",3.6,Good,6,R$,60,3,Vila Prudente,"Vila Prudente, São Paulo",São Paulo,,30,-23.5920916667,-46.5795111111,0,0
+St. Etienne,"Bakery, Brazilian",2.6,Average,10,R$,60,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5723390000,-46.6568600000,0,0
+Grão Fino,"Bakery, Healthy Food",0,Not rated,1,R$,50,2,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5812860000,-46.6769740000,0,0
+Padaria da Esquina,"Bakery, Desserts",0,Not rated,3,R$,30,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5731310000,-46.6603000000,0,0
+Pão,"Bakery, Cafe",0,Not rated,3,R$,45,2,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,10000,30,-23.5598333333,-46.6653333333,0,0
+Santo Pão,Bakery,0,Not rated,2,R$,20,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5652280000,-46.6660050000,0,0
+A Lareira,"Bakery, Brazilian, Pizza",0,Not rated,1,R$,75,3,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5335900000,-46.6751170000,0,0
+Pão,"Bakery, Cafe",0,Not rated,2,R$,45,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5591666667,-46.6906666667,0,0
+Lilóri Pães e Doces,"Bakery, Desserts, Healthy Food",0,Not rated,2,R$,20,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5651100000,-46.6616870000,0,0
+Salut!,"Bakery, Desserts",0,Not rated,1,R$,20,1,Vila Leopoldina,"Vila Leopoldina, São Paulo",São Paulo,,30,-23.5270720000,-46.7343030000,0,0
+Lareira,"Bakery, Brazilian, Pizza",0,Not rated,0,R$,75,3,Freguesia do Ó,"Freguesia do Ó, São Paulo",São Paulo,,30,-23.4988880000,-46.6751610000,0,0
+Cozeria - Cozinha e Padaria,"Bakery, Desserts, Cafe",0,Not rated,1,R$,0,1,Santa Cecília,"Santa Cecília, São Paulo",São Paulo,,30,-23.5418890000,-46.6487460000,0,0
+Officina,"Bakery, Desserts, Cafe",0,Not rated,1,R$,60,3,Campo Belo,"Campo Belo, São Paulo",São Paulo,,30,-23.6106560000,-46.6926160000,0,0
+Família Carvalho Panificadora,Bakery,0,Not rated,0,R$,50,2,Bom Retiro,"Bom Retiro, São Paulo",São Paulo,,30,-23.5262270000,-46.6392370000,0,0
+Nova Pão Kent,"Bakery, Brazilian, Fast Food",0,Not rated,0,R$,30,1,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5821666667,-46.6861666667,0,0
+Padaria da Z Deli,Bakery,0,Not rated,0,R$,30,1,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5641740000,-46.6791440000,0,0
+St. Etienne,"Bakery, Brazilian",0,Not rated,0,R$,60,3,"Shopping West Plaza, Barra Funda","Shopping West Plaza, Barra Funda, São Paulo",São Paulo,,30,-23.5270080000,-46.6740460000,0,0
+Lilóri Pães e Doces,"Bakery, Desserts, Healthy Food",0,Not rated,0,R$,20,1,"Shopping Pátio Higienópolis, Santa Cecília","Shopping Pátio Higienópolis, Santa Cecília, São Paulo",São Paulo,,30,-23.5430640000,-46.6576640000,0,0
+Pão Mania,Bakery,0,Not rated,0,R$,30,1,Jardim Veloso,"Jardim Veloso, Osasco",Osasco,,30,-23.5666820000,-46.8098580000,0,0
+Julice Boulangère,"Bakery, Desserts, French",0,Not rated,0,R$,75,3,"Shopping Villa Lobos, Alto de Pinheiros","Shopping Villa Lobos, Alto de Pinheiros, São Paulo",São Paulo,,30,-23.5508260000,-46.7220640000,0,0
+Le Vin Boulangerie,"Bakery, Desserts, Cafe",0,Not rated,0,R$,30,1,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5624820000,-46.6653590000,0,0
+Shimura Pães e Doces,"Bakery, Desserts",0,Not rated,0,R$,20,1,Shopping Cidade de São Paulo,"Shopping Cidade de São Paulo, São Paulo",São Paulo,,30,-23.5635170000,-46.6527250000,0,0
+Shimura Pães e Doces,"Bakery, Desserts",0,Not rated,0,R$,20,1,"Shopping Pátio Paulista, Bela Vista","Shopping Pátio Paulista, Bela Vista, São Paulo",São Paulo,,30,-23.5707830000,-46.6434970000,0,0
+Skye - Hotel Unique,"Beverages, International",4.5,Excellent,59,R$,300,4,"Hotel Unique, Jardim Paulista","Hotel Unique, Jardim Paulista, São Paulo",São Paulo,,30,-23.5816880000,-46.6668510000,0,0
+Casa 92,Bar Food,3.8,Good,7,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5642330000,-46.6940420000,0,0
+Madeleine Jazz Bar,"Brazilian, Italian, Bar Food",3.5,Good,5,R$,100,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5565000000,-46.6875000000,0,0
+Mono Club,"Beverages, Bar Food",3.1,Average,1,R$,80,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5513000000,-46.6506330000,0,0
+Wine Library - Grand Hyatt Hotel,Drinks Only,3.1,Average,4,R$,200,4,"Grand Hyatt Hotel, Itaim Bibi","Grand Hyatt Hotel, Itaim Bibi, São Paulo",São Paulo,,30,-23.6167120000,-46.6982310000,0,0
+n.u. Bar - Grand Hyatt Hotel,Drinks Only,2.9,Average,4,R$,100,4,"Grand Hyatt Hotel, Itaim Bibi","Grand Hyatt Hotel, Itaim Bibi, São Paulo",São Paulo,,30,-23.6167120000,-46.6982310000,0,0
+High Line,"Beverages, Bar Food",0,Not rated,2,R$,100,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5572680000,-46.6879140000,0,0
+The Garden Sushi Bar & Grill,"Bar Food, Sushi, Beverages",0,Not rated,0,R$,0,1,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5791703276,-46.6290720555,0,0
+Yellow K,"Beverages, Bar Food",0,Not rated,2,R$,80,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5876070000,-46.6811430000,0,0
+Copas Terraço Bar,"Beverages, Bar Food",0,Not rated,1,R$,80,3,"Studio Dama, Pinheiros","Studio Dama, Pinheiros, São Paulo",São Paulo,,30,-23.5671900000,-46.6983940000,0,0
+SaRaU,"Contemporary, Beverages",0,Not rated,0,R$,150,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5823350000,-46.6673430000,0,0
+B4 Lounge,Drinks Only,0,Not rated,0,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5809800000,-46.6829910000,0,0
+Tetto,Beverages,0,Not rated,0,R$,70,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5601270000,-46.6709490000,0,0
+Casa Branca Café,Bar Food,0,Not rated,0,R$,80,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5440910000,-46.6636360000,0,0
+Terraço Aurora - The Hostel,"Latin American, Beverages",0,Not rated,0,R$,60,3,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5833180000,-46.6376490000,0,0
+DOT - Sheraton São Paulo WTC,Beverages,0,Not rated,0,R$,80,3,Sheraton São Paulo WTC Hotel,"Sheraton São Paulo WTC Hotel, São Paulo",São Paulo,,30,-23.6092320000,-46.6961760000,0,0
+O'Malley's,"Irish, Bar Food, Beverages",3.9,Good,20,R$,80,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5581666667,-46.6660000000,0,0
+Bar Brahma,Brazilian,3.9,Good,13,R$,110,4,República,"República, São Paulo",São Paulo,,30,-23.5425000000,-46.6401666667,0,0
+Finnegan's Pub,"Irish, Bar Food",3.9,Good,13,R$,120,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5596666667,-46.6768333333,0,0
+All Black Irish Pub,"Beverages, Bar Food",3.7,Good,11,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5676850000,-46.6639050000,0,0
+St. John's Irish Pub,"Irish, Bar Food",3.7,Good,10,R$,160,4,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5502166667,-46.5652555556,0,0
+Karavelle,"International, Bar Food, Beverages",3.6,Good,6,R$,90,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5625000000,-46.6678333333,0,0
+Kia Ora,"International, Bar Food",3.6,Good,7,R$,120,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5888333333,-46.6753333333,0,0
+Fast Berlin,"German, Street Food, Beverages",3.5,Good,5,R$,90,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5665410000,-46.6854370000,0,0
+The Sailor,"International, Bar Food",3.5,Good,6,R$,80,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5808333333,-46.6850000000,0,0
+The Blue Pub,Brazilian,3.5,Good,7,R$,100,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5631666667,-46.6505000000,0,0
+Rhino Pub,Bar Food,3.5,Good,5,R$,100,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6044780000,-46.6740240000,0,0
+Partisans,"Burger, Bar Food, Beverages",3.3,Average,5,R$,85,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5610150000,-46.6826390000,0,0
+Deep Bar 611,Bar Food,3.3,Average,4,R$,100,4,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5293070000,-46.6566640000,0,0
+The Orleans,"Brazilian, Bar Food",3.2,Average,4,R$,140,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5551666667,-46.6893333333,0,0
+Superstar Music & Sports Bar,"American, Bar Food",3.1,Average,1,R$,70,3,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5503660000,-46.5650710000,0,0
+The Equinox Pub,"International, Bar Food",3.0,Average,1,R$,100,4,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5465160000,-46.5648200000,0,0
+Dublin Live Music,"Irish, Bar Food",2.9,Average,4,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5920000000,-46.6796666667,0,0
+Bar Providência,"Beverages, Bar Food",2.7,Average,4,R$,60,3,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,04012080,30,-23.5835000000,-46.6485000000,0,0
+The Pub,Bar Food,2.6,Average,6,R$,150,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5515950000,-46.6515360000,0,0
+Braugarten,German,0,Not rated,2,R$,120,4,"Brascan Century Plaza, Itaim Bibi","Brascan Century Plaza, Itaim Bibi, São Paulo",São Paulo,,30,-23.5843333333,-46.6758333333,0,0
+Kabul,"Beverages, Bar Food",0,Not rated,2,R$,70,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5526666667,-46.6565000000,0,0
+Santo Pako,"Beverages, Bar Food",0,Not rated,2,R$,45,2,Moema,"Moema, São Paulo",São Paulo,10000,30,-23.6103333333,-46.6645000000,0,0
+Monte Carlo,Bar Food,0,Not rated,1,R$,80,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5921666667,-46.6798333333,0,0
+Republic Pub,Bar Food,0,Not rated,2,R$,70,3,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5543333333,-46.6938333333,0,0
+Ozzie Pub,"Beverages, Bar Food",0,Not rated,2,R$,100,4,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5286140000,-46.6591790000,0,0
+Camden House Gastropub,"Beverages, British",0,Not rated,0,R$,0,1,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5826150000,-46.6794000000,0,0
+Jet Lag Pub,Beverages,0,Not rated,1,R$,120,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5593000000,-46.6669110000,0,0
+Dinossauros Rock Bar,"Brazilian, Bar Food",0,Not rated,2,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5658333333,-46.6831666667,0,0
+Gillian's Inn English Rock Bar,"British, Bar Food",0,Not rated,0,R$,80,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5485000000,-46.6488333333,0,0
+Charles Edward Bar,"International, Bar Food",0,Not rated,2,R$,120,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5905660000,-46.6825510000,0,0
+The Ale House,"Beverages, Bar Food",0,Not rated,0,R$,60,3,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5665000000,-46.6630000000,0,0
+Tribeca Pub,"British, Irish, American",0,Not rated,1,R$,70,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5940000000,-46.6836666667,0,0
+Kabala Pub,"International, Bar Food",0,Not rated,0,R$,65,3,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5529130000,-46.5645680000,0,0
+Cervejaria do Alemão,Bar Food,0,Not rated,0,R$,120,4,Mooca,"Mooca, São Paulo",São Paulo,10000,30,-23.5601666667,-46.5981666667,0,0
+Pie in the Sky,British,0,Not rated,0,R$,60,3,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5309960000,-46.6829450000,0,0
+Black & Black,Bar Food,0,Not rated,0,R$,50,2,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5288740000,-46.5643320000,0,0
+Session Pub,"Beverages, Bar Food",0,Not rated,0,R$,80,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5597760000,-46.6847850000,0,0
+St. George Pub,"Beverages, British",0,Not rated,0,R$,60,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,0.0000000000,0.0000000000,0,0
+Dynamite Pub,Drinks Only,0,Not rated,0,R$,60,3,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5561980000,-46.6465890000,0,0
+Bar Adventure,"Beverages, Bar Food",0,Not rated,0,R$,100,4,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5875000000,-46.6445000000,0,0
+El Guatón,"Chilean, Bar Food",3.0,Average,5,R$,80,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,10000,30,-23.5618333333,-46.6803333333,0,0
+Forquilha,"Italian, Bar Food, Beverages",2.9,Average,5,R$,50,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5599450000,-46.7001830000,0,0
+Bottega Bernacca,"Italian, Finger Food, Beverages",0,Not rated,2,R$,100,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5643600000,-46.6650090000,0,0
+Fleming’s Prime Steakhouse & Wine Bar,Steak,0,Not rated,1,R$,350,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5803600000,-46.6836090000,0,0
+Ovo e Uva,"Bar Food, Beverages",0,Not rated,0,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5636020000,-46.6846870000,0,0
+Lions,Drinks Only,3.7,Good,6,R$,250,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5519690000,-46.6376740000,0,0
+D-Edge,Drinks Only,3.6,Good,6,R$,120,4,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5282694444,-46.6620722222,0,0
+Love Story,Drinks Only,3.5,Good,5,R$,120,4,República,"República, São Paulo",São Paulo,,30,0.0000000000,0.0000000000,0,0
+Balacobaco Butiquim & Club,Drinks Only,3.4,Average,7,R$,100,4,Tatuapé,"Tatuapé, São Paulo",São Paulo,,30,-23.5490000000,-46.5720000000,0,0
+Blitz Haus,Drinks Only,3.4,Average,8,R$,80,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5518333333,-46.6523333333,0,0
+Espaço TW (The Week),Drinks Only,3.4,Average,4,R$,80,3,Lapa,"Lapa, São Paulo",São Paulo,,30,-23.5230611111,-46.6883055556,0,0
+Morrison Rock Bar,Drinks Only,3.3,Average,4,R$,60,3,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5603480000,-46.6902240000,0,0
+Astronete,Drinks Only,3.3,Average,3,R$,80,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5510000000,-46.6493333333,0,0
+Estúdio,Drinks Only,3.3,Average,2,R$,100,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5615000000,-46.6930000000,0,0
+Disco,Drinks Only,3.3,Average,1,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5884520000,-46.6810400000,0,0
+Mono Club,"Beverages, Bar Food",3.1,Average,1,R$,80,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5513000000,-46.6506330000,0,0
+Neu,Drinks Only,3.0,Average,1,R$,120,4,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5299270000,-46.6724880000,0,0
+Absolut Inn,Drinks Only,3.0,Average,4,R$,120,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5599620000,-46.6771800000,0,0
+Eazy,Drinks Only,2.9,Average,2,R$,100,4,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5191550000,-46.6753750000,0,0
+Lotus,Drinks Only,2.9,Average,4,R$,100,4,Santo Amaro,"Santo Amaro, São Paulo",São Paulo,,30,-23.6260000000,-46.7061666667,0,0
+The History,Drinks Only,2.8,Average,4,R$,80,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5987760000,-46.6814480000,0,0
+Royal Club,Drinks Only,2.8,Average,4,R$,350,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5983333333,-46.6778333333,0,0
+Le Réve Club,Drinks Only,2.8,Average,4,R$,180,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5510000000,-46.6495000000,0,0
+Yatch Club,Drinks Only,2.8,Average,4,R$,200,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5595000000,-46.6463333333,0,0
+Bar Avenida Club,Drinks Only,2.8,Average,4,R$,100,4,Campo Grande,"Campo Grande, São Paulo",São Paulo,,30,-23.7028810000,-46.7148450000,0,0
+Limelight,Drinks Only,2.7,Average,2,R$,80,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5972620000,-46.6873060000,0,0
+Milo Garage,Drinks Only,2.7,Average,1,R$,90,3,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5380810000,-46.6906320000,0,0
+Open Bar Club,Drinks Only,2.7,Average,1,R$,120,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5581060000,-46.6818340000,0,0
+Anexo B,Drinks Only,2.7,Average,4,R$,80,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5509660000,-46.6501500000,0,0
+Villa Mix,Drinks Only,2.6,Average,5,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5953333333,-46.6911666667,0,0
+Mary Pop Club,Drinks Only,2.6,Average,1,R$,100,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5374910000,-46.6464930000,0,0
+Vila do Samba,Drinks Only,2.6,Average,1,R$,70,3,Casa Verde,"Casa Verde, São Paulo",São Paulo,,30,-23.5133310000,-46.6560210000,0,0
+Hangar 110,Drinks Only,2.6,Average,2,R$,60,3,Bom Retiro,"Bom Retiro, São Paulo",São Paulo,,30,-23.5254220000,-46.6323080000,0,0
+Libertá Club,Drinks Only,2.5,Average,4,R$,140,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.6014890000,-46.6600550000,0,0
+Koo Club,Drinks Only,2.5,Average,4,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5598370000,-46.6852250000,0,0
+Josephine SP,Drinks Only,2.5,Average,4,R$,200,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5853850000,-46.6849240000,0,0
+Via Marquês,Drinks Only,2.5,Average,4,R$,120,4,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5192540000,-46.6759550000,0,0
+Up Club SP,Drinks Only,2.5,Average,4,R$,140,4,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5575160000,-46.6865550000,0,0
+Espaço Santa Clara,Drinks Only,2.5,Average,4,R$,100,4,Perdizes,"Perdizes, São Paulo",São Paulo,,30,-23.5339110000,-46.6758900000,0,0
+Secrett Lounge,Drinks Only,2.5,Average,4,R$,120,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5960230000,-46.6827780000,0,0
+Provocateur,Drinks Only,2.5,Average,4,R$,180,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5812350000,-46.6805250000,0,0
+Tato's Club,Drinks Only,2.5,Average,4,R$,80,3,Casa Verde,"Casa Verde, São Paulo",São Paulo,,30,-23.5180340000,-46.6476330000,0,0
+Lumi's Club,Drinks Only,2.5,Average,4,R$,100,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5566510000,-46.6465580000,0,0
+OutLaws,Drinks Only,2.5,Average,4,R$,100,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5651480000,-46.6674790000,0,0
+Opium Solarium,Drinks Only,2.5,Average,4,R$,300,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.6006640000,-46.6917480000,0,0
+Mini Club,Drinks Only,2.5,Average,4,R$,150,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5560610000,-46.6634450000,0,0
+Lebowski,Drinks Only,2.5,Average,4,R$,70,3,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5264540000,-46.6599690000,0,0
+Ballroom,Drinks Only,2.5,Average,4,R$,150,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5662290000,-46.6691740000,0,0
+Villaneja,Drinks Only,2.5,Average,4,R$,80,3,Mooca,"Mooca, São Paulo",São Paulo,,30,-23.5515760000,-46.5896950000,0,0
+Metropolitan,Drinks Only,2.5,Average,4,R$,100,4,Santo Amaro,"Santo Amaro, São Paulo",São Paulo,,30,-23.6383130000,-46.7199520000,0,0
+Megga Club,Drinks Only,2.5,Average,4,R$,100,4,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5236210000,-46.6743240000,0,0
+Madame,Drinks Only,2.5,Average,4,R$,100,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5595810000,-46.6441550000,0,0
+Victtory Club,Drinks Only,2.5,Average,4,R$,150,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5960230000,-46.6827350000,0,0
+Tonk Club,Drinks Only,2.5,Average,4,R$,70,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5630630000,-46.6944510000,0,0
+Salvador Dalí,Drinks Only,2.5,Average,4,R$,80,3,Sé,"Sé, São Paulo",São Paulo,,30,-23.5487830000,-46.6406780000,0,0
+Nova Nostro,Drinks Only,2.5,Average,4,R$,100,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5559820000,-46.6637880000,0,0
+Outs,Drinks Only,2.5,Average,4,R$,90,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5513590000,-46.6506560000,0,0
+Projeto Autobahn - 80's,Drinks Only,2.4,Poor,2,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5621380000,-46.6911470000,0,0
+ABC Bailão,Drinks Only,2.4,Poor,4,R$,60,3,República,"República, São Paulo",São Paulo,,30,-23.5435700000,-46.6459550000,0,0
+Kitsch Club,Drinks Only,2.4,Poor,1,R$,80,3,Vila Mariana,"Vila Mariana, São Paulo",São Paulo,,30,-23.5851780000,-46.6362990000,0,0
+Memphis,Drinks Only,2.4,Poor,1,R$,70,3,Moema,"Moema, São Paulo",São Paulo,,30,-23.6144860000,-46.6634240000,0,0
+Caribbean Disco Club,Drinks Only,2.3,Poor,1,R$,120,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5681570000,-46.6899880000,0,0
+Carioca Club,Drinks Only,0,Not rated,2,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5693333333,-46.6951666667,0,0
+Lab Club,Drinks Only,0,Not rated,3,R$,80,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5516666667,-46.6510000000,0,0
+The Wall Café,Drinks Only,0,Not rated,1,R$,70,3,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5543333333,-46.6468333333,0,0
+Café Aurora,Drinks Only,0,Not rated,3,R$,80,3,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5540940000,-46.6469100000,0,0
+Conexão Mix Bar,Drinks Only,0,Not rated,1,R$,70,3,Santo Amaro,"Santo Amaro, São Paulo",São Paulo,,30,-23.6590000000,-46.7036666667,0,0
+Beco 203,Drinks Only,0,Not rated,3,R$,110,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5518333333,-46.6518333333,0,0
+Inferno Club,Drinks Only,0,Not rated,2,R$,80,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5515000000,-46.6508333333,0,0
+Bubu Lounge,Drinks Only,0,Not rated,2,R$,100,4,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5666666667,-46.6858333333,0,0
+Piove,Drinks Only,0,Not rated,2,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5811760000,-46.6798390000,0,0
+Wood's Bar,Drinks Only,0,Not rated,2,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5960720000,-46.6823950000,0,0
+Big Apple,Drinks Only,0,Not rated,0,R$,70,3,Vila Sônia,"Vila Sônia, São Paulo",São Paulo,,30,-23.5933190000,-46.7340820000,0,0
+Clash Club,Drinks Only,0,Not rated,2,R$,120,4,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5268680000,-46.6593680000,0,0
+Cantho,Drinks Only,0,Not rated,1,R$,60,3,República,"República, São Paulo",São Paulo,,30,-23.5411500000,-46.6449680000,0,0
+Barracão da Villa,Drinks Only,0,Not rated,1,R$,70,3,Santo Amaro,"Santo Amaro, São Paulo",São Paulo,,30,-23.6378333333,-46.7198333333,0,0
+Yes Brasil,Drinks Only,0,Not rated,1,R$,80,3,Santana,"Santana, São Paulo",São Paulo,,30,-23.4833610000,-46.6360650000,0,0
+E-Garden Club,Drinks Only,0,Not rated,0,R$,80,3,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5613333333,-46.6916666667,0,0
+Cine Jóia,Drinks Only,0,Not rated,0,R$,120,4,Liberdade,"Liberdade, São Paulo",São Paulo,,30,-23.5533694444,-46.6357833333,0,0
+Flexx Club,Drinks Only,0,Not rated,2,R$,80,3,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5191750000,-46.6753630000,0,0
+Blue Space,Drinks Only,0,Not rated,2,R$,100,4,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5298333333,-46.6580000000,0,0
+Ritz,Drinks Only,0,Not rated,2,R$,100,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5618040000,-46.6636470000,0,0
+Da Leoni,Drinks Only,0,Not rated,1,R$,100,4,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5516540000,-46.6516000000,0,0
+Splash Bar,Drinks Only,0,Not rated,0,R$,40,2,Penha,"Penha, São Paulo",São Paulo,,30,-23.5226666667,-46.5190000000,0,0
+Santa Aldeia,Drinks Only,0,Not rated,1,R$,100,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5923333333,-46.6890000000,0,0
+Danger,Drinks Only,0,Not rated,1,R$,60,3,República,"República, São Paulo",São Paulo,,30,-23.5460880000,-46.6467280000,0,0
+33 Club,Drinks Only,0,Not rated,0,R$,150,4,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5274380000,-46.6608270000,0,0
+A Lôca,Drinks Only,0,Not rated,1,R$,100,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5551666667,-46.6558333333,0,0
+Recanto Faria Lima,Drinks Only,0,Not rated,0,R$,80,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5657180000,-46.6947390000,0,0
+Black Bom Bom,Drinks Only,0,Not rated,0,R$,80,3,Vila Madalena,"Vila Madalena, São Paulo",São Paulo,,30,-23.5578700000,-46.6873270000,0,0
+Club Ice,Drinks Only,0,Not rated,0,R$,80,3,Santana,"Santana, São Paulo",São Paulo,,30,-23.4949030000,-46.6120200000,0,0
+Metropol,Drinks Only,0,Not rated,0,R$,30,1,"Galeria Metrópole, República","Galeria Metrópole, República, São Paulo",São Paulo,,30,-23.5462200000,-46.6425910000,0,0
+Casa das Caldeiras,Drinks Only,0,Not rated,0,R$,60,3,Barra Funda,"Barra Funda, São Paulo",São Paulo,,30,-23.5255200000,-46.6778840000,0,0
+Vitrini Show,Drinks Only,0,Not rated,0,R$,50,2,Penha,"Penha, São Paulo",São Paulo,,30,-23.5280000000,-46.5078333333,0,0
+She Rocks,Drinks Only,0,Not rated,0,R$,80,3,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5855080000,-46.6847980000,0,0
+Bofetada Club,Drinks Only,0,Not rated,0,R$,80,3,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5551666667,-46.6555000000,0,0
+Hot Hot,Drinks Only,0,Not rated,0,R$,100,4,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5508380000,-46.6428760000,0,0
+Louis Lounge,Drinks Only,0,Not rated,0,R$,130,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5813333333,-46.6831666667,0,0
+JK Club,Drinks Only,0,Not rated,0,R$,100,4,Moema,"Moema, São Paulo",São Paulo,,30,-23.5857980000,-46.6716510000,0,0
+Carioca Interlagos,Drinks Only,0,Not rated,0,R$,100,4,Campo Grande,"Campo Grande, São Paulo",São Paulo,,30,-23.7006600000,-46.7148990000,0,0
+DJ Club,Drinks Only,0,Not rated,0,R$,110,4,Jardim Paulista,"Jardim Paulista, São Paulo",São Paulo,,30,-23.5671950000,-46.6575760000,0,0
+Tapas Club,Drinks Only,0,Not rated,0,R$,60,3,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5551666667,-46.6570000000,0,0
+Tunnel,Drinks Only,0,Not rated,0,R$,80,3,"Bela Vista, Centro","Bela Vista, Centro, São Paulo",São Paulo,,30,-23.5611666667,-46.6471666667,0,0
+Infinity,Drinks Only,0,Not rated,0,R$,80,3,Vila Campesina,"Vila Campesina, Osasco",Osasco,,30,-23.5425000000,-46.7675000000,0,0
+Shake Baby,Drinks Only,0,Not rated,0,R$,60,3,Mooca,"Mooca, São Paulo",São Paulo,,30,-23.5495100000,-46.6109380000,0,0
+Bacio di Latte,Ice Cream,0,Not rated,2,R$,30,1,"Shopping Center Norte, Santana","Shopping Center Norte, Santana, São Paulo",São Paulo,,30,-23.5157310000,-46.6180470000,0,0
+Bacio di Latte,Ice Cream,0,Not rated,1,R$,30,1,"Shopping Pátio Paulista, Bela Vista","Shopping Pátio Paulista, Bela Vista, São Paulo",São Paulo,,30,0.0000000000,0.0000000000,0,0
+Lindt,Desserts,0,Not rated,1,R$,30,1,"Shopping Morumbi, Santo Amaro","Shopping Morumbi, Santo Amaro, São Paulo",São Paulo,,30,-23.6225870000,-46.6984900000,0,0
+Bacio di Latte,Ice Cream,0,Not rated,0,R$,30,1,"Shopping Metrô Tatuapé, Tatuapé","Shopping Metrô Tatuapé, Tatuapé, São Paulo",São Paulo,,30,-23.5416600000,-46.5768220000,0,0
+Alessandra Tonisi,Desserts,0,Not rated,0,R$,20,1,"Shopping Ibirapuera, Moema ","Shopping Ibirapuera, Moema , São Paulo",São Paulo,,30,-23.6092160000,-46.6675250000,0,0
+Lilóri Pães e Doces - Foodtruck,"Bakery, Desserts, Healthy Food",0,Not rated,0,R$,20,1,Consolação,"Consolação, São Paulo",São Paulo,,30,-23.5599700000,-46.6654480000,0,0
+Alessandra Tonisi,Desserts,0,Not rated,0,R$,20,1,"Shopping Eldorado, Pinheiros","Shopping Eldorado, Pinheiros, São Paulo",São Paulo,,30,-23.5726640000,-46.6956410000,0,0
+Bacio di Latte,Ice Cream,0,Not rated,0,R$,30,1,"Shopping Villa Lobos, Alto de Pinheiros","Shopping Villa Lobos, Alto de Pinheiros, São Paulo",São Paulo,,30,0.0000000000,0.0000000000,0,0
+Bacio di Latte,Ice Cream,0,Not rated,0,R$,30,1,"Shopping Center 3, Jardim Paulista","Shopping Center 3, Jardim Paulista, São Paulo",São Paulo,,30,0.0000000000,0.0000000000,0,0
+Rochinha,Ice Cream,0,Not rated,0,R$,20,1,Tietê Plaza Shopping,"Tietê Plaza Shopping, São Paulo",São Paulo,,30,-23.5064340000,-46.7184250000,0,0
+La Pasta - Eataly,Italian,3.4,Average,6,R$,80,3,Eataly,"Eataly, São Paulo",São Paulo,,30,-23.5916800000,-46.6834060000,0,0
+Il Pesce - Eataly,Italian,0,Not rated,2,R$,80,3,Eataly,"Eataly, São Paulo",São Paulo,,30,-23.5916710000,-46.6834060000,0,0
+La Carne - Eataly,Italian,0,Not rated,3,R$,80,3,Eataly,"Eataly, São Paulo",São Paulo,,30,-23.5916710000,-46.6834060000,0,0
+Le Verdure e Il Crudo - Eataly,Italian,0,Not rated,1,R$,100,4,Eataly,"Eataly, São Paulo",São Paulo,,30,-23.5916710000,-46.6834060000,0,0
+La Pizza - Eataly,Italian,0,Not rated,0,R$,80,3,Eataly,"Eataly, São Paulo",São Paulo,,30,-23.5916710000,-46.6834060000,0,0
+Izakaya Taka Daru,Japanese,0,Not rated,0,R$,60,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5619780000,-46.6991440000,0,0
+Sky Hall Terrace Bar,Beverages,0,Not rated,2,R$,120,4,Itaim Bibi,"Itaim Bibi, São Paulo",São Paulo,,30,-23.5911850000,-46.6821070000,0,0
+Biri Nait,Drinks Only,0,Not rated,0,R$,40,2,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5615980000,-46.6942730000,0,0
+Guilhotina,"Beverages, Bar Food, Sandwich",0,Not rated,0,R$,70,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5606790000,-46.6992350000,0,0
+Oak,"Beverages, Bar Food",0,Not rated,0,R$,80,3,Pinheiros,"Pinheiros, São Paulo",São Paulo,,30,-23.5622410000,-46.6804220000,0,0

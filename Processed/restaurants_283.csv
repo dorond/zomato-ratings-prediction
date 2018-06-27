@@ -1,0 +1,747 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,locality_verbose,city,zipcode,country_id,latitude,longitude,has_online_delivery,has_table_booking
+Zaytinya,"Greek, Mediterranean, Turkish",4.9,Excellent,852,$,70,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8991638000,-77.0238049000,0,0
+Old Ebbitt Grill,"American, Breakfast, Seafood",4.8,Excellent,1316,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.8980140000,-77.0334830000,0,0
+Founding Farmers,"American, Breakfast, Desserts",4.7,Excellent,1187,$,150,4,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20006,216,38.9003906000,-77.0445606000,0,0
+2Amys,"Italian, Pizza",4.6,Excellent,510,$,30,3,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20016,216,38.9336530000,-77.0727500000,0,0
+Open City,"American, Diner",4.6,Excellent,307,$,25,2,Woodley Park,"Woodley Park, Washington DC",Washington DC,20008,216,38.9236370000,-77.0518310000,0,0
+Fogo de Chão,"Brazilian, Steak",4.5,Excellent,548,$,120,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8949070000,-77.0270830000,0,0
+Matchbox,"American, Burger, Pizza",4.5,Excellent,741,$,70,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8999370000,-77.0221590000,0,0
+Filomena,Italian,4.5,Excellent,451,$,85,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9045270000,-77.0621610000,0,0
+Pizzeria Paradiso,"Italian, Pizza",4.5,Excellent,311,$,45,3,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9049630000,-77.0655600000,0,0
+Bistrot Du Coin,"European, French, Seafood",4.4,Very Good,475,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9131590000,-77.0457750000,0,0
+Matchbox,"American, Pizza",4.4,Very Good,289,$,95,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8824440000,-76.9951540000,0,0
+Nando's Peri-Peri,"African, Portuguese",4.4,Very Good,231,$,55,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.9000700000,-77.0217310000,0,0
+Granville Moore's,"European, Bar Food, Belgian",4.4,Very Good,268,$,55,4,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9003200000,-76.9894370000,0,0
+Zorba's Cafe,Greek,4.4,Very Good,210,$,45,3,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9113010000,-77.0450750000,0,0
+Kramerbooks & Afterwords Cafe,"American, Desserts, Bar Food",4.3,Very Good,526,$,40,3,Dupont Circle,"Dupont Circle, Washington DC",Washington DC,20036,216,38.9105000000,-77.0436240000,0,0
+Lauriol Plaza,"Mexican, Spanish, Tex-Mex",4.3,Very Good,567,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9153140000,-77.0413600000,0,0
+Clyde's of Georgetown,"American, Seafood, Bar Food",4.3,Very Good,321,$,70,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9050130000,-77.0638760000,0,0
+Busboys and Poets,American,4.3,Very Good,409,$,75,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9173020000,-77.0317940000,0,0
+Oyamel,"Spanish, Tapas",4.3,Very Good,553,$,90,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8951009000,-77.0216580000,0,0
+The Diner,"American, Diner",4.3,Very Good,294,$,25,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9217390000,-77.0421730000,0,0
+Hank's Oyster Bar,"American, Seafood",4.3,Very Good,324,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9109630000,-77.0368460000,0,0
+Tabard Inn,American,4.3,Very Good,293,$,60,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9074370000,-77.0399850000,0,0
+Pizzeria Paradiso,"Italian, Pizza",4.3,Very Good,273,$,45,3,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9097780000,-77.0451380000,0,0
+Tryst,"American, Coffee and Tea, Bar Food",4.3,Very Good,193,$,150,4,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9218330000,-77.0422020000,0,0
+Cactus Cantina,"Latin American, Mexican, Tex-Mex",4.3,Very Good,219,$,75,4,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20016,216,38.9336390000,-77.0725770000,0,0
+Montmartre,"European, French",4.3,Very Good,157,$,70,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8856100000,-76.9963750000,0,0
+Vace Delicatessen,"Italian, Pizza, Sandwich",4.3,Very Good,81,$,25,2,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9338120000,-77.0571700000,0,0
+Pho 14,"Sandwich, Vietnamese",4.3,Very Good,75,$,75,4,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9304470000,-77.0334670000,0,0
+Clyde's of Gallery Place,"American, Seafood, Bar Food",4.2,Very Good,261,$,65,4,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.8982810000,-77.0217350000,0,0
+Brasserie Beck,"European, Belgian",4.2,Very Good,271,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9026370000,-77.0271820000,0,0
+Belga Café,"European, Belgian",4.2,Very Good,260,$,150,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8821283000,-76.9948667000,0,0
+Central Michel Richard,"American, French",4.2,Very Good,233,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8946810000,-77.0261000000,0,0
+Thai Tanic,Thai,4.2,Very Good,156,$,60,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9080282000,-77.0321287000,0,0
+Busboys and Poets,"American, Mediterranean, Vegetarian",4.2,Very Good,168,$,65,4,Mount Vernon Triangle,"Mount Vernon Triangle, Washington DC",Washington DC,20001,216,38.9031030000,-77.0187510000,0,0
+Lebanese Taverna,"Mediterranean, Middle Eastern, Tapas",4.2,Very Good,153,$,45,3,Woodley Park,"Woodley Park, Washington DC",Washington DC,20008,216,38.9250510000,-77.0521740000,0,0
+BlackSalt Fish Market & Restaurant,"American, Bar Food, Seafood",4.2,Very Good,123,$,80,4,Palisades,"Palisades, Washington DC",Washington DC,20007,216,38.9181160000,-77.0972980000,0,0
+The Tombs,"American, Seafood, Bar Food",4.2,Very Good,139,$,150,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9061020000,-77.0703910000,0,0
+Oohhs & Aahhs,"American, Diner, Southern, Soul Food",4.2,Very Good,122,$,85,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9171370000,-77.0262100000,0,0
+Mai Thai,"Asian, Sushi, Thai",4.2,Very Good,120,$,75,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9061370000,-77.0647450000,0,0
+Et Voila!,"European, Belgian",4.2,Very Good,64,$,75,4,Palisades,"Palisades, Washington DC",Washington DC,20016,216,38.9251640000,-77.1018830000,0,0
+Sakana Japanese,Japanese,4.2,Very Good,55,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9095630000,-77.0459590000,0,0
+Pete's New Haven Style Apizza,"Italian, Pizza",4.2,Very Good,55,$,75,4,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9543720000,-77.0825560000,0,0
+Georgia Brown's,"American, Southern, Jamaican",4.1,Very Good,340,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9018770000,-77.0347750000,0,0
+Le Diplomate,"French, Seafood",4.1,Very Good,180,$,75,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9112073000,-77.0318200000,0,0
+District of Pi,"Pizza, Italian",4.1,Very Good,140,$,45,3,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8972170000,-77.0243110000,0,0
+The Capital Grille,"American, Seafood, Steak",4.1,Very Good,147,$,275,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8929770000,-77.0200070000,0,0
+Ming's Restaurant,"Chinese, Japanese, Sushi",4.1,Very Good,171,$,150,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8999400000,-77.0207220000,0,0
+Rose's Luxury,French,4.1,Very Good,68,$,38,3,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8806390000,-76.9953419000,0,0
+Tony Cheng's Restaurant,"Asian, Chinese, Seafood",4.1,Very Good,169,$,150,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8999370000,-77.0203920000,0,0
+Kafè Leopold,German,4.1,Very Good,138,$,60,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9046557000,-77.0665517000,0,0
+Toki Underground,Asian,4.1,Very Good,113,$,60,4,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9003180000,-76.9890820000,0,0
+Logan Tavern,"American, Bar Food",4.1,Very Good,151,$,75,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9098370000,-77.0326220000,0,0
+Lincoln Restaurant,American,4.1,Very Good,120,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9040190000,-77.0331070000,0,0
+Tortilla Cafe,"Latin American, Mexican",4.1,Very Good,123,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8871490000,-76.9960230000,0,0
+Mandu,"Asian, Korean",4.1,Very Good,109,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9143360000,-77.0415230000,0,0
+Martin's Tavern,"American, Breakfast, Bar Food",4.1,Very Good,113,$,60,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9063700000,-77.0630720000,0,0
+Momiji,"Japanese, Sushi",4.1,Very Good,74,$,50,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8998990000,-77.0190550000,0,0
+Tono Sushi,"Japanese, Seafood, Sushi",4.1,Very Good,99,$,75,4,Woodley Park,"Woodley Park, Washington DC",Washington DC,20008,216,38.9237840000,-77.0514680000,0,0
+Indique,"Asian, Indian",4.1,Very Good,85,$,75,4,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9357860000,-77.0588010000,0,0
+Bistro Italiano,Italian,4.1,Very Good,41,$,35,3,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.8949370000,-77.0016110000,0,0
+Spices Asian Restaurant & Sushi Bar,"Asian, Japanese, Sushi",4.1,Very Good,100,$,75,4,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9340390000,-77.0572550000,0,0
+Panas Gourmet Empanadas,"Latin American, Spanish, Tapas",4.1,Very Good,74,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9098230000,-77.0459530000,0,0
+Surfside,"Mexican, Seafood, California",4.1,Very Good,95,$,75,4,Glover Park,"Glover Park, Washington DC",Washington DC,20007,216,38.9218970000,-77.0727040000,0,0
+El Rinconcito Cafe,"Latin American, Mexican",4.1,Very Good,74,$,35,3,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.9046990000,-77.0268230000,0,0
+Coppi's Organic,"Italian, Pizza",4.1,Very Good,68,$,150,4,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9341640000,-77.0572380000,0,0
+La Lomita,Mexican,4.1,Very Good,39,$,75,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8811680000,-76.9869650000,0,0
+Rosa Mexicano,Mexican,4.0,Very Good,293,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8969380000,-77.0217230000,0,0
+The Oceanaire Seafood Room,"American, Desserts, Seafood",4.0,Very Good,175,$,85,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8974370000,-77.0282880000,0,0
+Acadiana,"Seafood, Southern, Cajun",4.0,Very Good,241,$,150,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.9022370000,-77.0241750000,0,0
+The Hamilton,"American, Seafood, Sushi",3.9,Good,157,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.8974900000,-77.0321542000,0,0
+Daikaya,"Japanese, Ramen",4.0,Very Good,156,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.8985693000,-77.0195880000,0,0
+District Chophouse & Brewery,"Burger, Bar Food, Steak",4.0,Very Good,168,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8963210000,-77.0217230000,0,0
+Ella's Pizza,"American, Pizza",4.0,Very Good,154,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8977157000,-77.0239891000,0,0
+The Dubliner,"British, Bar Food, Scottish",4.0,Very Good,155,$,45,3,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8971630000,-77.0092540000,0,0
+Teaism,"Asian, Indian",4.0,Very Good,155,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9127370000,-77.0455600000,0,0
+Co Co. Sala,"American, Desserts",4.0,Very Good,159,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8975206000,-77.0253534000,0,0
+1789 Restaurant,"American, Seafood, Bar Food",4.0,Very Good,155,$,275,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9061780000,-77.0704750000,0,0
+Bodega Spanish Tapas & Lounge,"Spanish, Tapas",4.0,Very Good,149,$,55,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9050420000,-77.0615170000,0,0
+Vapiano,"Italian, Pizza, American",4.0,Very Good,117,$,65,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8999380000,-77.0207520000,0,0
+Komi,Greek,4.0,Very Good,124,$,275,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9105370000,-77.0383230000,0,0
+Vapiano,"Italian, Pizza, American",4.0,Very Good,132,$,65,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9055630000,-77.0418760000,0,0
+Nooshi,"Asian, Sushi",4.0,Very Good,108,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9046590000,-77.0436750000,0,0
+Meiwah,"Chinese, Sushi",4.0,Very Good,64,$,75,4,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20815,216,38.9619990000,-77.0877450000,0,0
+Paolo's,"European, Italian, Pizza",4.0,Very Good,101,$,75,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9070350000,-77.0629470000,0,0
+Tune Inn,"American, Burger, Bar Food",4.0,Very Good,97,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8866710000,-77.0015950000,0,0
+Ristorante Piccolo,Italian,4.0,Very Good,90,$,150,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9044550000,-77.0613750000,0,0
+Agora Restaurant,"Greek, Mediterranean, Turkish",4.0,Very Good,98,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9106760000,-77.0381350000,0,0
+Acqua Al 2,Italian,4.0,Very Good,99,$,275,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8871310000,-76.9959800000,0,0
+Guapo's,"Mexican, Tex-Mex",4.0,Very Good,91,$,75,4,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9485080000,-77.0798140000,0,0
+Afghan Grill,Afghani,4.0,Very Good,74,$,75,4,Woodley Park,"Woodley Park, Washington DC",Washington DC,20008,216,38.9236370000,-77.0510860000,0,0
+Kotobuki,"Japanese, Sushi",4.0,Very Good,71,$,75,4,Palisades,"Palisades, Washington DC",Washington DC,20007,216,38.9167060000,-77.0962180000,0,0
+Himalayan Heritage Restaurant and Bar,"Indian, Tibetan",4.0,Very Good,72,$,75,4,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9198930000,-77.0416620000,0,0
+Taqueria Distrito Federal,"Latin American, Mexican",4.0,Very Good,70,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9340010000,-77.0325230000,0,0
+Old Europe,"European, German, Eastern European",4.0,Very Good,57,$,150,4,Glover Park,"Glover Park, Washington DC",Washington DC,20007,216,38.9218640000,-77.0726910000,0,0
+Mr. Yogato,Desserts,4.0,Very Good,74,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9106050000,-77.0384150000,0,0
+7th Hill Pizza,"Italian, Pizza",4.0,Very Good,60,$,75,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8856200000,-76.9963360000,0,0
+Sweetgreen,"American, Healthy Food",4.0,Very Good,62,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9051590000,-77.0671710000,0,0
+La Chaumiere,"European, French",4.0,Very Good,54,$,60,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9054370000,-77.0572240000,0,0
+Thomas Sweet,"Coffee and Tea, Desserts",4.0,Very Good,48,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9091301000,-77.0640421000,0,0
+Great Wall Szechuan House,"Asian, Chinese",4.0,Very Good,48,$,25,2,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9105870000,-77.0317490000,0,0
+Zaytinya,"Greek, Mediterranean, Turkish",4.9,Excellent,852,$,70,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8991638000,-77.0238049000,0,0
+Open City,"American, Diner",4.6,Excellent,307,$,25,2,Woodley Park,"Woodley Park, Washington DC",Washington DC,20008,216,38.9236370000,-77.0518310000,0,0
+Fogo de Chão,"Brazilian, Steak",4.5,Excellent,548,$,120,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8949070000,-77.0270830000,0,0
+Matchbox,"American, Burger, Pizza",4.5,Excellent,741,$,70,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8999370000,-77.0221590000,0,0
+Filomena,Italian,4.5,Excellent,451,$,85,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9045270000,-77.0621610000,0,0
+Jaleo,"Tapas, Spanish",4.5,Excellent,667,$,50,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8959969000,-77.0219473000,0,0
+Rasika,"Indian, Vegetarian",4.4,Very Good,411,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8948760000,-77.0206140000,0,0
+Bistrot Du Coin,"European, French, Seafood",4.4,Very Good,475,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9131590000,-77.0457750000,0,0
+Matchbox,"American, Pizza",4.4,Very Good,289,$,95,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8824440000,-76.9951540000,0,0
+Granville Moore's,"European, Bar Food, Belgian",4.4,Very Good,268,$,55,4,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9003200000,-76.9894370000,0,0
+Busboys and Poets,American,4.3,Very Good,409,$,75,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9173020000,-77.0317940000,0,0
+Oyamel,"Spanish, Tapas",4.3,Very Good,553,$,90,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8951009000,-77.0216580000,0,0
+The Diner,"American, Diner",4.3,Very Good,294,$,25,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9217390000,-77.0421730000,0,0
+Hank's Oyster Bar,"American, Seafood",4.3,Very Good,324,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9109630000,-77.0368460000,0,0
+Pizzeria Paradiso,"Italian, Pizza",4.3,Very Good,273,$,45,3,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9097780000,-77.0451380000,0,0
+Tryst,"American, Coffee and Tea, Bar Food",4.3,Very Good,193,$,150,4,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9218330000,-77.0422020000,0,0
+Cactus Cantina,"Latin American, Mexican, Tex-Mex",4.3,Very Good,219,$,75,4,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20016,216,38.9336390000,-77.0725770000,0,0
+Belga Café,"European, Belgian",4.2,Very Good,260,$,150,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8821283000,-76.9948667000,0,0
+Central Michel Richard,"American, French",4.2,Very Good,233,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8946810000,-77.0261000000,0,0
+Cafe Bonaparte,French,4.2,Very Good,140,$,150,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9095120000,-77.0646440000,0,0
+BlackSalt Fish Market & Restaurant,"American, Bar Food, Seafood",4.2,Very Good,123,$,80,4,Palisades,"Palisades, Washington DC",Washington DC,20007,216,38.9181160000,-77.0972980000,0,0
+The Tombs,"American, Seafood, Bar Food",4.2,Very Good,139,$,150,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9061020000,-77.0703910000,0,0
+Mai Thai,"Asian, Sushi, Thai",4.2,Very Good,120,$,75,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9061370000,-77.0647450000,0,0
+Le Diplomate,"French, Seafood",4.1,Very Good,180,$,75,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9112073000,-77.0318200000,0,0
+The Capital Grille,"American, Seafood, Steak",4.1,Very Good,147,$,275,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8929770000,-77.0200070000,0,0
+Rose's Luxury,French,4.1,Very Good,68,$,38,3,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8806390000,-76.9953419000,0,0
+Tony Cheng's Restaurant,"Asian, Chinese, Seafood",4.1,Very Good,169,$,150,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8999370000,-77.0203920000,0,0
+Toki Underground,Asian,4.1,Very Good,113,$,60,4,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9003180000,-76.9890820000,0,0
+Logan Tavern,"American, Bar Food",4.1,Very Good,151,$,75,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9098370000,-77.0326220000,0,0
+Indique,"Asian, Indian",4.1,Very Good,85,$,75,4,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9357860000,-77.0588010000,0,0
+Spices Asian Restaurant & Sushi Bar,"Asian, Japanese, Sushi",4.1,Very Good,100,$,75,4,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9340390000,-77.0572550000,0,0
+El Rinconcito Cafe,"Latin American, Mexican",4.1,Very Good,74,$,35,3,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.9046990000,-77.0268230000,0,0
+Coppi's Organic,"Italian, Pizza",4.1,Very Good,68,$,150,4,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9341640000,-77.0572380000,0,0
+The Oceanaire Seafood Room,"American, Desserts, Seafood",4.0,Very Good,175,$,85,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8974370000,-77.0282880000,0,0
+The Hamilton,"American, Seafood, Sushi",3.9,Good,157,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.8974900000,-77.0321542000,0,0
+Daikaya,"Japanese, Ramen",4.0,Very Good,156,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.8985693000,-77.0195880000,0,0
+District Chophouse & Brewery,"Burger, Bar Food, Steak",4.0,Very Good,168,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8963210000,-77.0217230000,0,0
+The Dubliner,"British, Bar Food, Scottish",4.0,Very Good,155,$,45,3,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8971630000,-77.0092540000,0,0
+Marcel's,"European, French, Belgian",4.0,Very Good,63,$,200,4,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9031850000,-77.0515110000,0,0
+Paolo's,"European, Italian, Pizza",4.0,Very Good,101,$,75,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9070350000,-77.0629470000,0,0
+Farmers Fishers Bakers,"American, Bar Food",3.9,Good,172,$,150,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9013044000,-77.0597110000,0,0
+Commissary,"American, Breakfast",3.9,Good,145,$,75,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9098370000,-77.0330960000,0,0
+Elephant & Castle Pub and Restaurant,"British, Bar Food",3.9,Good,170,$,35,3,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8952820000,-77.0281930000,0,0
+Ambar,"European, Tapas, Eastern European",3.9,Good,81,$,75,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8820240000,-76.9953419000,0,0
+Proof,"American, Mediterranean",3.9,Good,202,$,70,4,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.8985370000,-77.0225650000,0,0
+Sticky Rice,"Asian, Sushi, Vegetarian",3.9,Good,172,$,75,4,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9003222000,-76.9893030000,0,0
+Thunder Burger and Bar,"American, Breakfast, Burger",3.9,Good,99,$,75,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9050520000,-77.0605070000,0,0
+Dukem Ethiopian Restaurant,"African, Ethiopian",3.9,Good,143,$,75,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9168370000,-77.0272300000,0,0
+Marvin,"American, Belgian",3.9,Good,139,$,150,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9171800000,-77.0317940000,0,0
+Churchkey,Bar Food,3.9,Good,137,$,65,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9078740000,-77.0317560000,0,0
+Tortilla Coast,Tex-Mex,3.9,Good,117,$,45,3,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8849630000,-77.0057230000,0,0
+Rasika West End,Indian,3.9,Good,88,$,150,4,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9047270000,-77.0484070000,0,0
+Mezè,"Mediterranean, Turkish",3.9,Good,68,$,150,4,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9214890000,-77.0420940000,0,0
+Kaz Sushi Bistro,"Japanese, Seafood, Sushi",3.9,Good,93,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9014370000,-77.0438340000,0,0
+BLT Steak,"American, Seafood, Steak",3.9,Good,100,$,90,4,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9014370000,-77.0382010000,0,0
+District Commons,American,3.9,Good,96,$,150,4,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9018283000,-77.0492159000,0,0
+Restaurant Nora,"American, Vegetarian",3.9,Good,98,$,275,4,Downtown,"Downtown, Washington DC",Washington DC,20008,216,38.9129360000,-77.0470990000,0,0
+Al Tiramisu,"Italian, Seafood",3.9,Good,62,$,60,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9095630000,-77.0458820000,0,0
+Kyoto Sushi,"Japanese, Sushi",3.9,Good,29,$,75,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.8950080000,-77.0034020000,0,0
+Hill Country Barbecue Market,"American, BBQ",3.8,Good,209,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8951390000,-77.0222380000,0,0
+Banana Cafe & Piano Bar,"Cuban, Mexican, Tex-Mex",3.8,Good,158,$,75,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8825630000,-76.9948230000,0,0
+Cafe Saint-Ex,"French, American",3.8,Good,112,$,75,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9151070000,-77.0317810000,0,0
+Bistrot Lepic & Wine Bar,French,3.8,Good,67,$,70,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9146065000,-77.0672800000,0,0
+Cafe Divan,"Mediterranean, Middle Eastern, Turkish",3.8,Good,67,$,75,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9157510000,-77.0679620000,0,0
+Iron Gate,Italian,3.8,Good,55,$,60,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9070130000,-77.0398660000,0,0
+&pizza,"Italian, Pizza, Vegetarian",3.8,Good,43,$,10,1,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9004540000,-76.9907810000,0,0
+Chads Friendship Heights,"American, Burger, Bar Food",3.8,Good,53,$,50,4,Friendship Heights,"Friendship Heights, Washington DC",Washington DC,20015,216,38.9583870000,-77.0843010000,0,0
+Town Hall,"American, Southern",3.8,Good,49,$,150,4,Glover Park,"Glover Park, Washington DC",Washington DC,20007,216,38.9209904000,-77.0721291000,0,0
+Bombay Club,"Asian, Indian",3.7,Good,103,$,70,4,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9004450000,-77.0380970000,0,0
+J. Paul's,"American, Bar Food, Seafood",3.7,Good,130,$,75,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9050330000,-77.0634200000,0,0
+Penn Quarter Sports Tavern,"American, Burger, Bar Food",3.7,Good,69,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8941104000,-77.0214446000,0,0
+Daily Grill,"American, Seafood, Steak",3.7,Good,87,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9059544000,-77.0419256000,0,0
+Ghibellina,"Italian, Pizza",3.7,Good,62,$,75,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20009,216,38.9115571000,-77.0321512000,0,0
+Bobby Van's Steakhouse,"American, Seafood, Steak",3.7,Good,68,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9003690000,-77.0336420000,0,0
+Little Serow,Thai,3.7,Good,61,$,275,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9101582000,-77.0382913000,0,0
+Medaterra,"Mediterranean, Middle Eastern, Seafood",3.7,Good,51,$,75,4,Woodley Park,"Woodley Park, Washington DC",Washington DC,20008,216,38.9238560000,-77.0518950000,0,0
+Clyde's of Chevy Chase,"American, Seafood, Bar Food",3.7,Good,55,$,150,4,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20815,216,38.9625330000,-77.0862590000,0,0
+Mourayo,"Greek, Mediterranean, Seafood",3.7,Good,56,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9130830000,-77.0457330000,0,0
+Meridian Pint,American,3.7,Good,52,$,150,4,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9319190000,-77.0283630000,0,0
+Haydee's,"American, Latin American, Mexican",3.7,Good,35,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9288330000,-77.0375380000,0,0
+Bukom Cafe,African,3.7,Good,23,$,60,4,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9215020000,-77.0424620000,0,0
+Alero,"Latin American, Mexican, Tex-Mex",3.6,Good,76,$,60,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9129820000,-77.0456780000,0,0
+Buca di Beppo Italian Restaurant,"Italian, Pizza",3.6,Good,82,$,50,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9148345879,-77.0458531380,0,0
+Cafe Milano,Italian,3.6,Good,89,$,75,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9061370000,-77.0647450000,0,0
+Tonic at Quigley's Bar and Restaurant,American,3.6,Good,72,$,75,4,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20052,216,38.8982795000,-77.0465956000,0,0
+Izakaya Seki,Japanese,3.6,Good,40,$,45,3,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9182298000,-77.0277806000,0,0
+Front Page,American,3.6,Good,82,$,75,4,Dupont Circle,"Dupont Circle, Washington DC",Washington DC,20036,216,38.9083232000,-77.0437049000,0,0
+Lia's,"Italian, Mediterranean, Pizza",3.6,Good,64,$,75,4,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20815,216,38.9619410000,-77.0872710000,0,0
+Urbana Dining & Drinks,"French, Italian, Mediterranean",3.6,Good,74,$,70,4,Downtown,"Downtown, Washington DC",Washington DC,20037,216,38.9097910000,-77.0471150000,0,0
+Boqueria,"Spanish, Tapas",3.6,Good,61,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9056536000,-77.0432173000,0,0
+Darlington House,"American, Breakfast",3.6,Good,61,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9112770000,-77.0449960000,0,0
+Oval Room,American,3.6,Good,54,$,100,4,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9002610000,-77.0382360000,0,0
+Cafe Dupont,French,3.6,Good,47,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9103910000,-77.0430420000,0,0
+Cantina Marina,"Latin American, Seafood, Southern",3.6,Good,48,$,45,3,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8758390000,-77.0208750000,0,0
+Bier Baron,"American, Bar Food",3.6,Good,31,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20037,216,38.9100670000,-77.0486120000,0,0
+BlackFinn American Saloon,American,3.6,Good,46,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9011930000,-77.0380050000,0,0
+Irish Channel Restaurant and Pub,"British, Bar Food",3.6,Good,29,$,75,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8996630000,-77.0190740000,0,0
+Bua Thai Restaurant & Bar,Thai,3.6,Good,39,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9097770000,-77.0372470000,0,0
+El Chucho Cocina Superior,"Latin American, Mexican, Spanish",3.6,Good,35,$,75,4,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9310900000,-77.0277970000,0,0
+Pesce,"American, Italian, Seafood",3.6,Good,38,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9094481000,-77.0452913000,0,0
+Fadó Irish Pub,"American, British, Bar Food",4.1,Very Good,180,$,75,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.9000040000,-77.0220750000,0,0
+Star and Shamrock,"Bar Food, Sandwich",3.6,Good,33,$,25,2,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9000070000,-76.9869360000,0,0
+Kelly's Irish Times,"American, Bar Food, Irish",3.5,Good,45,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8971630000,-77.0095140000,0,0
+Nanny O'Brien's,"Burger, British, Bar Food",3.5,Good,27,$,25,2,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9338490000,-77.0571890000,0,0
+Elephant & Castle Pub and Restaurant,"British, Bar Food",3.4,Average,35,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9014470000,-77.0435780000,0,0
+Duffy's Irish Pub,"British, Bar Food, Scottish",3.4,Average,26,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9182580000,-77.0247340000,0,0
+51st State,"American, Burger, Bar Food",3.4,Average,31,$,25,2,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9036630000,-77.0538880000,0,0
+Union Pub,"American, Bar Food",3.4,Average,31,$,75,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.8950080000,-77.0034020000,0,0
+Buffalo Billiards,"American, Burger, Bar Food",3.3,Average,44,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9081680000,-77.0435750000,0,0
+Gordon Biersch,New American,3.3,Average,21,$,45,3,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8764840000,-77.0052440000,0,0
+Mackey's Public House,"British, Bar Food",3.2,Average,22,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9038670000,-77.0429030000,0,0
+Recession's Bar and Grill,"American, Bar Food",3.1,Average,6,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9038670000,-77.0429030000,0,0
+Solly's U Street Tavern,"Burger, Bar Food",3.0,Average,10,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9162160000,-77.0271750000,0,0
+Church & State,American,3.0,Average,7,$,75,4,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9003170000,-76.9890370000,0,0
+Sudhouse DC,"American, Pub Food",0,Not rated,3,$,0,1,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9167870000,-77.0311180000,0,0
+O'Malley's,"Fast Food, American",0,Not rated,0,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20166,216,38.9854280000,-77.4284660000,0,0
+The Irish Inn at Glen Echo,Pub Food,0,Not rated,0,$,25,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20812,216,38.9649550000,-77.1371130000,0,0
+9:30 Club,Bar Food,3.3,Average,19,$,0,1,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9179090000,-77.0232070000,0,0
+DC9 Nightclub,"Burger, Bar Food",3.1,Average,11,$,75,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9161990000,-77.0241330000,0,0
+Twins Jazz,"African, Caribbean, Ethiopian",3.1,Average,4,$,55,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9168630000,-77.0306410000,0,0
+Mpire Club,"European, Tapas",2.5,Average,4,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9059219000,-77.0425690000,0,0
+Captain White Seafood City,Seafood,3.6,Good,30,$,40,3,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8809150000,-77.0261500000,0,0
+A. Litteri,Italian,3.6,Good,34,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.9071690000,-76.9986790000,0,0
+Loeb's,Sandwich,3.3,Average,18,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9011801000,-77.0402446000,0,0
+Via Umbria,Italian,0,Not rated,2,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20007,216,38.9099360000,-77.0643810000,0,0
+Bozzelli's Italian Deli,Italian,0,Not rated,0,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20005,216,0.0000000000,0.0000000000,0,0
+Gold Coast Cafe,Cafe,0,Not rated,0,$,0,1,Petworth,"Petworth, Washington DC",Washington DC,20011,216,0.0000000000,0.0000000000,0,0
+Gallery Deli,"Sandwich, Deli",0,Not rated,1,$,25,2,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8850370000,-77.0240990000,0,0
+Smucker Farms,American,0,Not rated,0,$,0,1,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9187630000,-77.0322900000,0,0
+Ben's Chili Bowl,"Burger, Sandwich",4.6,Excellent,1037,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9171370000,-77.0284270000,0,0
+Good Stuff Eatery,"American, Burger, Desserts",4.6,Excellent,587,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8867640000,-77.0019230000,0,0
+Burger Tap & Shake,"Burger, Beverages",4.1,Very Good,116,$,25,2,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9018283000,-77.0492159000,0,0
+Wisemiller's Grocery & Deli,"Fast Food, Sandwich",4.1,Very Good,31,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9062310000,-77.0704750000,0,0
+Good Hope Carry Out,"American, Chinese, Fast Food",3.9,Good,4,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20020,216,38.8670850000,-76.9860580000,0,0
+Ollie's Trolley,"American, Bar Food, Sandwich",3.8,Good,85,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8954470000,-77.0279230000,0,0
+Chix,"Fast Food, Latin American",3.8,Good,42,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9172920000,-77.0268310000,0,0
+Five Guys Burgers and Fries,Fast Food,3.8,Good,34,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8773850000,-77.0042980000,0,0
+Angelico Pizzeria & Cafe,"American, Italian, Pizza",3.8,Good,31,$,25,2,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9489530000,-77.0799990000,0,0
+Twin Dragon Carry Out,"Chinese, Fast Food",3.8,Good,11,$,75,4,Petworth,"Petworth, Washington DC",Washington DC,20011,216,38.9567390000,-77.0162750000,0,0
+Chipotle Mexican Grill,"Fast Food, Mexican",3.8,Good,16,$,25,2,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9450070000,-77.0778240000,0,0
+Alberto's Pizza,"American, Pizza",3.7,Good,46,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9094708000,-77.0453983000,0,0
+California Tortilla,"Fast Food, Mexican, Tex-Mex",3.7,Good,40,$,25,2,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8992700000,-77.0220750000,0,0
+Pret A Manger,"Fast Food, Sandwich",3.7,Good,33,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9015301000,-77.0420350000,0,0
+Astro Doughnuts & Fried Chicken,"Bagels, Donuts, Burger",3.6,Good,53,$,12,1,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8983117000,-77.0303566000,0,0
+Grand Trunk,"Fast Food, Indian, Pakistani",3.6,Good,15,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8942840000,-77.0215599000,0,0
+Duccini's,"Pizza, Fast Food",3.6,Good,19,$,25,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9168630000,-77.0405440000,0,0
+Five Guys Burgers and Fries,Fast Food,3.6,Good,41,$,25,2,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8996630000,-77.0231350000,0,0
+Five Guys Burgers and Fries,Fast Food,3.6,Good,36,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9286290000,-77.0328730000,0,0
+Five Guys Burgers and Fries,Fast Food,3.6,Good,22,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8962370000,-77.0297760000,0,0
+Chipotle Mexican Grill,"Fast Food, Mexican",3.6,Good,22,$,25,2,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20815,216,38.9628360000,-77.0948780000,0,0
+Yums II Carryout,Fast Food,3.6,Good,15,$,25,2,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9091100000,-77.0317230000,0,0
+Marios Pizza House Number 1,"Fast Food, Pizza",3.6,Good,5,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20020,216,38.8731550000,-76.9710750000,0,0
+Good Stuff Eatery,"American, Burger, Fast Food",3.5,Good,30,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9053150000,-77.0657590000,0,0
+Chipotle Mexican Grill,"Fast Food, Mexican",3.5,Good,22,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9115550000,-77.0442710000,0,0
+Crepeaway,Fast Food,3.5,Good,17,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9039100000,-77.0450870000,0,0
+Teddy's Roti Shop,"Caribbean, Fast Food",3.5,Good,13,$,25,2,Petworth,"Petworth, Washington DC",Washington DC,20012,216,38.9786404000,-77.0267313000,0,0
+Good Hope Seafood,"Chinese, Fast Food, Seafood",3.5,Good,8,$,75,4,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20020,216,38.8662060000,-76.9829350000,0,0
+J J's Carryout,Fast Food,3.5,Good,4,$,0,1,Petworth,"Petworth, Washington DC",Washington DC,20011,216,38.9543180000,-77.0279210000,0,0
+Domino's,"Fast Food, Pizza",3.5,Good,4,$,25,2,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9489680000,-77.0803680000,0,0
+Rhode Island Express,Fast Food,3.5,Good,1,$,25,2,Brookland,"Brookland, Washington DC",Washington DC,20002,216,38.9196740000,-77.0002530000,0,0
+Pete's Diner & Carryout,"American, Diner, Fast Food",3.4,Average,23,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8873020000,-77.0033230000,0,0
+Johnny Rockets,"American, Burger, Fast Food",3.4,Average,20,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,,216,38.9053370000,-77.0617650000,0,0
+Jimmy's Grill,"Fast Food, Seafood",3.4,Average,15,$,75,4,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8811900000,-77.0270390000,0,0
+Chipotle Mexican Grill,"Fast Food, Mexican",3.4,Average,16,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9058370000,-77.0424170000,0,0
+California Tortilla,"Fast Food, Mexican, Tex-Mex",3.4,Average,22,$,25,2,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9357950000,-77.0584180000,0,0
+New York Pizza,"Fast Food, Italian, Pizza",3.4,Average,16,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8799210000,-76.9851030000,0,0
+Chipotle Mexican Grill,"Fast Food, Mexican",3.4,Average,19,$,25,2,Woodley Park,"Woodley Park, Washington DC",Washington DC,20008,216,38.9235720000,-77.0517330000,0,0
+Chipotle Mexican Grill,"Fast Food, Mexican",3.4,Average,16,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8974370000,-77.0200920000,0,0
+Yellow House,Fast Food,3.4,Average,6,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20019,216,38.8954000000,-76.9487100000,0,0
+Papa John's Pizza,"Fast Food, Pizza",3.4,Average,7,$,25,2,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9503870000,-77.0807520000,0,0
+China Sea Carryout,"Chinese, Fast Food",3.4,Average,4,$,0,1,Petworth,"Petworth, Washington DC",Washington DC,20012,216,38.9680670000,-77.0276060000,0,0
+Andy's Carry Out,Fast Food,3.4,Average,5,$,25,2,Petworth,"Petworth, Washington DC",Washington DC,20011,216,38.9509600000,-77.0271430000,0,0
+China Wonder,"Chinese, Fast Food",3.4,Average,2,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9201400000,-77.0218230000,0,0
+Grand China Carryout 2,"Chinese, Fast Food",3.4,Average,3,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8763620000,-77.0094750000,0,0
+Lucky's Carryout,Fast Food,3.4,Average,2,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9171370000,-77.0261840000,0,0
+China Southern Carry Out,"Chinese, Fast Food",3.4,Average,0,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20032,216,38.8215280000,-77.0012480000,0,0
+Fuddruckers,"American, Burger",3.3,Average,32,$,25,2,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8993030000,-77.0220750000,0,0
+Five Guys Burgers and Fries,Fast Food,3.3,Average,19,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9011581000,-77.0322765000,0,0
+Johnny Rockets,"American, Burger, Fast Food",3.3,Average,13,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.8968830000,-77.0062540000,0,0
+Cava Grill,"Fast Food, Greek, Mediterranean",3.3,Average,9,$,75,4,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9443320000,-77.0773300000,0,0
+Asian American Chinese Food,"Asian, Chinese, Fast Food",3.3,Average,6,$,75,4,Brookland,"Brookland, Washington DC",Washington DC,20018,216,38.9215110000,-76.9885630000,0,0
+Carls Foods,"Fast Food, Sandwich",3.3,Average,5,$,25,2,Brookland,"Brookland, Washington DC",Washington DC,20018,216,38.9302910000,-76.9741070000,0,0
+Big China,"Chinese, Fast Food",3.3,Average,1,$,25,2,Brookland,"Brookland, Washington DC",Washington DC,20002,216,38.9185290000,-77.0004230000,0,0
+Food Court in Union Station,"Diner, Fast Food",3.2,Average,18,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.8969680000,-77.0071270000,0,0
+Five Guys Burgers and Fries,Fast Food,3.2,Average,11,$,25,2,NoMa,"NoMa, Washington DC",Washington DC,20002,216,38.9049960000,-77.0034440000,0,0
+McDonald's,Fast Food,3.2,Average,5,$,25,2,Woodley Park,"Woodley Park, Washington DC",Washington DC,20008,216,38.9238970000,-77.0519180000,0,0
+Yum's Carryout,Fast Food,3.2,Average,6,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9161630000,-77.0317230000,0,0
+Papa John's Pizza,"Fast Food, Pizza",3.2,Average,5,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20020,216,38.8659510000,-76.9524670000,0,0
+Henrys Delicatessen Carry Out,"Fast Food, Seafood, Southern",3.2,Average,3,$,25,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9168630000,-77.0387720000,0,0
+EatMore Fried Chicken,"Breakfast, Fast Food, Sandwich",3.2,Average,4,$,25,2,Petworth,"Petworth, Washington DC",Washington DC,20010,216,38.9367880000,-77.0241850000,0,0
+Popeyes Louisiana Kitchen,Fast Food,3.2,Average,2,$,25,2,Petworth,"Petworth, Washington DC",Washington DC,20011,216,38.9530290000,-77.0277860000,0,0
+Sunny Carry Out,Fast Food,3.2,Average,2,$,25,2,Brookland,"Brookland, Washington DC",Washington DC,20018,216,38.9348110000,-76.9638520000,0,0
+Eddie's Carryout,Fast Food,3.2,Average,0,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20032,216,38.8309680000,-77.0076830000,0,0
+Shaw's Tavern,Burger,3.1,Average,20,$,35,3,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9150050000,-77.0192780000,0,0
+McDonald's,Fast Food,3.1,Average,11,$,25,2,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8875600000,-77.0198990000,0,0
+Churreria Madrid,"Fast Food, Spanish, Tapas, Latin American",3.2,Average,11,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20009,216,38.9232450000,-77.0412230000,0,0
+Five Guys Burgers and Fries,Fast Food,3.1,Average,15,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8974370000,-77.0297980000,0,0
+McDonald's,Fast Food,3.1,Average,5,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9007370000,-77.0287370000,0,0
+Domino's,"Fast Food, Pizza",3.1,Average,8,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9036630000,-77.0297770000,0,0
+Full Yum Carry Out,Fast Food,3.1,Average,5,$,0,1,NoMa,"NoMa, Washington DC",Washington DC,20002,216,38.9097410000,-77.0088230000,0,0
+Papa John's Pizza,"Fast Food, Pizza",3.1,Average,8,$,25,2,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9038170000,-77.0534060000,0,0
+Bojangles,"Fast Food, Southern",3.1,Average,7,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.8969100000,-77.0064260000,0,0
+California Grill,"American, Sandwich",3.1,Average,7,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9027700000,-77.0338220000,0,0
+Subway,Fast Food,3.1,Average,6,$,25,2,Friendship Heights,"Friendship Heights, Washington DC",Washington DC,20015,216,38.9590800000,-77.0850260000,0,0
+Kochix Chicken,American,3.1,Average,4,$,35,3,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9137320000,-77.0163660000,0,0
+Subway,Fast Food,3.1,Average,5,$,25,2,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9474790000,-77.0792370000,0,0
+Jerrys Carry Out,Fast Food,3.1,Average,2,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9164000000,-77.0220750000,0,0
+Grand China Carry Out,"Chinese, Fast Food",3.1,Average,0,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9308690000,-77.0282070000,0,0
+Popeyes Louisiana Kitchen,Fast Food,3.1,Average,3,$,25,2,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9451950000,-77.0779320000,0,0
+McDonald's,Fast Food,3.1,Average,2,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9055630000,-77.0438440000,0,0
+Pizza Movers & Calzone,"Fast Food, Italian, Pizza",3.1,Average,3,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9112150000,-77.0655090000,0,0
+Panda Express,Fast Food,3.1,Average,1,$,25,2,Brookland,"Brookland, Washington DC",Washington DC,20002,216,38.9105610000,-76.9854140000,0,0
+Pizza Kingdom,"Breakfast, Fast Food, Pizza",3.1,Average,1,$,75,4,Brookland,"Brookland, Washington DC",Washington DC,20017,216,38.9328770000,-76.9912050000,0,0
+Yum's Carryout,Fast Food,3.1,Average,1,$,25,2,Petworth,"Petworth, Washington DC",Washington DC,20011,216,38.9562630000,-77.0213920000,0,0
+Johnnys Carryout,Fast Food,3.1,Average,1,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9333410000,-77.0325230000,0,0
+Shake Shack,"Fast Food, American",3.0,Average,6,$,30,3,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.8975799000,-77.0061578000,0,0
+McDonald's,Fast Food,3.0,Average,8,$,25,2,Friendship Heights,"Friendship Heights, Washington DC",Washington DC,20015,216,38.9591370000,-77.0850750000,0,0
+Pizza Hut,"Fast Food, Pizza",3.0,Average,6,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9055630000,-77.0436750000,0,0
+Jumbo Slice Kouzina Angelina's Pizzeria,"Fast Food, Pizza",3.0,Average,4,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9167706000,-77.0228039000,0,0
+Korean BBQ Taco Box Food Truck,"Fast Food, Korean",3.0,Average,5,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Domino's,"Fast Food, Pizza",3.0,Average,3,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20032,216,38.8309680000,-77.0076830000,0,0
+Dunkin' Donuts,"Fast Food, Donuts",3.0,Average,3,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9171770000,-77.0315830000,0,0
+Popeyes Louisiana Kitchen,Fast Food,3.0,Average,4,$,25,2,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9003370000,-76.9896160000,0,0
+Papa John's Pizza,"Fast Food, Pizza",3.0,Average,3,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20009,216,38.9208320000,-77.0320240000,0,0
+Subway,Fast Food,3.0,Average,2,$,25,2,Petworth,"Petworth, Washington DC",Washington DC,20307,216,38.9737460000,-77.0270630000,0,0
+Flamer's Burgers,"Burger, Fast Food",3.0,Average,3,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8983100000,-77.0112370000,0,0
+Subway,Fast Food,3.0,Average,2,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9052370000,-77.0652500000,0,0
+Domino's,"Fast Food, Pizza",3.0,Average,1,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20009,216,38.9249682000,-77.0321196000,0,0
+George Carryout III,Fast Food,3.0,Average,1,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9194340000,-77.0317230000,0,0
+Amsterdam Falafelshop,"Middle Eastern, Sandwich, Vegetarian",4.3,Very Good,235,$,25,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9211979000,-77.0418620000,0,0
+Lincoln's Waffle Shop,"American, Diner, Sandwich",4.0,Very Good,103,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8965096000,-77.0261035000,0,0
+District Taco Metro Center,"Taco, Mexican",3.9,Good,87,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8974926000,-77.0301625000,0,0
+Julia's Empanadas,Latin American,3.8,Good,97,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9059830000,-77.0412320000,0,0
+Julia's Empanadas,Latin American,3.8,Good,91,$,25,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9216900000,-77.0423570000,0,0
+Florida Avenue Grill,"American, Diner, Southern",3.6,Good,42,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9206450000,-77.0271530000,0,0
+Greek Deli and Catering,"Sandwich, Greek",3.6,Good,34,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9046590000,-77.0436750000,0,0
+Atrium Cafe,"Deli, Sandwich",3.3,Average,12,$,0,1,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8844510000,-77.0180210000,0,0
+Pimento Grill,Caribbean,3.4,Average,5,$,0,1,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20019,216,38.8732820000,-76.9356280000,0,0
+Sweetgreen,"Salad, Healthy Food",3.2,Average,13,$,25,2,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9097880000,-77.0336800000,0,0
+Moe's Southwest Grill,Southwestern,3.2,Average,10,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8962370000,-77.0297760000,0,0
+Buredo,Japanese,2.9,Average,7,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9010021941,-77.0317288581,0,0
+Khepra's Raw Food Juice Bar,American,2.9,Average,5,$,20,2,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9003364000,-77.0002504000,0,0
+Shouk,"Middle Eastern, Vegetarian",0,Not rated,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.9027640000,-77.0205470000,0,0
+Marvelous Pizza,Pizza,0,Not rated,3,$,25,2,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9002238000,-76.9933367000,0,0
+Chopt Creative Salad Company,Salad,0,Not rated,1,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8943285224,-77.0234220568,0,0
+Honeygrow,"Salad, Healthy Food, Beverages",0,Not rated,1,$,15,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8990580000,-77.0222720000,0,0
+Lucky Carry Out,"Asian, Pizza, Southern",0,Not rated,2,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20032,216,38.8285908000,-76.9918096000,0,0
+Burrito Brothers,Tex-Mex,0,Not rated,1,$,15,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,0.0000000000,0.0000000000,0,0
+Custom Fuel,"American, Pizza",0,Not rated,1,$,45,3,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9206360000,-77.0215489000,0,0
+Bowen Seafood & Crab,"Fast Food, Seafood",0,Not rated,2,$,0,1,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20019,216,38.8737780000,-76.9346140000,0,0
+ThinkFoodLab,"Sandwich, Spanish",0,Not rated,0,$,30,3,Penn Quarter,"Penn Quarter, Washington DC",Washington DC,20004,216,38.8943190109,-77.0223378763,0,0
+Kitchen No 1,Deli,0,Not rated,0,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20032,216,38.8214364000,-77.0020220000,0,0
+IMM Thai,Asian,0,Not rated,0,$,15,1,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,0.0000000000,0.0000000000,0,0
+Maso,"Healthy Food, Salad",0,Not rated,0,$,15,1,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9051670000,-77.0427360000,0,0
+Jaco Juice & Taco Bar,Mexican,0,Not rated,0,$,10,1,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,0.0000000000,0.0000000000,0,0
+Seafood Market Deli,Sandwich,0,Not rated,1,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20019,216,38.8732690000,-76.9355360000,0,0
+DC Grill Express,Asian,0,Not rated,0,$,15,1,Downtown,"Downtown, Washington DC",Washington DC,20009,216,0.0000000000,0.0000000000,0,0
+Swaad Palace,Asian,0,Not rated,0,$,0,1,NoMa,"NoMa, Washington DC",Washington DC,20024,216,0.0000000000,0.0000000000,0,0
+Chicken Boxx,American,0,Not rated,0,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9077550000,-77.0630020000,0,0
+Asian American II,Asian,0,Not rated,0,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9094560000,-77.0267220000,0,0
+Mimosa Restaurant,Asian,0,Not rated,0,$,15,1,Downtown,"Downtown, Washington DC",Washington DC,20009,216,0.0000000000,0.0000000000,0,0
+Ken's Asian Bistro,Chinese,0,Not rated,0,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,,216,0.0000000000,0.0000000000,0,0
+DC Grill Express,Asian,0,Not rated,0,$,15,1,Downtown,"Downtown, Washington DC",Washington DC,20009,216,0.0000000000,0.0000000000,0,0
+Songbyrd Music House,Asian,0,Not rated,0,$,20,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,0.0000000000,0.0000000000,0,0
+Potbelly Sandwich Shop,Sandwich,0,Not rated,0,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9201680000,-77.0215210000,0,0
+Brown Bag 16th + Eye,Asian,0,Not rated,0,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20006,216,0.0000000000,0.0000000000,0,0
+Protein Bar,Asian,0,Not rated,0,$,40,3,Downtown,"Downtown, Washington DC",Washington DC,20006,216,0.0000000000,0.0000000000,0,0
+Galley,Asian,0,Not rated,0,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,0.0000000000,0.0000000000,0,0
+Melt Shop,"American, Sandwich",0,Not rated,0,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9040400000,-77.0439180000,0,0
+Skillet Sandwich Shop,Sandwich,0,Not rated,0,$,15,1,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,,216,0.0000000000,0.0000000000,0,0
+Petworth Cafe,Asian,0,Not rated,0,$,10,1,Petworth,"Petworth, Washington DC",Washington DC,20010,216,0.0000000000,0.0000000000,0,0
+Piassa Ethiopian Cuisine and Restaurant,Asian,0,Not rated,0,$,0,1,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,0.0000000000,0.0000000000,0,0
+Jannat Kabob & Pizza,Asian,0,Not rated,0,$,30,3,Brookland,"Brookland, Washington DC",Washington DC,,216,0.0000000000,0.0000000000,0,0
+Supreme Delights,Asian,0,Not rated,0,$,25,2,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,0.0000000000,0.0000000000,0,0
+Sbarro Pizza,Asian,0,Not rated,0,$,0,1,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,0.0000000000,0.0000000000,0,0
+MCDC Silver Spring (Mama Chuy),Asian,0,Not rated,0,$,15,1,Petworth,"Petworth, Washington DC",Washington DC,20011,216,0.0000000000,0.0000000000,0,0
+Highlands Cafe & Grill,American,4.4,Very Good,39,$,75,4,Petworth,"Petworth, Washington DC",Washington DC,20011,216,38.9473850000,-77.0328750000,0,0
+Cafe Bonaparte,French,4.2,Very Good,140,$,150,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9095120000,-77.0646440000,0,0
+Commissary,"American, Breakfast",3.9,Good,145,$,75,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9098370000,-77.0330960000,0,0
+Corner Bakery Cafe,"Cafe, Bakery, Sandwich",3.9,Good,78,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20045,216,38.8963910000,-77.0317670000,0,0
+Cafe Mozart,"Desserts, German",3.9,Good,91,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9003370000,-77.0308300000,0,0
+Cafe Berlin,"European, German",3.8,Good,61,$,60,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.8999750000,-77.0157970000,0,0
+Mitsitam Native Foods Cafe,"Cafe, American",3.7,Good,106,$,30,3,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20560,216,38.8876000000,-77.0175000000,0,0
+West Wing Cafe,"Cafe, Sandwich",3.7,Good,32,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8940740000,-77.0105920000,0,0
+Ebenezers Coffeehouse,Coffee and Tea,3.7,Good,35,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.8971630000,-77.0033110000,0,0
+Le Bon Cafe,Cafe,3.6,Good,31,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8873290000,-77.0033230000,0,0
+Keren Coffee Shop,"Coffee and Tea, Ethiopian",3.6,Good,11,$,25,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9167890000,-77.0413410000,0,0
+Krispy Kreme Doughnuts,"Coffee and Tea, Donuts, Bagels",3.6,Good,30,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9081890000,-77.0429480000,0,0
+Soho Tea & Coffee,Cafe,3.5,Good,28,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20037,216,38.9094630000,-77.0478750000,0,0
+Terasol,"French, Cafe",3.4,Average,11,$,75,4,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20008,216,38.9548080000,-77.0698710000,0,0
+Capitol Grounds Coffee,"Coffee and Tea, Sandwich",3.4,Average,4,$,25,2,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9012370000,-77.0468320000,0,0
+First Cup Cafe,"Cafe, Sandwich",3.3,Average,17,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9055530000,-77.0241680000,0,0
+Bourbon Coffee,Coffee and Tea,3.3,Average,9,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20037,216,38.9038930000,-77.0469110000,0,0
+Au Bon Pain,"Coffee and Tea, Sandwich",3.3,Average,7,$,25,2,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20006,216,38.9006330000,-77.0451320000,0,0
+Compass Coffee,Coffee and Tea,3.1,Average,12,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9106080000,-77.0215720000,0,0
+Au Bon Pain,"Coffee and Tea, Sandwich",3.1,Average,12,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9038730000,-77.0328520000,0,0
+Au Bon Pain,"Coffee and Tea, Sandwich",3.1,Average,8,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9055630000,-77.0418760000,0,0
+Windows Cafe & Market,"American, Sandwich, Coffee and Tea",3.1,Average,2,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9158720000,-77.0124310000,0,0
+"Dolcezza Gelato & Coffee, City Center",Cafe,2.9,Average,5,$,20,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9004710000,-77.0256410000,0,0
+Cafe 59,"American, Asian",2.9,Average,3,$,35,3,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8847730000,-77.0153750000,0,0
+Open City at the National Cathedral,"American, Coffee and Tea, Cafe",2.8,Average,4,$,25,2,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20016,216,38.9306490000,-77.0727598000,0,0
+Kings Cafe,Cafe,2.8,Average,1,$,0,1,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20020,216,38.8653240000,-76.9893990000,0,0
+Au Bon Pain,"Coffee and Tea, Sandwich",2.7,Average,2,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.8984410000,-77.0297750000,0,0
+Cafe Manna,Cafe,2.7,Average,4,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9055650000,-77.0436080000,0,0
+Cafe X Press,Cafe,2.7,Average,4,$,0,1,NoMa,"NoMa, Washington DC",Washington DC,20002,216,38.9094630000,-77.0066940000,0,0
+Cascade Cafe,Cafe,2.4,Poor,7,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20565,216,38.8920695000,-77.0199116000,0,0
+Avenue Cafe & Lounge,"American, Breakfast",2.2,Poor,9,$,75,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9079620000,-77.0348390000,0,0
+A Baked Joint,Cafe,0,Not rated,1,$,30,3,Mount Vernon Triangle,"Mount Vernon Triangle, Washington DC",Washington DC,20001,216,38.9023030000,-77.0171790000,0,0
+Peet's,Cafe,0,Not rated,3,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9040782000,-77.0379947000,0,0
+Anthem - Marriott Marquis,"American, Cafe",0,Not rated,3,$,60,4,"Marriott Marquis, Downtown","Marriott Marquis, Downtown, Washington DC",Washington DC,20001,216,38.9033970000,-77.0243840000,0,0
+Philz Coffee,"Cafe, American",0,Not rated,1,$,0,1,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,,216,38.9235235530,-77.0436780993,0,0
+Greenberry's Coffee Co.,"Breakfast, Coffee and Tea, Cafe",0,Not rated,1,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8828089000,-76.9795569000,0,0
+Terrace Café,Cafe,0,Not rated,0,$,40,3,Downtown,"Downtown, Washington DC",Washington DC,20565,216,38.8920780000,-77.0199140000,0,0
+Sandella's Flatbread Cafe,"Cafe, Healthy Food",0,Not rated,0,$,15,1,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,0.0000000000,0.0000000000,0,0
+Constitution Cafe,Cafe,0,Not rated,0,$,25,2,NoMa,"NoMa, Washington DC",Washington DC,20002,216,38.9067894000,-77.0046156000,0,0
+Subway,"Fast Food, Healthy Food, Cafe",0,Not rated,1,$,25,2,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.9010480000,-77.0175760000,0,0
+Odyssey Cruises,"American, International, Bar Food, Cafe",0,Not rated,0,$,275,4,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8748383000,-77.0210291000,0,0
+Skyline Cafe II,Cafe,0,Not rated,2,$,0,1,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20006,216,38.8990130000,-77.0404380000,0,0
+Greenberry's Coffee Co.,"Coffee and Tea, Cafe",0,Not rated,0,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,4.1438894000,-118.7503756000,0,0
+Gold Coast Cafe,Cafe,0,Not rated,0,$,0,1,Petworth,"Petworth, Washington DC",Washington DC,20011,216,0.0000000000,0.0000000000,0,0
+Lia Café Brazil,"Coffee and Tea, Sandwich",0,Not rated,0,$,30,3,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9288770000,-77.0371630000,0,0
+Filter Coffeehouse & Espresso Bar,Cafe,0,Not rated,1,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9010352000,-77.0441507000,0,0
+Starbucks,"American, Coffee and Tea, Tea, Cafe",0,Not rated,0,$,25,2,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.9036564000,-77.0229468000,0,0
+Little Far East II,"American, Asian, Chinese, Middle Eastern, Cafe",0,Not rated,0,$,10,1,Damascus,"Damascus, Damascus",Damascus,20872,216,39.2851539000,-77.2095444000,0,0
+Baked & Wired,Coffee and Tea,4.7,Excellent,320,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9039620000,-77.0603620000,0,0
+Paul Bakery,"Desserts, French",4.0,Very Good,83,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8944891000,-77.0235596000,0,0
+Corner Bakery Cafe,"Cafe, Bakery, Sandwich",3.9,Good,78,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20045,216,38.8963910000,-77.0317670000,0,0
+Patisserie Poupon,"Coffee and Tea, French",3.9,Good,31,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9118260000,-77.0654510000,0,0
+Sticky Fingers Sweets & Eats,Vegetarian,3.8,Good,96,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9304130000,-77.0318900000,0,0
+The Cheesecake Factory,"American, Desserts",3.8,Good,92,$,35,3,Friendship Heights,"Friendship Heights, Washington DC",Washington DC,20015,216,38.9598010000,-77.0850340000,0,0
+Larry's Ice Cream & Cupcakes,"Desserts, Ice Cream",3.8,Good,62,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9115940000,-77.0442930000,0,0
+Firehook Bakery & Coffee House,"Bakery, Coffee and Tea",3.8,Good,59,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9112370000,-77.0446770000,0,0
+Le Pain Quotidien,French,3.8,Good,54,$,75,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9053850000,-77.0575420000,0,0
+Red Velvet Cupcakery,Desserts,3.7,Good,134,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8962190000,-77.0218060000,0,0
+Bread & Chocolate,"American, Coffee and Tea",3.7,Good,54,$,25,2,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9054370000,-77.0502830000,0,0
+Bagels Etc,Sandwich,3.7,Good,27,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20037,216,38.9095170000,-77.0470900000,0,0
+Astro Doughnuts & Fried Chicken,"Bagels, Donuts, Burger",3.6,Good,53,$,12,1,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8983117000,-77.0303566000,0,0
+Cafe du Parc,"French, Desserts",3.6,Good,65,$,80,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8962810000,-77.0320020000,0,0
+Breadline,"Bakery, Sandwich",3.6,Good,78,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.8992720000,-77.0403190000,0,0
+The Sweet Lobby,Desserts,3.6,Good,40,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8835790000,-76.9948660000,0,0
+Naan and Beyond,"Indian, Sandwich",3.6,Good,43,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9036630000,-77.0393510000,0,0
+Flip It Bakery & Deli,Sandwich,3.6,Good,11,$,25,2,Petworth,"Petworth, Washington DC",Washington DC,20011,216,38.9454390000,-77.0265810000,0,0
+Something Sweet,"Coffee and Tea, Desserts",3.6,Good,11,$,25,2,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20016,216,38.9333070000,-77.0726760000,0,0
+Sprinkles Cupcakes,Desserts,3.5,Good,61,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9053440000,-77.0595120000,0,0
+Le Pain Quotidien,"European, French",3.5,Good,51,$,150,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8850804000,-76.9965618000,0,0
+G Street Food,"Breakfast, International",3.5,Good,24,$,25,2,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20006,216,38.8981250000,-77.0397260000,0,0
+Firehook Bakery & Coffee House,Coffee and Tea,3.5,Good,21,$,25,2,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9347060000,-77.0576390000,0,0
+Jessie Taylor Seafood,"American, Seafood",3.5,Good,16,$,75,4,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8809490000,-77.0262340000,0,0
+Frosting A Cupcakery,,3.5,Good,15,$,25,2,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20815,216,38.9616770000,-77.0846400000,0,0
+Azi's Cafe,"American, Coffee and Tea",3.5,Good,12,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9080860000,-77.0241750000,0,0
+Watergate Pastry,,3.5,Good,4,$,0,1,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.8991070000,-77.0542350000,0,0
+Sip of Seattle,"Coffee and Tea, Beverages",3.5,Good,5,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.8981630000,-77.0273260000,0,0
+Chez Hareg Gourmet Bakery,"Desserts, Vegetarian",3.5,Good,7,$,25,2,Brookland,"Brookland, Washington DC",Washington DC,20002,216,38.9204460000,-77.0006940000,0,0
+Starbucks,"Coffee and Tea, Tea",3.5,Good,5,$,25,2,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9484510000,-77.0797850000,0,0
+Firehook Bakery & Coffee House,"Bakery, Coffee and Tea",3.4,Average,18,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8873560000,-77.0033310000,0,0
+Panera Bread,Sandwich,3.4,Average,15,$,25,2,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20815,216,38.9620070000,-77.0877910000,0,0
+Flip It Bakery,"Breakfast, Sandwich",3.4,Average,10,$,25,2,Brookland,"Brookland, Washington DC",Washington DC,20018,216,38.9263390000,-76.9826240000,0,0
+Corner Bakery Cafe,Sandwich,3.3,Average,25,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8983100000,-77.0112370000,0,0
+Paul Maison de Qualite,French,3.3,Average,17,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9048280000,-77.0629990000,0,0
+Bread & Chocolate,"American, Coffee and Tea",3.3,Average,21,$,25,2,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20015,216,38.9641590000,-77.0753020000,0,0
+Le Pain Quotidien,Belgian,3.3,Average,15,$,75,4,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9450940000,-77.0963100000,0,0
+Uprising Muffin Company,Coffee and Tea,3.3,Average,9,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9145055000,-77.0219060000,0,0
+Corner Bakery Cafe,Sandwich,3.3,Average,14,$,25,2,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8993803000,-77.0197263000,0,0
+Super Taco & Bakery,Mexican,3.3,Average,12,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20009,216,38.9237440000,-77.0408100000,0,0
+The Pretzel Bakery,Bakery,3.3,Average,9,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8844391000,-76.9836531000,0,0
+Crown Bakery,,3.3,Average,5,$,25,2,Petworth,"Petworth, Washington DC",Washington DC,20011,216,38.9544700000,-77.0275940000,0,0
+Food Court in Union Station,"Diner, Fast Food",3.2,Average,18,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.8969680000,-77.0071270000,0,0
+Szechuan House Bakery,"Chinese, Tea",3.2,Average,14,$,25,2,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8993300000,-77.0200750000,0,0
+Bread Furst,"Breakfast, Sandwich",3.2,Average,13,$,25,2,Van Ness - UDC,"Van Ness - UDC, Washington DC",Washington DC,20008,216,38.9474560000,-77.0659430000,0,0
+Panera Bread,Sandwich,3.2,Average,5,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9084547000,-77.0432458000,0,0
+Bakehouse,"Coffee and Tea, Bakery",3.2,Average,8,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9158440000,-77.0325359000,0,0
+Le Caprice DC,"Coffee and Tea, Desserts",3.2,Average,7,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9323996000,-77.0327560000,0,0
+Panera Bread,Sandwich,3.2,Average,6,$,25,2,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9481120000,-77.0795850000,0,0
+Firehook Bakery & Coffee House,"Breakfast, Coffee and Tea",3.2,Average,6,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9015380000,-77.0395750000,0,0
+Firehook Bakery & Coffee House,"Breakfast, Coffee and Tea",3.2,Average,5,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8951983000,-77.0162177000,0,0
+Kogibow Bakery,"Asian, Beverages",3.2,Average,2,$,10,1,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9231410000,-77.0428820000,0,0
+Cakelove,Bakery,3.1,Average,45,$,75,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9168630000,-77.0347750000,0,0
+District Doughnut,,3.1,Average,5,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8796250000,-76.9953070000,0,0
+Cakeroom Bakery,"Coffee and Tea, Desserts",3.1,Average,6,$,25,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9172643000,-77.0418649000,0,0
+Port City Java,"Coffee and Tea, Beverages",3.1,Average,21,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8874110000,-76.9960800000,0,0
+Corner Bakery Cafe,Sandwich,3.1,Average,13,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9027580000,-77.0333500000,0,0
+Corner Bakery Cafe,Sandwich,3.1,Average,11,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9004782000,-77.0419211000,0,0
+Corner Bakery Cafe,Sandwich,3.1,Average,10,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9035990000,-77.0429830000,0,0
+Slate Wine Bar & Bistro,Vegetarian,3.1,Average,9,$,150,4,Glover Park,"Glover Park, Washington DC",Washington DC,20007,216,38.9212878000,-77.0723094000,0,0
+Blue Duck Tavern,"Desserts, Bar Food",4.2,Very Good,283,$,150,4,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9054570000,-77.0512230000,0,0
+The Arsenal,,3.4,Average,21,$,150,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8749039000,-76.9999573000,0,0
+Capital City Brewing Company,,3.3,Average,21,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9007692000,-77.0276461000,0,0
+Burger Tap & Shake,"Burger, Beverages",4.1,Very Good,116,$,25,2,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9018283000,-77.0492159000,0,0
+Shake Shack,"Burger, Desserts, Ice Cream, Frozen Yogurt",4.0,Very Good,177,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9063520000,-77.0417740000,0,0
+Merzi,Indian,3.9,Good,88,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8950690000,-77.0217280000,0,0
+Booeymonger,"Sandwich, Breakfast",3.8,Good,58,$,25,2,Friendship Heights,"Friendship Heights, Washington DC",Washington DC,20015,216,38.9583390000,-77.0846560000,0,0
+Sette Osteria,"Italian, Pizza",3.7,Good,87,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9121230000,-77.0451980000,0,0
+Booeymonger,Sandwich,3.7,Good,53,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9061370000,-77.0654460000,0,0
+Tony's Breakfast,"American, Breakfast",3.5,Good,15,$,40,3,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.8999320000,-76.9857220000,0,0
+Momofuku CCDC,American,3.4,Average,22,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.9007162223,-77.0268230978,0,0
+Bolt Burgers,"American, Burger",3.1,Average,13,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.9034410000,-77.0266910000,0,0
+Domino's,"Fast Food, Pizza",3.1,Average,8,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9036630000,-77.0297770000,0,0
+Popeyes Louisiana Kitchen,Fast Food,3.1,Average,3,$,25,2,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9451950000,-77.0779320000,0,0
+Sol Mexican Grill,Mexican,2.9,Average,3,$,25,2,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.8999690000,-76.9886350000,0,0
+Cava Grill,"Fast Food, Greek, Vegetarian",2.8,Average,4,$,75,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.9000792000,-77.0223318000,0,0
+The Little Beet,"Healthy Food, Vegetarian",0,Not rated,1,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9061964526,-77.0418796781,0,0
+Lezo's Taqueria,Mexican,0,Not rated,1,$,15,1,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9315694000,-77.0382973000,0,0
+Toli Moli ,"Desserts, Asian",0,Not rated,0,$,20,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.9085191000,-76.9972555000,0,0
+Pie Five Pizza Co.,Pizza,0,Not rated,0,$,25,2,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20022,216,38.9187037000,-76.9611991000,0,0
+Peking Express,Chinese,0,Not rated,0,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,22304,216,0.0000000000,0.0000000000,0,0
+Pizza Day,Pizza,0,Not rated,0,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20020,216,38.8731250000,-76.9719810000,0,0
+Potbelly Sandwich Shop,"Desserts, Sandwich",0,Not rated,0,$,25,2,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8839130000,-77.0237890000,0,0
+Rasika,"Indian, Vegetarian",4.4,Very Good,411,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8948760000,-77.0206140000,0,0
+Maté,"Latin American, Spanish, Sushi",3.7,Good,52,$,75,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9027370000,-77.0612880000,0,0
+Smith Commons,"American, Breakfast",3.5,Good,47,$,65,4,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9001070000,-76.9886980000,0,0
+Nellie's Sports Bar,"American, Bar Food",3.5,Good,44,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9168630000,-77.0240770000,0,0
+Chi-Cha Lounge,"Latin American, Spanish, Tapas",3.5,Good,41,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9168630000,-77.0370750000,0,0
+Capitol Lounge,"Burger, Pizza, Bar Food",3.4,Average,44,$,45,3,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8872980000,-77.0032170000,0,0
+Bossa Bistro,"Brazilian, Latin American",3.3,Average,10,$,70,4,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9218960000,-77.0422220000,0,0
+Circle Bistro,American,3.3,Average,13,$,150,4,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9030930000,-77.0497500000,0,0
+Gazuza,Sushi,3.2,Average,26,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9115850000,-77.0442450000,0,0
+Ozio Restaurant & Lounge,"American, European, Bar Food",3.2,Average,18,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9058370000,-77.0420660000,0,0
+Chevy Chase Lounge,Bar Food,3.1,Average,3,$,65,4,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20015,216,38.9633200000,-77.0748120000,0,0
+Civil Cigar Lounge,Bar Food,2.7,Average,4,$,0,1,Friendship Heights,"Friendship Heights, Washington DC",Washington DC,20015,216,38.9603989806,-77.0848576772,0,0
+Safari DC,"African, American, International",0,Not rated,2,$,25,2,Petworth,"Petworth, Washington DC",Washington DC,20011,216,38.9432170000,-77.0261809000,0,0
+Nomad,Drinks Only,0,Not rated,1,$,0,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.9004180000,-76.9900200000,0,0
+The Speak,Beverages,0,Not rated,1,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20005,216,0.0000000000,0.0000000000,0,0
+Living Room,Bar Food,0,Not rated,1,$,60,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9030820000,-77.0337640000,0,0
+Top of the Gate,"American, Pub Food",0,Not rated,1,$,40,3,Downtown,"Downtown, Washington DC",Washington DC,20037,216,38.8994010000,-77.0561340000,0,0
+Empress Lounge,"American, Tea",0,Not rated,2,$,75,4,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8835190000,-77.0304850000,0,0
+The Fairfax Grille and Lounge,American,0,Not rated,0,$,100,4,Downtown,"Downtown, Washington DC",Washington DC,20008,216,0.0000000000,0.0000000000,0,0
+Cities Restaurant & Lounge,Tapas,0,Not rated,0,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20006,216,0.0000000000,0.0000000000,0,0
+Luna Grill & Diner,"American, Breakfast, Diner",3.8,Good,94,$,45,3,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9074870000,-77.0418340000,0,0
+Buck's Fishing & Camping,"American, European, Steak",3.4,Average,48,$,150,4,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20008,216,38.9546120000,-77.0693400000,0,0
+Satellite Room,"American, Burger, Diner",3.2,Average,22,$,0,1,Petworth,"Petworth, Washington DC",Washington DC,20001,216,38.9181370000,-77.0236710000,0,0
+Bob & Edith's Diner,American,0,Not rated,2,$,20,2,Downtown,"Downtown, Washington DC",Washington DC,22150,216,0.0000000000,0.0000000000,0,0
+The Riggsby,"American, Diner",0,Not rated,1,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,,216,0.0000000000,-77.0394390000,0,0
+Capitol City Brewing Company,"American, Burger, Bar Food",3.9,Good,285,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9007692000,-77.0276461000,0,0
+Gordon Biersch Brewery Restaurant,"American, Bar Food",3.7,Good,138,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8972657000,-77.0245470000,0,0
+Right Proper Brewing Company,"Bar Food, American",3.5,Good,21,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9154370000,-77.0213678000,0,0
+District Distilling Company,American,0,Not rated,2,$,25,2,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9168910000,-77.0325440000,0,0
+Bluejacket,American,0,Not rated,1,$,30,3,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20003,216,38.8750050000,-77.0007390000,0,0
+Mad Fox Taproom,"American, Bar Food",0,Not rated,1,$,35,3,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9196050000,-77.0712560000,0,0
+Marcel's,"European, French, Belgian",4.0,Very Good,63,$,200,4,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9031850000,-77.0515110000,0,0
+Charlie Palmer Steak,American,3.7,Good,119,$,120,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8928000000,-77.0130700000,0,0
+Ristorante La Perla of Washington DC,"Seafood, Italian, Desserts",3.7,Good,31,$,275,4,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9040400000,-77.0549330000,0,0
+Art and Soul At Joie De Vivre,"American, Southern",3.6,Good,134,$,70,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8951240000,-77.0109180000,0,0
+Front Page,American,3.6,Good,82,$,75,4,Dupont Circle,"Dupont Circle, Washington DC",Washington DC,20036,216,38.9083232000,-77.0437049000,0,0
+The Palm Washington DC,"American, Seafood, Steak, Italian",3.6,Good,79,$,275,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9066640000,-77.0432230000,0,0
+Oval Room,American,3.6,Good,54,$,100,4,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9002610000,-77.0382360000,0,0
+Cafe Dupont,French,3.6,Good,47,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9103910000,-77.0430420000,0,0
+Casa Luca,Italian,3.5,Good,33,$,65,4,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.9014595000,-77.0266494000,0,0
+Fiola Mare,"Italian, Seafood",3.5,Good,25,$,100,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9022190000,-77.0605620000,0,0
+Morton's The Steakhouse,"American, Steak, Seafood",3.5,Good,33,$,275,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9031350000,-77.0398540000,0,0
+I Ricchi,"American, European, Italian",3.3,Average,62,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9066370000,-77.0435750000,0,0
+SAX Restaurant & Lounge,"American, French",3.4,Average,27,$,100,4,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.8993088000,-77.0270253000,0,0
+The Capital Grille,"American, Seafood, Steak",3.4,Average,26,$,275,4,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20815,216,38.9612750000,-77.0851700000,0,0
+Morton's The Steakhouse,"American, Steak",3.4,Average,32,$,275,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9061172000,-77.0643126000,0,0
+The Lafayette,"American, European",3.4,Average,23,$,275,4,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9003390000,-77.0366750000,0,0
+Decarlo's,Italian,3.4,Average,13,$,75,4,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9461630000,-77.0949540000,0,0
+Occidental Grill & Seafood,"American, Seafood",3.3,Average,77,$,65,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8965370000,-77.0331510000,0,0
+Osteria Morini,Italian,3.3,Average,27,$,70,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8737550000,-77.0016610000,0,0
+Historic Georgetown Club,American,3.2,Average,3,$,0,1,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9096000000,-77.0646880000,0,0
+Morrison-Clark Inn,"American, Seafood",3.1,Average,12,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.9043430000,-77.0261960000,0,0
+Garrison,American,2.9,Average,6,$,0,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8818417000,-76.9946965000,0,0
+Fig & Olive,Mediterranean,2.8,Average,7,$,70,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8999480000,-77.0244762000,0,0
+Kingbird,"French, American",0,Not rated,0,$,95,4,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.8993830000,-77.0557880000,0,0
+Cork Wine Bar,Tapas,4.2,Very Good,143,$,75,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20009,216,38.9132900000,-77.0319750000,0,0
+Vinoteca,International,4.0,Very Good,86,$,150,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9161940000,-77.0271750000,0,0
+La Chaumiere,"European, French",4.0,Very Good,54,$,60,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9054370000,-77.0572240000,0,0
+Floriana,"American, Italian",3.9,Good,88,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9113309000,-77.0387790000,0,0
+Lillies Restaurant and Bar,"Italian, Mediterranean",3.8,Good,49,$,65,4,Woodley Park,"Woodley Park, Washington DC",Washington DC,20008,216,38.9286460000,-77.0543070000,0,0
+Le Chat Noir,French,3.8,Good,46,$,150,4,Tenleytown,"Tenleytown, Washington DC",Washington DC,20016,216,38.9535500000,-77.0819400000,0,0
+Sonoma,American,3.7,Good,114,$,150,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8873230000,-77.0032660000,0,0
+Acacia Bistro & Wine Bar,Mediterranean,3.7,Good,32,$,150,4,Van Ness - UDC,"Van Ness - UDC, Washington DC",Washington DC,20008,216,38.9462140000,-77.0652220000,0,0
+Room 11,"Desserts, Tapas",3.7,Good,32,$,25,2,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9300412000,-77.0278517000,0,0
+L'Enfant Cafe-Bar,"Coffee and Tea, French",3.6,Good,66,$,75,4,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9171410000,-77.0418750000,0,0
+Dickson Wine Bar,American,3.6,Good,31,$,75,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9171130000,-77.0241040000,0,0
+Cedar Crossing Tavern & Wine Bar,Tapas,3.6,Good,16,$,25,2,Takoma,"Takoma, Washington DC",Washington DC,20012,216,38.9750920000,-77.0171570000,0,0
+Barcelona Wine Bar 14th Street,"Spanish, Tapas",3.5,Good,34,$,150,4,Logan Circle,"Logan Circle, Washington DC",Washington DC,20005,216,38.9121004000,-77.0321564000,0,0
+Pi Pizzeria and Wine Bar,Pizza,3.5,Good,20,$,25,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9198630000,-77.0416250000,0,0
+Bibiana Osteria-Enoteca,Italian,3.4,Average,66,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9008010000,-77.0277050000,0,0
+The Partisan,American,3.5,Good,25,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8950260000,-77.0225160000,0,0
+Social Reform Kitchen & Bar,American,3.3,Average,43,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8954588000,-77.0238031000,0,0
+Cure Bar and Bistro,"American, Desserts",3.3,Average,37,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.8997410000,-77.0260820000,0,0
+Science Club,"Mediterranean, Vegetarian",3.2,Average,26,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9052370000,-77.0436750000,0,0
+1331 Bar & Lounge,Tapas,3.2,Average,16,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8962520000,-77.0304260000,0,0
+Quill,"American, Bar Food",3.2,Average,14,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9057850000,-77.0367100000,0,0
+Salt & Pepper,"American, Breakfast",3.2,Average,14,$,150,4,Palisades,"Palisades, Washington DC",Washington DC,20016,216,38.9254790000,-77.1016260000,0,0
+Pizza No. 17,Pizza,3.2,Average,8,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9105550000,-77.0383750000,0,0
+Bardeo,,3.2,Average,5,$,75,4,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9338590000,-77.0571540000,0,0
+Capitol Bistro,American,3.1,Average,12,$,150,4,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8859110000,-77.0192060000,0,0
+Southern Hospitality,Southern,3.1,Average,15,$,150,4,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9228444000,-77.0427067000,0,0
+Flight,American,3.1,Average,9,$,0,1,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8993720000,-77.0195890000,0,0
+Chevy Chase Lounge,Bar Food,3.1,Average,3,$,65,4,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20015,216,38.9633200000,-77.0748120000,0,0
+Chez Billy Sud,French,3.0,Average,7,$,275,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9036486000,-77.0608099000,0,0
+STK,"American, Steak",3.0,Average,16,$,275,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9068670000,-77.0423220000,0,0
+Sona Creamery & Wine Bar,"American, Burger",3.0,Average,8,$,75,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8851290000,-76.9963340000,0,0
+All-Purpose,"Pizza, Italian",2.9,Average,4,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.9069840000,-77.0243080000,0,0
+Friendship Gourmet Market,"Breakfast, Sandwich",2.9,Average,2,$,25,2,Chevy Chase,"Chevy Chase, Washington DC",Washington DC,20815,216,38.9639470000,-77.0898410000,0,0
+Eno Wine Bar,,2.8,Average,4,$,0,1,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9048480000,-77.0574980000,0,0
+Harry's Reserve,,2.8,Average,2,$,0,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8790930000,-77.0052610000,0,0
+A Bar + Kitchen,"American, Breakfast",2.7,Average,5,$,75,4,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20037,216,38.9034767000,-77.0537062000,0,0
+Mixx,Tapas,2.6,Average,1,$,75,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.9020720000,-77.0239360000,0,0
+Ruta del Vino,Latin American,0,Not rated,1,$,0,1,Petworth,"Petworth, Washington DC",Washington DC,20011,216,38.9416840310,-77.0236259047,0,0
+Pursuit Wine Bar,,0,Not rated,3,$,0,1,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.8999570000,-76.9847330000,0,0
+Philos,Mediterranean,0,Not rated,0,$,75,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.9006511000,-77.0165868000,0,0
+District Line Restaurant + Bar,Breakfast,0,Not rated,3,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9165980000,-77.0456810000,0,0
+Nooshi,"Asian, Sushi",4.0,Very Good,108,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9046590000,-77.0436750000,0,0
+Nam-Viet,Vietnamese,4.0,Very Good,57,$,75,4,Cleveland Park,"Cleveland Park, Washington DC",Washington DC,20008,216,38.9347800000,-77.0576780000,0,0
+DC Noodles,Chinese,3.9,Good,58,$,75,4,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9168720000,-77.0325330000,0,0
+Chinatown Express,"Asian, Chinese",3.6,Good,137,$,30,3,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8993170000,-77.0200750000,0,0
+Sakuramen,Asian,3.6,Good,37,$,75,4,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,20009,216,38.9215700000,-77.0419860000,0,0
+Hunan Dynasty,"Chinese, Thai",3.6,Good,26,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8870440000,-77.0029020000,0,0
+Rice Bar,"Asian, Korean",3.4,Average,12,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9031470000,-77.0438250000,0,0
+Nooshi,"Asian, Sushi",3.4,Average,8,$,75,4,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8818439000,-76.9947955000,0,0
+Panda Gourmet,"Asian, Chinese",3.3,Average,9,$,75,4,Brookland,"Brookland, Washington DC",Washington DC,20002,216,38.9178170000,-76.9701259000,0,0
+ShopHouse Southeast Asian Kitchen,Asian,3.1,Average,10,$,75,4,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9054880000,-77.0572900000,0,0
+Absolute Noodle,Asian,3.1,Average,7,$,25,2,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8995606000,-77.0189393000,0,0
+ShopHouse Southeast Asian Kitchen,Asian,2.8,Average,6,$,75,4,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8988990000,-77.0222230000,0,0
+Bantam King,"Japanese, Ramen",0,Not rated,2,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20003,216,38.8985210000,-77.0190880000,0,0
+Noodles & Company,Chinese,0,Not rated,2,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9030200000,-77.0381500000,0,0
+Far East Noodle Company,,0,Not rated,1,$,0,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.9089690000,-76.9976250000,0,0
+Noodles & Company,Sandwich,0,Not rated,1,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9049600000,-77.0438930000,0,0
+Jetties,"American, Desserts, Sandwich",3.9,Good,37,$,25,2,Palisades,"Palisades, Washington DC",Washington DC,20007,216,38.9109970000,-77.0839350000,0,0
+Mangialardo & Sons,Sandwich,3.9,Good,36,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8810630000,-76.9879490000,0,0
+Loeb's,Sandwich,3.3,Average,18,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9011801000,-77.0402446000,0,0
+Dannys Sub Shop & Chinese Food,Sandwich,2.9,Average,1,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20020,216,38.8657750000,-76.9520480000,0,0
+Smoked & Stacked,"American, Sandwich",0,Not rated,1,$,20,2,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.9067260000,-77.0236900000,0,0
+Jimmy John's,Sandwich,0,Not rated,0,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9168620000,-77.0323100000,0,0
+Beef n' Bread,Sandwich,0,Not rated,1,$,0,1,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.9000000000,-77.0200000000,0,0
+Jimmy John's,Sandwich,0,Not rated,0,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,,216,0.0000000000,0.0000000000,0,0
+Jimmy John's,Sandwich,0,Not rated,0,$,10,1,Downtown,"Downtown, Washington DC",Washington DC,20653,216,38.2858210000,-76.4786230000,0,0
+Subway,Sandwich,0,Not rated,0,$,15,1,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,0.0000000000,0.0000000000,0,0
+Jimmy John's,Sandwich,0,Not rated,0,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.8981528000,-77.0285410000,0,0
+Melt Shop,"American, Sandwich",0,Not rated,0,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9040400000,-77.0439180000,0,0
+Georgetown Cupcake,Desserts,4.1,Very Good,434,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9051970000,-77.0661900000,0,0
+Dolcezza Artisanal Gelato,"Coffee and Tea, Ice Cream",4.1,Very Good,70,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9103520000,-77.0650750000,0,0
+Dangerously Delicious Pies,Desserts,3.7,Good,91,$,25,2,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9000070000,-76.9869830000,0,0
+Pitango Gelato,"Desserts, Ice Cream, Coffee and Tea",3.6,Good,63,$,15,1,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8950480000,-77.0217280000,0,0
+Pitango Gelato,"Desserts, Ice Cream, Coffee and Tea",3.3,Average,23,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8852170000,-76.9968520000,0,0
+"Dolcezza Gelato & Coffee, City Center",Cafe,2.9,Average,5,$,20,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9004710000,-77.0256410000,0,0
+Captain Cookie and the Milkman,American,0,Not rated,2,$,0,1,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,,216,38.9003989384,-77.0446758810,0,0
+The Protein Bar,"Beverages, Vegetarian",0,Not rated,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9021208000,-77.0383259000,0,0
+IcyCode Ice Cream Rolls,"Desserts, Ice Cream",0,Not rated,2,$,20,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9098770000,-77.0462280000,0,0
+Crepe-N-Cream,"Desserts, Ice Cream",0,Not rated,0,$,0,1,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,0.0000000000,0.0000000000,0,0
+Toli Moli ,"Desserts, Asian",0,Not rated,0,$,20,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.9085191000,-76.9972555000,0,0
+Dolci Gelati Cafe,"Desserts, Ice Cream, Frozen Yogurt",0,Not rated,0,$,15,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.9090940000,-77.0234780000,0,0
+Kron Chocolatier,"Desserts, Ice Cream",0,Not rated,0,$,0,1,Friendship Heights,"Friendship Heights, Washington DC",Washington DC,20015,216,38.9597440000,-77.0858060000,0,0
+Super Polish Ice,"Desserts, Ice Cream, Frozen Yogurt",0,Not rated,0,$,20,2,Downtown,"Downtown, Washington DC",Washington DC,21012,216,39.0344580000,-76.4774440000,0,0
+Ted's Bulletin,"American, Diner",4.4,Very Good,312,$,35,3,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8824550000,-76.9953419000,0,0
+Dolcezza Artisanal Gelato,"Coffee and Tea, Ice Cream",4.1,Very Good,70,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9103520000,-77.0650750000,0,0
+Java House,Coffee and Tea,3.4,Average,24,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20009,216,38.9112370000,-77.0369940000,0,0
+Compass Coffee,Coffee and Tea,0,Not rated,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8971550000,-77.0210740000,0,0
+Peet's Coffee and Tea,"Coffee and Tea, Sandwich",0,Not rated,2,$,20,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8959940000,-77.0267340000,0,0
+Mia's Coffeehouse,Coffee and Tea,0,Not rated,0,$,0,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,,216,38.8910680000,-76.9833620000,0,0
+Espresso Bar,Coffee and Tea,0,Not rated,1,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20565,216,38.8920695000,-77.0199116000,0,0
+Il Canale,"Italian, Pizza",4.2,Very Good,115,$,40,3,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9043836000,-77.0610597000,0,0
+RedRocks Firebrick Pizzeria,"Pizza, Sandwich, Healthy Food",4.2,Very Good,126,$,75,4,Mt. Pleasant/Columbia Heights,"Mt. Pleasant/Columbia Heights, Washington DC",Washington DC,20010,216,38.9318520000,-77.0277110000,0,0
+"We, the Pizza","Desserts, Pizza",4.1,Very Good,197,$,40,3,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8867380000,-77.0018820000,0,0
+&pizza,"Italian, Pizza, Vegetarian",3.8,Good,43,$,10,1,Atlas District,"Atlas District, Washington DC",Washington DC,20002,216,38.9004540000,-76.9907810000,0,0
+Menomalé,"Italian, Pizza",3.7,Good,28,$,75,4,Brookland,"Brookland, Washington DC",Washington DC,20018,216,38.9248513000,-76.9902378000,0,0
+Wiseguy NY Pizza,Pizza,3.5,Good,39,$,0,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8997717000,-77.0152305000,0,0
+&pizza,"Italian, Pizza, Vegetarian",3.3,Average,14,$,0,1,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20001,216,38.9168127000,-77.0287941000,0,0
+&pizza,"Italian, Pizza, Vegetarian",3.1,Average,8,$,10,1,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9023488000,-77.0326246000,0,0
+&pizza,"Italian, Pizza, Vegetarian",3.1,Average,8,$,10,1,Downtown,"Downtown, Washington DC",Washington DC,20037,216,38.8962554000,-77.0263564000,0,0
+&pizza,"Italian, Pizza, Vegetarian",3.1,Average,9,$,10,1,Brookland,"Brookland, Washington DC",Washington DC,20017,216,38.9325852000,-76.9966963000,0,0
+Black Iron Pizza,"Italian, Pizza",3.0,Average,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8964290000,-77.0285780000,0,0
+All-Purpose,"Pizza, Italian",2.9,Average,4,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.9069840000,-77.0243080000,0,0
+&pizza,"Italian, Pizza, Vegetarian",2.8,Average,4,$,10,1,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9064300000,-77.0410470000,0,0
+Sbarro,Fast Food,0,Not rated,3,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20001,216,38.8983400000,-77.0067220000,0,0
+Pizzeria Vetri,"Pizza, Italian",0,Not rated,2,$,30,3,U Street/Shaw,"U Street/Shaw, Washington DC",Washington DC,20009,216,38.9197459000,-77.0315847000,0,0
+Veloce by Pizzeria Paradiso,"Italian, Pizza",0,Not rated,1,$,10,1,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9034680000,-77.0429090000,0,0
+Sbarro,Fast Food,0,Not rated,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8940124500,-77.0304489100,0,0
+Manny & Olga's,Pizza,0,Not rated,0,$,20,2,Brookland,"Brookland, Washington DC",Washington DC,20018,216,38.9297200000,-76.9742220000,0,0
+&pizza,"Italian, Pizza, Vegetarian",0,Not rated,0,$,10,1,Chinatown,"Chinatown, Washington DC",Washington DC,20001,216,38.8999930000,-77.0222090000,0,0
+Red Hook Lobster Pound,Seafood,3.6,Good,62,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+G Street Food,"Breakfast, International",3.5,Good,24,$,25,2,Foggy Bottom/West End,"Foggy Bottom/West End, Washington DC",Washington DC,20006,216,38.8981250000,-77.0397260000,0,0
+Jessie Taylor Seafood,"American, Seafood",3.5,Good,16,$,75,4,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8809490000,-77.0262340000,0,0
+TaKorean,"Korean, Mexican",3.4,Average,28,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Curbside Cupcakes,Desserts,3.4,Average,20,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,,216,38.8903700000,-77.0319590000,0,0
+King Rib BBQ,BBQ,3.2,Average,5,$,25,2,Southwest Waterfront/Wharf,"Southwest Waterfront/Wharf, Washington DC",Washington DC,20024,216,38.8764200000,-77.0198590000,0,0
+DC Empanadas,Mexican,3.1,Average,15,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,,216,38.8903700000,-77.0319590000,0,0
+Peruvian Brothers (Food Truck),Peruvian,3.0,Average,6,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Korean BBQ Taco Box Food Truck,"Fast Food, Korean",3.0,Average,5,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Kafta Mania Food Truck,"Middle Eastern, Sandwich",3.0,Average,2,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Dolci Gelati,"Desserts, Italian",3.0,Average,0,$,25,2,Woodley Park,"Woodley Park, Washington DC",Washington DC,20008,216,38.9319273000,-77.0524404000,0,0
+Pepe Food Truck,"Sandwich, Spanish",2.9,Average,9,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,20500,216,38.8970960000,-77.0365450000,0,0
+Eat Wonky,"Desserts, Sandwich",2.9,Average,7,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,,216,38.8903700000,-77.0319590000,0,0
+CapMac,"American, Fast Food, Italian",2.9,Average,4,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Cajunators,Cajun,2.9,Average,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Tasty Kabob,Middle Eastern,2.9,Average,7,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Kimchi Taco Food Truck,,3.0,Average,6,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Crêpes Parfait,"Breakfast, Desserts, French",2.9,Average,5,$,25,2,Adams Morgan,"Adams Morgan, Washington DC",Washington DC,,216,38.9200684000,-77.0388304000,0,0
+Swizzler,"American, Fast Food",2.8,Average,4,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20002,216,38.9071923000,-77.0368707000,0,0
+Sweet Frog,Desserts,2.8,Average,4,$,25,2,Georgetown,"Georgetown, Washington DC",Washington DC,20007,216,38.9145950000,-77.0670407000,0,0
+DC Ballers,Middle Eastern,2.8,Average,6,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Beltway Latin Cuisine,"Latin American, Mexican",2.8,Average,4,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Wassub,"Korean, Sandwich",2.7,Average,5,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Sate Truck,Indonesian,2.7,Average,4,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9071923000,-77.0368707000,0,0
+Zesty Kabob,Middle Eastern,2.7,Average,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Phowheels,Vietnamese,2.7,Average,4,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Cheesequake,Sandwich,2.7,Average,4,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Punjab Curry House,"Indian, Vegetarian",2.5,Average,4,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Cirque Cuisine Mobile Food Truck,American,2.5,Average,3,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+BBQ Bus,BBQ,2.4,Poor,4,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Hula Girl,Hawaiian,0,Not rated,3,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Papa Adam,"Mediterranean, Middle Eastern",0,Not rated,2,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Arepa Zone,Venezuelan,0,Not rated,2,$,0,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20002,216,38.9085810712,-76.9973617140,0,0
+Pho Wheels,"Sandwich, Vietnamese",0,Not rated,2,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20036,216,38.9080786000,-77.0406147000,0,0
+Stix,"American, Fast Food",0,Not rated,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Borinquen Lunch Box,,0,Not rated,2,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Royal Chicken & Gyro,Greek,0,Not rated,1,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9071923000,-77.0368707000,0,0
+DC Slices,Pizza,0,Not rated,1,$,10,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,0.0000000000,0.0000000000,0,0
+Ball or Nothing,"American, Italian",0,Not rated,1,$,15,1,Downtown,"Downtown, Washington DC",Washington DC,20009,216,0.0000000000,0.0000000000,0,0
+NeatMeatDC,,0,Not rated,2,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Kabob House,Indian,0,Not rated,1,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9071923000,-77.0368707000,0,0
+Sweetbites,Desserts,0,Not rated,2,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Tapas Truck,"Fast Food, Spanish, Tapas",0,Not rated,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9071923000,-77.0368707000,0,0
+Orange Cow,Desserts,0,Not rated,1,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+DC Doner Food Truck,"Greek, Turkish",0,Not rated,1,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Reggae Vibes,Caribbean,0,Not rated,2,$,25,2,Anacostia/Southeast,"Anacostia/Southeast, Washington DC",Washington DC,20032,216,38.8446759000,-77.0161843000,0,0
+Rito Loco,Tex-Mex,0,Not rated,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Halal Gyro Plus,"Greek, Indian",0,Not rated,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Firemans Cafe,"Seafood, Southern",0,Not rated,1,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Best Mexican Burritos and Tortas,Mexican,0,Not rated,1,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9071923000,-77.0368707000,0,0
+Dirty South Deli,Sandwich,0,Not rated,2,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,20002,216,38.9041148000,-77.0029576000,0,0
+Pars Kabob,"Fast Food, International, Mediterranean",0,Not rated,0,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9071923000,-77.0368707000,0,0
+Pho Junkies,Vietnamese,0,Not rated,3,$,75,4,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Z-Burger,"Burger, Ice Cream",0,Not rated,1,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20037,216,38.9098300000,-77.0484640000,0,0
+Kushi-moto Truck,"Japanese, Tapas",0,Not rated,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+DC Dives,"Fast Food, Bar Food",0,Not rated,0,$,75,4,Brookland,"Brookland, Washington DC",Washington DC,20002,216,38.9211361000,-76.9968420000,0,0
+Migue's Magnificent Mini Donuts,Donuts,0,Not rated,1,$,25,2,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,20003,216,38.8864376000,-76.9964547000,0,0
+Cream Cycle,Desserts,0,Not rated,1,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Abunai,Hawaiian,0,Not rated,0,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,,216,0.0000000000,0.0000000000,0,0
+Meatball Nation,Italian,0,Not rated,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.9072309000,-77.0364641000,0,0
+Juice Revolution,Beverages,0,Not rated,0,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,38.8951118000,-77.0363658000,0,0
+Munchie Mikes,American,0,Not rated,0,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,,216,0.0000000000,0.0000000000,0,0
+Barmini by José Andrés,American,3.2,Average,12,$,45,3,Downtown,"Downtown, Washington DC",Washington DC,20004,216,38.8961435000,-77.0235355000,0,0
+Arroz,Spanish,3.0,Average,6,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20001,216,38.9037490000,-77.0248520000,0,0
+Hank's Cocktail Bar,American,0,Not rated,1,$,45,3,Petworth,"Petworth, Washington DC",Washington DC,20011,216,38.9421150000,-77.0241750000,0,0
+The Wydown at the Apollo,"Bar Food, Cafe",0,Not rated,1,$,30,3,Atlas District,"Atlas District, Washington DC",Washington DC,,216,0.0000000000,0.0000000000,0,0
+Top of the Gate,"American, Pub Food",0,Not rated,1,$,40,3,Downtown,"Downtown, Washington DC",Washington DC,20037,216,38.8994010000,-77.0561340000,0,0
+Greenhouse Bistro,Italian,0,Not rated,0,$,30,3,Downtown,"Downtown, Washington DC",Washington DC,22182,216,38.9172600000,-77.2367900000,0,0
+Fruitive,"Juices, Salad, Sandwich",0,Not rated,2,$,15,1,Downtown,"Downtown, Washington DC",Washington DC,200005,216,38.9002540000,-77.0267910000,0,0
+The Protein Bar,"Beverages, Vegetarian",0,Not rated,3,$,25,2,Downtown,"Downtown, Washington DC",Washington DC,20006,216,38.9021208000,-77.0383259000,0,0
+Jrink Juicery,"Juices, Vegetarian",0,Not rated,1,$,15,1,Logan Circle,"Logan Circle, Washington DC",Washington DC,20009,216,38.9122382037,-77.0322236384,0,0
+Greenhouse Bistro,Italian,0,Not rated,0,$,30,3,Downtown,"Downtown, Washington DC",Washington DC,22182,216,38.9172600000,-77.2367900000,0,0
+Lotus Lounge,"Sushi, Bar Food",0,Not rated,0,$,150,4,Downtown,"Downtown, Washington DC",Washington DC,20005,216,38.9021747000,-77.0329211000,0,0
+The Airedale,Pub Food,0,Not rated,1,$,0,1,Downtown,"Downtown, Washington DC",Washington DC,,216,0.0000000000,0.0000000000,0,0
+Wet Dog Tavern ,Bar Food,0,Not rated,0,$,0,1,Capitol Hill,"Capitol Hill, Washington DC",Washington DC,,216,38.9182810000,-77.0248320000,0,0

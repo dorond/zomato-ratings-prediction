@@ -1,0 +1,895 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,locality_verbose,city,zipcode,country_id,latitude,longitude,has_online_delivery,has_table_booking
+Ombra,Italian,4.8,Excellent,187,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2948333333,174.7750000000,0,0
+Little Penang,Malaysian,4.7,Excellent,229,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2919010000,174.7770910000,0,0
+Egmont St Eatery,"Kiwi, Cafe Food",4.6,Excellent,94,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2921140000,174.7780740000,0,0
+Fidel's,"European, Mexican, Cafe Food",4.5,Excellent,302,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2959700000,174.7741340000,0,0
+Apache,"Vietnamese, French",4.5,Excellent,68,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2897980000,174.7769320000,0,0
+Chow,Asian,4.4,Very Good,271,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2938333333,174.7810000000,0,0
+Fisherman's Plate,"Vietnamese, Fish and Chips",4.3,Very Good,131,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2890000000,174.7756666667,0,0
+Scopa Caffe Cucina,"Italian, Pizza",4.3,Very Good,172,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2933900000,174.7756890000,0,0
+Floriditas,"Italian, Cafe Food",4.3,Very Good,194,NZ$,105,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2938333333,174.7755000000,0,0
+Loretta,"European, Cafe Food",4.3,Very Good,141,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2941540000,174.7752960000,0,0
+Restaurant 88,Vietnamese,4.3,Very Good,137,NZ$,90,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2952520000,174.7799860000,0,0
+Mr Go's,"Asian, Chinese",4.3,Very Good,82,NZ$,0,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2928220000,174.7785710000,0,0
+The Larder,"European, Cafe Food",4.3,Very Good,86,NZ$,75,4,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3067080000,174.8258310000,0,0
+La Bella Italia,"Italian, Deli",4.2,Very Good,129,NZ$,70,4,Petone,"Petone, Wellington",Wellington,5012,148,0.0000000000,0.0000000000,0,0
+The Crab Shack,"Seafood, Kiwi",4.2,Very Good,272,NZ$,90,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2848333333,174.7791666667,0,0
+Monsoon Poon,Asian,4.2,Very Good,189,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2930580000,174.7832930000,0,0
+PappaRich,Malaysian,4.2,Very Good,110,NZ$,60,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,6011,148,-41.2848675726,174.7765173694,0,0
+Origami,"Japanese, Sushi",4.2,Very Good,112,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2940890000,174.7750190000,0,0
+Olive,"Mediterranean, European, Cafe Food",4.2,Very Good,161,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2944020000,174.7750050000,0,0
+Queen Of Jackson,European,4.2,Very Good,53,NZ$,65,3,Petone,"Petone, Wellington",Wellington,,148,-41.2250220000,174.8784210000,0,0
+Kilim,Turkish,4.2,Very Good,121,NZ$,55,3,Petone,"Petone, Wellington",Wellington,,148,-41.2240000000,174.8745000000,0,0
+Gauchos Churrasco BBQ,"Argentine, BBQ, Latin American",4.2,Very Good,41,NZ$,80,4,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2118190000,174.8903640000,0,0
+Burger Liquor,American,4.1,Very Good,154,NZ$,55,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2897980000,174.7745460000,0,0
+Sweet Mother's Kitchen,"Mexican, American",4.1,Very Good,343,NZ$,55,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2941666667,174.7831666667,0,0
+Plum Cafe,Cafe Food,4.1,Very Good,138,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2923640000,174.7762740000,0,0
+Mexico,Mexican,4.1,Very Good,126,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2918150000,174.7770100000,0,0
+Enigma Cafe,"Kiwi, Ice Cream, Desserts, Cafe Food",4.1,Very Good,131,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2925000000,174.7791666667,0,0
+Five Boroughs,American,4.1,Very Good,141,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2955624072,174.7740590572,0,0
+K Sing,"Vietnamese, Thai",4.1,Very Good,89,NZ$,50,3,Petone,"Petone, Wellington",Wellington,,148,-41.2247280404,174.8762585968,0,0
+Aunty Mena Vegetarian,Malaysian,4.1,Very Good,122,NZ$,35,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2940000000,174.7753333333,0,0
+CinCin,"Italian, Pizza",4.1,Very Good,106,NZ$,75,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2940490000,174.7751670000,0,0
+The Arborist Rooftop Bar & Eatery,"European, Kiwi",4.1,Very Good,68,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2906190000,174.7737540000,0,0
+Pizzeria Napoli,Italian,4.1,Very Good,97,NZ$,55,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936700000,174.7824190000,0,0
+The Bresolin,European,4.1,Very Good,69,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2946790000,174.7712670000,0,0
+Oli & Mi,European,4.1,Very Good,25,NZ$,110,4,Petone,"Petone, Wellington",Wellington,,148,-41.2262201217,174.8811070248,0,0
+Mama Brown,"Mexican, American, Cafe Food",4.0,Very Good,189,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2922270000,174.7816630000,0,0
+Southern Cross Garden Bar Restaurant,"Kiwi, European",4.0,Very Good,205,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2964940000,174.7744770000,0,0
+Dragons,Chinese,4.0,Very Good,130,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2930000000,174.7813333333,0,0
+The Oaks Satay Noodle House,Asian,4.0,Very Good,81,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2916010000,174.7767180000,0,0
+KC Cafe & Takeaway,"Chinese, Asian",4.0,Very Good,122,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2935000000,174.7820000000,0,0
+Grill Meats Beer,"European, BBQ, Kiwi",4.0,Very Good,158,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2952600000,174.7746070000,0,0
+Foxglove Bar & Kitchen,"European, Kiwi",4.0,Very Good,131,NZ$,90,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2834971374,174.7783532739,0,0
+Spruce Goose,"Kiwi, Cafe Food",4.0,Very Good,234,NZ$,65,3,Lyall Bay,"Lyall Bay, Wellington City",Wellington City,,148,-41.3283339176,174.8037507758,0,0
+Joe's Garage,"European, Cafe Food",4.0,Very Good,121,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2923333333,174.7816666667,0,0
+Viva Mexico,Mexican,4.0,Very Good,150,NZ$,50,3,"Left Bank, Te Aro","Left Bank, Te Aro, Wellington City",Wellington City,,148,-41.2924970000,174.7755500000,0,0
+Rock Yard,Vietnamese,4.0,Very Good,96,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2930000000,174.7825000000,0,0
+El Matador,"Spanish, Grill, Argentine",4.0,Very Good,120,NZ$,90,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2950000000,174.7748333333,0,0
+The Green Man Pub,"European, Kiwi",4.0,Very Good,68,NZ$,80,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2868685737,174.7769669071,0,0
+Havana Bar,"European, Spanish",4.0,Very Good,79,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2958250000,174.7750910000,0,0
+Hummingbird Eatery & Bar,"European, Finger Food",4.0,Very Good,51,NZ$,110,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2937190630,174.7828118756,0,0
+Tatsushi,Japanese,4.0,Very Good,53,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2898333333,174.7755000000,0,0
+Coene's Bar & Eatery,Kiwi,4.0,Very Good,40,NZ$,90,4,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2913570000,174.7878050000,0,0
+Fork & Brewer,"Kiwi, European, Pizza",4.0,Very Good,68,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2891666667,174.7758333333,0,0
+Cosa Nostra,Italian,4.0,Very Good,53,NZ$,90,4,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2783610000,174.7696380000,0,0
+Giddy-Up! - The Mussel Bar,Seafood,4.0,Very Good,28,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2913463173,174.7771543228,0,0
+The Salty Pidgin,"Kiwi, European, Pizza",4.0,Very Good,34,NZ$,85,4,Brooklyn,"Brooklyn, Wellington City",Wellington City,,148,-41.3054680000,174.7630580000,0,0
+Poppies,European,4.0,Very Good,20,NZ$,70,4,Martinborough,"Martinborough, Wellington",Wellington,,148,-41.2172480000,175.4773170000,0,0
+The Flying Burrito Brothers,Mexican,3.9,Good,175,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2945000000,174.7750000000,0,0
+Regal,Chinese,3.9,Good,91,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2940000000,174.7830000000,0,0
+KK Malaysian Restaurant,Malaysian,3.9,Good,124,NZ$,35,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2933333333,174.7751666667,0,0
+Kazu,"Japanese, Sushi",3.9,Good,77,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2927550000,174.7816490000,0,0
+Nicolini's,Italian,3.9,Good,110,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936666667,174.7826666667,0,0
+Thai Chef's Restaurant,Thai,3.9,Good,87,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2926666667,174.7835000000,0,0
+Bangalore Polo Club,"Indian, European, Asian",3.9,Good,69,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2931666667,174.7805000000,0,0
+The Ramen Shop,Japanese,3.9,Good,87,NZ$,45,3,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3139000000,174.7800410000,0,0
+Tahi,Thai,3.9,Good,39,NZ$,40,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2943310000,174.7835530000,0,0
+Aroy Thai Eatery,Thai,3.9,Good,57,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2923500000,174.7762900000,0,0
+Viva Mexico,Mexican,3.9,Good,64,NZ$,50,3,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3128790000,174.7797660000,0,0
+Siam Spoon,Thai,3.9,Good,46,NZ$,65,3,Petone,"Petone, Wellington",Wellington,,148,-41.2242728694,174.8748997226,0,0
+Cicio Cacio,Italian,3.9,Good,49,NZ$,85,4,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3132990000,174.7797680000,0,0
+Asian Kitchen,Asian,3.9,Good,50,NZ$,45,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2900000000,174.7755000000,0,0
+Saigon Van Grill Bar,Vietnamese,3.9,Good,47,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2950000000,174.7749260000,0,0
+Gr8 Tandoori,Indian,3.9,Good,36,NZ$,55,3,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,5010,148,-41.2093250000,174.9046560000,0,0
+Little India,"North Indian, Indian",3.9,Good,67,NZ$,55,3,"The Mall, Upper Hutt Central","The Mall, Upper Hutt Central, Wellington",Wellington,,148,-41.1238040000,175.0728140000,0,0
+Satay Palace,Malaysian,3.9,Good,51,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2940000000,174.7753333333,0,0
+Bethel Woods,"American, BBQ",3.9,Good,39,NZ$,70,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2810119081,174.7750595212,0,0
+Capitol,"Italian, Kiwi",3.9,Good,54,NZ$,80,4,Mt Victoria,"Mt Victoria, Wellington City",Wellington City,,148,-41.2943280000,174.7840680000,0,0
+Cafe Polo,"European, Cafe Food",3.9,Good,55,NZ$,100,4,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3128237047,174.8227434978,0,0
+Golding's,Pizza,3.9,Good,47,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2927870000,174.7770830000,0,0
+The Rogue And Vagabond,"American, Pizza, Finger Food",3.9,Good,55,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2929950000,174.7744740000,0,0
+Bebemos,"Latin American, European",3.9,Good,43,NZ$,70,4,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3109850000,174.7789190000,0,0
+Beach Babylon,"Kiwi, Cafe Food",3.8,Good,136,NZ$,65,3,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2913333333,174.7940000000,0,0
+Great India,"North Indian, Indian",3.8,Good,122,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2923333333,174.7785000000,0,0
+The Hop Garden,Kiwi,3.8,Good,72,NZ$,65,3,Mt Victoria,"Mt Victoria, Wellington City",Wellington City,,148,-41.2972610000,174.7828590000,0,0
+Cha,"Taiwanese, Chinese",3.8,Good,84,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2935000000,174.7820000000,0,0
+Speight's Ale House,"Kiwi, Finger Food",3.8,Good,82,NZ$,55,3,Petone,"Petone, Wellington",Wellington,,148,-41.2236660000,174.8743380000,0,0
+Karaka Cafe,"Kiwi, Cafe Food",3.8,Good,92,NZ$,40,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2894404931,174.7792350501,0,0
+Soprano,Italian,3.8,Good,65,NZ$,70,4,Petone,"Petone, Wellington",Wellington,,148,-41.2271666667,174.8843333333,0,0
+Mac's Restaurant and Brew Bar,"European, Kiwi",3.8,Good,63,NZ$,75,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2896778029,174.7800548002,0,0
+Mid Valley Malaysian,Malaysian,3.8,Good,65,NZ$,60,3,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2103333333,174.9011666667,0,0
+Banana Leaf Malaysian Restaurant,Malaysian,3.8,Good,63,NZ$,55,3,Raumati Beach,"Raumati Beach, Wellington",Wellington,5032,148,-40.9191170000,174.9809170000,0,0
+TJ Katsu,"Japanese, Sushi",3.8,Good,61,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2928333333,174.7790000000,0,0
+Laundry,American,3.8,Good,58,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+Kazu Yakitori & Sake Bar,Japanese,3.8,Good,49,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2935000000,174.7818333333,0,0
+Tequila Joe's,"Mexican, American",3.8,Good,67,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2960970000,174.7792960000,0,0
+Topor Bistro,European,3.8,Good,58,NZ$,65,3,Plimmerton,"Plimmerton, Wellington",Wellington,,148,-41.0820790000,174.8652320000,0,0
+Swagat India,"North Indian, Indian",3.8,Good,65,NZ$,65,3,Maungaraki,"Maungaraki, Wellington",Wellington,,148,-41.2087944137,174.8785897717,0,0
+Two Souls Bistro,European,3.8,Good,70,NZ$,75,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2926666667,174.7838333333,0,0
+Rasa Malaysian,"Malaysian, South Indian",3.8,Good,56,NZ$,45,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2950000000,174.7746666667,0,0
+Mishmosh,"Finger Food, Pizza, Fast Food",3.8,Good,36,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2935110000,174.7822280000,0,0
+Charley Noble Eatery & Bar,European,4.5,Excellent,164,NZ$,110,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2849609195,174.7774651274,0,0
+Queen Of Jackson,European,4.2,Very Good,53,NZ$,65,3,Petone,"Petone, Wellington",Wellington,,148,-41.2250220000,174.8784210000,0,0
+Dockside Restaurant & Bar,"Seafood, Kiwi",4.1,Very Good,103,NZ$,110,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2846666667,174.7793333333,0,0
+The Arborist Rooftop Bar & Eatery,"European, Kiwi",4.1,Very Good,68,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2906190000,174.7737540000,0,0
+Ancestral,"Contemporary, Chinese, Japanese",4.1,Very Good,77,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936666667,174.7821666667,0,0
+Southern Cross Garden Bar Restaurant,"Kiwi, European",4.0,Very Good,205,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2964940000,174.7744770000,0,0
+Foxglove Bar & Kitchen,"European, Kiwi",4.0,Very Good,131,NZ$,90,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2834971374,174.7783532739,0,0
+Portlander Bar & Grill,"European, Steak",4.0,Very Good,116,NZ$,120,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2795160000,174.7786550000,0,0
+Havana Bar,"European, Spanish",4.0,Very Good,79,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2958250000,174.7750910000,0,0
+Hummingbird Eatery & Bar,"European, Finger Food",4.0,Very Good,51,NZ$,110,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2937190630,174.7828118756,0,0
+Coene's Bar & Eatery,Kiwi,4.0,Very Good,40,NZ$,90,4,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2913570000,174.7878050000,0,0
+Fork & Brewer,"Kiwi, European, Pizza",4.0,Very Good,68,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2891666667,174.7758333333,0,0
+Giddy-Up! - The Mussel Bar,Seafood,4.0,Very Good,28,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2913463173,174.7771543228,0,0
+The Salty Pidgin,"Kiwi, European, Pizza",4.0,Very Good,34,NZ$,85,4,Brooklyn,"Brooklyn, Wellington City",Wellington City,,148,-41.3054680000,174.7630580000,0,0
+Bangalore Polo Club,"Indian, European, Asian",3.9,Good,69,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2931666667,174.7805000000,0,0
+Bethel Woods,"American, BBQ",3.9,Good,39,NZ$,70,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2810119081,174.7750595212,0,0
+Golding's,Pizza,3.9,Good,47,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2927870000,174.7770830000,0,0
+The Rogue And Vagabond,"American, Pizza, Finger Food",3.9,Good,55,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2929950000,174.7744740000,0,0
+Bebemos,"Latin American, European",3.9,Good,43,NZ$,70,4,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3109850000,174.7789190000,0,0
+The Hop Garden,Kiwi,3.8,Good,72,NZ$,65,3,Mt Victoria,"Mt Victoria, Wellington City",Wellington City,,148,-41.2972610000,174.7828590000,0,0
+Mac's Restaurant and Brew Bar,"European, Kiwi",3.8,Good,63,NZ$,75,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2896778029,174.7800548002,0,0
+Tequila Joe's,"Mexican, American",3.8,Good,67,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2960970000,174.7792960000,0,0
+Mishmosh,"Finger Food, Pizza, Fast Food",3.8,Good,36,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2935110000,174.7822280000,0,0
+Little Beer Quarter,"Kiwi, European",3.8,Good,44,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2907070000,174.7750420000,0,0
+Avida Bar,"Spanish, European",3.8,Good,29,NZ$,90,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2830592562,174.7773098946,0,0
+Noble Rot Wine Bar,"European, Fusion",3.8,Good,18,NZ$,0,1,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2937700000,174.7758060000,0,0
+Coco At The Roxy,"European, Kiwi",3.7,Good,61,NZ$,70,4,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3158420000,174.8162500000,0,0
+D4 on Featherston,"Irish, Kiwi",3.7,Good,55,NZ$,80,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2833960000,174.7770250000,0,0
+Basque,"Spanish, Mediterranean",3.7,Good,42,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2937150000,174.7834730000,0,0
+The Old Bailey,"Kiwi, Finger Food",3.7,Good,38,NZ$,80,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,6011,148,-41.2835000000,174.7763333333,0,0
+Hashigo Zake,"Finger Food, Asian",3.7,Good,26,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2916390000,174.7795570000,0,0
+The Grand - Steakhouse & Bar,"Steak, European",3.6,Good,90,NZ$,75,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2931666667,174.7803333333,0,0
+Whitby Co-Op Kitchen & Bar,"Kiwi, European",3.6,Good,47,NZ$,80,4,Whitby,"Whitby, Wellington",Wellington,,148,-41.1160470000,174.8904310000,0,0
+The Realm Bar & Bistro,Kiwi,3.6,Good,33,NZ$,90,4,Hataitai,"Hataitai, Wellington City",Wellington City,,148,-41.3046650000,174.7940460000,0,0
+Monterey,American,3.6,Good,41,NZ$,65,3,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3118310000,174.7790310000,0,0
+Juniper Restaurant & Bar,European,3.6,Good,39,NZ$,90,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2828672728,174.7768840939,0,0
+Cool Change Bar & Eatery,"Italian, Mexican",3.6,Good,29,NZ$,100,4,Martinborough,"Martinborough, Wellington",Wellington,5711,148,-41.2180446520,175.4592484608,0,0
+Trentham Mess Hall,Kiwi,3.6,Good,28,NZ$,65,3,Trentham,"Trentham, Wellington",Wellington,5018,148,0.0000000000,0.0000000000,0,0
+Public Bar & Eatery,"Kiwi, Finger Food, Pizza",3.6,Good,28,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2934140000,174.7816320000,0,0
+Poquito Cafe & Bar,"Spanish, Cafe Food",3.6,Good,20,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2925000000,174.7815000000,0,0
+Longhorn,"Steak, Kiwi",3.5,Good,22,NZ$,90,4,Upper Hutt Central,"Upper Hutt Central, Wellington",Wellington,,148,-41.1250000000,175.0660000000,0,0
+Crumpet The Boon Brothers Trading Co.,"Finger Food, Desserts",3.5,Good,24,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2918333333,174.7776666667,0,0
+Adulis Habesha Restaurant,African,3.5,Good,20,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2956210000,174.7797290000,0,0
+Dirty Little Secret,European,3.5,Good,14,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2924830000,174.7784280000,0,0
+Sprig & Fern,"Finger Food, Pizza",3.5,Good,16,NZ$,60,3,Petone,"Petone, Wellington",Wellington,,148,-41.2240900436,174.8746948689,0,0
+The Hideaway,"American, Steak",3.4,Average,33,NZ$,75,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2859070000,174.7751480000,0,0
+Strathmore Local Restaurant & Bar,"Kiwi, Finger Food",3.4,Average,28,NZ$,80,4,Strathmore Park,"Strathmore Park, Wellington City",Wellington City,6022,148,-41.3250514903,174.8202812299,0,0
+Malthouse,Finger Food,3.4,Average,22,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2935030000,174.7816090000,0,0
+Cafe Trax Bar & Cafe,"Kiwi, Pizza, Cafe Food",3.4,Average,12,NZ$,45,3,"Wellington Railway Station, Pipitea","Wellington Railway Station, Pipitea, Wellington City",Wellington City,,148,-41.2792240000,174.7803180000,0,0
+Gatsby Tapas,European,3.4,Average,19,NZ$,80,4,Raumati South,"Raumati South, Wellington",Wellington,,148,-40.9360180000,174.9778680000,0,0
+Crafters & Co,Cafe Food,3.4,Average,12,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2944660000,174.7729150000,0,0
+Pomelo Kitchen & Bar,Asian Fusion,3.4,Average,11,NZ$,90,4,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2914460000,174.7940980000,0,0
+Afrika,African,3.4,Average,16,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2944480000,174.7833120000,0,0
+Muse Eatery and Bar Wellington,European,3.4,Average,10,NZ$,100,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,6011,148,-41.2877154330,174.7763269325,0,0
+Vinyl Bar,"Finger Food, Pizza",3.4,Average,14,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2930380000,174.7808140000,0,0
+Cavern Club Bar,Finger Food,3.4,Average,11,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2931430000,174.7822010000,0,0
+Dakota,Finger Food,3.4,Average,9,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2929860000,174.7826780000,0,0
+The Third Eye Tuatara Temple Of Taste,"Finger Food, Pizza",3.4,Average,8,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2972540000,174.7743270000,0,0
+C.G.R  Merchant & Co.,Finger Food,3.4,Average,8,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2934590000,174.7817430000,0,0
+Porterhouse Blues,"Steak, European",3.3,Average,51,NZ$,85,4,Upper Hutt Central,"Upper Hutt Central, Wellington",Wellington,,148,-41.1235000000,175.0746666667,0,0
+Brew'd Island Bay,"Kiwi, American, European",3.3,Average,33,NZ$,70,4,Island Bay,"Island Bay, Wellington City",Wellington City,6023,148,-41.3353718088,174.7734522074,0,0
+The 7 Bar,Kiwi,3.3,Average,21,NZ$,80,4,Upper Hutt Central,"Upper Hutt Central, Wellington",Wellington,,148,-41.1236666667,175.0751666667,0,0
+The Featherston City Tavern,"Grill, Kiwi",3.3,Average,23,NZ$,70,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2827352524,174.7772569209,0,0
+Wairarapa Trading Co,"European, Kiwi",3.3,Average,17,NZ$,85,4,Kuripuni,"Kuripuni, Wellington",Wellington,,148,-40.9582870000,175.6485580000,0,0
+Caucus Restaurant & Bar - Novotel Hotel,"European, Kiwi",3.3,Average,12,NZ$,100,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2840045520,174.7743681818,0,0
+Boundary Tap & Kitchen,"Kiwi, European",3.3,Average,15,NZ$,75,4,Raumati Beach,"Raumati Beach, Wellington",Wellington,,148,-40.9185880000,174.9814300000,0,0
+Sterling Woodfire Eatery & Bar,European,3.3,Average,8,NZ$,0,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2823680000,174.7749280000,0,0
+Moon,"Pizza, Finger Food",3.3,Average,13,NZ$,50,3,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3132990000,174.7797680000,0,0
+Jack Hackett's Irish Bar,"Irish, Kiwi, Pub Food",3.3,Average,4,NZ$,0,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2930130000,174.7782110000,0,0
+Blend Bar,"Kiwi, Finger Food",3.3,Average,12,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2896620000,174.7769760000,0,0
+Micro Winebar,"European, Finger Food",3.3,Average,6,NZ$,0,1,Martinborough,"Martinborough, Wellington",Wellington,5711,148,-41.2172760000,175.4589050000,0,0
+One80 Cocktail Lounge - Copthorne Hotel,"European, Asian",3.3,Average,1,NZ$,80,4,"Copthorne Hotel, Oriental Bay","Copthorne Hotel, Oriental Bay, Wellington City",Wellington City,,148,-41.2914310000,174.7876920000,0,0
+Gasworks,"American, Kiwi",3.2,Average,71,NZ$,75,4,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3142130000,174.8139960000,0,0
+Brew'd Boulcott,"European, Kiwi",3.2,Average,45,NZ$,75,4,Boulcott,"Boulcott, Wellington",Wellington,,148,-41.2031484421,174.9236810580,0,0
+The Establishment,"Kiwi, Finger Food",3.2,Average,29,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2937590000,174.7830170000,0,0
+The Riddiford Bar & Bistro,Kiwi,3.2,Average,10,NZ$,45,3,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3080600000,174.7779210000,0,0
+D4 Raumati,Kiwi,3.2,Average,11,NZ$,80,4,Raumati Beach,"Raumati Beach, Wellington",Wellington,,148,-40.9190220000,174.9815000000,0,0
+Buckhorn Family Bar & Grill,"Kiwi, Finger Food",3.2,Average,9,NZ$,55,3,Carterton,"Carterton, Wellington",Wellington,,148,-41.0240900000,175.5291060000,0,0
+Bettys Function House & Bar,"Finger Food, European",3.2,Average,9,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2934860000,174.7829240000,0,0
+El Horno,Finger Food,3.2,Average,10,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2935780000,174.7824430000,0,0
+Hanging Ditch,Drinks Only,3.2,Average,4,NZ$,0,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+Bodega,Finger Food,3.2,Average,4,NZ$,55,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2922540000,174.7733150000,0,0
+1841,Kiwi,3.1,Average,54,NZ$,75,4,Johnsonville,"Johnsonville, Wellington City",Wellington City,,148,-41.2253060148,174.8074693233,0,0
+Bin 44 Restaurant & Bar,European,3.1,Average,57,NZ$,85,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2847422361,174.7790328786,0,0
+Bad Grannies,"Kiwi, Pizza",3.1,Average,13,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2947280000,174.7751300000,0,0
+The Farriers Bar & Eatery,"American, European, Pizza",3.1,Average,7,NZ$,100,4,Masterton,"Masterton, Wellington",Wellington,,148,-40.9467060000,175.6663000000,0,0
+Inferno,Finger Food,3.1,Average,4,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936666667,174.7825000000,0,0
+Finns,"European, Kiwi",3.1,Average,7,NZ$,65,3,Paekakariki,"Paekakariki, Wellington",Wellington,,148,-40.9881570000,174.9520390000,0,0
+The Fringe Bar,Finger Food,3.1,Average,4,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2933300000,174.7821000000,0,0
+The Cutting Sports Cafe,"Kiwi, Finger Food",3.1,Average,8,NZ$,50,3,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3153333333,174.8138333333,0,0
+Slim Davey's,Finger Food,3.1,Average,4,NZ$,0,1,Mt Victoria,"Mt Victoria, Wellington City",Wellington City,6011,148,-41.2943790000,174.7849470000,0,0
+San Fran,"Finger Food, European, Kiwi",3.1,Average,4,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2940880000,174.7754590000,0,0
+Munchen,German,3.0,Average,27,NZ$,90,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2848123592,174.7788648360,0,0
+Concrete,"European, Kiwi",3.0,Average,16,NZ$,90,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2841666667,174.7755000000,0,0
+Murphy's Bar,"Finger Food, Kiwi",3.0,Average,3,NZ$,70,4,"Angus Inn, Lower Hutt Central","Angus Inn, Lower Hutt Central, Wellington",Wellington,,148,-41.2095000000,174.9085000000,0,0
+The Hunter Lounge,"Pizza, European",3.0,Average,4,NZ$,55,3,"Victoria University, Kelburn","Victoria University, Kelburn, Wellington City",Wellington City,,148,-41.2885668228,174.7697417066,0,0
+Bedrocks,Finger Food,3.0,Average,4,NZ$,65,3,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2086666667,174.9053333333,0,0
+Lobby Bar - Mercure Wellington,Finger Food,3.0,Average,1,NZ$,50,3,"Mercure Wellington, Te Aro","Mercure Wellington, Te Aro, Wellington City",Wellington City,,148,-41.2936800000,174.7696160000,0,0
+The Office,"Kiwi, Finger Food",2.9,Average,11,NZ$,55,3,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3123870000,174.7792270000,0,0
+The St George,Asian,2.9,Average,11,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2927740000,174.7723260000,0,0
+The Hangar,Cafe Food,4.6,Excellent,224,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2908010000,174.7739330000,0,0
+Egmont St Eatery,"Kiwi, Cafe Food",4.6,Excellent,94,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2921140000,174.7780740000,0,0
+Fidel's,"European, Mexican, Cafe Food",4.5,Excellent,302,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2959700000,174.7741340000,0,0
+Chocolate Fish Cafe,Cafe Food,4.5,Excellent,102,NZ$,50,3,Maupuia,"Maupuia, Wellington City",Wellington City,,148,-41.2935000000,174.8223333333,0,0
+Louis Sergeant Sweet Couture,"French, Desserts, Cafe Food",4.4,Very Good,110,NZ$,70,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2830668146,174.7770104930,0,0
+Floriditas,"Italian, Cafe Food",4.3,Very Good,194,NZ$,105,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2938333333,174.7755000000,0,0
+Loretta,"European, Cafe Food",4.3,Very Good,141,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2941540000,174.7752960000,0,0
+The Larder,"European, Cafe Food",4.3,Very Good,86,NZ$,75,4,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3067080000,174.8258310000,0,0
+Midnight Espresso,Cafe Food,4.2,Very Good,195,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2945650000,174.7749120000,0,0
+Maranui Cafe,"Kiwi, Cafe Food",4.2,Very Good,146,NZ$,50,3,Lyall Bay,"Lyall Bay, Wellington City",Wellington City,,148,-41.3304280000,174.7932570000,0,0
+Olive,"Mediterranean, European, Cafe Food",4.2,Very Good,161,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2944020000,174.7750050000,0,0
+Pravda Cafe,"European, Cafe Food",4.2,Very Good,95,NZ$,120,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2859084552,174.7764784098,0,0
+Ti Kouka Cafe,"Kiwi, European, Cafe Food",4.2,Very Good,101,NZ$,50,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2881666667,174.7756666667,0,0
+Plum Cafe,Cafe Food,4.1,Very Good,138,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2923640000,174.7762740000,0,0
+Enigma Cafe,"Kiwi, Ice Cream, Desserts, Cafe Food",4.1,Very Good,131,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2925000000,174.7791666667,0,0
+Seashore Cabaret,Cafe Food,4.1,Very Good,53,NZ$,55,3,Petone,"Petone, Wellington",Wellington,,148,0.0000000000,0.0000000000,0,0
+Prefab,Cafe Food,4.1,Very Good,142,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2953670000,174.7783770000,0,0
+Kaffee Eis,"Ice Cream, Desserts, Cafe Food",4.1,Very Good,61,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936666667,174.7820000000,0,0
+Mama Brown,"Mexican, American, Cafe Food",4.0,Very Good,189,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2922270000,174.7816630000,0,0
+Spruce Goose,"Kiwi, Cafe Food",4.0,Very Good,234,NZ$,65,3,Lyall Bay,"Lyall Bay, Wellington City",Wellington City,,148,-41.3283339176,174.8037507758,0,0
+Caffe L'affare,Cafe Food,4.0,Very Good,114,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2961550000,174.7803450000,0,0
+Joe's Garage,"European, Cafe Food",4.0,Very Good,121,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2923333333,174.7816666667,0,0
+Beannie Cafe,Cafe Food,4.0,Very Good,61,NZ$,45,3,Petone,"Petone, Wellington",Wellington,,148,-41.2246846669,174.8765536398,0,0
+Seize,"Healthy Food, Cafe Food",4.0,Very Good,54,NZ$,40,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2808220000,174.7759730000,0,0
+Memphis Belle,Cafe Food,4.0,Very Good,73,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2918260000,174.7767280000,0,0
+La Cloche,"French, Cafe Food",4.0,Very Good,45,NZ$,40,2,Kaiwharawhara,"Kaiwharawhara, Wellington City",Wellington City,,148,-41.2592530000,174.7909810000,0,0
+Gipsy Kitchen,"Mediterranean, Cafe Food",4.0,Very Good,43,NZ$,40,2,Strathmore,"Strathmore, Wellington City",Wellington City,6022,148,-41.3246750719,174.8215599731,0,0
+Scorch o Rama,Cafe Food,3.9,Good,113,NZ$,50,3,Karaka Bays,"Karaka Bays, Wellington City",Wellington City,,148,-41.2980231530,174.8323132843,0,0
+Caffiend,Cafe Food,3.9,Good,93,NZ$,45,3,Petone,"Petone, Wellington",Wellington,,148,-41.2261666667,174.8811666667,0,0
+Neo Cafe & Eatery,"Kiwi, Cafe Food",3.9,Good,66,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2895000000,174.7745000000,0,0
+Cafe Polo,"European, Cafe Food",3.9,Good,55,NZ$,100,4,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3128237047,174.8227434978,0,0
+Customs Brew Bar,Cafe Food,3.9,Good,36,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2935530000,174.7762310000,0,0
+Nikau Gallery Cafe,Cafe Food,3.9,Good,43,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2891140000,174.7766660000,0,0
+Kaffee Eis,"Ice Cream, Desserts, Cafe Food",3.9,Good,40,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936620000,174.7753030000,0,0
+Picnic Cafe,Cafe Food,3.9,Good,26,NZ$,50,3,Kelburn,"Kelburn, Wellington City",Wellington City,,148,-41.2811147053,174.7693001479,0,0
+Beach Babylon,"Kiwi, Cafe Food",3.8,Good,136,NZ$,65,3,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2913333333,174.7940000000,0,0
+Karaka Cafe,"Kiwi, Cafe Food",3.8,Good,92,NZ$,40,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2894404931,174.7792350501,0,0
+Sweet Vanilla Kitchen,Cafe Food,3.8,Good,53,NZ$,30,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2074740000,174.9150440000,0,0
+Shine Cafe,"Healthy Food, Cafe Food",3.8,Good,50,NZ$,40,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2085000000,174.9048333333,0,0
+Elements,Cafe Food,3.8,Good,55,NZ$,50,3,Lyall Bay,"Lyall Bay, Wellington City",Wellington City,,148,-41.3258560000,174.7952420000,0,0
+Little Peckish Cafe,Cafe Food,3.8,Good,45,NZ$,45,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2891666667,174.7748333333,0,0
+Frank's,Cafe Food,3.8,Good,29,NZ$,40,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,6011,148,-41.2832490000,174.7744700000,0,0
+Ambience Cafe,Cafe Food,3.8,Good,40,NZ$,45,3,Paraparaumu Beach,"Paraparaumu Beach, Wellington",Wellington,,148,-40.8935410000,174.9809980000,0,0
+Pranah Cafe,"Healthy Food, Juices, Cafe Food",3.8,Good,22,NZ$,35,2,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3122560000,174.7792430000,0,0
+Field & Green,"European, Cafe Food",3.8,Good,27,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2923480000,174.7823130000,0,0
+Leeds Street Bakery,"Bakery, Cafe Food",3.8,Good,25,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2926610000,174.7770210000,0,0
+The Lab,"Healthy Food, Cafe Food",3.8,Good,26,NZ$,30,2,Kelburn,"Kelburn, Wellington City",Wellington City,,148,-41.2890787325,174.7680183873,0,0
+Rahzoo Cafe,Cafe Food,3.8,Good,22,NZ$,35,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2824377016,174.7772267461,0,0
+Cafe Panama,Cafe Food,3.8,Good,17,NZ$,45,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2935000000,174.7783333333,0,0
+Havana Lounge,Cafe Food,3.8,Good,18,NZ$,25,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2977030000,174.7790450000,0,0
+Americanos Breakfast Restaurant,"European, Cafe Food",3.7,Good,73,NZ$,55,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2819237241,174.7769518197,0,0
+Martha's Pantry,"Desserts, Kiwi, Cafe Food",3.7,Good,58,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2968333333,174.7731666667,0,0
+Baobab Cafe,"Mediterranean, Cafe Food",3.7,Good,52,NZ$,60,3,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3130550000,174.7794460000,0,0
+Cafe Medici,"European, Cafe Food",3.7,Good,51,NZ$,65,3,Martinborough,"Martinborough, Wellington",Wellington,5711,148,-41.2176257511,175.4585249349,0,0
+Poneke,"Greek, Seafood, Cafe Food",3.7,Good,23,NZ$,50,3,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2896190000,174.7859010000,0,0
+Marine Parade Eatery,"European, Cafe Food",3.7,Good,36,NZ$,60,3,Paraparaumu Beach,"Paraparaumu Beach, Wellington",Wellington,,148,-40.8948460000,174.9791010000,0,0
+Aro Cafe,Cafe Food,3.7,Good,25,NZ$,50,3,Aro Valley,"Aro Valley, Wellington City",Wellington City,,148,-41.2953360000,174.7669790000,0,0
+Smith The Grocer,Cafe Food,3.7,Good,39,NZ$,50,3,"Old Bank Shopping Arcade, Wellington Central","Old Bank Shopping Arcade, Wellington Central, Wellington City",Wellington City,,148,-41.2850455709,174.7781182453,0,0
+The Raumati Social Club,"Kiwi, Cafe Food",3.7,Good,33,NZ$,80,4,Raumati South,"Raumati South, Wellington",Wellington,,148,-40.9363850000,174.9776080000,0,0
+Pinocchio Martinborough,"European, Cafe Food",3.7,Good,22,NZ$,100,4,Martinborough,"Martinborough, Wellington",Wellington,5711,148,-41.2179029170,175.4588229954,0,0
+Pandoro Panetteria,"Bakery, Cafe Food",3.7,Good,21,NZ$,45,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2886420000,174.7752250000,0,0
+Queen Sally's Diamond Deli,Cafe Food,3.7,Good,24,NZ$,35,2,Lyall Bay,"Lyall Bay, Wellington City",Wellington City,,148,-41.3308782704,174.7917006165,0,0
+Te Papa Cafe,Cafe Food,3.7,Good,27,NZ$,45,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2899070504,174.7808735445,0,0
+Five and Dime,Cafe Food,3.7,Good,21,NZ$,0,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2957180000,174.7744330000,0,0
+Peppermill Delicatessen,"Deli, Cafe Food",3.6,Good,50,NZ$,50,3,Porirua Central,"Porirua Central, Wellington",Wellington,,148,-41.1322540000,174.8400920000,0,0
+Cafe Thyme,Cafe Food,3.6,Good,39,NZ$,45,3,Glenside,"Glenside, Wellington City",Wellington City,,148,-41.2058285926,174.8120998219,0,0
+Cafe Rome,"Italian, Mediterranean, Cafe Food",3.6,Good,53,NZ$,55,3,Upper Hutt Central,"Upper Hutt Central, Wellington",Wellington,5018,148,-41.1245000000,175.0698333333,0,0
+Dixon Street Deli,Cafe Food,3.6,Good,51,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2920000000,174.7770000000,0,0
+Gotham,Cafe Food,3.6,Good,57,NZ$,50,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2876666667,174.7760000000,0,0
+Deluxe Cafe,"Healthy Food, Cafe Food",3.6,Good,35,NZ$,40,2,Mt Victoria,"Mt Victoria, Wellington City",Wellington City,,148,-41.2943333333,174.7836666667,0,0
+Go Bang,Cafe Food,3.6,Good,35,NZ$,60,3,Petone,"Petone, Wellington",Wellington,,148,-41.2245542941,174.8761244863,0,0
+The Chocolate Frog Cafe,Cafe Food,3.6,Good,33,NZ$,50,3,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3152417449,174.8153630644,0,0
+Cafe Breton,"French, Cafe Food",3.6,Good,27,NZ$,60,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2833283343,174.7768468782,0,0
+Zaida's,"Bakery, Cafe Food",3.6,Good,24,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2964450000,174.7762230000,0,0
+Kafe Oranje,Cafe Food,3.6,Good,22,NZ$,45,3,Plimmerton,"Plimmerton, Wellington",Wellington,,148,-41.0824880000,174.8659700000,0,0
+Preservatorium Cafe & Cannery,"Italian, Cafe Food",3.6,Good,21,NZ$,45,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2979780000,174.7740630000,0,0
+Automat,"American, European, Cafe Food",3.6,Good,24,NZ$,55,3,Khandallah,"Khandallah, Wellington City",Wellington City,,148,-41.2417743712,174.7923718393,0,0
+Floyd's,Cafe Food,3.6,Good,22,NZ$,45,3,Island Bay,"Island Bay, Wellington City",Wellington City,6023,148,-41.3340000000,174.7735000000,0,0
+Dunshea's Deli,"Deli, Healthy Food, Cafe Food",3.6,Good,25,NZ$,40,2,Khandallah,"Khandallah, Wellington City",Wellington City,,148,-41.2421694196,174.7920446098,0,0
+Hillside Kitchen & Cellar,"Kiwi, Cafe Food",3.6,Good,16,NZ$,70,4,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2769031608,174.7715216875,0,0
+Poquito Cafe & Bar,"Spanish, Cafe Food",3.6,Good,20,NZ$,65,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2925000000,174.7815000000,0,0
+Cafe Mirabelle,"French, European, Cafe Food",3.6,Good,23,NZ$,0,1,Carterton,"Carterton, Wellington",Wellington,,148,-41.0245134179,175.5277758837,0,0
+Centennial Coffee House,Cafe Food,3.6,Good,19,NZ$,45,3,Lyall Bay,"Lyall Bay, Wellington City",Wellington City,,148,-41.3267030000,174.8004560000,0,0
+Pandoro Panetteria,"Bakery, Cafe Food",3.6,Good,18,NZ$,45,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2820144263,174.7753079608,0,0
+Leafee Cafe & Restaurant,"Japanese, Cafe Food",3.6,Good,19,NZ$,45,3,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2781650149,174.7700679302,0,0
+Top One Cafe,"Bakery, Cafe Food",3.6,Good,16,NZ$,30,2,Petone,"Petone, Wellington",Wellington,,148,-41.2253630050,174.8782390729,0,0
+A Taste of Greece,"Greek, Bakery, Cafe Food",3.6,Good,15,NZ$,35,2,Kilbirnie,"Kilbirnie, Wellington City",Wellington City,,148,-41.3200730000,174.7958260000,0,0
+Felix,Cafe Food,3.5,Good,59,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2899861111,174.7773888889,0,0
+The Blue Belle Cafe,"Mexican, Cafe Food",3.5,Good,46,NZ$,40,2,Island Bay,"Island Bay, Wellington City",Wellington City,6023,148,-41.3346666667,174.7730000000,0,0
+Waimea Cafe Restaurant,"Mediterranean, Italian, Cafe Food",3.5,Good,58,NZ$,70,4,Waikanae Beach,"Waikanae Beach, Wellington",Wellington,,148,-40.8644360000,175.0189810000,0,0
+Fig Tree Cafe & Delicatessen,Cafe Food,3.5,Good,37,NZ$,50,3,Heretaunga,"Heretaunga, Wellington",Wellington,,148,-41.1393450000,175.0283530000,0,0
+Groundup Cafe,Cafe Food,3.5,Good,36,NZ$,0,1,Pauatahanui,"Pauatahanui, Wellington",Wellington,,148,-41.1049140000,174.9163970000,0,0
+Java Point,Cafe Food,3.5,Good,21,NZ$,30,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2093333333,174.9031666667,0,0
+Milk Crate,Cafe Food,3.5,Good,17,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936220000,174.7763680000,0,0
+No.6 Licensed Cafe,"European, Kiwi, Cafe Food",3.5,Good,30,NZ$,65,3,Raumati Beach,"Raumati Beach, Wellington",Wellington,,148,-40.9180270000,174.9816520000,0,0
+Cafe Kaizen,Cafe Food,3.5,Good,29,NZ$,45,3,Porirua Central,"Porirua Central, Wellington",Wellington,,148,-41.1315460000,174.8397520000,0,0
+Butler's Chocolate Cafe,"Desserts, Cafe Food",3.5,Good,26,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2888333333,174.7745000000,0,0
+Riverstone Cafe,Cafe Food,3.5,Good,18,NZ$,45,3,Otaki,"Otaki, Wellington",Wellington,,148,-40.7633530000,175.1544980000,0,0
+Cafe Reka,Cafe Food,3.5,Good,27,NZ$,55,3,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2121410000,174.9045080000,0,0
+Clark's Cafe,Cafe Food,3.5,Good,25,NZ$,40,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2864289515,174.7762946784,0,0
+Ekim Burgers,Fast Food,4.3,Very Good,234,NZ$,25,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2961070000,174.7741510000,0,0
+Best Ugly,"American, Deli",4.2,Very Good,33,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2940070000,174.7761230000,0,0
+The Mt. Vic Chippery,"Fast Food, Fish and Chips",4.1,Very Good,141,NZ$,25,1,Mt Victoria,"Mt Victoria, Wellington City",Wellington City,,148,-41.2941666667,174.7845000000,0,0
+Taste of India,"North Indian, Indian",4.1,Very Good,89,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2943333333,174.7836666667,0,0
+Gerry's Charcoal Chicken,Fast Food,4.1,Very Good,56,NZ$,40,2,Elderslea,"Elderslea, Wellington",Wellington,,148,-41.1250070000,175.0605020000,0,0
+Souvlaki At Acropolis,"Fast Food, Fish and Chips, Greek",4.0,Very Good,34,NZ$,40,2,Strathmore,"Strathmore, Wellington City",Wellington City,6022,148,-41.3245277771,174.8211576417,0,0
+Pizza Pomodoro,Pizza,3.9,Good,50,NZ$,45,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2923333333,174.7773333333,0,0
+Zany Zeus,"Coffee and Tea, Ice Cream, Deli",3.9,Good,39,NZ$,30,2,Moera,"Moera, Wellington",Wellington,,148,-41.2260720000,174.9056760000,0,0
+Banh Mi,Vietnamese,3.9,Good,21,NZ$,40,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2903120000,174.7741740000,0,0
+Bongusto - Merkato Fresh,"Italian, French, Coffee and Tea",3.8,Good,21,NZ$,40,2,Miramar,"Miramar, Wellington City",Wellington City,6022,148,-41.3160000000,174.8156666667,0,0
+Divine India,"North Indian, Indian",3.8,Good,44,NZ$,50,3,Paraparaumu,"Paraparaumu, Wellington",Wellington,,148,-40.9162530000,175.0064560000,0,0
+Anusha Indian Takeaway,"North Indian, Indian",3.8,Good,37,NZ$,40,2,Epuni,"Epuni, Wellington",Wellington,,148,-41.1990000000,174.9348333333,0,0
+Dumpling'd,"Chinese, Dumplings",3.8,Good,28,NZ$,25,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2800123979,174.7753766924,0,0
+Noodle Man - Lucia's Kitchen,"Chinese, Asian",3.8,Good,18,NZ$,25,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904430000,174.7741790000,0,0
+Fish Fins,Fish and Chips,3.8,Good,30,NZ$,30,2,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3136850000,174.7795830000,0,0
+Where's Charlie,Vietnamese,3.7,Good,47,NZ$,25,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,6011,148,-41.2904310000,174.7741940000,0,0
+Higher Taste,"South Indian, Indian",3.7,Good,33,NZ$,40,2,"Old Bank Shopping Arcade, Wellington Central","Old Bank Shopping Arcade, Wellington Central, Wellington City",Wellington City,,148,-41.2861011854,174.7766289487,0,0
+Basin Noodle House,Chinese,3.7,Good,40,NZ$,30,2,Mt Cook,"Mt Cook, Wellington City",Wellington City,,148,-41.3023119185,174.7792038694,0,0
+BurgerFuel,Burger,3.7,Good,49,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2928580000,174.7789930000,0,0
+Mad Mex,"Fast Food, Mexican",3.7,Good,32,NZ$,40,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,,148,-41.2818333333,174.7760000000,0,0
+A1 Takeaway,"Chinese, Asian, Fast Food, Fish and Chips",3.7,Good,20,NZ$,35,2,Kilbirnie,"Kilbirnie, Wellington City",Wellington City,,148,-41.3180080000,174.7946580000,0,0
+Dumpling'd,"Chinese, Dumplings",3.7,Good,16,NZ$,25,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2887260000,174.7743210000,0,0
+Relish,"Healthy Food, Coffee and Tea",3.7,Good,10,NZ$,35,2,"Capital On The Quay, Wellington Central","Capital On The Quay, Wellington Central, Wellington City",Wellington City,,148,-41.2844988617,174.7750984132,0,0
+Curry To Go,"North Indian, Indian",3.7,Good,14,NZ$,45,3,"Newlands Shopping Centre, Newlands","Newlands Shopping Centre, Newlands, Wellington",Wellington,,148,-41.2226919767,174.8228387162,0,0
+Thai Express,Thai,3.6,Good,40,NZ$,40,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2105000000,174.9030000000,0,0
+Takeaway Churton,"Fast Food, Fish and Chips",3.6,Good,25,NZ$,30,2,Churton Park,"Churton Park, Wellington City",Wellington City,,148,-41.2024459092,174.8077885062,0,0
+Go Fish,"Fish and Chips, Fast Food",3.6,Good,29,NZ$,30,2,Petone,"Petone, Wellington",Wellington,,148,-41.2243507909,174.8753811792,0,0
+R & S Satay Noodles House,"Malaysian, Cambodian",3.6,Good,30,NZ$,45,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2938220000,174.7752550000,0,0
+Yummy Curry,"North Indian, Indian",3.6,Good,22,NZ$,40,2,Karori,"Karori, Wellington City",Wellington City,6012,148,-41.2869690944,174.7285171598,0,0
+Cafe Laz,Turkish,3.6,Good,27,NZ$,35,2,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3117260000,174.7793800000,0,0
+BurgerFuel,Burger,3.6,Good,19,NZ$,40,2,Johnsonville,"Johnsonville, Wellington City",Wellington City,,148,-41.2261666667,174.8071666667,0,0
+Hell Pizza,Pizza,3.6,Good,16,NZ$,40,2,Petone,"Petone, Wellington",Wellington,,148,-41.2271470000,174.8835770000,0,0
+Umi Sushi,"Sushi, Japanese",3.6,Good,17,NZ$,25,1,Wainuiomata,"Wainuiomata, Wellington",Wellington,,148,-41.2601510000,174.9444080000,0,0
+Yummy Takeaways,Thai,3.6,Good,19,NZ$,35,2,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3127172638,174.7796158545,0,0
+Abrakebabra,Turkish,3.5,Good,47,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2913333333,174.7768333333,0,0
+Plaza Pizzeria,"Pizza, Mexican",3.5,Good,31,NZ$,45,3,Kilbirnie,"Kilbirnie, Wellington City",Wellington City,,148,-41.3181922772,174.7940716892,0,0
+Daruma Sushi,"Sushi, Japanese",3.5,Good,30,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2941100000,174.7754050000,0,0
+Miss Kangsta,Korean,3.5,Good,28,NZ$,40,2,"Cable Car Shopping Centre, Wellington Central","Cable Car Shopping Centre, Wellington Central, Wellington City",Wellington City,,148,-41.2904270000,174.7741690000,0,0
+Nanking Takeaways,"Fast Food, Fish and Chips, Malaysian, Chinese",3.5,Good,27,NZ$,30,2,Brooklyn,"Brooklyn, Wellington City",Wellington City,,148,-41.3053333333,174.7636666667,0,0
+Wholly Bagels & Pizza,"Pizza, Fast Food",3.5,Good,25,NZ$,30,2,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2742448220,174.7790536657,0,0
+Mrs Kim's Korean Kitchen,Korean,3.5,Good,17,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2929060000,174.7740540000,0,0
+Zambrero,Mexican,3.5,Good,29,NZ$,30,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2832162186,174.7769377381,0,0
+Scoops,"Fast Food, Fish and Chips",3.5,Good,17,NZ$,25,1,Trentham,"Trentham, Wellington",Wellington,,148,-41.1297250000,175.0559060000,0,0
+La Buca,"Italian, Pizza, Ice Cream",3.5,Good,18,NZ$,40,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904900000,174.7741560000,0,0
+Zhou's Kitchen,"Chinese, Fish and Chips, Fast Food",3.5,Good,18,NZ$,25,1,Northland,"Northland, Wellington City",Wellington City,,148,-41.2833028878,174.7572087497,0,0
+Blue Island Seafoods,"Fish and Chips, Chinese, Fast Food",3.5,Good,17,NZ$,30,2,Moera,"Moera, Wellington",Wellington,,148,-41.2259250000,174.9055380000,0,0
+Hell Pizza,Pizza,3.5,Good,18,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2977490000,174.7729700000,0,0
+Noodle Canteen,Asian,3.5,Good,14,NZ$,30,2,Porirua Central,"Porirua Central, Wellington",Wellington,,148,-41.1350560000,174.8395440000,0,0
+Seafood Plus,"Fast Food, Fish and Chips, Chinese",3.5,Good,13,NZ$,25,1,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3131666667,174.8186666667,0,0
+Fish N Chips On Tory,"Fish and Chips, Fast Food",3.4,Average,29,NZ$,25,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2953333333,174.7800000000,0,0
+BurgerFuel,Burger,3.4,Average,27,NZ$,40,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2045000000,174.9121666667,0,0
+Bay's Takeaway,"Fast Food, Chinese, Fish and Chips",3.4,Average,23,NZ$,30,2,Island Bay,"Island Bay, Wellington City",Wellington City,,148,-41.3345000000,174.7735000000,0,0
+Smokin BBQ Grill,"Filipino, BBQ",3.4,Average,18,NZ$,25,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2902210000,174.7741790000,0,0
+Pratha 2 Go,"Malaysian, Indian",3.4,Average,19,NZ$,40,2,Kelburn,"Kelburn, Wellington City",Wellington City,6012,148,-41.2889245554,174.7619317845,0,0
+Real Kebabs,"Turkish, Fast Food",3.4,Average,20,NZ$,35,2,Karori,"Karori, Wellington City",Wellington City,,148,-41.2848333333,174.7371666667,0,0
+The Chicken Shack,"Fish and Chips, Chinese, Fast Food",3.4,Average,14,NZ$,30,2,Porirua East,"Porirua East, Wellington",Wellington,,148,-41.1387500000,174.8499620000,0,0
+The Roast Canteen,"Fast Food, British",3.4,Average,13,NZ$,35,2,Johnsonville,"Johnsonville, Wellington City",Wellington City,,148,-41.2221666667,174.8071666667,0,0
+Star Fish,"Fast Food, Fish and Chips",3.4,Average,13,NZ$,20,1,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2745502215,174.7780481726,0,0
+O'Sushi,"Sushi, Japanese",3.4,Average,15,NZ$,20,1,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3075828827,174.7781390324,0,0
+Alaturka Kebab & Coffee House,Turkish,3.4,Average,15,NZ$,45,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2821958303,174.7766973451,0,0
+Star of India,Indian,3.4,Average,12,NZ$,45,3,Paraparaumu Beach,"Paraparaumu Beach, Wellington",Wellington,,148,-40.8933580000,174.9806380000,0,0
+BurgerFuel,Burger,3.4,Average,15,NZ$,40,2,Porirua Central,"Porirua Central, Wellington",Wellington,,148,-41.1338270000,174.8397730000,0,0
+Zayaz Kebab,"Turkish, Pizza, Fast Food",3.4,Average,13,NZ$,30,2,Porirua East,"Porirua East, Wellington",Wellington,,148,-41.1391870000,174.8500020000,0,0
+CS Turkish Kebab & Pizza House,"Turkish, Pizza",3.4,Average,13,NZ$,35,2,Wainuiomata,"Wainuiomata, Wellington",Wellington,,148,-41.2616710000,174.9450040000,0,0
+BurgerFuel,Burger,3.4,Average,13,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2945000000,174.7750000000,0,0
+Kareem Indian Takeaway,Indian,3.4,Average,13,NZ$,45,3,Hataitai,"Hataitai, Wellington City",Wellington City,6022,148,-41.3043300000,174.7945650000,0,0
+A1 Roast,"British, Fast Food, Coffee and Tea",3.4,Average,11,NZ$,30,2,Naenae,"Naenae, Wellington",Wellington,,148,-41.1998333333,174.9476666667,0,0
+Pita Pit,"Healthy Food, Fast Food",3.4,Average,10,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2896666667,174.7760000000,0,0
+Taco Queen,"Mexican, Street Food",3.4,Average,8,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2939320000,174.7822610000,0,0
+Pizza Hut,"Pizza, Fast Food",3.4,Average,6,NZ$,30,2,Northland,"Northland, Wellington City",Wellington City,,148,-41.2832696310,174.7575520724,0,0
+Sushi Monster,"Japanese, Fish and Chips",3.3,Average,15,NZ$,30,2,Epuni,"Epuni, Wellington",Wellington,,148,-41.2030134858,174.9281660467,0,0
+Joes Cook,"Fast Food, Chinese",3.3,Average,22,NZ$,40,2,Miramar,"Miramar, Wellington City",Wellington City,6022,148,-41.3155000000,174.8148333333,0,0
+Every Good Cafe,"Chinese, Asian",3.3,Average,16,NZ$,50,3,Petone,"Petone, Wellington",Wellington,,148,-41.2258055600,174.8802514002,0,0
+Asian Takeaways,"Fast Food, Asian, Fish and Chips",3.3,Average,17,NZ$,25,1,Khandallah,"Khandallah, Wellington City",Wellington City,,148,-41.2469057807,174.7910890728,0,0
+TJ Katsu,"Japanese, Sushi",3.3,Average,19,NZ$,35,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2829934981,174.7773212940,0,0
+Spice Traders,"North Indian, South Indian, Indian",3.3,Average,14,NZ$,30,2,"Johnsonville Shopping Centre, Johnsonville","Johnsonville Shopping Centre, Johnsonville, Wellington City",Wellington City,,148,-41.2244393035,174.8015674576,0,0
+Zambrero,Mexican,3.3,Average,12,NZ$,30,2,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2103660578,174.9071586505,0,0
+Corfu Seafoods,"Fish and Chips, Fast Food",3.3,Average,19,NZ$,25,1,Karori,"Karori, Wellington City",Wellington City,,148,-41.2850000000,174.7365000000,0,0
+Aroy Thai Express,Thai,3.3,Average,10,NZ$,40,2,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2735470846,174.7784458101,0,0
+Bamboo,"Chinese, Asian",3.3,Average,16,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2926750000,174.7761040000,0,0
+St Pierre's Sushi,"Sushi, Japanese",3.3,Average,13,NZ$,30,2,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2098333333,174.9046666667,0,0
+Roast House,"British, Fast Food",3.3,Average,11,NZ$,35,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2056666667,174.9105000000,0,0
+Totara Park Fish & Chips,"Fish and Chips, Fast Food",3.3,Average,11,NZ$,30,2,Totara Park,"Totara Park, Wellington",Wellington,,148,-41.1106666667,175.0821666667,0,0
+Hell Pizza,Pizza,3.3,Average,10,NZ$,40,2,Newlands,"Newlands, Wellington City",Wellington City,,148,-41.2234410000,174.8230970000,0,0
+Domo Sushi,"Japanese, Sushi",3.3,Average,6,NZ$,30,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2842441491,174.7762688622,0,0
+St Pierre's Sushi,"Sushi, Japanese",3.3,Average,8,NZ$,30,2,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3073390899,174.7775295004,0,0
+Aunty Mei,Chinese,3.3,Average,8,NZ$,30,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904430000,174.7741790000,0,0
+Fangs Takeaway,"Fish and Chips, Asian, Fast Food",3.3,Average,14,NZ$,30,2,Karori,"Karori, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+Clock Tower Bakery & Coffee Shop,"Bakery, Fast Food, Coffee and Tea",3.3,Average,10,NZ$,30,2,Petone,"Petone, Wellington",Wellington,,148,-41.2253846915,174.8786078766,0,0
+One Sushi,"Sushi, Japanese",3.3,Average,7,NZ$,25,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904430000,174.7741790000,0,0
+Assyrian Kebab House,Middle Eastern,3.3,Average,12,NZ$,30,2,Paraparaumu,"Paraparaumu, Wellington",Wellington,,148,-40.9064060000,174.9972490000,0,0
+Hell Pizza,Pizza,3.3,Average,8,NZ$,40,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2066666667,174.9090000000,0,0
+Metro Miramar Seafood,"Fish and Chips, Chinese, Fast Food",3.3,Average,7,NZ$,35,2,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3137490000,174.8141200000,0,0
+Sushi Bi,"Sushi, Japanese",3.3,Average,7,NZ$,30,2,Pipitea,"Pipitea, Wellington City",Wellington City,,148,-41.2793280761,174.7794023529,0,0
+Subway,Fast Food,3.3,Average,10,NZ$,30,2,Karori,"Karori, Wellington City",Wellington City,,148,-41.2842170000,174.7387450000,0,0
+Carrello Del Gelato,Fast Food,3.3,Average,8,NZ$,35,2,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2904440000,174.7971470000,0,0
+Pita Pit,"Healthy Food, Fast Food",3.3,Average,7,NZ$,30,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2823333333,174.7773333333,0,0
+Hell Pizza,Pizza,3.3,Average,5,NZ$,40,2,Island Bay,"Island Bay, Wellington City",Wellington City,6023,148,-41.3342135232,174.7734136507,0,0
+Sushi Maru,"Sushi, Japanese",3.3,Average,7,NZ$,25,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2824094833,174.7775650397,0,0
+Ming Takeaways,"Fast Food, Chinese",3.3,Average,6,NZ$,0,1,Stokes Valley,"Stokes Valley, Wellington",Wellington,,148,-41.1837736814,174.9826205894,0,0
+Banh Mi,Vietnamese,3.9,Good,21,NZ$,40,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2903120000,174.7741740000,0,0
+Noodle Man - Lucia's Kitchen,"Chinese, Asian",3.8,Good,18,NZ$,25,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904430000,174.7741790000,0,0
+Where's Charlie,Vietnamese,3.7,Good,47,NZ$,25,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,6011,148,-41.2904310000,174.7741940000,0,0
+Mad Mex,"Fast Food, Mexican",3.7,Good,32,NZ$,40,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,,148,-41.2818333333,174.7760000000,0,0
+Sweet Release Cakes And Treats,"Desserts, Coffee and Tea",3.7,Good,21,NZ$,20,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,6011,148,-41.2896168270,174.7743292037,0,0
+Miss Kangsta,Korean,3.5,Good,28,NZ$,40,2,"Cable Car Shopping Centre, Wellington Central","Cable Car Shopping Centre, Wellington Central, Wellington City",Wellington City,,148,-41.2904270000,174.7741690000,0,0
+La Buca,"Italian, Pizza, Ice Cream",3.5,Good,18,NZ$,40,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904900000,174.7741560000,0,0
+Smokin BBQ Grill,"Filipino, BBQ",3.4,Average,18,NZ$,25,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2902210000,174.7741790000,0,0
+Spice Traders,"North Indian, South Indian, Indian",3.3,Average,14,NZ$,30,2,"Johnsonville Shopping Centre, Johnsonville","Johnsonville Shopping Centre, Johnsonville, Wellington City",Wellington City,,148,-41.2244393035,174.8015674576,0,0
+Aunty Mei,Chinese,3.3,Average,8,NZ$,30,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904430000,174.7741790000,0,0
+One Sushi,"Sushi, Japanese",3.3,Average,7,NZ$,25,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904430000,174.7741790000,0,0
+Shamiana,"North Indian, Indian",3.2,Average,17,NZ$,25,1,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2096666667,174.9048333333,0,0
+Sen Donburi,Japanese,3.2,Average,17,NZ$,30,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2097629807,174.9047912657,0,0
+Bento Bowl by St Pierre's,Japanese,3.2,Average,8,NZ$,30,2,"Cable Car Shopping Centre, Wellington Central","Cable Car Shopping Centre, Wellington Central, Wellington City",Wellington City,,148,-41.2843333333,174.7755000000,0,0
+Coriander,"Thai, Malaysian, Asian",3.2,Average,4,NZ$,35,2,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1373820000,174.8396700000,0,0
+BFG,Asian,3.2,Average,8,NZ$,20,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904350000,174.7741790000,0,0
+Masala Express,"North Indian, Indian",3.2,Average,10,NZ$,35,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2780677562,174.7763768211,0,0
+Sen Sushi,"Sushi, Japanese",3.2,Average,12,NZ$,35,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2098333333,174.9046666667,0,0
+Sjuice,Juices,3.2,Average,5,NZ$,15,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904350000,174.7741790000,0,0
+Capital Kebabs,Turkish,3.1,Average,9,NZ$,25,1,"Johnsonville Shopping Centre, Johnsonville","Johnsonville Shopping Centre, Johnsonville, Wellington City",Wellington City,,148,-41.2239851392,174.8000204936,0,0
+Roti Bay,"Sri Lankan, Healthy Food",3.1,Average,7,NZ$,30,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904350000,174.7741790000,0,0
+Royal Roast,"British, Fast Food",3.1,Average,11,NZ$,30,2,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1374630000,174.8398850000,0,0
+Yakitori Boy,"Japanese, BBQ",3.1,Average,4,NZ$,30,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,,148,-41.2780785908,174.7763754800,0,0
+Aroy Thai Express,Thai,3.1,Average,4,NZ$,40,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,,148,-41.2815639375,174.7763322294,0,0
+Kapai,"Healthy Food, Coffee and Tea, Juices",3.1,Average,5,NZ$,30,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,,148,-41.2818333333,174.7760000000,0,0
+Buoy Oh Buoy,"Fish and Chips, Fast Food",3.0,Average,5,NZ$,30,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2902010000,174.7741580000,0,0
+Eat Asian Malaysian,"Malaysian, Chinese, Asian",3.0,Average,7,NZ$,30,2,"Courtenay Central, Te Aro","Courtenay Central, Te Aro, Wellington",Wellington,,148,-41.2925600000,174.7798370000,0,0
+Bubble Central,"Beverages, Desserts, Taiwanese",3.0,Average,3,NZ$,20,1,"Courtenay Central, Te Aro","Courtenay Central, Te Aro, Wellington",Wellington,,148,-41.2930000000,174.7800000000,0,0
+Native Thai,Thai,3.0,Average,2,NZ$,35,2,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2850458229,174.7781182453,0,0
+Shin Ju,"Japanese, Sushi",3.0,Average,2,NZ$,30,2,"Courtenay Central, Te Aro","Courtenay Central, Te Aro, Wellington",Wellington,,148,-41.2925600000,174.7798370000,0,0
+Tank Juice Bar,"Juices, Healthy Food",2.9,Average,11,NZ$,35,2,"Courtenay Central, Te Aro","Courtenay Central, Te Aro, Wellington",Wellington,,148,-41.2925600000,174.7798370000,0,0
+Wok's Up,Chinese,2.9,Average,8,NZ$,30,2,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2098930000,174.9066990000,0,0
+Rutherford Roasts,"British, Fast Food",2.9,Average,8,NZ$,35,2,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2098333333,174.9050000000,0,0
+Billie Chu,"Vietnamese, Thai, Street Food, Asian",2.9,Average,6,NZ$,30,2,"Wellington International Airport, Rongotai","Wellington International Airport, Rongotai, Wellington City",Wellington City,6022,148,-41.3290245231,174.8108676821,0,0
+Kebabs On Queen,"Turkish, Fast Food",2.9,Average,7,NZ$,30,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,,148,-41.2780677562,174.7763768211,0,0
+McDonald's,Fast Food,2.9,Average,3,NZ$,20,1,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2096666667,174.9046666667,0,0
+Kapai,"Healthy Food, Coffee and Tea, Juices",2.9,Average,5,NZ$,30,2,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2883333333,174.7766666667,0,0
+The Garden,"Sushi, Japanese",2.9,Average,4,NZ$,25,1,"Cable Car Shopping Centre, Wellington Central","Cable Car Shopping Centre, Wellington Central, Wellington City",Wellington City,,148,-41.2841267441,174.7757441550,0,0
+Bento Bowl by St Pierre's,Japanese,2.9,Average,3,NZ$,35,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,,148,-41.2818333333,174.7760000000,0,0
+McDonald's,Fast Food,2.9,Average,2,NZ$,20,1,"Johnsonville Shopping Centre, Johnsonville","Johnsonville Shopping Centre, Johnsonville, Wellington City",Wellington City,,148,-41.2229890000,174.8064530000,0,0
+McDonald's,Fast Food,2.9,Average,2,NZ$,20,1,"Courtenay Central, Te Aro","Courtenay Central, Te Aro, Wellington",Wellington,,148,-41.2925600000,174.7798370000,0,0
+Good Taste,Thai,2.8,Average,7,NZ$,25,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904430000,174.7741790000,0,0
+Tank Juice Bar,"Juices, Healthy Food",2.8,Average,6,NZ$,35,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,6011,148,-41.2780677562,174.7763768211,0,0
+The Bean Hive,Cafe Food,2.8,Average,4,NZ$,30,2,"Wellington International Airport, Rongotai","Wellington International Airport, Rongotai, Wellington City",Wellington City,6022,148,-41.3289170000,174.8116160000,0,0
+Caffe Viva,"Bakery, Cafe Food",2.8,Average,4,NZ$,35,2,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2850458229,174.7781182453,0,0
+Wendy's Supa Sundaes,"Ice Cream, Desserts",2.8,Average,4,NZ$,20,1,"Courtenay Central, Te Aro","Courtenay Central, Te Aro, Wellington",Wellington,,148,-41.2930000000,174.7801666667,0,0
+Jimbom,"Turkish, Pizza, Italian",2.8,Average,2,NZ$,35,2,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2850919276,174.7780830413,0,0
+Golden City,Chinese,2.8,Average,3,NZ$,35,2,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2850458229,174.7781182453,0,0
+Muffin Break,Cafe Food,2.8,Average,2,NZ$,40,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,,148,-41.2780982441,174.7763704509,0,0
+China Chow,Chinese,2.8,Average,2,NZ$,30,2,"Courtenay Central, Te Aro","Courtenay Central, Te Aro, Wellington",Wellington,,148,-41.2925600000,174.7798370000,0,0
+BBQ Sizzler Foods,Fast Food,2.8,Average,2,NZ$,30,2,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2885000000,174.7763333333,0,0
+Burger King,Fast Food,2.8,Average,2,NZ$,25,1,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2098333333,174.9050000000,0,0
+Subway,Fast Food,2.8,Average,2,NZ$,30,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,,148,-41.2818333333,174.7761666667,0,0
+Subway,Fast Food,2.8,Average,0,NZ$,30,2,"Cable Car Shopping Centre, Wellington Central","Cable Car Shopping Centre, Wellington Central, Wellington City",Wellington City,,148,-41.2845000000,174.7756666667,0,0
+Magic Wok,"Chinese, Asian",2.7,Average,6,NZ$,35,2,"Johnsonville Shopping Centre, Johnsonville","Johnsonville Shopping Centre, Johnsonville, Wellington City",Wellington City,,148,-41.2240282610,174.8007614538,0,0
+Muffin Break,Cafe Food,2.7,Average,8,NZ$,40,2,"Johnsonville Shopping Centre, Johnsonville","Johnsonville Shopping Centre, Johnsonville, Wellington City",Wellington City,,148,-41.2240217045,174.8005277663,0,0
+Subway,Fast Food,2.7,Average,3,NZ$,30,2,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2103333333,174.9068333333,0,0
+St Pierre's Sushi,"Sushi, Japanese",2.7,Average,5,NZ$,30,2,"Cable Car Shopping Centre, Wellington Central","Cable Car Shopping Centre, Wellington Central, Wellington City",Wellington City,,148,-41.2845205286,174.7755507007,0,0
+Red Rocks,"Fast Food, Cafe Food",2.7,Average,5,NZ$,40,2,"Wellington International Airport, Rongotai","Wellington International Airport, Rongotai, Wellington City",Wellington City,6022,148,-41.3290212501,174.8109696060,0,0
+Sushiya,"Sushi, Japanese",2.7,Average,4,NZ$,20,1,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1372130000,174.8399230000,0,0
+Umi Sushi,"Sushi, Japanese",2.7,Average,3,NZ$,25,1,"Johnsonville Shopping Centre, Johnsonville","Johnsonville Shopping Centre, Johnsonville, Wellington City",Wellington City,,148,-41.2233547005,174.8029471189,0,0
+Pho Bac,Vietnamese,2.6,Average,11,NZ$,25,1,"Johnsonville Shopping Centre, Johnsonville","Johnsonville Shopping Centre, Johnsonville, Wellington City",Wellington City,,148,-41.2239092347,174.8061825335,0,0
+Coriander,"Thai, Malaysian, Asian",2.6,Average,9,NZ$,40,2,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2098706825,174.9048935249,0,0
+Golden Girl,"Chinese, Asian",2.6,Average,9,NZ$,35,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,,148,-41.2818317620,174.7759292275,0,0
+Maki Mono,"Sushi, Japanese",2.6,Average,6,NZ$,25,1,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2850458229,174.7781182453,0,0
+McDonald's,Fast Food,2.6,Average,7,NZ$,20,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2843333333,174.7756666667,0,0
+St Pierre's Sushi,"Sushi, Japanese",2.6,Average,3,NZ$,30,2,"Lambton Square & Eatery, Wellington Central","Lambton Square & Eatery, Wellington Central, Wellington City",Wellington City,,148,-41.2817120000,174.7756200000,0,0
+Satay Delights,Malaysian,2.5,Average,15,NZ$,35,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904270000,174.7741690000,0,0
+KL Malaysian Food Stall,Malaysian,2.5,Average,9,NZ$,0,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2904310000,174.7741790000,0,0
+Don Taco,Mexican,2.5,Average,11,NZ$,30,2,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2885000000,174.7763333333,0,0
+Kebab  Queen,Turkish,2.5,Average,6,NZ$,30,2,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2865057912,174.7762963548,0,0
+Tulsi,Indian,2.4,Poor,10,NZ$,35,2,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2868456479,174.7769565135,0,0
+Chef's Palette,Asian,2.4,Poor,13,NZ$,20,1,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2850533810,174.7781081870,0,0
+Indian Taj,Indian,2.3,Poor,17,NZ$,30,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904350000,174.7741790000,0,0
+Spice Traders,"North Indian, South Indian, Indian",2.2,Poor,27,NZ$,30,2,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2098333333,174.9070000000,0,0
+Capital Bar,Asian,0,Not rated,1,NZ$,35,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904310000,174.7741830000,0,0
+Kansas City BBQ Express,American,0,Not rated,3,NZ$,40,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904350000,174.7741790000,0,0
+Taste of Vietnam,Vietnamese,0,Not rated,3,NZ$,25,1,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2852186526,174.7778905928,0,0
+Muffin Break,Cafe Food,0,Not rated,3,NZ$,40,2,"Coastlands Shoppingtown, Paraparaumu","Coastlands Shoppingtown, Paraparaumu, Wellington",Wellington,,148,-40.9164380000,175.0048400000,0,0
+Quality Kebabs,Middle Eastern,0,Not rated,3,NZ$,25,1,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1374470000,174.8399390000,0,0
+Orb Espresso Bar,Cafe Food,0,Not rated,3,NZ$,0,1,"Wellington International Airport, Rongotai","Wellington International Airport, Rongotai, Wellington City",Wellington City,6022,148,-41.3289170000,174.8116160000,0,0
+Wishbone,"Healthy Food, Deli, Coffee and Tea",0,Not rated,3,NZ$,25,1,"Wellington International Airport, Rongotai","Wellington International Airport, Rongotai, Wellington City",Wellington City,6022,148,-41.3289170000,174.8116160000,0,0
+Tulsi Express,Indian,0,Not rated,3,NZ$,35,2,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1372290000,174.8399120000,0,0
+LJ's,"Fish and Chips, Seafood",0,Not rated,3,NZ$,35,2,"Coastlands Shoppingtown, Paraparaumu","Coastlands Shoppingtown, Paraparaumu, Wellington",Wellington,,148,-40.9161770000,175.0048440000,0,0
+Fresh Bites,"Healthy Food, Juices",0,Not rated,1,NZ$,30,2,"Wellington International Airport, Rongotai","Wellington International Airport, Rongotai, Wellington City",Wellington City,6022,148,-41.3290524694,174.8110326380,0,0
+Gourmet Express,Asian,0,Not rated,2,NZ$,40,2,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2867360000,174.7762790000,0,0
+Golden City Chinese Food,"Asian, Chinese, Fast Food",0,Not rated,1,NZ$,40,2,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1373100000,174.8398320000,0,0
+Bun Bun,Asian,0,Not rated,1,NZ$,30,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2902010000,174.7741580000,0,0
+Japanese Bento,Japanese,0,Not rated,2,NZ$,30,2,"Taste On Willis, Wellington Central","Taste On Willis, Wellington Central, Wellington City",Wellington City,,148,-41.2866550000,174.7762710000,0,0
+Curry Capital,"Indian, Malaysian, Thai, Singaporean",0,Not rated,1,NZ$,45,3,"Wellington International Airport, Rongotai","Wellington International Airport, Rongotai, Wellington City",Wellington City,6022,148,-41.3289620844,174.8111392558,0,0
+Tank Juice Bar,"Juices, Healthy Food",0,Not rated,1,NZ$,35,2,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,5022,148,-41.1372130000,174.8399230000,0,0
+Welly Waffles,Desserts,0,Not rated,1,NZ$,20,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904430000,174.7741790000,0,0
+Jianbinj,Chinese,0,Not rated,1,NZ$,25,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904430000,174.7741740000,0,0
+Sen Sushi,"Sushi, Japanese",0,Not rated,0,NZ$,35,2,"Coastlands Shoppingtown, Paraparaumu","Coastlands Shoppingtown, Paraparaumu, Wellington",Wellington,,148,-40.9161770000,175.0048440000,0,0
+Shamiana,"North Indian, Indian",0,Not rated,0,NZ$,25,1,"Coastlands Shoppingtown, Paraparaumu","Coastlands Shoppingtown, Paraparaumu, Wellington",Wellington,,148,-40.9161770000,175.0048440000,0,0
+Hungry Wok,Chinese,0,Not rated,1,NZ$,30,2,"Coastlands Shoppingtown, Paraparaumu","Coastlands Shoppingtown, Paraparaumu, Wellington",Wellington,,148,-40.9161770000,175.0048440000,0,0
+Bao Boy,Asian,0,Not rated,0,NZ$,30,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2881730000,174.7750420000,0,0
+Pita Pit,"Healthy Food, Fast Food",0,Not rated,1,NZ$,30,2,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1372330000,174.8399330000,0,0
+McDonald's,Fast Food,0,Not rated,0,NZ$,20,1,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1372050000,174.8399170000,0,0
+Peckz BBQ,Kiwi,0,Not rated,0,NZ$,30,2,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2903020000,174.7741630000,0,0
+Louis Sergeant Sweet Couture,"French, Desserts, Cafe Food",4.4,Very Good,110,NZ$,70,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2830668146,174.7770104930,0,0
+The Little Waffle Shop,Desserts,4.4,Very Good,72,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936560000,174.7813010000,0,0
+Kaffee Eis,"Ice Cream, Desserts, Cafe Food",4.1,Very Good,61,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936666667,174.7820000000,0,0
+Zany Zeus,"Coffee and Tea, Ice Cream, Deli",3.9,Good,39,NZ$,30,2,Moera,"Moera, Wellington",Wellington,,148,-41.2260720000,174.9056760000,0,0
+Kaffee Eis,"Ice Cream, Desserts, Cafe Food",3.9,Good,40,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936620000,174.7753030000,0,0
+Gelissimo Gelato,"Ice Cream, Desserts",3.8,Good,18,NZ$,20,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2896563897,174.7798036784,0,0
+Martha's Pantry,"Desserts, Kiwi, Cafe Food",3.7,Good,58,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2968333333,174.7731666667,0,0
+Sweet Release Cakes And Treats,"Desserts, Coffee and Tea",3.7,Good,21,NZ$,20,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,6011,148,-41.2896168270,174.7743292037,0,0
+My French Larder,"French, Desserts",3.7,Good,21,NZ$,40,2,Petone,"Petone, Wellington",Wellington,5012,148,-41.2246849191,174.8762056231,0,0
+Bohemein Fresh Chocolates,"Desserts, Coffee and Tea",3.7,Good,12,NZ$,20,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,6011,148,-41.2818934900,174.7776867449,0,0
+Butler's Chocolate Cafe,"Desserts, Cafe Food",3.5,Good,26,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2888333333,174.7745000000,0,0
+Crumpet The Boon Brothers Trading Co.,"Finger Food, Desserts",3.5,Good,24,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2918333333,174.7776666667,0,0
+Wellington Chocolate Factory,"Desserts, Coffee and Tea",3.5,Good,10,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2925960000,174.7773590000,0,0
+Crazy Cakes & Donuts,"Desserts, Bakery",3.5,Good,15,NZ$,20,1,Petone,"Petone, Wellington",Wellington,,148,-41.2263333333,174.8816666667,0,0
+Kaffee Eis,"Ice Cream, Desserts, Cafe Food",3.5,Good,15,NZ$,30,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2879433052,174.7792273387,0,0
+Meet Fresh,"Taiwanese, Desserts",3.4,Average,18,NZ$,35,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2941360000,174.7828640000,0,0
+Berry Culture Frozen Yoghurt,Desserts,3.4,Average,9,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2951360000,174.7802180000,0,0
+Kaffee Eis,"Ice Cream, Coffee and Tea",3.4,Average,13,NZ$,20,1,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2913950000,174.7944480000,0,0
+Yogurt Story,Desserts,3.2,Average,5,NZ$,20,1,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2100540000,174.9066830000,0,0
+Butler's Chocolate Cafe,"Desserts, Cafe Food",3.1,Average,9,NZ$,30,2,"Coastlands Shoppingtown, Paraparaumu","Coastlands Shoppingtown, Paraparaumu, Wellington",Wellington,,148,-40.9165080000,175.0046860000,0,0
+Raglan Roast Coffee,"Coffee and Tea, Ice Cream, Cafe Food",3.1,Average,8,NZ$,25,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2909550000,174.7848820000,0,0
+The Chocolate Story,"French, Desserts, Cafe Food",3.1,Average,4,NZ$,20,1,Petone,"Petone, Wellington",Wellington,,148,-41.2251702609,174.8783502036,0,0
+Crazy Cakes & Donuts,"Desserts, Bakery",3.1,Average,5,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2898333333,174.7751666667,0,0
+Bubble Central,"Beverages, Desserts, Taiwanese",3.0,Average,3,NZ$,20,1,"Courtenay Central, Te Aro","Courtenay Central, Te Aro, Wellington",Wellington,,148,-41.2930000000,174.7800000000,0,0
+Bernie's On The Bay,"Coffee and Tea, Juices, Ice Cream",3.0,Average,4,NZ$,20,1,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2912960000,174.7895270000,0,0
+Zuzu's Gelato,"Ice Cream, Desserts",2.9,Average,5,NZ$,15,1,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2098930000,174.9066990000,0,0
+Wendy's Supa Sundaes,"Ice Cream, Desserts",2.9,Average,3,NZ$,20,1,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2098333333,174.9046666667,0,0
+Wendy's Supa Sundaes,"Ice Cream, Desserts",2.9,Average,3,NZ$,20,1,"Johnsonville Shopping Centre, Johnsonville","Johnsonville Shopping Centre, Johnsonville, Wellington City",Wellington City,,148,-41.2233590000,174.8063170000,0,0
+Butler's Chocolate Cafe,"Desserts, Cafe Food",2.8,Average,4,NZ$,30,2,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1372330000,174.8399330000,0,0
+Donut King,Desserts,2.8,Average,4,NZ$,20,1,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2100000000,174.9060000000,0,0
+Wendy's Supa Sundaes,"Ice Cream, Desserts",2.8,Average,4,NZ$,20,1,"Courtenay Central, Te Aro","Courtenay Central, Te Aro, Wellington",Wellington,,148,-41.2930000000,174.7801666667,0,0
+Wendy's Supa Sundaes,"Ice Cream, Desserts",2.8,Average,1,NZ$,20,1,"The Mall, Upper Hutt Central","The Mall, Upper Hutt Central, Wellington",Wellington,,148,-41.1237440000,175.0730190000,0,0
+The Frogurt Store,Desserts,2.6,Average,11,NZ$,10,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2930330000,174.7794240000,0,0
+Mrs. Higgins,"Desserts, Bakery",2.5,Average,16,NZ$,25,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2816818510,174.7766507417,0,0
+Butler's Chocolate Cafe,"Desserts, Cafe Food",2.4,Poor,18,NZ$,30,2,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2101666667,174.9068333333,0,0
+Wendy's Supa Sundaes,"Ice Cream, Desserts",0,Not rated,2,NZ$,20,1,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1372330000,174.8399330000,0,0
+L'amour en cage,"Desserts, Cafe Food",0,Not rated,2,NZ$,45,3,Raumati Beach,"Raumati Beach, Wellington",Wellington,,148,-40.9191770000,174.9813120000,0,0
+Raw Planet,"Healthy Food, Juices, Ice Cream",0,Not rated,0,NZ$,20,1,Paraparaumu Beach,"Paraparaumu Beach, Wellington",Wellington,,148,-40.8937790000,174.9798080000,0,0
+Koru Ice,"Ice Cream, Coffee and Tea",0,Not rated,2,NZ$,25,1,Te Horo,"Te Horo, Wellington",Wellington,,148,-40.7777100000,175.1402340000,0,0
+Crazy Ice Cream,"Ice Cream, Juices",0,Not rated,1,NZ$,20,1,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1372930000,174.8394990000,0,0
+Yogurt Story,Desserts,0,Not rated,1,NZ$,20,1,North City Shopping Centre - Porirua Central,"North City Shopping Centre - Porirua Central, Wellington",Wellington,,148,-41.1371920000,174.8399550000,0,0
+Welly Waffles,Desserts,0,Not rated,1,NZ$,20,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904430000,174.7741790000,0,0
+Schoc Chocolates,Desserts,0,Not rated,1,NZ$,15,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2819254878,174.7769769654,0,0
+Top Hat Ice Cream Parlour,Ice Cream,0,Not rated,1,NZ$,15,1,Wainuiomata,"Wainuiomata, Wellington",Wellington,,148,-41.2728520000,174.9543890000,0,0
+Devon Sweets,"Coffee and Tea, Ice Cream",0,Not rated,0,NZ$,20,1,Woburn,"Woburn, Wellington",Wellington,,148,-41.2173940000,174.9047780000,0,0
+Wendy's Supa Sundaes,"Ice Cream, Desserts",0,Not rated,0,NZ$,20,1,"Coastlands Shoppingtown, Paraparaumu","Coastlands Shoppingtown, Paraparaumu, Wellington",Wellington,,148,-40.9165970000,175.0046860000,0,0
+The Silky Oak Chocolate Company,Desserts,0,Not rated,0,NZ$,20,1,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2103120000,174.9030090000,0,0
+Organic Chocolate Boutique,"Desserts, Coffee and Tea, Ice Cream",0,Not rated,0,NZ$,25,1,Waikanae Beach,"Waikanae Beach, Wellington",Wellington,,148,-40.8660980000,175.0285690000,0,0
+Schoc Chocolates,Desserts,0,Not rated,0,NZ$,15,1,Greytown,"Greytown, Wellington",Wellington,5712,148,-41.0855440000,175.4549560000,0,0
+The Bresolin,European,4.1,Very Good,69,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2946790000,174.7712670000,0,0
+The Green Man Pub,"European, Kiwi",4.0,Very Good,68,NZ$,80,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2868685737,174.7769669071,0,0
+Leuven Belgian Beer Cafe,"European, Kiwi",3.9,Good,84,NZ$,90,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,6011,148,-41.2863333333,174.7763333333,0,0
+The General Practitioner,"Kiwi, European",3.9,Good,68,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2888333333,174.7746666667,0,0
+The Thistle Inn,"Kiwi, European",3.9,Good,53,NZ$,80,4,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2776700000,174.7796320000,0,0
+Speight's Ale House,"Kiwi, Finger Food",3.8,Good,82,NZ$,55,3,Petone,"Petone, Wellington",Wellington,,148,-41.2236660000,174.8743380000,0,0
+Hotel Bristol,"Kiwi, European",3.7,Good,50,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2929870000,174.7758770000,0,0
+The Pickle Jar,"Kiwi, Pizza",3.7,Good,23,NZ$,60,3,Karori,"Karori, Wellington City",Wellington City,,148,-41.2841666667,174.7370000000,0,0
+The Backbencher,Kiwi,3.6,Good,31,NZ$,70,4,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2776030000,174.7778110000,0,0
+The Cambridge Hotel,"Kiwi, European, Finger Food",3.6,Good,7,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2951250000,174.7829420000,0,0
+Five Stags,"Kiwi, European",3.5,Good,49,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2924810000,174.7784330000,0,0
+One Fat Bird,"Kiwi, European",3.5,Good,18,NZ$,70,4,Karori,"Karori, Wellington City",Wellington City,,148,-41.2824920000,174.7449180000,0,0
+Welsh Dragon Bar,"British, Finger Food",3.5,Good,12,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2937210000,174.7840120000,0,0
+Sprig & Fern,"Finger Food, Pizza",3.5,Good,16,NZ$,60,3,Petone,"Petone, Wellington",Wellington,,148,-41.2240900436,174.8746948689,0,0
+Pukemanu Tavern & Restaurant,"Kiwi, Finger Food",3.5,Good,12,NZ$,55,3,Martinborough,"Martinborough, Wellington",Wellington,5711,148,-41.2190789045,175.4599605873,0,0
+Quinn's Post Tavern,"Kiwi, Finger Food",3.4,Average,37,NZ$,45,3,Upper Hutt Central,"Upper Hutt Central, Wellington",Wellington,,148,-41.1268333333,175.0531666667,0,0
+The Speight's Ale House,Kiwi,3.4,Average,34,NZ$,90,4,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2783020000,174.7699550000,0,0
+Siglo,European,3.4,Average,14,NZ$,60,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2935880000,174.7825940000,0,0
+Malthouse,Finger Food,3.4,Average,22,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2935030000,174.7816090000,0,0
+The Pub,Kiwi,3.4,Average,14,NZ$,60,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2821744146,174.7750243172,0,0
+Eva Beva,"Grill, Finger Food",3.3,Average,10,NZ$,0,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+Gladstone Inn,Kiwi,3.3,Average,8,NZ$,75,4,Carterton,"Carterton, Wellington",Wellington,,148,-41.0725570000,175.6312240000,0,0
+Four Kings,"Kiwi, Finger Food",3.2,Average,21,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2930000000,174.7786666667,0,0
+Martinborough Hotel Bar & Grill,"Kiwi, European",3.2,Average,13,NZ$,75,4,Martinborough,"Martinborough, Wellington",Wellington,5711,148,-41.2180312855,175.4589366540,0,0
+Sprig & Fern,"Finger Food, Pizza",3.2,Average,11,NZ$,60,3,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2788020000,174.7690870000,0,0
+The Innkeeper,"Kiwi, European, Finger Food",3.1,Average,13,NZ$,55,3,Johnsonville,"Johnsonville, Wellington City",Wellington City,,148,-41.2247376230,174.8066304624,0,0
+The Churchill,British,3.1,Average,6,NZ$,80,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2803160000,174.7755800000,0,0
+The Conservatory,"Kiwi, Finger Food",3.1,Average,8,NZ$,110,4,"Angus Inn, Lower Hutt Central","Angus Inn, Lower Hutt Central, Wellington",Wellington,,148,-41.2095000000,174.9081666667,0,0
+The Jolly Pub,"European, Kiwi",3.1,Average,4,NZ$,60,3,Paraparaumu Beach,"Paraparaumu Beach, Wellington",Wellington,,148,-40.8869570000,175.0017080000,0,0
+Turkey Red Greytown Country Hotel,"Kiwi, European",3.1,Average,5,NZ$,50,3,Greytown,"Greytown, Wellington",Wellington,5712,148,-41.0781069418,175.4630250111,0,0
+The Bruhaus,"Kiwi, Finger Food",3.0,Average,50,NZ$,80,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2850498539,174.7781145573,0,0
+Kelburn Village Pub,"European, Kiwi",3.0,Average,26,NZ$,60,3,Kelburn,"Kelburn, Wellington City",Wellington City,,148,-41.2893117610,174.7621010989,0,0
+Lovelocks Sports Bar,Pizza,2.9,Average,2,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2890000000,174.7756666667,0,0
+The Corner Bar,Chinese,2.9,Average,1,NZ$,50,3,Kilbirnie,"Kilbirnie, Wellington City",Wellington City,,148,-41.3178333333,174.7951666667,0,0
+Sandbar Pub,"Kiwi, European",2.7,Average,17,NZ$,70,4,Mana,"Mana, Wellington",Wellington,,148,-41.0919860000,174.8677110000,0,0
+The Waterloo Bar & Grill,"European, Kiwi",2.7,Average,7,NZ$,70,4,Pipitea,"Pipitea, Wellington City",Wellington City,,148,-41.2805000000,174.7803333333,0,0
+Big Dogs on Blair,"Pizza, European",2.5,Average,43,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2930000000,174.7831666667,0,0
+Messines Bar & Restaurant,Kiwi,0,Not rated,3,NZ$,60,3,Featherston,"Featherston, Wellington",Wellington,5710,148,-41.1175754825,175.3282433376,0,0
+Fitzroy Tavern,"Finger Food, Kiwi",0,Not rated,3,NZ$,50,3,Wainuiomata,"Wainuiomata, Wellington",Wellington,,148,-41.2584370000,174.9446110000,0,0
+Greytown Hotel,"European, Pizza, Kiwi",0,Not rated,2,NZ$,70,4,Greytown,"Greytown, Wellington",Wellington,5712,148,-41.0768200000,175.4646640000,0,0
+Caroline,American,0,Not rated,2,NZ$,45,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+Joxer Dalys Steak & Ale House,"Steak, Kiwi",0,Not rated,2,NZ$,65,3,Masterton,"Masterton, Wellington",Wellington,,148,-40.9502280000,175.6601470000,0,0
+The Station Sports Cafe & Bar,"Kiwi, Finger Food",0,Not rated,1,NZ$,50,3,"Station Village Complex, Alicetown,","Station Village Complex, Alicetown,, Wellington",Wellington,,148,-41.2119580000,174.8898660000,0,0
+The Newlands Arms,"Finger Food, Kiwi",0,Not rated,2,NZ$,50,3,Newlands,"Newlands, Wellington City",Wellington City,,148,-41.2232980000,174.8216500000,0,0
+The Tele,Finger Food,0,Not rated,1,NZ$,0,1,Otaki,"Otaki, Wellington",Wellington,,148,-40.7520090000,175.1369050000,0,0
+Horse & Hound,"Kiwi, European",0,Not rated,0,NZ$,50,3,Masterton,"Masterton, Wellington",Wellington,,148,-40.9515310000,175.6588120000,0,0
+The Blackstag,Finger Food,0,Not rated,0,NZ$,0,1,Paraparaumu,"Paraparaumu, Wellington",Wellington,,148,-40.9154040000,175.0060410000,0,0
+EV's Bar,"Finger Food, Pizza",0,Not rated,0,NZ$,45,3,Carterton,"Carterton, Wellington",Wellington,,148,-41.0228012314,175.5284196138,0,0
+The Tote Bar,European,0,Not rated,0,NZ$,100,4,Trentham,"Trentham, Wellington",Wellington,,148,-41.1376240000,175.0371420000,0,0
+The Family Hotel,Finger Food,0,Not rated,0,NZ$,35,2,Otaki,"Otaki, Wellington",Wellington,,148,-40.7520800000,175.1381580000,0,0
+Pinetree Arms,"Pizza, Finger Food",0,Not rated,0,NZ$,45,3,Paraparaumu Beach,"Paraparaumu Beach, Wellington",Wellington,,148,-40.8942420000,174.9808740000,0,0
+The Marquis Of Normandy Hotel,Finger Food,0,Not rated,0,NZ$,55,3,Carterton,"Carterton, Wellington",Wellington,,148,-41.0241484216,175.5283733457,0,0
+Kuripuni Sports Bar,Finger Food,0,Not rated,0,NZ$,55,3,Masterton,"Masterton, Wellington",Wellington,,148,-40.9581750000,175.6481950000,0,0
+Whakataki Hotel,Kiwi,0,Not rated,0,NZ$,65,3,Whakataki,"Whakataki, Wellington",Wellington,,148,-40.8650200000,176.2178540000,0,0
+Sixes & Sevens,"Bakery, Cafe Food",4.0,Very Good,21,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2928420000,174.7788550000,0,0
+Daily Bread Bakery,"Bakery, Coffee and Tea",3.9,Good,28,NZ$,25,1,Waiwhetū,"Waiwhetū, Wellington",Wellington,,148,-41.2239160000,174.9143990000,0,0
+Leeds Street Bakery,"Bakery, Cafe Food",3.8,Good,25,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2926610000,174.7770210000,0,0
+Sweet Bakery & Cakery,"Bakery, Desserts, Coffee and Tea",3.7,Good,18,NZ$,40,2,Karori,"Karori, Wellington City",Wellington City,,148,-41.2824950000,174.7458350000,0,0
+Pandoro Panetteria,"Bakery, Cafe Food",3.7,Good,21,NZ$,45,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2886420000,174.7752250000,0,0
+Arobake,"Bakery, Coffee and Tea",3.7,Good,20,NZ$,20,1,Aro Valley,"Aro Valley, Wellington City",Wellington City,6021,148,-41.2955080000,174.7671640000,0,0
+Olde Beach Bakery,"Bakery, Coffee and Tea",3.6,Good,15,NZ$,25,1,Waikanae Beach,"Waikanae Beach, Wellington",Wellington,,148,-40.8657130000,175.0263430000,0,0
+Pandoro Panetteria,"Bakery, Cafe Food",3.6,Good,18,NZ$,45,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2820144263,174.7753079608,0,0
+Top One Cafe,"Bakery, Cafe Food",3.6,Good,16,NZ$,30,2,Petone,"Petone, Wellington",Wellington,,148,-41.2253630050,174.8782390729,0,0
+Taste of Europe,"Bakery, Coffee and Tea",3.6,Good,17,NZ$,25,1,Fairfield,"Fairfield, Wellington",Wellington,,148,-41.2115590000,174.9326280000,0,0
+Penny's,"Deli, Bakery",3.5,Good,18,NZ$,25,1,Karori,"Karori, Wellington City",Wellington City,,148,-41.2850000000,174.7361666667,0,0
+The Clareville Bakery,"Bakery, Cafe Food",3.5,Good,9,NZ$,50,3,Clareville,"Clareville, Wellington",Wellington,,148,-41.0109900000,175.5459920000,0,0
+Pandoro Panetteria,"Bakery, Cafe Food",3.5,Good,18,NZ$,45,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2925080000,174.7825550000,0,0
+The French Baker,"French, Bakery, Coffee and Tea",3.5,Good,15,NZ$,45,3,Greytown,"Greytown, Wellington",Wellington,5712,148,-41.0797340362,175.4613157734,0,0
+Le Moulin,"Bakery, French",3.4,Average,15,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2941300000,174.7717600000,0,0
+Cosy Cake Shop,Bakery,3.4,Average,12,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2914700000,174.7773300000,0,0
+Lady Luck,"Bakery, Coffee and Tea",3.4,Average,10,NZ$,20,1,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3215171002,174.8128005490,0,0
+Cupcakes Cafe & Bakery,"Bakery, Fast Food, Cafe Food",3.4,Average,7,NZ$,40,2,Kilbirnie,"Kilbirnie, Wellington City",Wellington City,,148,-41.3178488065,174.7945414111,0,0
+Supreme Bakery,"Bakery, Coffee and Tea",3.3,Average,12,NZ$,25,1,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3155000000,174.8166666667,0,0
+Wild Oats Bakery-Deli-Cafe,"Bakery, Deli, Cafe Food",3.3,Average,9,NZ$,50,3,Carterton,"Carterton, Wellington",Wellington,,148,-41.0227780000,175.5292610000,0,0
+Clock Tower Bakery & Coffee Shop,"Bakery, Fast Food, Coffee and Tea",3.3,Average,10,NZ$,30,2,Petone,"Petone, Wellington",Wellington,,148,-41.2253846915,174.8786078766,0,0
+Jo's,"Bakery, Coffee and Tea",3.3,Average,9,NZ$,25,1,Brooklyn,"Brooklyn, Wellington City",Wellington City,,148,-41.3048780000,174.7651560000,0,0
+S.M Bakery & Cafe,"Bakery, Cafe Food",3.3,Average,3,NZ$,35,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2920640000,174.7748150000,0,0
+Baker Gramercy,Bakery,3.3,Average,7,NZ$,20,1,Berhampore,"Berhampore, Wellington City",Wellington City,6023,148,-41.3204020000,174.7751030000,0,0
+Mr Bun Cafe,"Bakery, Fast Food, Cafe Food",3.3,Average,7,NZ$,40,2,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3160000000,174.8168333333,0,0
+The Pink Pineapple,"Bakery, Fast Food, Coffee and Tea",3.2,Average,11,NZ$,20,1,Tawa,"Tawa, Wellington City",Wellington City,,148,-41.1694266854,174.8250451684,0,0
+Ten O'Clock Cookie Bakery - Cafe,"Bakery, Ice Cream, Cafe Food",3.2,Average,9,NZ$,45,3,Masterton,"Masterton, Wellington",Wellington,,148,-40.9505290000,175.6601510000,0,0
+Island Bay Bakery,"Bakery, Coffee and Tea",3.2,Average,7,NZ$,25,1,Island Bay,"Island Bay, Wellington City",Wellington City,6023,148,-41.3340785857,174.7734753415,0,0
+Patisserie Delight Cafe,"Fast Food, Bakery, Cafe Food",3.2,Average,6,NZ$,35,2,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3142450000,174.7798090000,0,0
+Strathmore Bakery,"Bakery, Cafe Food",3.2,Average,10,NZ$,45,3,Strathmore,"Strathmore, Wellington City",Wellington City,6022,148,-41.3243487569,174.8213896528,0,0
+Real Meat Pies,Bakery,3.2,Average,7,NZ$,20,1,Waiwhetū,"Waiwhetū, Wellington",Wellington,,148,-41.2227210000,174.9113860000,0,0
+Gales Cafe,"Bakery, Cafe Food",3.2,Average,6,NZ$,35,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2805800000,174.7784030000,0,0
+Dawn Bake Bakery,Bakery,3.2,Average,5,NZ$,20,1,Wainuiomata,"Wainuiomata, Wellington",Wellington,,148,-41.2607870000,174.9461250000,0,0
+Jesters,"Fast Food, Coffee and Tea, Bakery",3.1,Average,12,NZ$,25,1,Johnsonville,"Johnsonville, Wellington City",Wellington City,,148,-41.2228190000,174.8078470000,0,0
+The Bakehouse,"Bakery, Fast Food, British",3.1,Average,7,NZ$,30,2,Upper Hutt Central,"Upper Hutt Central, Wellington",Wellington,,148,-41.1243333333,175.0713333333,0,0
+Wainui Cake Kitchen,"Bakery, Desserts",3.1,Average,9,NZ$,17,1,Wainuiomata,"Wainuiomata, Wellington",Wellington,,148,-41.2602640000,174.9421180000,0,0
+The Coffee Box,"Bakery, Coffee and Tea",3.1,Average,5,NZ$,20,1,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,5010,148,-41.2062350000,174.9092680000,0,0
+Le Maquis,"Bakery, French",3.1,Average,5,NZ$,30,2,Wadestown,"Wadestown, Wellington City",Wellington City,,148,-41.2642104444,174.7784763202,0,0
+Friendly Bakery & Cafe,"Bakery, Fast Food, Cafe Food",3.1,Average,7,NZ$,30,2,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3121130000,174.7794000000,0,0
+Nada Bakery,"Bakery, Coffee and Tea",3.1,Average,4,NZ$,25,1,Tawa,"Tawa, Wellington City",Wellington City,,148,-41.1781654228,174.8253428936,0,0
+Crazy Cakes & Donuts,"Desserts, Bakery",3.1,Average,5,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2898333333,174.7751666667,0,0
+The Parson's Nose,"Bakery, Cafe Food",3.0,Average,10,NZ$,35,2,Khandallah,"Khandallah, Wellington City",Wellington City,,148,-41.2471981996,174.7915343195,0,0
+Cube Bakery & Cafe,"Bakery, Cafe Food",3.0,Average,16,NZ$,30,2,Mt Cook,"Mt Cook, Wellington City",Wellington City,,148,-41.2983825970,174.7752405703,0,0
+Patrisha's Original Pie Shop,Bakery,3.0,Average,5,NZ$,20,1,Island Bay,"Island Bay, Wellington City",Wellington City,6023,148,-41.3403930000,174.7711650000,0,0
+McBun,"Bakery, Cafe Food",3.0,Average,5,NZ$,30,2,Alicetown,"Alicetown, Wellington",Wellington,,148,-41.2168696547,174.8909386620,0,0
+Brumby's Bakery,Bakery,3.0,Average,6,NZ$,20,1,Karori,"Karori, Wellington City",Wellington City,,148,-41.2846666667,174.7375000000,0,0
+Mr Bun,"Bakery, Fast Food, Coffee and Tea",3.0,Average,6,NZ$,30,2,Petone,"Petone, Wellington",Wellington,,148,-41.2256111388,174.8797632381,0,0
+Hataitai Hot Bread Shop,Bakery,3.0,Average,4,NZ$,25,1,Hataitai,"Hataitai, Wellington City",Wellington City,,148,-41.3043784955,174.7938078269,0,0
+La Bon Pain,Bakery,3.0,Average,5,NZ$,25,1,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2096666667,174.9033333333,0,0
+Ray's Pies & Fries,"Bakery, Coffee and Tea",3.0,Average,5,NZ$,20,1,Paraparaumu,"Paraparaumu, Wellington",Wellington,,148,-40.9055980000,174.9974950000,0,0
+Saigon Paris Bakery Cafe,"Bakery, Fast Food, Coffee and Tea",3.0,Average,5,NZ$,25,1,Petone,"Petone, Wellington",Wellington,,148,-41.2244725903,174.8755494878,0,0
+Bakery Stop,"Bakery, Coffee and Tea",3.0,Average,5,NZ$,20,1,Silverstream,"Silverstream, Wellington",Wellington,,148,-41.1477110000,175.0119580000,0,0
+Yummy Bun,"Bakery, Fast Food",3.0,Average,5,NZ$,25,1,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2088333333,174.9040000000,0,0
+Margies Tea & Coffee House,"Bakery, Cafe Food",3.0,Average,5,NZ$,35,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2851040000,174.7773250000,0,0
+Gusto Cafe & Bakery,"Bakery, Cafe Food",3.0,Average,5,NZ$,40,2,Featherston,"Featherston, Wellington",Wellington,5710,148,-41.1169836751,175.3247618303,0,0
+Courtenay Place Bakery,Bakery,3.0,Average,4,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2938333333,174.7826666667,0,0
+Artcraft Bakery,Bakery,3.0,Average,3,NZ$,25,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2890000000,174.7755000000,0,0
+Naenae Hot Bread,Bakery,3.0,Average,3,NZ$,20,1,"Naenae Shopping Centre, Naenae","Naenae Shopping Centre, Naenae, Wellington",Wellington,,148,-41.1991666667,174.9478333333,0,0
+Nada Bakery,"Bakery, Coffee and Tea",2.9,Average,18,NZ$,25,1,Johnsonville,"Johnsonville, Wellington City",Wellington City,,148,-41.2240000000,174.8075000000,0,0
+Elite Cake Shop,"Bakery, Fast Food",2.9,Average,5,NZ$,20,1,Alicetown,"Alicetown, Wellington",Wellington,,148,-41.2169662479,174.8906375840,0,0
+John's Kitchen & Takeaways,"Bakery, Fast Food",2.9,Average,11,NZ$,30,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2800000000,174.7761666667,0,0
+Fresh Bun,"Bakery, Coffee and Tea",2.9,Average,8,NZ$,20,1,Upper Hutt Central,"Upper Hutt Central, Wellington",Wellington,,148,-41.1245000000,175.0700000000,0,0
+The Bun Factory,"Bakery, Fast Food",2.9,Average,5,NZ$,20,1,Elderslea,"Elderslea, Wellington",Wellington,,148,-41.1256666667,175.0585000000,0,0
+Jack's Bakery,"Bakery, Fast Food",2.9,Average,3,NZ$,20,1,Mt Cook,"Mt Cook, Wellington City",Wellington City,,148,-41.3019210120,174.7795498744,0,0
+Mr Bun,"Bakery, Fast Food, Cafe Food",2.9,Average,6,NZ$,30,2,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3127740000,174.7797010000,0,0
+Voongs Bakery,"Bakery, Fast Food",2.9,Average,4,NZ$,30,2,"Newlands Shopping Centre, Newlands","Newlands Shopping Centre, Newlands, Wellington",Wellington,,148,-41.2226284275,174.8229275644,0,0
+Petone Coffee Shop,"Bakery, Fast Food, Coffee and Tea",2.9,Average,3,NZ$,20,1,Petone,"Petone, Wellington",Wellington,,148,-41.2262927454,174.8817403615,0,0
+Panama Bakery,"Bakery, Fast Food, Coffee and Tea",2.9,Average,1,NZ$,25,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2839874199,174.7757448256,0,0
+Kiwi Pie Bakery,"Bakery, Fast Food",2.9,Average,4,NZ$,30,2,Naenae,"Naenae, Wellington",Wellington,,148,-41.1986770000,174.9481740000,0,0
+Ancient Grains Bakery,Bakery,2.9,Average,4,NZ$,25,1,Elderslea,"Elderslea, Wellington",Wellington,,148,-41.1261666667,175.0548333333,0,0
+Alissa's Pattiserie,"Bakery, Coffee and Tea, Desserts",2.8,Average,10,NZ$,25,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936666667,174.7816666667,0,0
+Concorde Cafe,"Bakery, Cafe Food",2.8,Average,6,NZ$,35,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2797634628,174.7761887312,0,0
+Mr. Tran Bakery,"Bakery, Fast Food, Coffee and Tea",2.8,Average,6,NZ$,20,1,Upper Hutt Central,"Upper Hutt Central, Wellington",Wellington,,148,-41.1240000000,175.0725000000,0,0
+Waterloo Cafe & Bakery,"Bakery, Cafe Food",2.8,Average,5,NZ$,35,2,Waterloo,"Waterloo, Wellington",Wellington,,148,-41.2143333333,174.9218333333,0,0
+Mr Bun,"Bakery, Fast Food, Cafe Food",2.8,Average,4,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2922740000,174.7759310000,0,0
+Jack's Bakery,"Bakery, Fast Food",2.8,Average,5,NZ$,25,1,Waterloo,"Waterloo, Wellington",Wellington,,148,-41.2141666667,174.9225000000,0,0
+Lucky Bakery,Bakery,2.8,Average,2,NZ$,20,1,Karori,"Karori, Wellington City",Wellington City,,148,-41.2815000000,174.7498333333,0,0
+Trisha's Pies,Bakery,2.8,Average,1,NZ$,15,1,Kilbirnie,"Kilbirnie, Wellington City",Wellington City,,148,-41.3198490000,174.7946360000,0,0
+Brezel Mania,"Bakery, Coffee and Tea",2.7,Average,2,NZ$,25,1,Kilbirnie,"Kilbirnie, Wellington City",Wellington City,,148,-41.3183333333,174.7948333333,0,0
+Avalon Bakery,"Fast Food, Bakery",2.7,Average,7,NZ$,20,1,Epuni,"Epuni, Wellington",Wellington,,148,-41.1984961971,174.9361821637,0,0
+Brezel Mania,"Bakery, Coffee and Tea",2.7,Average,7,NZ$,25,1,Petone,"Petone, Wellington",Wellington,,148,-41.2272910000,174.8844240000,0,0
+Fresh Bun Bakery & Cafe,"Bakery, Cafe Food",2.7,Average,4,NZ$,25,1,Johnsonville,"Johnsonville, Wellington City",Wellington City,,148,-41.2224667802,174.8073362187,0,0
+Fresh Bun Bakery,"Bakery, Fast Food, Coffee and Tea",2.7,Average,4,NZ$,25,1,Petone,"Petone, Wellington",Wellington,,148,-41.2242105826,174.8751478270,0,0
+Taita Bakery & Coffee,"Bakery, Coffee and Tea",2.7,Average,3,NZ$,30,2,Taitā,"Taitā, Wellington",Wellington,,148,-41.1791666667,174.9611666667,0,0
+J'aime Bordeaux,"French, Bakery, Cafe Food",2.7,Average,3,NZ$,30,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2805976940,174.7747302800,0,0
+Hey George,"Bakery, Cafe Food",2.6,Average,13,NZ$,40,2,Kilbirnie,"Kilbirnie, Wellington City",Wellington City,,148,-41.3180000000,174.7946666667,0,0
+Mr Bun,"Bakery, Fast Food, Coffee and Tea",2.6,Average,5,NZ$,30,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2086666667,174.9050000000,0,0
+Mr Bun Cafe,"Bakery, Fast Food, Cafe Food",2.6,Average,8,NZ$,40,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2783766654,174.7763738036,0,0
+Mrs. Higgins,"Desserts, Bakery",2.5,Average,16,NZ$,25,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2816818510,174.7766507417,0,0
+Brezel Mania,"Bakery, Coffee and Tea",2.5,Average,10,NZ$,25,1,Kelburn,"Kelburn, Wellington City",Wellington City,,148,-41.2893550916,174.7625141591,0,0
+Trisha's Pies,Bakery,2.5,Average,3,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2951666667,174.7830000000,0,0
+Janus Bakkerij,"Bakery, Cafe Food",2.4,Poor,43,NZ$,55,3,Epuni,"Epuni, Wellington",Wellington,,148,-41.2032846595,174.9283943698,0,0
+Bordeaux on Thorndon Quay,"French, Bakery, Cafe Food",2.0,Poor,48,NZ$,50,3,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2715075018,174.7817023471,0,0
+Porirua Bakery & Cafe,"Bakery, Cafe Food",0,Not rated,2,NZ$,0,1,Porirua Central,"Porirua Central, Wellington",Wellington,,148,-41.1358680000,174.8401650000,0,0
+Mr Pies & Fries,"Bakery, Fast Food",0,Not rated,2,NZ$,25,1,Gracefield,"Gracefield, Wellington",Wellington,,148,-41.2358530000,174.9120900000,0,0
+Jaylon Cake & Coffee House,"Bakery, Cafe Food",0,Not rated,1,NZ$,30,2,Porirua Central,"Porirua Central, Wellington",Wellington,,148,-41.1358750000,174.8399040000,0,0
+North City Bakery,Bakery,0,Not rated,2,NZ$,20,1,Porirua East,"Porirua East, Wellington",Wellington,,148,-41.1387180000,174.8499840000,0,0
+Kapiti Cakes,"Bakery, Desserts",0,Not rated,3,NZ$,20,1,Paraparaumu,"Paraparaumu, Wellington",Wellington,,148,-40.9167550000,175.0060530000,0,0
+Village Bakery & Coffeehouse,"Bakery, Cafe Food",0,Not rated,3,NZ$,25,1,Tawa,"Tawa, Wellington City",Wellington City,,148,-41.1699067191,174.8251635209,0,0
+Daily Bread Bakery,"Bakery, Coffee and Tea",0,Not rated,3,NZ$,25,1,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2054190000,174.9109160000,0,0
+Ortega Fish Shack & Bar,Seafood,4.9,Excellent,120,NZ$,120,4,Mt Victoria,"Mt Victoria, Wellington City",Wellington City,,148,-41.2941666667,174.7848333333,0,0
+Boulcott Street Bistro,"Kiwi, European",4.6,Excellent,111,NZ$,125,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,6011,148,-41.2861710000,174.7738900000,0,0
+Charley Noble Eatery & Bar,European,4.5,Excellent,164,NZ$,110,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2849609195,174.7774651274,0,0
+Hippopotamus Restaurant & Cocktail Bar,"French, Kiwi",4.4,Very Good,145,NZ$,200,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2917740000,174.7824270000,0,0
+Logan Brown Restaurant,"British, French, European",4.4,Very Good,140,NZ$,200,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2948333333,174.7748333333,0,0
+Shed 5,"European, Pacific",4.4,Very Good,115,NZ$,110,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2843750000,174.7790620000,0,0
+Dragonfly,Asian,4.3,Very Good,160,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2930000000,174.7806666667,0,0
+Whitebait,Seafood,4.3,Very Good,56,NZ$,120,4,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2902490000,174.7858170000,0,0
+Pravda Cafe,"European, Cafe Food",4.2,Very Good,95,NZ$,120,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2859084552,174.7764784098,0,0
+Chameleon - InterContinental Wellington,European,4.2,Very Good,49,NZ$,120,4,"InterContinental Wellington, Wellington Central","InterContinental Wellington, Wellington Central, Wellington City",Wellington City,,148,-41.2847157824,174.7773075476,0,0
+Dockside Restaurant & Bar,"Seafood, Kiwi",4.1,Very Good,103,NZ$,110,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2846666667,174.7793333333,0,0
+Fratelli,Italian,4.1,Very Good,82,NZ$,90,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2931666667,174.7831666667,0,0
+Ancestral,"Contemporary, Chinese, Japanese",4.1,Very Good,77,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936666667,174.7821666667,0,0
+Portlander Bar & Grill,"European, Steak",4.0,Very Good,116,NZ$,120,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2795160000,174.7786550000,0,0
+One80 Restaurant - Copthorne Hotel,"Continental, European",4.0,Very Good,50,NZ$,110,4,"Copthorne Hotel, Oriental Bay","Copthorne Hotel, Oriental Bay, Wellington City",Wellington City,,148,-41.2914310000,174.7876920000,0,0
+Zibibbo,"Mediterranean, European, Spanish",3.9,Good,80,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2916550000,174.7794900000,0,0
+Jano Bistro,"European, French",3.9,Good,31,NZ$,120,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2941370000,174.7714030000,0,0
+Tirohana Estate Restaurant,European,3.7,Good,19,NZ$,120,4,Martinborough,"Martinborough, Wellington",Wellington,5784,148,-41.2165180000,175.4704710000,0,0
+Aubergine,French,3.6,Good,51,NZ$,100,4,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2782277542,174.7697997093,0,0
+Artisan - Bolton Hotel,"European, Continental",3.6,Good,33,NZ$,100,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2779949381,174.7760190815,0,0
+The Grill - Amora Hotel,European,3.4,Average,16,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2909400000,174.7791070000,0,0
+Corner Bistro 169,"European, Kiwi",3.3,Average,9,NZ$,90,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2906070000,174.7740370000,0,0
+Caucus Restaurant & Bar - Novotel Hotel,"European, Kiwi",3.3,Average,12,NZ$,100,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2840045520,174.7743681818,0,0
+Bay Plaza Restaurant & Bar - Bay Plaza Hotel,European,3.3,Average,1,NZ$,100,4,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2930570000,174.7853120000,0,0
+The Grill at Solway Park - Copthorne Hotel,European,3.1,Average,9,NZ$,90,4,"Copthorne Hotel, Masterton","Copthorne Hotel, Masterton, Wellington",Wellington,,148,-40.9621050000,175.6211390000,0,0
+Glasshouse Bar and Grill - The Thorndon Hotel,"European, Kiwi",2.6,Average,11,NZ$,90,4,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2748898885,174.7764710337,0,0
+The White Swan Dining Room - The White Swan Hotel,"European, Pizza, Kiwi",2.5,Average,32,NZ$,85,4,Greytown,"Greytown, Wellington",Wellington,5712,148,-41.0807896799,175.4597785324,0,0
+Portofino,Italian,2.3,Poor,91,NZ$,100,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2835000000,174.7790000000,0,0
+Whitby's Restaurant & Bar - James Cook Hotel Grand Chancellor,"Continental, European",2.2,Poor,69,NZ$,100,4,"James Cook Hotel Grand Chancellor, Wellington Central","James Cook Hotel Grand Chancellor, Wellington Central, Wellington City",Wellington City,,148,-41.2841760000,174.7743450000,0,0
+Pavilion Restaurant - Peppers Parehua Martinborough,"Pacific, European",0,Not rated,1,NZ$,120,4,Martinborough,"Martinborough, Wellington",Wellington,5711,148,-41.2090100000,175.4559520000,0,0
+City Dining & Bar - West Plaza Hotel,"European, Kiwi",0,Not rated,0,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2892140000,174.7765780000,0,0
+Wharekauhau Lodge,European,0,Not rated,0,NZ$,240,4,Pirinoa,"Pirinoa, Wellington",Wellington,5773,148,-41.3695460000,175.1088710000,0,0
+La Bella Italia,"Italian, Deli",4.2,Very Good,129,NZ$,70,4,Petone,"Petone, Wellington",Wellington,5012,148,0.0000000000,0.0000000000,0,0
+Sixes & Sevens,"Bakery, Cafe Food",4.0,Very Good,21,NZ$,40,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2928420000,174.7788550000,0,0
+Peppermill Delicatessen,"Deli, Cafe Food",3.6,Good,50,NZ$,50,3,Porirua Central,"Porirua Central, Wellington",Wellington,,148,-41.1322540000,174.8400920000,0,0
+Penny's,"Deli, Bakery",3.5,Good,18,NZ$,25,1,Karori,"Karori, Wellington City",Wellington City,,148,-41.2850000000,174.7361666667,0,0
+Gipps Street Deli,"Deli, Cafe Food",3.5,Good,14,NZ$,50,3,Karori,"Karori, Wellington City",Wellington City,,148,-41.2873779775,174.7468306124,0,0
+Brooklyn Deli,"Deli, Cafe Food",3.2,Average,20,NZ$,50,3,Brooklyn,"Brooklyn, Wellington City",Wellington City,,148,-41.3054150000,174.7635090000,0,0
+Gamboni's Deli,"Deli, Coffee and Tea",3.2,Average,4,NZ$,30,2,Karori,"Karori, Wellington City",Wellington City,,148,-41.2839150000,174.7372210000,0,0
+Le Maquis,"Bakery, French",3.1,Average,5,NZ$,30,2,Wadestown,"Wadestown, Wellington City",Wellington City,,148,-41.2642104444,174.7784763202,0,0
+Djamal's Deli,"Deli, Coffee and Tea",3.0,Average,4,NZ$,25,1,Kelburn,"Kelburn, Wellington City",Wellington City,6012,148,-41.2892245959,174.7623854131,0,0
+Louis,"Deli, Coffee and Tea",0,Not rated,3,NZ$,25,1,"Victoria University, Kelburn","Victoria University, Kelburn, Wellington City",Wellington City,,148,-41.2883690613,174.7688528895,0,0
+Wishbone,"Healthy Food, Deli, Coffee and Tea",0,Not rated,2,NZ$,25,1,"Victoria University, Kelburn","Victoria University, Kelburn, Wellington City",Wellington City,,148,-41.2904340000,174.7674420000,0,0
+Eastbourne Deli,Deli,0,Not rated,1,NZ$,25,1,Eastbourne,"Eastbourne, Wellington",Wellington,,148,-41.2901700000,174.8981660000,0,0
+F-lite,"Deli, European",0,Not rated,1,NZ$,0,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2845180000,174.7752580000,0,0
+Cargo,"Coffee and Tea, Deli",0,Not rated,0,NZ$,25,1,"Wellington International Airport, Rongotai","Wellington International Airport, Rongotai, Wellington City",Wellington City,6022,148,-41.3290456716,174.8118691519,0,0
+The Library,"Finger Food, European",4.2,Very Good,140,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936000000,174.7812870000,0,0
+Hawthorn Lounge,Finger Food,3.9,Good,20,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2949300000,174.7801950000,0,0
+The Tasting Room,"European, Finger Food",3.7,Good,88,NZ$,90,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2940000000,174.7836666667,0,0
+Lobby Lounge - InterContinental Wellington,"European, Finger Food",3.5,Good,7,NZ$,70,4,"InterContinental Wellington, Wellington Central","InterContinental Wellington, Wellington Central, Wellington City",Wellington City,,148,-41.2845810000,174.7767200000,0,0
+The Black Sparrow,Finger Food,3.2,Average,10,NZ$,70,4,Mt Victoria,"Mt Victoria, Wellington City",Wellington City,,148,-41.2941666667,174.7840000000,0,0
+Cuckoo Cocktail Emporium,"Pizza, Finger Food",3.2,Average,11,NZ$,70,4,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2836248733,174.7784367576,0,0
+Alice Cocktail Bar,Finger Food,3.2,Average,10,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2937990000,174.7822670000,0,0
+The Apartment,"Kiwi, Finger Food",3.2,Average,8,NZ$,80,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2933260000,174.7823140000,0,0
+K-Zone,Chinese,2.9,Average,5,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2922830000,174.7814330000,0,0
+Red Square,European,2.9,Average,2,NZ$,100,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2933320000,174.7830170000,0,0
+Scotty and Mal's Cocktail & Lounge Bar,Finger Food,0,Not rated,1,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2945210000,174.7748790000,0,0
+Madame Peacock,"Finger Food, Pizza, American",0,Not rated,1,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936400000,174.7821110000,0,0
+Sweet Bakery & Cakery,"Bakery, Desserts, Coffee and Tea",3.7,Good,18,NZ$,40,2,Karori,"Karori, Wellington City",Wellington City,,148,-41.2824950000,174.7458350000,0,0
+Crazy Cakes & Donuts,"Desserts, Bakery",3.5,Good,15,NZ$,20,1,Petone,"Petone, Wellington",Wellington,,148,-41.2263333333,174.8816666667,0,0
+The Cheese Cake Shop,Desserts,3.4,Average,11,NZ$,30,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2093110000,174.9046420000,0,0
+The Chocolate Cake Company,Desserts,3.3,Average,3,NZ$,20,1,"Capital On The Quay, Wellington Central","Capital On The Quay, Wellington Central, Wellington City",Wellington City,6011,148,-41.2834380000,174.7753180000,0,0
+Tom's Chimney Cakes,Desserts,3.2,Average,5,NZ$,10,1,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2905710000,174.7832200000,0,0
+Wainui Cake Kitchen,"Bakery, Desserts",3.1,Average,9,NZ$,17,1,Wainuiomata,"Wainuiomata, Wellington",Wellington,,148,-41.2602640000,174.9421180000,0,0
+Go Cake Yourself,Desserts,3.0,Average,3,NZ$,40,2,Upper Hutt Central,"Upper Hutt Central, Wellington",Wellington,,148,-41.1238333333,175.0745000000,0,0
+Kiss & Bake Up,"Bakery, Desserts, Cafe Food",3.0,Average,4,NZ$,45,3,Otaki,"Otaki, Wellington",Wellington,,148,-40.7632230000,175.1546630000,0,0
+Alissa's Pattiserie,"Bakery, Coffee and Tea, Desserts",2.8,Average,10,NZ$,25,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936666667,174.7816666667,0,0
+Kapiti Cakes,"Bakery, Desserts",0,Not rated,3,NZ$,20,1,Paraparaumu,"Paraparaumu, Wellington",Wellington,,148,-40.9167550000,175.0060530000,0,0
+Decorada Boutique Bakery,Desserts,0,Not rated,2,NZ$,0,1,Hataitai,"Hataitai, Wellington City",Wellington City,,148,-41.3040570000,174.7942440000,0,0
+"CQ Restaurant, Bar & Cafe - Comfort & Quality Hotel","European, Kiwi",3.6,Good,29,NZ$,90,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2953490000,174.7746110000,0,0
+Khandallah Trading Company,"Kiwi, European",3.4,Average,36,NZ$,75,4,Khandallah,"Khandallah, Wellington City",Wellington City,,148,-41.2463920000,174.7909490000,0,0
+Brooklyn Bar & Bistro,"Pizza, Kiwi",2.5,Average,23,NZ$,60,3,Brooklyn,"Brooklyn, Wellington City",Wellington City,,148,-41.3053333333,174.7635000000,0,0
+Trio Cafe,"European, Kiwi",0,Not rated,1,NZ$,85,4,Martinborough,"Martinborough, Wellington",Wellington,,148,-41.2601000000,175.4066660000,0,0
+Club K,Finger Food,2.9,Average,4,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2918333333,174.7768333333,0,0
+Edison's Superette,Finger Food,0,Not rated,3,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2933750000,174.7831800000,0,0
+Boston On Blair,Finger Food,0,Not rated,3,NZ$,55,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2931380000,174.7830980000,0,0
+Boogie Wonderland,Finger Food,0,Not rated,3,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2938840000,174.7822070000,0,0
+Ponderosa,Finger Food,0,Not rated,0,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2933140000,174.7829720000,0,0
+Famous,Finger Food,0,Not rated,2,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2935960000,174.7826870000,0,0
+Valhalla,Finger Food,0,Not rated,1,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2947990000,174.7753660000,0,0
+Madame Peacock,"Finger Food, Pizza, American",0,Not rated,1,NZ$,70,4,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2936400000,174.7821110000,0,0
+Lamason,Coffee and Tea,4.1,Very Good,45,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2899410000,174.7762380000,0,0
+Red Rabbit Coffee Co.,Coffee and Tea,3.7,Good,18,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2929500000,174.7769650000,0,0
+Raglan Roast Coffee,Coffee and Tea,3.5,Good,14,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2962340000,174.7750430000,0,0
+Gentlemen's Beans,Coffee and Tea,3.3,Average,6,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2926666667,174.7788333333,0,0
+Raglan Roast Coffee,"Coffee and Tea, Ice Cream, Cafe Food",3.1,Average,8,NZ$,25,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2909550000,174.7848820000,0,0
+Superfino,Coffee and Tea,3.1,Average,3,NZ$,15,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2864297073,174.7761592269,0,0
+Emporio,Coffee and Tea,3.0,Average,4,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2957480000,174.7727010000,0,0
+Bernie's On The Bay,"Coffee and Tea, Juices, Ice Cream",3.0,Average,4,NZ$,20,1,Oriental Bay,"Oriental Bay, Wellington City",Wellington City,,148,-41.2912960000,174.7895270000,0,0
+Palomino,Coffee and Tea,2.9,Average,2,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2965260000,174.7739080000,0,0
+Fuel Espresso,Coffee and Tea,2.9,Average,1,NZ$,10,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2804651650,174.7749374807,0,0
+Bullet Espresso,Coffee and Tea,2.9,Average,4,NZ$,15,1,"Wellington Railway Station, Pipitea","Wellington Railway Station, Pipitea, Wellington City",Wellington City,,148,-41.2792370000,174.7803280000,0,0
+Georgia Espresso,"Coffee and Tea, Desserts",0,Not rated,2,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2921360000,174.7742280000,0,0
+The Flying Bean,Coffee and Tea,0,Not rated,3,NZ$,15,1,Petone,"Petone, Wellington",Wellington,,148,-41.2286810000,174.8781000000,0,0
+The Coffee Box,Coffee and Tea,0,Not rated,1,NZ$,20,1,Moera,"Moera, Wellington",Wellington,,148,-41.2300000000,174.9000000000,0,0
+Pavement,Coffee and Tea,0,Not rated,2,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2944340000,174.7811830000,0,0
+Raglan Roast Coffee,Coffee and Tea,0,Not rated,2,NZ$,25,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2940430000,174.7799340000,0,0
+The Remedy Espresso Bar,Coffee and Tea,0,Not rated,3,NZ$,15,1,Raumati Beach,"Raumati Beach, Wellington",Wellington,,148,-40.9191155687,174.9824688743,0,0
+Magnetix,Coffee and Tea,0,Not rated,2,NZ$,25,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2826017200,174.7768820822,0,0
+Vic Books Pipitea Kiosk,Coffee and Tea,0,Not rated,2,NZ$,20,1,Pipitea,"Pipitea, Wellington City",Wellington City,,148,-41.2799730000,174.7799700000,0,0
+The Coffee Shack,"Coffee and Tea, Ice Cream",0,Not rated,2,NZ$,15,1,Te Horo,"Te Horo, Wellington",Wellington,,148,-40.7993410000,175.1226200000,0,0
+Fuel Espresso,Coffee and Tea,0,Not rated,2,NZ$,10,1,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2754100000,174.7790760000,0,0
+The Beanery By Mojo,Coffee and Tea,0,Not rated,1,NZ$,15,1,Lambton,"Lambton, Wellington City",Wellington City,,148,-41.2816890000,174.7757810000,0,0
+Amsterdam CoffeeShop,Coffee and Tea,0,Not rated,1,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2922700000,174.7764430000,0,0
+D-lox,Coffee and Tea,0,Not rated,1,NZ$,20,1,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3110400000,174.7788150000,0,0
+Co-Ed Coffee Educators,Coffee and Tea,0,Not rated,2,NZ$,20,1,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2084230000,174.9084800000,0,0
+Barista Thorndon,Coffee and Tea,0,Not rated,2,NZ$,10,1,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2751862139,174.7776921093,0,0
+Espresso 7,"Bakery, Coffee and Tea",0,Not rated,1,NZ$,20,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2815873690,174.7783911601,0,0
+Cafe Kangsta,Coffee and Tea,0,Not rated,1,NZ$,25,1,"Capital Market, Te Aro","Capital Market, Te Aro, Wellington City",Wellington City,,148,-41.2904500000,174.7741890000,0,0
+Life Pharmacy Cafe,Coffee and Tea,0,Not rated,1,NZ$,10,1,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2100540000,174.9066830000,0,0
+Cafe Strada,Coffee and Tea,0,Not rated,1,NZ$,10,1,Waikanae,"Waikanae, Wellington",Wellington,,148,-40.8757910000,175.0661070000,0,0
+Ripe Boulcott Street Espresso Bar,"Coffee and Tea, Bakery",0,Not rated,2,NZ$,25,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2867153991,174.7745542601,0,0
+Little Thunder,Coffee and Tea,0,Not rated,1,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2916220000,174.7776420000,0,0
+Fuel Espresso,Coffee and Tea,0,Not rated,1,NZ$,10,1,"Wellington International Airport, Rongotai","Wellington International Airport, Rongotai, Wellington City",Wellington City,6022,148,-41.3294203024,174.8109856993,0,0
+Street Wise Coffee,Coffee and Tea,0,Not rated,1,NZ$,15,1,Porirua Central,"Porirua Central, Wellington",Wellington,,148,-41.1309390000,174.8398200000,0,0
+Coffee Supreme,Coffee and Tea,0,Not rated,0,NZ$,20,1,Mt Cook,"Mt Cook, Wellington City",Wellington City,,148,-41.2992196127,174.7737687081,0,0
+The Immigrant's Son,Coffee and Tea,0,Not rated,1,NZ$,15,1,Mt Victoria,"Mt Victoria, Wellington City",Wellington City,6011,148,-41.2960940000,174.7838240000,0,0
+Cafe Racer,Coffee and Tea,0,Not rated,1,NZ$,15,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2834104684,174.7768941522,0,0
+Streetwise Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Paraparaumu,"Paraparaumu, Wellington",Wellington,,148,-40.9038090000,174.9958370000,0,0
+Davies Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,"Coastlands Shoppingtown, Paraparaumu","Coastlands Shoppingtown, Paraparaumu, Wellington",Wellington,,148,-40.9161770000,175.0048440000,0,0
+Streetwise Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Paraparaumu,"Paraparaumu, Wellington",Wellington,5032,148,-40.9176580000,175.0024870000,0,0
+Koha Coffee,Coffee and Tea,0,Not rated,0,NZ$,0,1,"Victoria University, Kelburn","Victoria University, Kelburn, Wellington City",Wellington City,,148,-41.2870444218,174.7688005865,0,0
+Panache,Coffee and Tea,0,Not rated,0,NZ$,15,1,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2773050519,174.7799971327,0,0
+Bicycle Junction,Coffee and Tea,0,Not rated,0,NZ$,15,1,Newtown,"Newtown, Wellington City",Wellington City,,148,-41.3074840000,174.7781060000,0,0
+Old George Cafe,Coffee and Tea,0,Not rated,0,NZ$,15,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2791776553,174.7755352780,0,0
+Bud Florists,Coffee and Tea,0,Not rated,0,NZ$,15,1,Silverstream,"Silverstream, Wellington",Wellington,,148,-41.1458060000,175.0152020000,0,0
+Streetwise Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Tawa,"Tawa, Wellington City",Wellington City,,148,-41.1699640099,174.8248503730,0,0
+Oscars Espresso Bar,Coffee and Tea,0,Not rated,0,NZ$,15,1,Porirua Central,"Porirua Central, Wellington",Wellington,,148,-41.1338940000,174.8400070000,0,0
+Lighthouse Coffee,Coffee and Tea,0,Not rated,0,NZ$,25,1,Wallaceville,"Wallaceville, Wellington",Wellington,,148,-41.1301450000,175.0550760000,0,0
+Saigon Social Club,Coffee and Tea,0,Not rated,0,NZ$,15,1,Seatoun,"Seatoun, Wellington City",Wellington City,,148,-41.3227269775,174.8312363774,0,0
+Streetwise Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2059820000,174.9106090000,0,0
+YHA Cafe,Coffee and Tea,0,Not rated,0,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2930840000,174.7838460000,0,0
+Go Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Upper Hutt Central,"Upper Hutt Central, Wellington",Wellington,,148,-41.1255510000,175.0703990000,0,0
+Loco,"Coffee and Tea, Finger Food, Ice Cream",0,Not rated,0,NZ$,20,1,Featherston,"Featherston, Wellington",Wellington,5710,148,-41.1171938267,175.3258736059,0,0
+Coffee Supreme Midland Park,Coffee and Tea,0,Not rated,0,NZ$,25,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+Mentality,Coffee and Tea,0,Not rated,0,NZ$,15,1,Paraparaumu,"Paraparaumu, Wellington",Wellington,,148,-40.9053990000,174.9982220000,0,0
+Fix Espresso,Coffee and Tea,0,Not rated,0,NZ$,15,1,Elsdon,"Elsdon, Wellington",Wellington,,148,-41.1329480000,174.8348760000,0,0
+Streetwise Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Otaki,"Otaki, Wellington",Wellington,,148,-40.7615480000,175.1568120000,0,0
+Streetwise Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Otaki,"Otaki, Wellington",Wellington,,148,-40.7630090000,175.1544530000,0,0
+Streetwise Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Elsdon,"Elsdon, Wellington",Wellington,5022,148,-41.1300960000,174.8381890000,0,0
+Celcius Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2930800000,174.7838530000,0,0
+Blue Coffee at re.SPACE,"Coffee and Tea, Ice Cream",0,Not rated,0,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+Gentlemen's Beans,Coffee and Tea,3.3,Average,6,NZ$,20,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2926666667,174.7788333333,0,0
+Tom's Chimney Cakes,Desserts,3.2,Average,5,NZ$,10,1,Te Aro,"Te Aro, Wellington City",Wellington City,6011,148,-41.2905710000,174.7832200000,0,0
+Stories Espresso Bar,Coffee and Tea,3.2,Average,4,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2900890000,174.7768510000,0,0
+Mexican QBT,Mexican,3.1,Average,10,NZ$,25,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2828590000,174.7784430000,0,0
+Nam D,Vietnamese,3.1,Average,6,NZ$,25,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2944340000,174.7811830000,0,0
+Tank Juice Bar,"Juices, Healthy Food",3.1,Average,4,NZ$,35,2,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,5010,148,-41.2098333333,174.9048333333,0,0
+Gravity Coffee,Cafe Food,3.0,Average,4,NZ$,25,1,"Wellington Railway Station, Pipitea","Wellington Railway Station, Pipitea, Wellington City",Wellington City,,148,-41.2803205419,174.7794238105,0,0
+Fritz's Wieners,"German, Fast Food",3.0,Average,3,NZ$,20,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2846727006,174.7771875188,0,0
+Zuzu's Gelato,"Ice Cream, Desserts",2.9,Average,5,NZ$,15,1,"Westfield Queensgate, Lower Hutt Central","Westfield Queensgate, Lower Hutt Central, Wellington",Wellington,,148,-41.2098930000,174.9066990000,0,0
+Bullet Espresso,Coffee and Tea,2.9,Average,4,NZ$,15,1,"Wellington Railway Station, Pipitea","Wellington Railway Station, Pipitea, Wellington City",Wellington City,,148,-41.2792370000,174.7803280000,0,0
+The Flying Bean,Coffee and Tea,0,Not rated,3,NZ$,15,1,Petone,"Petone, Wellington",Wellington,,148,-41.2286810000,174.8781000000,0,0
+Pavement,Coffee and Tea,0,Not rated,2,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2944340000,174.7811830000,0,0
+Vic Books Pipitea Kiosk,Coffee and Tea,0,Not rated,2,NZ$,20,1,Pipitea,"Pipitea, Wellington City",Wellington City,,148,-41.2799730000,174.7799700000,0,0
+Beach Kiosk,Fast Food,0,Not rated,2,NZ$,20,1,Petone,"Petone, Wellington",Wellington,,148,-41.2320740000,174.8902740000,0,0
+Barista Thorndon,Coffee and Tea,0,Not rated,2,NZ$,10,1,Thorndon,"Thorndon, Wellington City",Wellington City,,148,-41.2751862139,174.7776921093,0,0
+Davies Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,"Coastlands Shoppingtown, Paraparaumu","Coastlands Shoppingtown, Paraparaumu, Wellington",Wellington,,148,-40.9161770000,175.0048440000,0,0
+Streetwise Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,-41.2059820000,174.9106090000,0,0
+Streetwise Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Otaki,"Otaki, Wellington",Wellington,,148,-40.7615480000,175.1568120000,0,0
+Streetwise Coffee,Coffee and Tea,0,Not rated,0,NZ$,15,1,Otaki,"Otaki, Wellington",Wellington,,148,-40.7630090000,175.1544530000,0,0
+The Greek Food Truck,Greek,3.8,Good,24,NZ$,35,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2925010000,174.7787870000,0,0
+Mr Circle Chinese Crepes,Chinese,3.5,Good,8,NZ$,0,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2903031899,174.7742133518,0,0
+Berry Culture Frozen Yoghurt,Desserts,3.4,Average,9,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2951360000,174.7802180000,0,0
+Nanny's Food Truck,American,3.3,Average,7,NZ$,30,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2870000819,174.7785916552,0,0
+French Kiss Cafe,"French, Cafe Food",3.2,Average,3,NZ$,20,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,-41.2846628750,174.7772371396,0,0
+Antojitos Taco Truck,"Street Food, Mexican, American",3.1,Average,8,NZ$,0,1,Karori,"Karori, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+Origin - Gourmet Food Shack,Healthy Food,3.0,Average,4,NZ$,25,1,Waikanae,"Waikanae, Wellington",Wellington,,148,0.0000000000,0.0000000000,0,0
+Mao and Co,"Asian, Dim Sum, Chinese",0,Not rated,2,NZ$,25,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+The Fire Truck,Street Food,0,Not rated,2,NZ$,30,2,Thorndon,"Thorndon, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+The Hungry Monkey,"Desserts, Malaysian",0,Not rated,3,NZ$,0,1,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+The Hot Wafel,Desserts,0,Not rated,2,NZ$,15,1,Porirua Central,"Porirua Central, Wellington",Wellington,,148,-41.1354480000,174.8397030000,0,0
+La Rotisserie du Canard,"Street Food, French",0,Not rated,3,NZ$,30,2,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+Lady Luck Caravan,"Bakery, Coffee and Tea",0,Not rated,2,NZ$,20,1,Kaiwharawhara,"Kaiwharawhara, Wellington City",Wellington City,,148,-41.2561294560,174.7959646583,0,0
+Moore Wilson's Chook Wagon,"Burger, French, Healthy Food, Street Food",0,Not rated,1,NZ$,30,2,Te Aro,"Te Aro, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+The Remedy Espresso,Coffee and Tea,0,Not rated,1,NZ$,15,1,Raumati Beach,"Raumati Beach, Wellington",Wellington,,148,-40.9187532000,174.9804215000,0,0
+Garuda Truck,"Street Food, Indonesian",0,Not rated,0,NZ$,0,1,Newlands,"Newlands, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+Onebites Indonesian,"Street Food, Indonesian",0,Not rated,0,NZ$,30,2,Lower Hutt Central,"Lower Hutt Central, Wellington",Wellington,,148,0.0000000000,0.0000000000,0,0
+Dutchy's Burger Joint,Street Food,0,Not rated,0,NZ$,40,2,Porirua Central,"Porirua Central, Wellington",Wellington,,148,0.0000000000,0.0000000000,0,0
+Beat Kitchen Food Truck,"American, BBQ",0,Not rated,0,NZ$,50,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2951430794,174.7752063029,0,0
+B Truck,"Street Food, Indian",0,Not rated,0,NZ$,45,3,Wellington Central,"Wellington Central, Wellington City",Wellington City,,148,0.0000000000,0.0000000000,0,0
+Eat Street,Street Food,0,Not rated,0,NZ$,40,2,Miramar,"Miramar, Wellington City",Wellington City,,148,-41.3096500000,174.8208160000,0,0
+Black Dog Brew Co,"Finger Food, Asian, Indian, Pizza",3.4,Average,8,NZ$,60,3,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2933333333,174.7831666667,0,0
+Martinborough Brewery,"Finger Food, European",0,Not rated,2,NZ$,60,3,Martinborough,"Martinborough, Wellington",Wellington,5711,148,-41.2179440000,175.4578480000,0,0
+Georgia Espresso,"Coffee and Tea, Desserts",0,Not rated,2,NZ$,15,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2921360000,174.7742280000,0,0
+Five and Dime,Cafe Food,3.7,Good,21,NZ$,0,1,Te Aro,"Te Aro, Wellington City",Wellington City,,148,-41.2957180000,174.7744330000,0,0
+Tirohana Estate Restaurant,European,3.7,Good,19,NZ$,120,4,Martinborough,"Martinborough, Wellington",Wellington,5784,148,-41.2165180000,175.4704710000,0,0
+Bloom Restaurant,European,3.4,Average,12,NZ$,90,4,Martinborough,"Martinborough, Wellington",Wellington,,148,-41.2738110000,175.4135140000,0,0
+The Vineyard Cafe,"Pizza, Cafe Food",3.3,Average,11,NZ$,50,3,Martinborough,"Martinborough, Wellington",Wellington,5711,148,-41.2180370000,175.4600400000,0,0
+Pavilion Restaurant - Peppers Parehua Martinborough,"Pacific, European",0,Not rated,1,NZ$,120,4,Martinborough,"Martinborough, Wellington",Wellington,5711,148,-41.2090100000,175.4559520000,0,0
+Trio Cafe,"European, Kiwi",0,Not rated,1,NZ$,85,4,Martinborough,"Martinborough, Wellington",Wellington,,148,-41.2601000000,175.4066660000,0,0

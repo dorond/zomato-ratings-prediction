@@ -1,0 +1,913 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,locality_verbose,city,zipcode,country_id,latitude,longitude,has_online_delivery,has_table_booking
+Kazu,"Asian, BBQ, Japanese",4.9,Excellent,1290,$,25,2,Downtown,"Downtown, Montreal",Montreal,H3H 1M2,37,45.4931460000,-73.5797900000,0,0
+Rotisserie Romados,"BBQ, Portuguese",4.8,Excellent,683,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W 1C8,37,45.5191770000,-73.5808170000,0,0
+Arepera du plateau,"Latin American, Vegetarian, Venezuelan",4.6,Excellent,279,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W1H1,37,45.5184047000,-73.5784907000,0,0
+Aux Vivres,"Healthy Food, Beverages, Vegetarian",4.6,Excellent,703,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1R4,37,45.5211486000,-73.5884149000,0,0
+Brit & Chips,"Fast Food, British, Fish and Chips",4.6,Excellent,557,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2G5,37,45.5006252000,-73.5581663000,0,0
+Burger de Ville,"Burger, Steak",4.7,Excellent,325,$,10,1,Montreal West,"Montreal West, Montreal",Montreal,H4X1Y8,37,45.4532844000,-73.6459719000,0,0
+Pho Lien,Vietnamese,4.6,Excellent,340,$,25,2,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3S,37,45.4989000000,-73.6275720000,0,0
+Au Pied de Cochon,"French, Canadian",4.5,Excellent,1122,$,70,4,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2L1A9,37,45.5221700000,-73.5744740000,0,0
+Qing Hua Dumpling,"Chinese, Dim Sum",4.5,Excellent,624,$,25,2,Downtown,"Downtown, Montreal",Montreal,H3H 2E7,37,45.4952740000,-73.5809170000,0,0
+La Banquise,"Diner, Canadian",4.4,Very Good,1362,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J2J3,37,45.5253714000,-73.5747853000,0,0
+Garde Manger,French,4.4,Very Good,758,$,70,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y2T1,37,45.5027940000,-73.5556370000,0,0
+Tapeo,"Spanish, Tapas",4.4,Very Good,385,$,25,2,Villeray,"Villeray, Montreal",Montreal,,37,45.5415670000,-73.6226874000,0,0
+Dinette Triple Crown,American,4.4,Very Good,243,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S3G2,37,45.5314384000,-73.6130424000,0,0
+Phayathai,Thai,4.4,Very Good,185,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3H2L3,37,45.4945650000,-73.5762980000,0,0
+Nextdoor Pub & Grill,"Burger, Coffee and Tea, Bar Food",4.4,Very Good,91,$,25,2,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A1T5,37,45.4756740000,-73.6074990000,0,0
+Kuljit india,Indian,4.4,Very Good,78,$,25,2,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4K1L4,37,45.5247120000,-73.7130420000,0,0
+Bistro Merlot,"Canadian, Fusion",4.4,Very Good,37,$,40,3,Pierrefonds-Roxboro,"Pierrefonds-Roxboro, Montreal",Montreal,H9H 3C4,37,45.4551855000,-73.8612829000,0,0
+Le Cartet,Breakfast,4.3,Very Good,535,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y2E5,37,45.4993700000,-73.5551530000,0,0
+GaNaDaRa,Korean,4.3,Very Good,304,$,15,1,Downtown,"Downtown, Montreal",Montreal,H3H 1J9,37,45.4936971000,-73.5813897000,0,0
+Taverne Square Dominion,"French, British",4.3,Very Good,342,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B2V5,37,45.5005270000,-73.5715050000,0,0
+Pintxo,"Spanish, Tapas",4.3,Very Good,383,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T 1P7,37,45.5178840000,-73.5737325000,0,0
+Chu Chai,Thai,4.3,Very Good,328,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W2M5,37,45.5209616000,-73.5766272000,0,0
+Régine Café,"Diner, Cafe, British",4.3,Very Good,164,$,25,2,Étienne-Desmarteau,"Étienne-Desmarteau, Montreal",Montreal,H2G2V6,37,45.5437094000,-73.5960930000,0,0
+Hwang-Kum,Korean,4.3,Very Good,175,$,25,2,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A 1X7,37,45.4687610000,-73.6190120000,0,0
+Kazumi Sushi Lounge,"Asian, Sushi",4.3,Very Good,104,$,40,3,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,H1N,37,45.5807670000,-73.5440290000,0,0
+Village Grec,Greek,4.3,Very Good,74,$,25,2,Laval,"Laval, Montreal",Montreal,,37,45.5297670000,-73.7559440000,0,0
+Deville Dinerbar,Diner,4.2,Very Good,566,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A1P4,37,45.4996748000,-73.5742857000,0,0
+Park Restaurant,"Asian, Japanese, Sushi",4.2,Very Good,370,$,40,3,Westmount,"Westmount, Montreal",Montreal,H3Z 2N4,37,45.4786379000,-73.6026758000,0,0
+L'Orignal,"Seafood, American, Steak",4.2,Very Good,278,$,88,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2N7,37,45.5026290000,-73.5579670000,0,0
+Milos,"Greek, Mediterranean, Seafood",4.2,Very Good,312,$,40,3,Outremont,"Outremont, Montreal",Montreal,H2V4G9,37,45.5215550000,-73.6007093000,0,0
+Pizzeria Magpie,"Pizza, Italian",4.2,Very Good,176,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1B9,37,45.5246810000,-73.5954960000,0,0
+Ouzeri,"Greek, Mediterranean",4.2,Very Good,136,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J2L3,37,45.5248670000,-73.5852200000,0,0
+Nouveau Palais,"American, Burger, Diner",4.2,Very Good,127,$,25,2,Outremont,"Outremont, Montreal",Montreal,H2V4K8,37,45.5240250000,-73.6054270000,0,0
+5 Saisons Sushi,"Sushi, Japanese",4.2,Very Good,107,$,25,2,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A3A7,37,45.4716220000,-73.6134720000,0,0
+Malhi Sweets Indian Cuisine,Indian,4.2,Very Good,105,$,25,2,Parc-Extension,"Parc-Extension, Montreal",Montreal,H3N1G9,37,45.5290520000,-73.6370570000,0,0
+Hoai Huong,Vietnamese,4.2,Very Good,90,$,25,2,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3W 2P9,37,45.4885589000,-73.6246342000,0,0
+Joe Beef,"Seafood, Steak",4.1,Very Good,533,$,70,4,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J1N5,37,45.4830280000,-73.5752200000,0,0
+Gibbys,"Seafood, Steak",4.1,Very Good,594,$,70,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y2B6,37,45.5011393000,-73.5552261000,0,0
+Restaurant ChinaTown Kim Fung,Chinese,4.1,Very Good,341,$,25,2,Chinatown,"Chinatown, Montreal",Montreal,H2Z 1Y6,37,45.5072610000,-73.5612380000,0,0
+Bottega,"Italian, Pizza",4.1,Very Good,297,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S1K7,37,45.5327090000,-73.6113310000,0,0
+Sparrow (Le Moineau),Bar Food,4.1,Very Good,213,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1A5,37,45.5246890000,-73.5967660000,0,0
+La Salle À Manger,French,4.1,Very Good,214,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5298420000,-73.5773430000,0,0
+Jun-I,"Japanese, Sushi",4.0,Very Good,180,$,70,4,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5211166000,-73.5943092000,0,0
+La Panthère Verte,"Mediterranean, Vegetarian",4.1,Very Good,172,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.4974440000,-73.5799240000,0,0
+Rumi,Middle Eastern,4.1,Very Good,158,$,70,4,Outremont,"Outremont, Montreal",Montreal,H2X1T3,37,45.5194140000,-73.5982730000,0,0
+Restaurant Pho Tay Ho,Vietnamese,4.1,Very Good,112,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,,37,45.5334270000,-73.6041010000,0,0
+Sata Sushi,"Japanese, Sushi",4.1,Very Good,92,$,40,3,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,H1W 1P8,37,45.5426960000,-73.5462851000,0,0
+Kam Shing Chinese,Chinese,4.1,Very Good,98,$,25,2,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H3W 1H8,37,45.4948640000,-73.6374010000,0,0
+Omma,Korean,4.1,Very Good,97,$,40,3,Outremont,"Outremont, Montreal",Montreal,H2T2K4,37,45.5250985000,-73.6044067000,0,0
+Tokyo Sushi Bar,"Japanese, Sushi",4.1,Very Good,80,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1Z8,37,45.5029410000,-73.5552640000,0,0
+Ganges Restaurant,Indian,4.1,Very Good,92,$,30,3,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A 1Y2,37,45.4679117000,-73.6214175000,0,0
+Sparta Rotisserie & Grill,"Greek, Mediterranean",4.1,Very Good,72,$,40,3,Downtown,"Downtown, Montreal",Montreal,H3Z 1P2,37,45.4884910000,-73.5852610000,0,0
+Campagna,"European, Italian",4.1,Very Good,30,$,40,3,Rosemere,"Rosemere, Montreal",Montreal,J7E3H4,37,45.6386670000,-73.8409930000,0,0
+Icehouse,"Southern, Tex-Mex",4.0,Very Good,393,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W1L8,37,45.5159666000,-73.5755806000,0,0
+Lawrence,Canadian,4.0,Very Good,329,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T2L9,37,45.5239068000,-73.5946698000,0,0
+Fabergé,Canadian,4.0,Very Good,234,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T 2M1,37,45.5236510000,-73.5949290000,0,0
+Burger Royal,"Burger, Vegetarian",4.1,Very Good,118,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W1X6,37,45.5156239000,-73.5765575000,0,0
+Restaurant Beijing,Chinese,4.0,Very Good,272,$,10,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z1K1,37,45.5070650000,-73.5607830000,0,0
+Monkland Tavern,French,4.0,Very Good,204,$,40,3,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A1E1,37,45.4762553000,-73.6222588000,0,0
+Bonaparte,French,4.0,Very Good,131,$,70,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2T1,37,45.5034400000,-73.5562060000,0,0
+Su,"Mediterranean, Middle Eastern, Turkish",4.0,Very Good,129,$,40,3,Verdun,"Verdun, Montreal",Montreal,H4G 1Y2,37,45.4549109000,-73.5678434000,0,0
+Maison VIP,Chinese,4.0,Very Good,120,$,25,2,Chinatown,"Chinatown, Montreal",Montreal,H2Z1K3,37,45.5080510000,-73.5606090000,0,0
+Hof Kelsten,"Eastern European, Bakery, Cafe",4.0,Very Good,94,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1N4,37,45.5202330000,-73.5866320000,0,0
+Coco Rico,"BBQ, Portuguese",4.0,Very Good,138,$,30,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W1Y2,37,45.5163440000,-73.5777750000,0,0
+Ma Poule Mouillée,"Portuguese, Deli",4.0,Very Good,78,$,20,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J2J2,37,45.5252188000,-73.5750686000,0,0
+Yuukai Fusion Japonaise,"Asian, Japanese, Sushi",4.0,Very Good,86,$,40,3,Outremont,"Outremont, Montreal",Montreal,H2V4H1,37,45.5228610000,-73.6040410000,0,0
+La Sirene de la Mer,"Mediterranean, Seafood, Lebanese",4.0,Very Good,92,$,43,3,Mont-Royal,"Mont-Royal, Montreal",Montreal,H3P 2B6,37,45.5161296000,-73.6302400000,0,0
+Casa Tapas,"Mediterranean, Spanish, Tapas",4.0,Very Good,131,$,70,4,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W 1E5,37,45.5204020000,-73.5792270000,0,0
+Auberge Le St-Gabriel,"French, Bar Food",4.0,Very Good,75,$,50,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y2Z9,37,45.5064830000,-73.5543080000,0,0
+Villa du Souvlaki,Greek,4.0,Very Good,87,$,40,3,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A1V5,37,45.4738660000,-73.6096480000,0,0
+Cafe Saigon,Vietnamese,4.0,Very Good,83,$,25,2,The Gay Village,"The Gay Village, Montreal",Montreal,H2L,37,45.5162443000,-73.5578374000,0,0
+La Verita,Italian,4.0,Very Good,69,$,40,3,Dollard-Des Ormeaux,"Dollard-Des Ormeaux, Montreal",Montreal,,37,45.4852040000,-73.8031000000,0,0
+Kyoto,"Japanese, Sushi",4.0,Very Good,54,$,25,2,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4A 3J1,37,45.5124976000,-73.6797505000,0,0
+Maison India,"Indian, Bar Food",4.0,Very Good,65,$,40,3,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A,37,45.4690380000,-73.6185830000,0,0
+Fay Wong,Chinese,4.0,Very Good,45,$,10,1,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4V1J3,37,45.4657570000,-73.6533420000,0,0
+La Chinoise,"Asian, Chinese, Thai",4.0,Very Good,35,$,40,3,Vaudreuil-Soulanges,"Vaudreuil-Soulanges, Montreal",Montreal,J7V 2N7,37,45.4040020000,-74.0315720000,0,0
+I Sushi,Sushi,4.0,Very Good,26,$,10,1,Downtown,"Downtown, Montreal",Montreal,H2Z 1N7,37,45.5026406000,-73.5625943000,0,0
+Famous Gyros Elatos,Greek,4.0,Very Good,24,$,10,1,Parc-Extension,"Parc-Extension, Montreal",Montreal,H3N 1G1,37,45.5316760000,-73.6355010000,0,0
+Grumman '78,"Mexican, Fusion",3.9,Good,260,$,25,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C1L5,37,45.4736556000,-73.5907346000,0,0
+Le Chien Fumant,"American, Canadian, British",3.9,Good,192,$,70,4,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 3P7,37,45.5312750000,-73.5795270000,0,0
+Les 400 Coups,Fusion,3.9,Good,155,$,70,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1C8,37,45.5102000000,-73.5524690000,0,0
+Joverse Bar-Cuisine,"Latin American, Tapas, Tex-Mex",3.9,Good,181,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1L2,37,45.5054869000,-73.5569409000,0,0
+Le Passé Composé,French,3.9,Good,102,$,40,3,The Gay Village,"The Gay Village, Montreal",Montreal,H2L 2A5,37,45.5222910000,-73.5694880000,0,0
+Le Vin Papillon,"French, Canadian",3.9,Good,113,$,25,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J1N4,37,45.4828430000,-73.5756270000,0,0
+Comptoir 21,"Fish and Chips, Seafood, British",3.9,Good,129,$,10,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2T2K7,37,45.5256690000,-73.5992500000,0,0
+Brigade Pizzeria Napolitaine,"Pizza, Italian, Sandwich",3.9,Good,75,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A,37,45.4996280000,-73.5744550000,0,0
+Bangkok Cuisine,Thai,3.9,Good,135,$,20,2,Downtown,"Downtown, Montreal",Montreal,H2L 2H4,37,45.5197610000,-73.5551010000,0,0
+Sel Gras,"Mediterranean, Portuguese",3.9,Good,61,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1S4,37,45.5242631000,-73.5954601000,0,0
+Salmigondis,Italian,3.9,Good,42,$,40,3,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S3B2,37,45.5336430000,-73.6141855000,0,0
+Peking Garden,Chinese,3.9,Good,74,$,10,1,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3W 1Y3,37,45.4842600000,-73.6288930000,0,0
+Restaurant Thailande,Thai,3.9,Good,76,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T2J8,37,45.5262440000,-73.6031240000,0,0
+Rotisserie Panama Restaurant,Greek,3.9,Good,63,$,25,2,Parc-Extension,"Parc-Extension, Montreal",Montreal,,37,45.5263520000,-73.6246130000,0,0
+Copoli,"Canadian, Pizza, Sandwich",3.9,Good,54,$,25,2,Westmount,"Westmount, Montreal",Montreal,H3Z 1R7,37,45.4817931000,-73.5924584000,0,0
+Karin Japanese Restaurant,Japanese,3.9,Good,51,$,25,2,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3X1T7,37,45.4828880000,-73.6294660000,0,0
+Restaurant Toroli,"French, Japanese, Fusion",3.9,Good,38,$,70,4,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 1Z9,37,45.5233491000,-73.5801469000,0,0
+Restaurant Épik,Mediterranean,3.9,Good,12,$,30,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1Z5,37,45.5031590000,-73.5550970000,0,0
+Le Local,French,3.8,Good,224,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H3C4C9,37,45.4983460000,-73.5575570000,0,0
+KINKA IZAKAYA,"Japanese, Sushi, Tapas",3.8,Good,108,$,25,2,Downtown,"Downtown, Montreal",Montreal,H3H 1L9,37,45.4938884000,-73.5791732000,0,0
+Balsam Inn,"Italian, Tapas",3.8,Good,62,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B2V5,37,45.5004983000,-73.5715054000,0,0
+Barbounya,Turkish,3.8,Good,76,$,25,2,Outremont,"Outremont, Montreal",Montreal,H2T 2N8,37,45.5205762000,-73.5949327000,0,0
+Olive Et Gourmando,"Cafe, Bakery",4.9,Excellent,906,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2A7,37,45.5012050000,-73.5564960000,0,0
+Opiano,"Korean, Sushi",4.4,Very Good,26,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A 1H3,37,45.5018212000,-73.5769085000,0,0
+Régine Café,"Diner, Cafe, British",4.3,Very Good,164,$,25,2,Étienne-Desmarteau,"Étienne-Desmarteau, Montreal",Montreal,H2G2V6,37,45.5437094000,-73.5960930000,0,0
+Cafe Myriade,Cafe,4.2,Very Good,238,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G2H7,37,45.4961770000,-73.5779270000,0,0
+Byblos Le Petit Cafe,"Cafe, Middle Eastern",4.1,Very Good,166,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 3W5,37,45.5343930000,-73.5831250000,0,0
+Ta pies,"Fast Food, Bakery, Australian",4.1,Very Good,70,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2V4E3,37,45.5174160320,-73.5901238769,0,0
+La Bistrote,"Cafe, Sandwich, Healthy Food",4.1,Very Good,76,$,10,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3C1L2,37,45.4907126000,-73.5665298000,0,0
+La Croissanterie Figaro,"French, Bakery, Cafe",4.0,Very Good,201,$,25,2,Outremont,"Outremont, Montreal",Montreal,H2V 4B3,37,45.5196050000,-73.5988810000,0,0
+Hof Kelsten,"Eastern European, Bakery, Cafe",4.0,Very Good,94,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1N4,37,45.5202330000,-73.5866320000,0,0
+Orange Café,"Cafe, Vegetarian",4.0,Very Good,108,$,25,2,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A 3J6,37,45.4773120000,-73.6155250000,0,0
+Café Larue & fils,Cafe,3.9,Good,43,$,25,2,Villeray,"Villeray, Montreal",Montreal,,37,45.5377530000,-73.6180040000,0,0
+Arts Café,Cafe,3.8,Good,84,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2T2M7,37,45.5214660000,-73.5969970000,0,0
+Toi Moi Et Cafe,"Coffee and Tea, Sandwich",3.8,Good,101,$,40,3,Outremont,"Outremont, Montreal",Montreal,H2T 2N8,37,45.5203480000,-73.5949754000,0,0
+Au Pain Perdu,"American, French",3.8,Good,78,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J3J1,37,45.5286600000,-73.5783500000,0,0
+Pavé Lunch Experts,"Cafe, Desserts, Coffee and Tea",3.8,Good,62,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1T3,37,45.5032563000,-73.5580312000,0,0
+Le Lapin Presse,Cafe,3.8,Good,59,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J1H5,37,45.5331280000,-73.5842370000,0,0
+Gastronomia Roberto,"Italian, Ice Cream, Cafe",3.8,Good,42,$,40,3,Saint-Michel,"Saint-Michel, Montreal",Montreal,H2G1C5,37,45.5495636000,-73.6008947000,0,0
+Kafein cafe-bar,"Cafe, Coffee and Tea, Sandwich",3.7,Good,71,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.4969390000,-73.5768100000,0,0
+Nespresso Montreal Boutique,"Coffee and Tea, Cafe",3.7,Good,54,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.4983920000,-73.5777860000,0,0
+Caffè Italia,"Cafe, Desserts",3.7,Good,37,$,10,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S3C7,37,45.5327250000,-73.6143460000,0,0
+Café Shaika,"Sandwich, Coffee and Tea",3.7,Good,52,$,25,2,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A 3A7,37,45.4721210000,-73.6128270000,0,0
+Café Joe,"Cafe, Burger, Crepes",3.7,Good,41,$,10,1,Westmount,"Westmount, Montreal",Montreal,H4C 1A5,37,45.4849480000,-73.5815020000,0,0
+Cafe Parvis,Cafe,3.6,Good,89,$,25,2,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H3A,37,45.5058190000,-73.5692700000,0,0
+Café Cherrier,"French, Cafe",3.6,Good,76,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5218469000,-73.5666661000,0,0
+Le Café Bloom,"Cafe, Healthy Food",3.6,Good,46,$,25,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3K1J1,37,45.4823289000,-73.5629864000,0,0
+En Couleur Café Crêperie,"Cafe, Desserts",3.6,Good,29,$,25,2,The Gay Village,"The Gay Village, Montreal",Montreal,H2L 1Z9,37,45.5191882000,-73.5574234000,0,0
+Cafe Gentile,Cafe,3.6,Good,20,$,10,1,Saint-Sulpice,"Saint-Sulpice, Montreal",Montreal,H2N,37,45.5383310000,-73.6543680000,0,0
+Resonance Café,"Cafe, Coffee and Tea, Vegetarian",3.6,Good,26,$,20,2,Outremont,"Outremont, Montreal",Montreal,H3N 2H3,37,45.5204163000,-73.5972008000,0,0
+Le Butterblume,Canadian,3.5,Good,14,$,0,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2T 1T3,37,45.5300000000,-73.6000000000,0,0
+Cafe Vito,"Coffee and Tea, Ice Cream, Cafe",3.5,Good,29,$,10,1,Parc-Extension,"Parc-Extension, Montreal",Montreal,,37,45.5384408000,-73.6245471000,0,0
+Café Replika,"Cafe, Sandwich",3.5,Good,31,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W 1E5,37,45.5203072000,-73.5795576000,0,0
+Restaurant de L'Apothicaire,Cafe,3.5,Good,11,$,0,1,The Gay Village,"The Gay Village, Montreal",Montreal,,37,45.5378680000,-73.6012460000,0,0
+La Cornetteria,"Bakery, Italian, Cafe",3.4,Average,76,$,10,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S,37,45.5307500000,-73.6100900000,0,0
+Salon de Thé Cardinal Tea Room,Cafe,3.4,Average,28,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1S5,37,45.5247442000,-73.5965787000,0,0
+Cafe Cantina,"Cafe, Mexican",3.4,Average,23,$,20,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3K2J7,37,45.4826916000,-73.5622739000,0,0
+Brasserie Capri,Cafe,3.4,Average,18,$,20,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3K1B1,37,45.4730720000,-73.5625450000,0,0
+Le Cozy Café,Cafe,3.4,Average,12,$,25,2,Vaudreuil-Soulanges,"Vaudreuil-Soulanges, Montreal",Montreal,J0P 1H0,37,45.4592919000,-74.1432877000,0,0
+Twigs,"Coffee and Tea, Sandwich",3.4,Average,12,$,10,1,Vaudreuil-Soulanges,"Vaudreuil-Soulanges, Montreal",Montreal,H9X 1L9,37,45.9979156305,-74.8388671875,0,0
+Fromagerie Copette et Cie,"Cafe, Coffee and Tea, Sandwich",3.4,Average,12,$,15,1,Verdun,"Verdun, Montreal",Montreal,H4G 1w9,37,45.4578795000,-73.5672323000,0,0
+Cafe Myriade Dominion Square,Cafe,3.3,Average,20,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B,37,45.5006665000,-73.5722459000,0,0
+Crew Collective & Café,Coffee and Tea,3.3,Average,16,$,15,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2N1,37,45.5023390000,-73.5593070000,0,0
+Kilo Cafe,"Desserts, Cafe, Bar Food",3.3,Average,15,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2T2L9,37,45.5260765000,-73.5997218000,0,0
+Paolo's Cafés,Cafe,3.3,Average,4,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1R4,37,45.5207290000,-73.5873540000,0,0
+Café Tommy,Cafe,3.2,Average,29,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5038590000,-73.5574435000,0,0
+Le Petit Dep,Cafe,3.2,Average,9,$,0,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1Z5,37,45.5030201151,-73.5552492833,0,0
+Cafe Chat L'Heureux,"Beverages, Vegetarian, Cafe",3.2,Average,16,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W1H3,37,45.5185461000,-73.5778311000,0,0
+Bar Darling,"Cafe, Coffee and Tea",3.2,Average,8,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W 1Z3,37,45.5187747000,-73.5841401000,0,0
+Brulerie St Denis,Cafe,3.2,Average,20,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W2M2,37,45.5203070000,-73.5744810000,0,0
+Montréal Café,Cafe,3.2,Average,12,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 1H9,37,45.5345280000,-73.5826410000,0,0
+Dans la Gueule Du Loup,"Sandwich, Cafe",3.2,Average,5,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2H1B8,37,45.5379466000,-73.5785026000,0,0
+Trou De Beigne,"Desserts, Cafe",3.1,Average,9,$,0,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S 1K8,37,45.5330890000,-73.6106280000,0,0
+Libertine Bakehouse,"Cafe, Bakery",3.1,Average,5,$,15,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 2G9,37,45.4850414000,-73.5805435000,0,0
+Café Olimpico,"Cafe, Coffee and Tea",3.1,Average,6,$,0,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 3A6,37,45.5072440567,-73.5531725829,0,0
+Aloha Espresso Bar,Cafe,3.1,Average,6,$,30,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2C6,37,0.0000000000,0.0000000000,0,0
+Café Gentile,"Cafe, Italian, Sandwich",3.0,Average,6,$,30,3,Westmount,"Westmount, Montreal",Montreal,H3Z 1P4,37,45.4863901000,-73.5872679000,0,0
+MELK Bar à Café,Coffee and Tea,3.0,Average,10,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B 2S8,37,45.4986120000,-73.5720570000,0,0
+La Finca,"Cafe, Coffee and Tea",3.0,Average,4,$,15,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z 1N1,37,45.5045756979,-73.5630015379,0,0
+Noble Cafe,"Cafe, Desserts",3.0,Average,5,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Cafexo Boutique,Cafe,3.0,Average,8,$,10,1,Vaudreuil-Soulanges,"Vaudreuil-Soulanges, Montreal",Montreal,J7V2M7,37,45.3919291000,-74.0193864000,0,0
+"Taglio di Roma, Bar à Pizza","Italian, Pizza, Cafe",3.0,Average,5,$,10,1,Laval,"Laval, Montreal",Montreal,H7E5J7,37,45.5939538000,-73.6658104000,0,0
+Le Kitchen,"Cafe, Vegetarian, Healthy Food",3.0,Average,2,$,25,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J 1R5,37,45.4873950000,-73.5667780000,0,0
+Parma Cafe,"Cafe, Italian, Sandwich",2.9,Average,6,$,15,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 2E3,37,45.4957056000,-73.5751660000,0,0
+September Surf Cafe,"Cafe, Coffee and Tea",2.9,Average,8,$,30,3,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J 1N6,37,45.4831810000,-73.5750020000,0,0
+Café Sfouf,Cafe,2.9,Average,9,$,25,2,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,,37,45.5217670000,-73.5617930000,0,0
+Genki Crêpe,"Coffee and Tea, Desserts, Cafe",2.9,Average,3,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5103916000,-73.5750578000,0,0
+La Brume Dans Mes Lunettes,Cafe,2.8,Average,6,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S 1L7,37,45.5352560000,-73.6085790000,0,0
+Café de L'Usine C,Cafe,2.9,Average,0,$,0,1,Sault-au-récollet,"Sault-au-récollet, Montreal",Montreal,H2B,37,45.5732794000,-73.6480390000,0,0
+Pino Café + Bistro,"Desserts, Sandwich, Cafe",2.8,Average,4,$,10,1,Marie-Clarac,"Marie-Clarac, Montreal",Montreal,H1H1T3,37,45.5944735000,-73.6359654000,0,0
+180g,"Coffee and Tea, Sandwich, Cafe",2.8,Average,4,$,15,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Café Ferlucci,Cafe,2.8,Average,4,$,20,2,Villeray,"Villeray, Montreal",Montreal,,37,45.5392605000,-73.6191101000,0,0
+Leaves Cafe ,"Cafe, Coffee and Tea",2.8,Average,5,$,20,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 1Z8,37,45.4989294000,-73.5773289000,0,0
+Dispatch Café,"Cafe, Coffee and Tea",2.8,Average,4,$,0,1,Parc-Extension,"Parc-Extension, Montreal",Montreal,H2V 1A4,37,45.5288210000,-73.6159910000,0,0
+Mlle Catherine café gelato,"Cafe, Desserts",2.8,Average,4,$,0,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 3B1,37,45.5080297839,-73.5529472774,0,0
+Café Vienne,"Coffee and Tea, Cafe",2.8,Average,4,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A,37,45.5028920000,-73.5732720000,0,0
+Terra Café et Thé Ltée,"Coffee and Tea, Tea, Cafe",2.8,Average,4,$,10,1,Saint-Sulpice,"Saint-Sulpice, Montreal",Montreal,H3L2B4,37,45.5420334000,-73.6596094000,0,0
+Café Lan-Anh,Cafe,2.8,Average,4,$,0,1,Mont-Royal,"Mont-Royal, Montreal",Montreal,H3S,37,45.5028884000,-73.6358921000,0,0
+Lylac Restaurant,"Cafe, Lebanese",2.6,Average,4,$,25,2,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4R0B7,37,45.5158750000,-73.6969780000,0,0
+Cafe Noir Cremazie,Cafe,2.7,Average,6,$,25,2,Villeray,"Villeray, Montreal",Montreal,H2P 1E6,37,45.5456574000,-73.6382350000,0,0
+Fixe,"Coffee and Tea, Breakfast, Cafe",2.7,Average,10,$,0,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S2L7,37,45.5343226000,-73.5990721000,0,0
+Elna Bistro,Cafe,2.7,Average,2,$,25,2,Mont-Royal,"Mont-Royal, Montreal",Montreal,,37,45.4918816000,-73.6483135000,0,0
+Le Doggy Cafe,"Cafe, Vegetarian",2.7,Average,4,$,20,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5329190000,-73.5742540000,0,0
+Pétale Sucré,"Cafe, Sandwich, Patisserie",2.7,Average,4,$,10,1,Verdun,"Verdun, Montreal",Montreal,H4G 1Z3,37,45.4689380000,-73.5671380000,0,0
+Station Kaffe,Cafe,2.7,Average,4,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.5002634000,-73.5734350000,0,0
+Café Les Oubliettes,Cafe,2.6,Average,4,$,20,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,,37,45.5335728000,-73.6079361000,0,0
+Cafe Java U,Cafe,2.6,Average,6,$,10,1,Westmount,"Westmount, Montreal",Montreal,H3Z 1H3,37,45.4781268000,-73.6044043000,0,0
+Café Vienne,"Coffee and Tea, Cafe",2.6,Average,2,$,10,1,The Gay Village,"The Gay Village, Montreal",Montreal,H2L2E3,37,45.5154840000,-73.5587760000,0,0
+Café Suprême,Cafe,2.6,Average,4,$,10,1,Downtown,"Downtown, Montreal",Montreal,H2Z,37,45.5034220000,-73.5662080000,0,0
+Café M,Cafe,2.4,Poor,4,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W1N3,37,45.5153401000,-73.5747250000,0,0
+Blumenthal,"Brasserie, French",2.4,Poor,4,$,20,2,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,,37,45.5067320000,-73.5668070000,0,0
+Baba Yaga,Cafe,0,Not rated,3,$,20,2,Downtown,"Downtown, Montreal",Montreal,,37,45.4837320000,-73.5809780000,0,0
+Desserts Etc.,"Desserts, Cafe",0,Not rated,2,$,10,1,Downtown,"Downtown, Montreal",Montreal,H3H1M2,37,45.4931792000,-73.5802839000,0,0
+Café Reine Garçon,"Cafe, Coffee and Tea",0,Not rated,1,$,15,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2L 1A9,37,45.5222712000,-73.5745191000,0,0
+Canal Lounge,"Cafe, Fast Food",0,Not rated,3,$,10,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 3L8,37,45.4794980000,-73.5768780000,0,0
+Paquebot Café,"Cafe, Coffee and Tea",0,Not rated,2,$,0,1,Étienne-Desmarteau,"Étienne-Desmarteau, Montreal",Montreal,H2G 1C2,37,45.5488160000,-73.6011070000,0,0
+Le Brûloir,"Cafe, Sandwich",0,Not rated,2,$,10,1,Ahuntsic,"Ahuntsic, Montreal",Montreal,H3L 1V3,37,45.5436050000,-73.6675890000,0,0
+Café 8 Oz.,Cafe,0,Not rated,3,$,0,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S2L8,37,45.5336449000,-73.5973804000,0,0
+Café Saint-Henri,Cafe,0,Not rated,3,$,0,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,,37,45.5364832000,-73.6146145000,0,0
+Padoca Pâtisserie Brésilienne,Cafe,0,Not rated,3,$,10,1,The Gay Village,"The Gay Village, Montreal",Montreal,H2L3L3,37,45.5177269000,-73.5578382000,0,0
+Sanpresso,"Cafe, Italian",0,Not rated,2,$,0,1,Dollard-Des Ormeaux,"Dollard-Des Ormeaux, Montreal",Montreal,H9G 1X2,37,0.0000000000,0.0000000000,0,0
+Cafe Myriade II,"Cafe, Bakery",0,Not rated,3,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2V 1Y1,37,45.5228740000,-73.6018120000,0,0
+Van Horne Pizzeria,Pizza,4.5,Excellent,80,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2V 1L4,37,45.5189760000,-73.6165100000,0,0
+Joe's Panini,Sandwich,4.2,Very Good,108,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B1K1,37,45.4986470000,-73.5746000000,0,0
+Dolcetto & Co.,"Italian, Pizza, Tapas",4.1,Very Good,107,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1Z6,37,45.5034515000,-73.5548564000,0,0
+Amaranto,Mexican,4.1,Very Good,131,$,10,1,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A 1H1,37,45.4714360000,-73.6263890000,0,0
+Depanneur Le Pick Up,"Sandwich, Salad",4.1,Very Good,98,$,15,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S 3J2,37,45.5319527000,-73.6177201000,0,0
+Vua Sandwichs,"Vietnamese, Sandwich, Beverages",4.1,Very Good,84,$,10,1,Latin Quarter,"Latin Quarter, Montreal",Montreal,,37,45.5147380000,-73.5622740000,0,0
+Crazy Falafel,"Burger, Fast Food, Mediterranean",4.1,Very Good,37,$,30,3,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4L 1Y6,37,45.5205530000,-73.6748580000,0,0
+Wilensky's Light Lunch,"Fast Food, Sandwich",4.0,Very Good,96,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T2L9,37,45.5234340000,-73.5949190000,0,0
+Mandy's,"Vegetarian, Healthy Food",3.8,Good,42,$,25,2,Westmount,"Westmount, Montreal",Montreal,H4A1S8,37,45.4768146000,-73.6062042000,0,0
+Le Lapin Presse,Cafe,3.8,Good,59,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J1H5,37,45.5331280000,-73.5842370000,0,0
+Piri Piri,Portuguese,3.8,Good,54,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5242400000,-73.5828810000,0,0
+Miss Italia,"Italian, Pizza",3.8,Good,30,$,25,2,Longueuil,"Longueuil, Montreal",Montreal,J4R1R4,37,45.4900860000,-73.4934520000,0,0
+Uniburger,Fast Food,3.7,Good,57,$,10,1,Latin Quarter,"Latin Quarter, Montreal",Montreal,H2X1H6,37,45.5148444000,-73.5654808000,0,0
+Restaurant Chō,"Asian, Tapas, Fusion",3.7,Good,65,$,40,3,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 1S1,37,45.4743458000,-73.5872095000,0,0
+Caffè Italia,"Cafe, Desserts",3.7,Good,37,$,10,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S3C7,37,45.5327250000,-73.6143460000,0,0
+Piri Piri,Portuguese,3.7,Good,33,$,10,1,Vieux-Rosemont,"Vieux-Rosemont, Montreal",Montreal,,37,45.5491343000,-73.5741785000,0,0
+Nouveau Paragon Jarry,Pizza,3.7,Good,13,$,25,2,Saint-Léonard,"Saint-Léonard, Montreal",Montreal,H1R 1X3,37,45.5765852000,-73.5976407000,0,0
+La Capital Tacos,Mexican,3.6,Good,50,$,25,2,Chinatown,"Chinatown, Montreal",Montreal,H2Z 1J5,37,45.5084429000,-73.5610566000,0,0
+Restaurant La Piazzetta,"Pizza, Healthy Food, Cafe",3.6,Good,36,$,40,3,The Gay Village,"The Gay Village, Montreal",Montreal,H2L 2G2,37,45.5175530000,-73.5570600000,0,0
+Fortune,Healthy Food,3.5,Good,19,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S3C4,37,45.5303206000,-73.6087852000,0,0
+Marche Jean Talon,Canadian,3.5,Good,18,$,0,1,Villeray,"Villeray, Montreal",Montreal,H2S 3S3,37,45.5378820000,-73.6150020000,0,0
+Chez Dany,Pizza,3.5,Good,30,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 1Z2,37,45.4975650000,-73.5739690000,0,0
+Comme Par Hasard,"Burger, French",3.5,Good,21,$,40,3,Longueuil,"Longueuil, Montreal",Montreal,J4H1E1,37,45.5379276000,-73.5102397000,0,0
+El Marino Cote Vertu,"Mediterranean, Seafood",3.5,Good,8,$,25,2,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4L,37,45.5206010000,-73.6747590000,0,0
+Mandy's Salads,"Healthy Food, Cafe",3.4,Average,19,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T2N6,37,45.5210046000,-73.5947364000,0,0
+Pierrette Patates,"Fast Food, Burger, Pizza",3.4,Average,8,$,20,2,Verdun,"Verdun, Montreal",Montreal,H4G 1K9,37,45.4649590000,-73.5711377000,0,0
+Cacao 70,"Sandwich, Coffee and Tea, Desserts",3.3,Average,37,$,25,2,Sainte-Catherine,"Sainte-Catherine, Montreal",Montreal,,37,45.5193980000,-73.5550450000,0,0
+Adamo,"Italian, Pizza",3.3,Average,16,$,15,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 1S5,37,45.4735370000,-73.5883124500,0,0
+Falafel St. Jacques,"Lebanese, Middle Eastern",3.3,Average,19,$,0,1,Montreal West,"Montreal West, Montreal",Montreal,H8R 1E6,37,45.4429398865,-73.6496342068,0,0
+Drogheria Fine,French,3.3,Average,13,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T 2M1,37,45.5230220000,-73.5952930000,0,0
+McGill Pizza,Pizza,3.3,Average,21,$,15,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H3A 2A8,37,45.5070177000,-73.5761735000,0,0
+Pizza Planete,"Fast Food, Pizza, Sandwich",3.3,Average,11,$,10,1,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4L 3M9,37,45.5157042000,-73.6849418000,0,0
+Prima Goccia Boutique de Café,Sandwich,3.3,Average,3,$,10,1,Saint-Léonard,"Saint-Léonard, Montreal",Montreal,H1S 1M8,37,45.5892170000,-73.5773820000,0,0
+Invitation V,Fast Food,3.2,Average,39,$,25,2,Outremont,"Outremont, Montreal",Montreal,H2Y 1M6,37,45.5240731000,-73.6050402000,0,0
+MLT DWN,"Canadian, Sandwich",3.1,Average,13,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 1X1,37,45.5262530000,-73.5810470000,0,0
+Café Frida,Mexican,3.1,Average,14,$,15,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 1S1,37,45.4700000000,-73.5900000000,0,0
+Tacos Victor,Mexican,3.1,Average,12,$,0,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 1R8,37,45.4800000000,-73.5900000000,0,0
+Bellepros,"Fast Food, Sandwich",3.1,Average,3,$,10,1,Rosemere,"Rosemere, Montreal",Montreal,H7E 0A5,37,0.0000000000,0.0000000000,0,0
+Le Marché des Éclusiers,Canadian,3.0,Average,5,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2E2,37,45.4988150000,-73.5528360000,0,0
+Vua Sandwichs,"Vietnamese, Sandwich, Beverages",3.0,Average,4,$,15,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Boustan,"Lebanese, Middle Eastern",3.0,Average,10,$,0,1,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X 1K3,37,45.5103370000,-73.5636290000,0,0
+Pizzeria Melrose,Pizza,3.0,Average,9,$,0,1,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Macbar et fromage,"American, Canadian, Sandwich, Quebecois, Others",2.9,Average,7,$,0,1,The Gay Village,"The Gay Village, Montreal",Montreal,,37,45.5200000000,-73.5600000000,0,0
+La Belle Province,"Burger, Fast Food, Canadian",2.9,Average,6,$,10,1,Lachine,"Lachine, Montreal",Montreal,H8R 1N9,37,45.4435661000,-73.6480268000,0,0
+Harvey's,Fast Food,2.9,Average,2,$,10,1,Repentigny,"Repentigny, Montreal",Montreal,J6A2N8,37,45.7146180000,-73.4757480000,0,0
+Harvey's,"Fast Food, Canadian, Burger",2.9,Average,2,$,10,1,Boucherville,"Boucherville, Montreal",Montreal,J4B6G4,37,45.5749290000,-73.4473480000,0,0
+Harvey's,"Fast Food, Burger, Canadian",2.9,Average,1,$,0,1,Rosemere,"Rosemere, Montreal",Montreal,J7A 2H1,37,45.6226960000,-73.8003080000,0,0
+Jerry Ferrer,Canadian,2.8,Average,5,$,15,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H2Z 1S5,37,45.5027360000,-73.5649900000,0,0
+Montreal Chinese Crepes & Dumpings,Chinese,2.8,Average,4,$,20,2,Montreal West,"Montreal West, Montreal",Montreal,H4X 1Y8,37,45.4529215000,-73.6451527000,0,0
+Pizza Pizza,"Fast Food, Pizza",2.8,Average,3,$,10,1,Pierrefonds-Roxboro,"Pierrefonds-Roxboro, Montreal",Montreal,,37,45.4835835000,-73.8602287000,0,0
+Cacao 70,"Sandwich, Coffee and Tea, Desserts",2.7,Average,5,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5263136404,-73.5807979947,0,0
+Domino's Pizza,"Fast Food, Italian, Pizza",2.7,Average,0,$,25,2,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3W2K3,37,45.4956385000,-73.6365363000,0,0
+Monsieur Burrito,Mexican,2.6,Average,5,$,0,1,Mont-Royal,"Mont-Royal, Montreal",Montreal,H2J 1X3,37,0.0000000000,0.0000000000,0,0
+Kamehameha Snack-bar,Hawaiian,2.6,Average,5,$,0,1,The Gay Village,"The Gay Village, Montreal",Montreal,,37,45.5016889000,-73.5672560000,0,0
+Olly Fresco's,Fast Food,2.6,Average,4,$,0,1,Downtown,"Downtown, Montreal",Montreal,,37,45.5035260000,-73.5694390000,0,0
+Sushi Shop,"Fast Food, Japanese, Sushi",2.6,Average,5,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,H4Z 1A1,37,45.5013735000,-73.5618633000,0,0
+Restaurant 3T,Vietnamese,0,Not rated,3,$,10,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z1J6,37,45.5083930000,-73.5605178000,0,0
+Mandy's,"Healthy Food, Salad, Vegetarian",0,Not rated,3,$,20,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2P4,37,45.5022743000,-73.5562377000,0,0
+Miss Banh Mi,Vietnamese,0,Not rated,3,$,15,1,Downtown,"Downtown, Montreal",Montreal,H3H 2H9,37,45.4943870000,-73.5804880000,0,0
+Xavier Artisan,"Cafe, Sandwich, Desserts",0,Not rated,3,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2W8,37,45.5049817402,-73.5568056351,0,0
+La Dînette Montréal-Est,French,0,Not rated,2,$,10,1,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,H1N 1E6,37,45.5875560000,-73.5402520000,0,0
+Epicerie Umami,"Canadian, Coffee and Tea",0,Not rated,3,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 2E3,37,45.4958630000,-73.5745940000,0,0
+Liv Salades,"Healthy Food, Salad, Vegetarian",0,Not rated,1,$,15,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T 1S1,37,45.5246632000,-73.5967433000,0,0
+Paninneria da Marco,Sandwich,0,Not rated,3,$,20,2,Saint-Léonard,"Saint-Léonard, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Annaby's,American,0,Not rated,1,$,30,3,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Avenue des Canadiens,Canadian,0,Not rated,3,$,0,1,Airport: Montreal: YUL,"Airport: Montreal: YUL, Montreal",Montreal,,37,45.4697550000,-73.7449200000,0,0
+Cuisine D'Izza,Moroccan,0,Not rated,2,$,0,1,Outremont,"Outremont, Montreal",Montreal,H2T 2K4,37,45.5243870000,-73.6049070000,0,0
+Ramen 9000,"Ramen, Japanese",0,Not rated,3,$,15,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 1S5,37,45.4735605000,-73.5882884000,0,0
+Mon ChiCha,"Asian Fusion, Juices",0,Not rated,2,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G,37,45.4974340000,-73.5780850000,0,0
+Casse-croute Sissi & Paul,Caribbean,0,Not rated,2,$,10,1,Villeray,"Villeray, Montreal",Montreal,H2A 1T6,37,45.5539330000,-73.6020530000,0,0
+Comptoir 21,"Burger, Seafood",0,Not rated,3,$,0,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 3Y9,37,45.5022580000,-73.5604750000,0,0
+Sol Bistro,"Sandwich, Coffee and Tea",0,Not rated,2,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H1V 1B3,37,45.5596140000,-73.5497070000,0,0
+Super Taco,"Mexican, Tex-Mex",0,Not rated,1,$,15,1,Rosemont-Petite Patrie,"Rosemont-Petite Patrie, Montreal",Montreal,H2S 1G4,37,45.5379884000,-73.6111732000,0,0
+Caffe Della Pace,Fast Food,0,Not rated,0,$,0,1,Outremont,"Outremont, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Bingo,"Fast Food, French, Canadian",0,Not rated,1,$,25,2,Verdun,"Verdun, Montreal",Montreal,,37,45.4519830000,-73.5723470000,0,0
+Buffet Sultan,Indian,0,Not rated,0,$,20,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.4992028807,-73.5815919286,0,0
+A&W,Fast Food,0,Not rated,2,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B 4G5,37,45.5027120000,-73.5721080000,0,0
+Qabane à Thé,"Desserts, Tea",0,Not rated,2,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 2H7,37,45.4959280000,-73.5776360000,0,0
+Pannizza,Pizza,0,Not rated,0,$,25,2,Laval,"Laval, Montreal",Montreal,H7X 3S9,37,45.5273260000,-73.7825520000,0,0
+Cugini's pizza cafe,"Italian, Pizza",0,Not rated,2,$,10,1,Beaconsfield,"Beaconsfield, Montreal",Montreal,H9W 2E4,37,45.4320620000,-73.8646070000,0,0
+Double Pizza,Pizza,0,Not rated,1,$,0,1,Downtown,"Downtown, Montreal",Montreal,H3B 4L4,37,45.5010350000,-73.5644380000,0,0
+Boucherie Dans la Côte,Sandwich,0,Not rated,1,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H3A 2K2,37,45.5081340000,-73.5705250000,0,0
+Le Ice & Tacos,Mexican,0,Not rated,1,$,20,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T 1N4,37,0.0000000000,0.0000000000,0,0
+Frida Restaurant,Mexican,0,Not rated,1,$,0,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 2G9,37,45.4846690000,-73.5803130000,0,0
+L'Express,Sandwich,0,Not rated,1,$,0,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S 1M2,37,45.5369450000,-73.6074010000,0,0
+Arriba Burrito,Mexican,0,Not rated,1,$,20,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5231670000,-73.5834370000,0,0
+Le Bar Sportif- Montreal Airport,Canadian,0,Not rated,2,$,40,3,Airport: Montreal: YUL,"Airport: Montreal: YUL, Montreal",Montreal,,37,45.4704600000,-73.7448120000,0,0
+Soupesoup,"Cafe, Sandwich",0,Not rated,1,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 1X1,37,45.5261510000,-73.5807520000,0,0
+Cafe Ma Fee,"Coffee and Tea, French",0,Not rated,2,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H3A 1B2,37,45.5079300000,-73.5712560000,0,0
+Mlle Clifford English Tea Room,"Coffee and Tea, Sandwich, British",0,Not rated,1,$,0,1,Vaudreuil-Soulanges,"Vaudreuil-Soulanges, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Station Shawarma,Lebanese,0,Not rated,2,$,20,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.5178510000,-73.5701880000,0,0
+Copper Branch,Healthy Food,0,Not rated,2,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5283430387,-73.5757125264,0,0
+Chez Hailar,"Middle Eastern, Sandwich, Pizza",0,Not rated,1,$,20,2,Downtown,"Downtown, Montreal",Montreal,H3H 1C9,37,45.4962501000,-73.5818445000,0,0
+Burger Town,Burger,0,Not rated,2,$,0,1,Dorval,"Dorval, Montreal",Montreal,H9S 2A7,37,45.4408390000,-73.7307510000,0,0
+Zouki's,"Mediterranean, Fast Food",0,Not rated,1,$,15,1,Rosemere,"Rosemere, Montreal",Montreal,J7J 0T1,37,45.6738328000,-73.9196043000,0,0
+Harvey's,"Canadian, Burger, Fast Food",0,Not rated,1,$,0,1,Saint-Jean-Sur-Richelieu,"Saint-Jean-Sur-Richelieu, Montreal",Montreal,J2W 2V1,37,0.0000000000,0.0000000000,0,0
+La Crepe Rit,"French, Coffee and Tea",0,Not rated,0,$,25,2,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A 3K3,37,45.4789627975,-73.6192018634,0,0
+Hero Certified Burgers,Burger,0,Not rated,1,$,25,2,Ahuntsic,"Ahuntsic, Montreal",Montreal,H3G 2E8,37,45.4974440000,-73.5783590000,0,0
+Jasmine Al Sham,"Lebanese, Middle Eastern, Syrian",0,Not rated,2,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H9H 4K3,37,45.4814510000,-73.8631950000,0,0
+Thai Express,Thai,0,Not rated,2,$,20,2,Verdun,"Verdun, Montreal",Montreal,,37,45.4628820000,-73.5668760000,0,0
+Hawaii Ice,"Coffee and Tea, Beverages, Ice Cream",3.2,Average,9,$,10,1,Pointe-Claire,"Pointe-Claire, Montreal",Montreal,,37,45.4501685000,-73.7914516000,0,0
+La Finca,"Cafe, Coffee and Tea",3.0,Average,4,$,15,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z 1N1,37,45.5045756979,-73.5630015379,0,0
+Bristol Chai,Beverages,0,Not rated,2,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.5133590000,-73.5729980000,0,0
+Senthé,"Beverages, Healthy Food",0,Not rated,1,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Juspur,"Healthy Food, Juices",0,Not rated,0,$,12,1,Outremont,"Outremont, Montreal",Montreal,,37,45.5228205000,-73.6063395000,0,0
+Juicyyy Lab,Beverages,0,Not rated,1,$,20,2,Old Montréal,"Old Montréal, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Tisanerie Mandala,Tea,0,Not rated,0,$,20,2,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,H1W 1R6,37,45.5445906168,-73.5453928357,0,0
+Tuck Shop,"International, Seafood",4.8,Excellent,353,$,70,4,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C1S7,37,45.4729850000,-73.5883020000,0,0
+Maison Christian Faure,French,4.1,Very Good,108,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1Z6,37,45.5034558000,-73.5543558000,0,0
+Ferreira Café,"Seafood, Portuguese",4.0,Very Good,343,$,70,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A1S8,37,45.5003870000,-73.5739860000,0,0
+Modavie Wine Bar Live Jazz,Mediterranean,4.0,Very Good,258,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1Y6,37,45.5062723000,-73.5534474000,0,0
+Pullman,"Bar Food, Tapas",4.0,Very Good,247,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X2H7,37,45.5085510000,-73.5718110000,0,0
+Buvette Chez Simone,Tapas,4.0,Very Good,222,$,25,2,Outremont,"Outremont, Montreal",Montreal,H2V4E7,37,45.5188350000,-73.5935100000,0,0
+Monkland Tavern,French,4.0,Very Good,204,$,40,3,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A1E1,37,45.4762553000,-73.6222588000,0,0
+Patrice Pâtissier,"Desserts, French",4.0,Very Good,91,$,25,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J1N4,37,45.4836914000,-73.5737434000,0,0
+Bocata,"French, Spanish",3.9,Good,96,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y2A3,37,45.5015940000,-73.5557600000,0,0
+Sel Gras,"Mediterranean, Portuguese",3.9,Good,61,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1S4,37,45.5242631000,-73.5954601000,0,0
+Café Larue & fils,Cafe,3.9,Good,43,$,25,2,Villeray,"Villeray, Montreal",Montreal,,37,45.5377530000,-73.6180040000,0,0
+Chez Victoire,Seafood,3.8,Good,89,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J1Z1,37,45.5311120000,-73.5764918000,0,0
+Confusion Tapas Du Monde,"International, Tapas",3.8,Good,117,$,25,2,Latin Quarter,"Latin Quarter, Montreal",Montreal,H2X3K3,37,45.5150350000,-73.5629370000,0,0
+Les Deux Gamins,French,3.8,Good,60,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X1B5,37,45.5155554000,-73.5711301000,0,0
+Communion,"Breakfast, European",3.7,Good,79,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y4B2,37,45.5034157000,-73.5539124000,0,0
+Pastaga,French,3.7,Good,100,$,40,3,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S3C3,37,45.5300330000,-73.6078487000,0,0
+Philemon Bar,"French, International",3.7,Good,72,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y3W2,37,45.5041650000,-73.5547660000,0,0
+Vertige,"French, Fusion",3.7,Good,40,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2L1B3,37,45.5221780000,-73.5744390000,0,0
+Bar Bily Kun,Bar Food,3.7,Good,49,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T,37,45.5234260000,-73.5832020000,0,0
+Majestique,"Breakfast, Deli",3.6,Good,49,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W1Y7,37,45.5175436000,-73.5802618000,0,0
+Mme Lee,Bar Food,3.6,Good,42,$,10,1,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,,37,45.5130188000,-73.5663321000,0,0
+Salumi Vino,"Italian, Mediterranean",3.6,Good,46,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1C7,37,45.5099398000,-73.5525334000,0,0
+Wrapcity Gourmet,"Sandwich, Vegetarian",3.6,Good,60,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A,37,45.5001940000,-73.5756240000,0,0
+Hostaria,Italian,3.6,Good,51,$,40,3,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S1K9,37,45.5338553000,-73.6099012000,0,0
+Ariel,"French, Tapas",3.6,Good,39,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G1W9,37,45.4997290000,-73.5768320000,0,0
+Labo culinaire - Foodlab,"BBQ, International",3.6,Good,24,$,40,3,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X2S6,37,45.5094688000,-73.5628208000,0,0
+Le Petit Bouchon,Others,3.6,Good,13,$,40,3,Rosemere,"Rosemere, Montreal",Montreal,J7H1M9,37,45.6287840000,-73.8479470000,0,0
+Hambar,"Sandwich, Vegetarian",3.5,Good,66,$,70,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2E8,37,45.5000910000,-73.5567180000,0,0
+Enoteca Monza Pizzeria Moderna,"Italian, Pizza",3.5,Good,63,$,40,3,Dollard-Des Ormeaux,"Dollard-Des Ormeaux, Montreal",Montreal,H9G 1X1,37,45.4743670000,-73.8361939000,0,0
+Enoteca Monza Pizzeria Moderna,"Italian, Pizza",3.5,Good,70,$,40,3,Laval,"Laval, Montreal",Montreal,H7T 0,37,45.5722630000,-73.7418690000,0,0
+Accords,"French, International",3.5,Good,71,$,70,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1T3,37,45.5036273000,-73.5575651000,0,0
+Monsieur Restaurant + Bar,"International, Mediterranean",3.5,Good,16,$,40,3,Chinatown,"Chinatown, Montreal",Montreal,H2Z1N4,37,45.5047349000,-73.5638770000,0,0
+Stogies,Others,3.5,Good,19,$,70,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G2B8,37,45.4983190000,-73.5776320000,0,0
+Furco,Others,3.4,Average,73,$,40,3,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H3A2E4,37,45.5056652000,-73.5692506000,0,0
+Vestibule signé L'Aurochs,Tapas,3.4,Average,18,$,40,3,Brossard,"Brossard, Montreal",Montreal,J4Y0A5,37,45.4416782000,-73.4396480000,0,0
+Pop! Bar a Vin,French,3.4,Average,23,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W1P1,37,45.5174090000,-73.5730300000,0,0
+Mimi la Nuit,Others,3.3,Average,26,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1G3,37,45.5058682000,-73.5535223000,0,0
+Pub Sir Joseph,"Bar Food, British",3.3,Average,17,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1R5,37,45.5221214000,-73.5910089000,0,0
+Larry’s,"Canadian, French",3.2,Average,11,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T 1S4,37,45.5240940000,-73.5945510000,0,0
+Boucherie Lorrain - Cuisine de Saison,"Diner, Tea",3.2,Average,5,$,25,2,Rosemere,"Rosemere, Montreal",Montreal,J7A,37,45.6219601000,-73.7995055000,0,0
+Les Cavistes Restaurant Boutique,"European, French",3.2,Average,11,$,40,3,Ahuntsic,"Ahuntsic, Montreal",Montreal,H3L1T6,37,45.5457232000,-73.6665551000,0,0
+Fourquet Fourchette,"French, Canadian",3.2,Average,11,$,70,4,Longueuil,"Longueuil, Montreal",Montreal,J3L1Y8,37,45.4475881000,-73.2792259000,0,0
+SIX Resto Lounge,"French, Canadian",3.1,Average,10,$,40,3,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H5B1E5,37,45.5069030000,-73.5655900000,0,0
+Quai 99 - Plage de ville,International,3.1,Average,7,$,40,3,Longueuil,"Longueuil, Montreal",Montreal,J4H4C9,37,45.5423180000,-73.5104920000,0,0
+Ristorante Capriccio,"Desserts, Italian",3.1,Average,7,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1B6,37,45.5059480000,-73.5558457000,0,0
+M. Mme.,American,3.0,Average,8,$,0,1,Outremont,"Outremont, Montreal",Montreal,H2T 2N8,37,45.5204469000,-73.5949196000,0,0
+Restaurant La Cuvée,European,3.0,Average,4,$,25,2,The Gay Village,"The Gay Village, Montreal",Montreal,H2L1Y7,37,45.5163599000,-73.5601372000,0,0
+Ya'oooo Pizza Bar,Pizza,3.0,Average,7,$,25,2,Laurentians,"Laurentians, Montreal",Montreal,J8E1E2,37,46.2124832000,-74.5867434000,0,0
+"Les Copains d""abord","French, Seafood",3.0,Average,5,$,70,4,Laurentians,"Laurentians, Montreal",Montreal,J8E3E9,37,46.1186764000,-74.5900812000,0,0
+Le Cul-Sec,,2.8,Average,5,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S1P7,37,45.5306373000,-73.6081134000,0,0
+Rouge Gorge,Tapas,2.8,Average,4,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J1Y2,37,45.5292639000,-73.5780626000,0,0
+Enoteca Monza Pizzeria Moderna,"Italian, Pizza",2.6,Average,18,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B2Y4,37,45.5018980000,-73.5704020000,0,0
+Vinoteca,Others,0,Not rated,3,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W,37,45.5202217000,-73.5764118000,0,0
+Place Deschamps,French,0,Not rated,1,$,40,3,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X1Z8,37,45.5082600000,-73.5654895000,0,0
+Café Bar Métropole,"French, Sandwich",0,Not rated,3,$,10,1,Airport: Montreal: YUL,"Airport: Montreal: YUL, Montreal",Montreal,H4Y,37,45.4575970000,-73.7510420000,0,0
+Jardin Thai,Thai,0,Not rated,1,$,25,2,Rosemere,"Rosemere, Montreal",Montreal,J7A2H4,37,45.6272802000,-73.8074744000,0,0
+Le A Bar,Bar Food,0,Not rated,1,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W 1E4,37,45.5200859373,-73.5799718743,0,0
+L'aparté,Coffee and Tea,0,Not rated,3,$,40,3,Terrebonne,"Terrebonne, Montreal",Montreal,J6W1E5,37,45.6922571000,-73.6353811000,0,0
+Chez Noeser,French,0,Not rated,0,$,70,4,Saint-Jean-Sur-Richelieu,"Saint-Jean-Sur-Richelieu, Montreal",Montreal,J3B6V8,37,45.3073982000,-73.2521616000,0,0
+Enoteca Monza Pizzeria Moderna,"Italian, Pizza",0,Not rated,0,$,40,3,Longueuil,"Longueuil, Montreal",Montreal,J3V 6H1,37,0.0000000000,0.0000000000,0,0
+Le Tonique,Cafe,0,Not rated,0,$,0,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 2C7,37,45.4708752612,-73.5854757672,0,0
+Magdalena,Italian,0,Not rated,0,$,0,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,,37,45.4778990000,-73.5844950000,0,0
+The Parlour Pizza Kitchen & Bar,"Italian, Pizza",0,Not rated,0,$,40,3,Beloeil,"Beloeil, Montreal",Montreal,,37,45.5679246000,-73.2039469000,0,0
+Nextdoor Pub & Grill,"Burger, Coffee and Tea, Bar Food",4.4,Very Good,91,$,25,2,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A1T5,37,45.4756740000,-73.6074990000,0,0
+Imadake,"Japanese, Bar Food, Tapas",4.3,Very Good,540,$,25,2,Downtown,"Downtown, Montreal",Montreal,,37,45.4889040000,-73.5849080000,0,0
+Dieu du Ciel,Pub Food,4.1,Very Good,151,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T 2N2,37,45.5228350000,-73.5932380000,0,0
+McCarold's,"Burger, Pub Food, Irish",3.9,Good,83,$,25,2,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3T 1Y5,37,45.4965895000,-73.6237915000,0,0
+Cunningham's Pub,"Canadian, Bar Food",3.5,Good,52,$,25,2,Vaudreuil-Soulanges,"Vaudreuil-Soulanges, Montreal",Montreal,H9X 1M2,37,45.4034500000,-73.9506430000,0,0
+Le Red Tiger,Vietnamese,3.4,Average,35,$,0,1,The Gay Village,"The Gay Village, Montreal",Montreal,H2L 2A1,37,45.5191955000,-73.5577816000,0,0
+Le Sainte Elisabeth Pub,Pub Food,3.4,Average,31,$,25,2,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X 1L4,37,45.5121650000,-73.5620260000,0,0
+Pub St-James,"Bar Food, Steak, Canadian",3.3,Average,14,$,25,2,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,,37,45.4861000000,-73.7176390000,0,0
+Pub St-Paul,"Bar Food, Pizza, California",3.2,Average,20,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1G6 1G6,37,45.5069820136,-73.5527138135,0,0
+Brass Door Pub,Bar Food,3.2,Average,7,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.4986183000,-73.5786482000,0,0
+Brasserie Harricana,,3.0,Average,17,$,25,2,Parc-Extension,"Parc-Extension, Montreal",Montreal,H2R2W8,37,45.5336815000,-73.6194264000,0,0
+Pub Brewskey,Bar Food,3.0,Average,12,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1H3,37,45.5091936000,-73.5516714000,0,0
+Sir Winston Churchill Pub,"Bar Food, Canadian",2.9,Average,47,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 2B2,37,45.4980190000,-73.5769406000,0,0
+Pub Saint Pierre,"Pub Food, Burger",2.9,Average,8,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y,37,45.5012471000,-73.5567825000,0,0
+Bistro LOCAL 75 Pub,Pub Food,2.9,Average,5,$,30,3,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A 1E2,37,45.4800000000,-73.6200000000,0,0
+Chez Dallaire,Bar Food,2.8,Average,4,$,0,1,Verdun,"Verdun, Montreal",Montreal,,37,45.4787250000,-73.5590880000,0,0
+Medley Simple Malt,"Canadian, Quebecois",2.7,Average,6,$,0,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,,37,45.5346938304,-73.6002064591,0,0
+Lord William Pub,Canadian,0,Not rated,3,$,25,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J 0B3,37,45.4869700000,-73.5674170000,0,0
+Miss Villeray,Pizza,0,Not rated,3,$,25,2,Villeray,"Villeray, Montreal",Montreal,,37,45.5165811000,-73.6759571000,0,0
+Taverne Midway,,0,Not rated,1,$,25,2,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X2S6,37,45.5097690000,-73.5632238000,0,0
+Fitzroy,Bar Food,0,Not rated,3,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 1W4,37,45.5252410000,-73.5821470000,0,0
+Pub Epoxy,"Afghani, Bar Food, Brasserie, Fast Food",0,Not rated,3,$,0,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 1J4,37,45.4769918026,-73.5872111564,0,0
+Boswell,Bar Food,0,Not rated,2,$,0,1,Vieux-Rosemont,"Vieux-Rosemont, Montreal",Montreal,H2H 1L1,37,45.5383536651,-73.5695756322,0,0
+Les Siecles,Pub Food,0,Not rated,1,$,15,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Bistro Lajeunesse Inc,Bar Food,0,Not rated,1,$,45,3,Saint-Sulpice,"Saint-Sulpice, Montreal",Montreal,H2M 1S5,37,45.5489860000,-73.6466530000,0,0
+BAR Lindberg,Canadian,0,Not rated,0,$,0,1,North Montréal,"North Montréal, Montreal",Montreal,,37,45.5965333036,-73.6316526776,0,0
+Restro Bar Danesi,"Pizza, Bar Food",0,Not rated,1,$,35,3,District Ovide-Clermont,"District Ovide-Clermont, Montreal",Montreal,H1E 4A7,37,45.6234990000,-73.6024940000,0,0
+1240,"Asian, Japanese",0,Not rated,0,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Tapeo,"Spanish, Tapas",4.4,Very Good,385,$,25,2,Villeray,"Villeray, Montreal",Montreal,,37,45.5415670000,-73.6226874000,0,0
+Taverne Square Dominion,"French, British",4.3,Very Good,342,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B2V5,37,45.5005270000,-73.5715050000,0,0
+Deville Dinerbar,Diner,4.2,Very Good,566,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A1P4,37,45.4996748000,-73.5742857000,0,0
+Sparrow (Le Moineau),Bar Food,4.1,Very Good,213,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1A5,37,45.5246890000,-73.5967660000,0,0
+Buvette Chez Simone,Tapas,4.0,Very Good,222,$,25,2,Outremont,"Outremont, Montreal",Montreal,H2V4E7,37,45.5188350000,-73.5935100000,0,0
+La Croissanterie Figaro,"French, Bakery, Cafe",4.0,Very Good,201,$,25,2,Outremont,"Outremont, Montreal",Montreal,H2V 4B3,37,45.5196050000,-73.5988810000,0,0
+Maison India,"Indian, Bar Food",4.0,Very Good,65,$,40,3,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A,37,45.4690380000,-73.6185830000,0,0
+Joverse Bar-Cuisine,"Latin American, Tapas, Tex-Mex",3.9,Good,181,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1L2,37,45.5054869000,-73.5569409000,0,0
+Le Vin Papillon,"French, Canadian",3.9,Good,113,$,25,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J1N4,37,45.4828430000,-73.5756270000,0,0
+Le Tequila Bar,"Mexican, Bar Food",3.9,Good,68,$,25,2,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4L3M5,37,45.5138156000,-73.6824138000,0,0
+Balsam Inn,"Italian, Tapas",3.8,Good,62,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B2V5,37,45.5004983000,-73.5715054000,0,0
+McKibbin's,"Burger, Bar Food",3.8,Good,152,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.4967110000,-73.5769300000,0,0
+Ludger,"Canadian, Tapas, French",3.8,Good,91,$,40,3,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 1R3,37,45.4779340000,-73.5845254000,0,0
+Maison Publique,"Bar Food, Canadian, British",3.7,Good,195,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 3Y6,37,45.5336690000,-73.5787422000,0,0
+La Champagnerie,"Tapas, Bar Food",3.7,Good,112,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1H2,37,45.5091750000,-73.5518333000,0,0
+Folies de Montréal,"Tapas, Burger",3.7,Good,82,$,50,4,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 1W5,37,45.5252860000,-73.5817580000,0,0
+L'Gros Luxe,"Bar Food, Canadian",3.6,Good,116,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5218130000,-73.5702378000,0,0
+Le Bureau Bar Tapas,"Mediterranean, Tapas",3.6,Good,44,$,10,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J 1M1,37,45.4893843000,-73.5676785000,0,0
+Bishop & Bagg,"Breakfast, Bar Food, British",3.6,Good,31,$,25,2,Outremont,"Outremont, Montreal",Montreal,H2T2K8,37,45.5252209000,-73.5994348000,0,0
+Mayfair Cocktail Bar,Drinks Only,3.5,Good,64,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5225593000,-73.5777010000,0,0
+Foiegwa,French,3.4,Average,16,$,75,4,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 1N9,37,45.4812500000,-73.5781510000,0,0
+Les Incorruptibles,"French, Tapas",3.5,Good,13,$,40,3,Sault-au-récollet,"Sault-au-récollet, Montreal",Montreal,H2C1S1,37,45.5615346000,-73.6570142000,0,0
+Bier Markt Montréal,"Canadian, Bar Food",3.4,Average,78,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 1T1,37,45.4973632000,-73.5717572000,0,0
+Fiorellino,"Italian, Pizza",3.4,Average,17,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H2Z 1E3,37,45.5028640000,-73.5635190000,0,0
+Les Tontons Flingueurs-Brasserie,"French, Bar Food",3.4,Average,31,$,25,2,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3T 1X8,37,45.4954238000,-73.6206081000,0,0
+Le Mal Necessaire,Bar Food,3.4,Average,23,$,25,2,Chinatown,"Chinatown, Montreal",Montreal,,37,45.4824934000,-73.7599573000,0,0
+Bar Waverly,Bar Food,3.3,Average,17,$,60,4,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,,37,45.5259080000,-73.5990840000,0,0
+Bar B Barn,BBQ,3.2,Average,43,$,25,2,Pointe-Claire,"Pointe-Claire, Montreal",Montreal,,37,45.4830343000,-73.7960798000,0,0
+Bar Darling,"Cafe, Coffee and Tea",3.2,Average,8,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W 1Z3,37,45.5187747000,-73.5841401000,0,0
+Winnies,"American, Bar Food, Canadian",3.2,Average,24,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G2B2,37,45.4979630000,-73.5769120000,0,0
+Halifax Donair & Bar 902,Bar Food,3.2,Average,14,$,30,3,Latin Quarter,"Latin Quarter, Montreal",Montreal,H2X 1Z9,37,45.5192150000,-73.5574190000,0,0
+Soubois,"Finger Food, Bar Food",3.1,Average,18,$,95,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.5005516000,-73.5748655000,0,0
+Le Bird Bar,American,3.1,Average,11,$,40,3,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J 1M5,37,45.4882932000,-73.5687000000,0,0
+Être Avec Toi,Seafood,3.1,Average,9,$,0,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Z 1R1,37,45.5020920000,-73.5619260000,0,0
+Agrikol,Caribbean,3.1,Average,10,$,40,3,The Gay Village,"The Gay Village, Montreal",Montreal,,37,45.5197044352,-73.5621620065,0,0
+Moxies Grillades Bar,Steak,3.1,Average,25,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B0C3 0,37,45.5022230000,-73.5673990000,0,0
+Mademoiselle Urban RestoBar,"Bar Food, Canadian",3.1,Average,15,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2V 4G3,37,45.5204320000,-73.5972410000,0,0
+Perles et Paddock,Seafood,3.1,Average,6,$,30,3,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H1T 3M7,37,45.4875540000,-73.5683780000,0,0
+Bar George,Canadian,3.0,Average,8,$,0,1,Downtown,"Downtown, Montreal",Montreal,H3G 1V9,37,45.4991660000,-73.5756490000,0,0
+Pandore,French,3.0,Average,14,$,70,4,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,,37,45.5082988000,-73.5654219000,0,0
+Taqueria Arturo,Mexican,3.0,Average,6,$,30,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X 1B3,37,45.5143836000,-73.5718462000,0,0
+Café Gentile,"Cafe, Italian, Sandwich",3.0,Average,6,$,30,3,Westmount,"Westmount, Montreal",Montreal,H3Z 1P4,37,45.4863901000,-73.5872679000,0,0
+Le Warehouse,"American, Burger, Pub Food",3.0,Average,8,$,30,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 2B6,37,45.4974617000,-73.5769969000,0,0
+Atwater Cocktail Club,Bar Food,3.0,Average,7,$,30,3,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 2G5,37,45.4813848000,-73.5782397000,0,0
+Bar Cloakroom,Canadian,3.0,Average,6,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 1Z8,37,45.5000000000,-73.5800000000,0,0
+132 Bar Vintage,Bar Food,2.9,Average,4,$,25,2,Ahuntsic,"Ahuntsic, Montreal",Montreal,H3L1T4,37,45.5465657000,-73.6659092000,0,0
+N Sur Mackay,Bar Food,2.9,Average,12,$,30,3,Downtown,"Downtown, Montreal",Montreal,,37,45.4952390000,-73.5762140000,0,0
+Loïc,"Bar Food, BBQ",2.9,Average,5,$,30,3,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Bar Palco,Bar Food,2.9,Average,4,$,0,1,Verdun,"Verdun, Montreal",Montreal,H4G 1V6,37,45.4635600000,-73.5671900000,0,0
+The Coldroom,Drinks Only,2.9,Average,5,$,30,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1Z5,37,45.5071385000,-73.5532990000,0,0
+Forum Sports Bar & GamesCentre,"Burger, Pizza, Bar Food",2.8,Average,7,$,25,2,Downtown,"Downtown, Montreal",Montreal,H3H 1N2,37,45.4898003000,-73.5839388000,0,0
+Le Richmond Marché Italien,Italian,2.7,Average,6,$,45,3,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J 1R4,37,45.4996691216,-73.5783518201,0,0
+Bar de Courcelle,Finger Food,2.7,Average,4,$,0,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Birra Bar à Bières,Bar Food,2.7,Average,4,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S 0B2,37,45.5344250000,-73.6177710000,0,0
+House Of Jazz,"Bar Food, Grill, BBQ",2.7,Average,5,$,60,4,Latin Quarter,"Latin Quarter, Montreal",Montreal,,37,45.5055759000,-73.5714855000,0,0
+Grumpy’s,Drinks Only,2.7,Average,6,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 2E3,37,45.4962259000,-73.5756880000,0,0
+Snowbird Tiki Bar,Bar Food,2.6,Average,5,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S 3C7,37,45.5319840000,-73.6127430000,0,0
+Bulldog Beerhouse,"Burger, Bar Food, American",2.6,Average,4,$,0,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1Y7,37,45.5053340000,-73.5537530000,0,0
+Vertigo Steak + Bar,"American, Bar Food, Steak",2.6,Average,4,$,40,3,Rosemere,"Rosemere, Montreal",Montreal,,37,45.6281341000,-73.8476587000,0,0
+Z Tapas Lounge - Hotel ZERO 1,Tapas,2.5,Average,5,$,0,1,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X 3Z5,37,45.5091990000,-73.5616650000,0,0
+La Cage - Brasserie sportive,"BBQ, Fast Food, Bar Food",1.8,Poor,30,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1G6,37,45.5041591000,-73.5545843000,0,0
+Cafe Donato,"Italian, Cafe",0,Not rated,1,$,25,2,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4L 3L3,37,45.5148273700,-73.6835802441,0,0
+La Folie,"Fast Food, Beverages",0,Not rated,2,$,20,2,Laurentians,"Laurentians, Montreal",Montreal,J0R 1R0,37,45.8944918922,-74.1577947980,0,0
+Gokudo,Japanese,0,Not rated,3,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B,37,45.5031850000,-73.5683530000,0,0
+Kozu,"Asian Fusion, Chinese",0,Not rated,2,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 2H2,37,45.5227770511,-73.5770214444,0,0
+Restaurant Fratello,Italian,0,Not rated,2,$,35,3,Sainte-Catherine,"Sainte-Catherine, Montreal",Montreal,J5A 1B4,37,45.3790319000,-73.5579732000,0,0
+Bistro Michelangelo,"Italian, Bar Food",0,Not rated,2,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2V 4E4,37,45.5200000000,-73.5900000000,0,0
+Olive & Citron,Greek,0,Not rated,3,$,30,3,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A 1C7,37,45.4765223000,-73.6217426000,0,0
+Oregon Bar à Vin,Canadian,0,Not rated,2,$,60,4,Laval,"Laval, Montreal",Montreal,H7L,37,45.6009793000,-73.7899912000,0,0
+Bar Nacarat - Fairmont le Reine Élisabeth,Canadian,0,Not rated,2,$,80,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.5004490000,-73.5680860000,0,0
+La Cage,"American, Bar Food",0,Not rated,2,$,0,1,Boucherville,"Boucherville, Montreal",Montreal,J4B 5L2,37,45.5709700000,-73.4467490000,0,0
+Le Pink Flamingo,American,0,Not rated,2,$,45,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 3B3,37,45.5076990000,-73.5534070000,0,0
+Blossom Bar,Japanese,0,Not rated,2,$,40,3,The Gay Village,"The Gay Village, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+L'Atelier de Joël Robuchon,"European, Bar Food",0,Not rated,1,$,75,4,Longueuil,"Longueuil, Montreal",Montreal,H3C 4W7,37,45.5054477000,-73.5258099000,0,0
+Bar Henrietta,Bar Food,0,Not rated,1,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5200000000,-73.5900000000,0,0
+Boho,Bar Food,0,Not rated,3,$,80,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2T3,37,45.5074530000,-73.5544180000,0,0
+Luwan,Drinks Only,0,Not rated,1,$,0,1,Chinatown,"Chinatown, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Renaissance Montreal,Canadian,0,Not rated,2,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B 1M7,37,45.5027610000,-73.5693020000,0,0
+Caifan Tacos Bar,Mexican,0,Not rated,0,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S 1R1,37,45.5312592309,-73.6077488309,0,0
+Bar Le Royal,Beverages,0,Not rated,1,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 1Y2,37,45.5290144000,-73.5780861000,0,0
+Le Speakeasy,"Bar Food, Canadian, Sandwich",0,Not rated,2,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H2Y 2E5,37,45.4993950000,-73.5558670000,0,0
+Resto Guillotine,American,0,Not rated,0,$,0,1,Longueuil,"Longueuil, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Arabica Lounge,Canadian,0,Not rated,1,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 2H5,37,45.4953920000,-73.5757900000,0,0
+Le Mtl Resto + Bar,"Bar Food, Canadian",0,Not rated,1,$,45,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2L 4A7,37,45.5226310000,-73.5743060000,0,0
+Toro Sushi Bar,"Asian, Fusion",0,Not rated,2,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 2E8,37,45.4976780000,-73.5784070000,0,0
+Bar Le Record,Bar Food,0,Not rated,1,$,30,3,Villeray,"Villeray, Montreal",Montreal,H2R 2N6,37,45.5437326000,-73.6203043000,0,0
+Couteau Tranché,"Tapas, Sandwich, Desserts",0,Not rated,0,$,25,2,Laval,"Laval, Montreal",Montreal,H7X 4G8,37,45.5351908994,-73.7896292352,0,0
+Idole,Bar Food,0,Not rated,1,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S 2M2,37,45.5357230000,-73.6025570000,0,0
+Arcade MTL,Bar Food,0,Not rated,2,$,0,1,Latin Quarter,"Latin Quarter, Montreal",Montreal,H2X 3K8,37,45.5163810000,-73.5658330000,0,0
+Das Bier,German,0,Not rated,2,$,50,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Henden,"Bar Food, Canadian",0,Not rated,2,$,35,3,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J 1M5,37,45.4883283000,-73.5686799000,0,0
+Notre Boeuf de Grace,"Burger, Grill",0,Not rated,3,$,30,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 2E4,37,45.4975775000,-73.5776679688,0,0
+Somwhr Liquor Lounge,Bar Food,0,Not rated,3,$,45,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1V2,37,45.5016500000,-73.5593970000,0,0
+Le Lab,Bar Food,0,Not rated,1,$,30,3,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X 1L5,37,45.5127197000,-73.5616129000,0,0
+Le Bar Sportif- Montreal Airport,Canadian,0,Not rated,2,$,40,3,Airport: Montreal: YUL,"Airport: Montreal: YUL, Montreal",Montreal,,37,45.4704600000,-73.7448120000,0,0
+Chez BOSS & fils,Seafood,0,Not rated,2,$,75,4,Verdun,"Verdun, Montreal",Montreal,H4G 1T6,37,45.4676590000,-73.5660399000,0,0
+Le 4e mur,Bar Food,0,Not rated,3,$,25,2,Latin Quarter,"Latin Quarter, Montreal",Montreal,H2X 3K8,37,45.5146870000,-73.5624100000,0,0
+Taverne Saint-Sacrement,Finger Food,0,Not rated,2,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5251410659,-73.5819781667,0,0
+L'Espace Public - Brasseurs De Quartier,Drinks Only,0,Not rated,3,$,40,3,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,,37,45.5455780000,-73.5442640000,0,0
+Roasters BBQ Grill & Bar,American,0,Not rated,1,$,30,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 1X5,37,45.4896460000,-73.5856907000,0,0
+Olive Et Gourmando,"Cafe, Bakery",4.9,Excellent,906,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 2A7,37,45.5012050000,-73.5564960000,0,0
+Salle de thé Gryphon D'Or,"Bakery, Tea, Desserts",4.4,Very Good,73,$,10,1,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A2L2,37,45.4716260000,-73.6264180000,0,0
+Cocoa Locale,Others,4.3,Very Good,93,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2V,37,45.5183630000,-73.5925490000,0,0
+St-Viateur Bagel,Bakery,4.2,Very Good,174,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2V 1Y1,37,45.5238688000,-73.6006734000,0,0
+Patisserie Au Kouign Amann,"Bakery, Desserts",4.2,Very Good,105,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T 1P7,37,45.5230400000,-73.5834780000,0,0
+L'Amour du Pain,"Pizza, Sandwich",4.2,Very Good,36,$,10,1,Boucherville,"Boucherville, Montreal",Montreal,J4B1P7,37,45.5983740000,-73.4492090000,0,0
+Maison Christian Faure,French,4.1,Very Good,108,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1Z6,37,45.5034558000,-73.5543558000,0,0
+Sweet Lee's,"Bakery, Cafe",4.1,Very Good,80,$,10,1,Verdun,"Verdun, Montreal",Montreal,,37,45.4621631000,-73.5668466000,0,0
+Cachitos,"Coffee and Tea, Latin American",4.0,Very Good,58,$,10,1,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X1L1,37,45.5112877000,-73.5627204000,0,0
+Mamie Clafoutis,Bakery,4.0,Very Good,73,$,10,1,Outremont,"Outremont, Montreal",Montreal,,37,45.5215590000,-73.6141630000,0,0
+Cheskie's Bakery,,4.0,Very Good,61,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2V4H3,37,45.5233590000,-73.6060300000,0,0
+Andalos,Sandwich,4.0,Very Good,45,$,10,1,Ahuntsic,"Ahuntsic, Montreal",Montreal,H4N1R4,37,45.5258040000,-73.6590840000,0,0
+Les Glaceurs - Vieux Montréal,"Coffee and Tea, Ice Cream",3.9,Good,138,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5047920000,-73.5558640000,0,0
+Rustique,"Coffee and Tea, Desserts, Cafe, Bakery",3.9,Good,80,$,10,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C1S3,37,45.4734935000,-73.5881333000,0,0
+Point G,"Desserts, Ice Cream",3.9,Good,115,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J1Y4,37,45.5294090000,-73.5776360000,0,0
+Al-Baghdadi Pastry,"Breakfast, Desserts",3.9,Good,46,$,10,1,Downtown,"Downtown, Montreal",Montreal,H3H1H5,37,45.4957786000,-73.5805244000,0,0
+Harmonie,"Asian, Chinese",3.8,Good,85,$,10,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z1K1,37,45.5071880000,-73.5606840000,0,0
+Fous desserts,"Breakfast, Desserts",3.8,Good,60,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J,37,45.5291180000,-73.5877820000,0,0
+Simplement D Liche Cupcakes,"Coffee and Tea, Desserts",3.8,Good,64,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W2M2,37,45.5201572000,-73.5749486000,0,0
+MonVillage,"Bakery, Canadian",3.8,Good,46,$,40,3,Vaudreuil-Soulanges,"Vaudreuil-Soulanges, Montreal",Montreal,,37,45.4360780000,-74.1735900000,0,0
+Les Délices Lafrenaie,Desserts,3.8,Good,34,$,40,3,Saint-Léonard,"Saint-Léonard, Montreal",Montreal,H1P1P1,37,45.5982287000,-73.5862306000,0,0
+Patisserie Obsession Bakery,"Desserts, Sandwich",3.8,Good,26,$,10,1,Chateauguay,"Chateauguay, Montreal",Montreal,J6J5W5,37,45.3602653000,-73.7312613000,0,0
+Paltoquet,"Breakfast, Desserts",3.8,Good,43,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2V3G6,37,45.5193820000,-73.6156320000,0,0
+Arouch,"Pizza, Lebanese",3.8,Good,38,$,10,1,Laval,"Laval, Montreal",Montreal,H7T1A2,37,45.5552874000,-73.7518890000,0,0
+Le Fromentier,Others,3.8,Good,34,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5336680000,-73.5837980000,0,0
+Pâtisserie de la Gare‎,"Coffee and Tea, Sandwich",3.8,Good,32,$,10,1,Montreal West,"Montreal West, Montreal",Montreal,H4X1Y9,37,45.4527270000,-73.6451547000,0,0
+Afroditi Bakery,Others,3.8,Good,24,$,10,1,Parc-Extension,"Parc-Extension, Montreal",Montreal,H3N2Y9,37,45.5283610000,-73.6299360000,0,0
+N.D.G Bakery,Italian,3.8,Good,13,$,10,1,Lachine,"Lachine, Montreal",Montreal,H8S,37,45.4418480000,-73.6687220000,0,0
+Mamie Clafoutis,Bakery,3.7,Good,93,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X3L7,37,45.5182440000,-73.5705990000,0,0
+Boulangerie Guillaume,"Bakery, Desserts",3.7,Good,57,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T 1R8,37,45.5233310000,-73.5936690000,0,0
+Patisserie Alati-Caserta,"Desserts, Italian",3.7,Good,39,$,10,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S1K2,37,45.5352727000,-73.6115581000,0,0
+Arhoma,"Desserts, Sandwich",3.7,Good,30,$,10,1,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,H1W1S4,37,45.5475330000,-73.5434606000,0,0
+Le Baobab,"Coffee and Tea, Sandwich",3.7,Good,30,$,10,1,Verdun,"Verdun, Montreal",Montreal,H4G1X2,37,45.4571980000,-73.5674870000,0,0
+Le pain dans les voiles,Coffee and Tea,3.7,Good,24,$,0,1,Villeray,"Villeray, Montreal",Montreal,H2R1P8,37,45.5385577000,-73.6178105000,0,0
+Duc de Lorraine,"Desserts, French",3.6,Good,110,$,25,2,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3V1H2,37,45.4945722000,-73.6183124000,0,0
+Cafe Humble Lion,Coffee and Tea,3.6,Good,59,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A3R8,37,45.5034528000,-73.5749556000,0,0
+Première Moisson,"Sandwich, Healthy Food",3.6,Good,57,$,10,1,Downtown,"Downtown, Montreal",Montreal,H3B2M4,37,45.4999180000,-73.5664590000,0,0
+Miss Pret a Manger,"Coffee and Tea, Healthy Food",3.6,Good,34,$,25,2,Chinatown,"Chinatown, Montreal",Montreal,H2Z1N1,37,45.5047190000,-73.5638500000,0,0
+Pâtisserie de Gascogne,"Coffee and Tea, Desserts",3.6,Good,42,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2V2K1,37,45.5206400000,-73.5951580000,0,0
+Les Co'Pains d'Abord,"Coffee and Tea, Desserts",3.6,Good,32,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J2G8,37,45.5219510000,-73.5777980000,0,0
+Boulangerie Mr. Pinchot,Ice Cream,3.6,Good,29,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J3K9,37,45.5282600000,-73.5760660000,0,0
+Patisserie Dolci Piu,"Coffee and Tea, Italian",3.6,Good,19,$,10,1,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A,37,45.4712785000,-73.6020867000,0,0
+La Bête a pain,Others,3.5,Good,36,$,10,1,Ahuntsic,"Ahuntsic, Montreal",Montreal,H3L2T6,37,45.5467620000,-73.6659242000,0,0
+Le Café Du Théâtre - Brasserie Française,"French, Bar Food",3.5,Good,13,$,40,3,Brossard,"Brossard, Montreal",Montreal,J4Y0B6,37,45.4413213000,-73.4403653000,0,0
+Homestyle & Black Lion Pub,"Breakfast, Burger",3.5,Good,47,$,25,2,Beaconsfield,"Beaconsfield, Montreal",Montreal,H9W4B9,37,45.4199601000,-73.8793725000,0,0
+Cremy Patisserie,Desserts,3.5,Good,18,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2H1K4,37,45.5365425000,-73.5711211000,0,0
+Bilboquet-Les Glaceurs Westmount,"Coffee and Tea, Ice Cream",3.5,Good,33,$,10,1,Westmount,"Westmount, Montreal",Montreal,H3Z1H1,37,45.4785852000,-73.6036782000,0,0
+Krispy Kreme,Coffee and Tea,3.5,Good,14,$,0,1,Longueuil,"Longueuil, Montreal",Montreal,J4V3R4,37,45.4848460000,-73.4647650000,0,0
+Ambrosia bakery,Desserts,3.5,Good,14,$,10,1,Laval,"Laval, Montreal",Montreal,H7W2H2,37,45.5287327000,-73.7582615000,0,0
+Appa's Bakery and Catering,"Indian, Vegetarian",3.5,Good,3,$,10,1,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4L3P5,37,45.5141560000,-73.6816300000,0,0
+La Cornetteria,"Bakery, Italian, Cafe",3.4,Average,76,$,10,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S,37,45.5307500000,-73.6100900000,0,0
+Pâtisserie Angelica,"Desserts, Eastern European",3.4,Average,10,$,10,1,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3W3C4,37,45.4855380000,-73.6325060000,0,0
+Station W,"Coffee and Tea, Sandwich",3.4,Average,30,$,10,1,Verdun,"Verdun, Montreal",Montreal,H4G,37,45.4654741000,-73.5667676000,0,0
+Wawel Patisserie,Eastern European,3.4,Average,39,$,10,1,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A3C4,37,45.4726450000,-73.6119470000,0,0
+MB Modern Bread,"Coffee and Tea, Sandwich",3.4,Average,23,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A1N4,37,45.4998800000,-73.5744320000,0,0
+Pâtisserie 3M,"Coffee and Tea, Desserts",3.4,Average,13,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J3V4,37,45.5313170000,-73.5762940000,0,0
+Boulangerie Chez Fred,Others,3.4,Average,12,$,0,1,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A1V5,37,45.4739687000,-73.6092073000,0,0
+La Concession,"Sandwich, Healthy Food",3.4,Average,5,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5052223000,-73.5565182000,0,0
+Chez Gaël,Others,3.4,Average,4,$,10,1,Pointe-Claire,"Pointe-Claire, Montreal",Montreal,H9S,37,45.4451701000,-73.7781955000,0,0
+Pâtisserie Tillemont,"Desserts, Pizza",3.4,Average,5,$,10,1,Saint-Michel,"Saint-Michel, Montreal",Montreal,H2E2J8,37,45.5522830000,-73.6159009000,0,0
+Brûlerie du Vieux St-Eustache,"Coffee and Tea, Sandwich",3.4,Average,1,$,10,1,St-Eustache,"St-Eustache, Montreal",Montreal,J7R2K9,37,45.5580320000,-73.8899490000,0,0
+Canadian Maple Delights,"Desserts, Canadian",3.3,Average,28,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y3R1,37,45.5064420000,-73.5529750000,0,0
+Bar a Beurre,"Coffee and Tea, Desserts",3.3,Average,18,$,0,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1C7,37,45.5098317000,-73.5526189000,0,0
+Cantinho de Lisboa,"Coffee and Tea, Portuguese",3.3,Average,19,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y2A6,37,45.5010133000,-73.5562464000,0,0
+Crème Fraîche,"Italian, Ice Cream",3.3,Average,13,$,10,1,Pointe-Claire,"Pointe-Claire, Montreal",Montreal,H9R2V8,37,45.4502812000,-73.7872192000,0,0
+Crime et Gourmandise,Coffee and Tea,3.3,Average,8,$,25,2,Longueuil,"Longueuil, Montreal",Montreal,J4P2J3,37,45.5018680000,-73.5111910000,0,0
+Ma Tante Quiche,Breakfast,3.3,Average,16,$,10,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3K1J4,37,45.4806595000,-73.5657403000,0,0
+La Fabrique Arhoma,Healthy Food,3.3,Average,12,$,10,1,The Gay Village,"The Gay Village, Montreal",Montreal,H2K1T4,37,45.5256711000,-73.5594046000,0,0
+Patisserie Petit Lapin,Desserts,3.3,Average,11,$,10,1,Westmount,"Westmount, Montreal",Montreal,H3Z2M8,37,45.4780249000,-73.6015947000,0,0
+Mi & Stu Gluten free Foods,Bakery,3.3,Average,15,$,0,1,LaSalle,"LaSalle, Montreal",Montreal,H8N 2W9,37,45.5245312000,-73.6073897000,0,0
+Marius et Fanny Chocolatier,"Desserts, Tea",3.3,Average,14,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J2K8,37,45.5236320000,-73.5817960000,0,0
+Patisserie Cocobun,Others,3.3,Average,18,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3H,37,45.4958231000,-73.5793157000,0,0
+Mamie Clafoutis,"Coffee and Tea, Sandwich",3.3,Average,17,$,10,1,Verdun,"Verdun, Montreal",Montreal,,37,45.4728410000,-73.5387738000,0,0
+De Froment et de Sève,"Coffee and Tea, Sandwich",3.3,Average,14,$,10,1,Étienne-Desmarteau,"Étienne-Desmarteau, Montreal",Montreal,H2G,37,45.5478060000,-73.5928270000,0,0
+Vinh Hing,Vietnamese,3.3,Average,11,$,10,1,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4L,37,45.5135143000,-73.6812582000,0,0
+Marius et Fanny,Desserts,3.3,Average,11,$,10,1,Lachine,"Lachine, Montreal",Montreal,H3M1L8,37,45.4348310000,-73.6810180000,0,0
+Sweet Isabelle,"Coffee and Tea, Desserts",3.3,Average,6,$,10,1,Sault-au-récollet,"Sault-au-récollet, Montreal",Montreal,H2C1S8,37,45.5650095000,-73.6550932000,0,0
+Les Artisans d'Hudson,"Sandwich, Healthy Food",3.3,Average,8,$,10,1,Vaudreuil-Soulanges,"Vaudreuil-Soulanges, Montreal",Montreal,J0P1H0,37,45.4578092000,-74.1398544000,0,0
+Delice & Café,"Bakery, Coffee and Tea",3.3,Average,4,$,25,2,Vaudreuil-Soulanges,"Vaudreuil-Soulanges, Montreal",Montreal,J7T2H5,37,45.4009945000,-74.1474955000,0,0
+Patisserie Rococo,"Desserts, Pizza",3.2,Average,15,$,10,1,Anjou,"Anjou, Montreal",Montreal,H1M,37,45.5980236000,-73.5658678000,0,0
+Bagel St - Henri,"Bakery, Desserts",3.2,Average,15,$,25,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 1C6,37,45.4771927000,-73.5904940000,0,0
+Pâtisserie la Légende,"Chinese, Desserts",3.2,Average,25,$,10,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z1K1,37,45.5073818000,-73.5604661000,0,0
+Meme Tartine,Coffee and Tea,3.2,Average,27,$,10,1,Verdun,"Verdun, Montreal",Montreal,H4G1M9,37,45.4585500000,-73.5718660000,0,0
+Le Maître Chocolatier,"Coffee and Tea, Tea",3.2,Average,21,$,0,1,Downtown,"Downtown, Montreal",Montreal,H3H,37,45.4963040000,-73.5817460000,0,0
+Patisserie Rococo,"Desserts, Pizza",3.2,Average,16,$,10,1,Longueuil,"Longueuil, Montreal",Montreal,J4V 2H9,37,45.4873166210,-73.4716862440,0,0
+Sophie Sucrée,Vegetarian,3.2,Average,14,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X3A2,37,45.5167177000,-73.5737400000,0,0
+Café Pi,"Coffee and Tea, Sandwich",3.2,Average,19,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W1Y8,37,45.5178620000,-73.5809180000,0,0
+Premiere Moisson,"Desserts, French",3.2,Average,13,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2V3M8,37,45.5196880000,-73.6093510000,0,0
+Sabor Latino,Latin American,3.2,Average,12,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1R4,37,45.5194787000,-73.5845255000,0,0
+Les Anges Gourmets,Portuguese,3.2,Average,5,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W2R2,37,45.5182985000,-73.5822991000,0,0
+Dizz's Bagel,Others,3.2,Average,9,$,10,1,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H3X2H1,37,45.4752505000,-73.6415735000,0,0
+Patisserie O Gateries,"Breakfast, Desserts",3.2,Average,10,$,25,2,Longueuil,"Longueuil, Montreal",Montreal,J4H1E7,37,45.5363510000,-73.5126920000,0,0
+Cerise sur le Gateau,"Desserts, French",3.2,Average,9,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T2M5,37,45.5225495000,-73.5957386000,0,0
+Bagel de L'Ouest,Others,3.2,Average,7,$,10,1,Dollard-Des Ormeaux,"Dollard-Des Ormeaux, Montreal",Montreal,H8Y4A1,37,45.4979040000,-73.8115227000,0,0
+Roma Boulangerie et Patisserie,"Desserts, Ice Cream",3.2,Average,3,$,10,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S3C7,37,45.5323938000,-73.6133769000,0,0
+Patisserie Bao Bao Dim Sum,"Chinese, Dim Sum",3.1,Average,12,$,10,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z1C1,37,45.5069802000,-73.5607899000,0,0
+Libertine Bakehouse,"Cafe, Bakery",3.1,Average,5,$,15,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 2G9,37,45.4850414000,-73.5805435000,0,0
+Yagel Bagel,Others,3.1,Average,6,$,10,1,Dollard-Des Ormeaux,"Dollard-Des Ormeaux, Montreal",Montreal,H9G,37,45.4735760000,-73.8350243000,0,0
+Patisserie Callia,Chinese,3.1,Average,16,$,10,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z1C1,37,45.5072657000,-73.5605504000,0,0
+Cookie Stéfanie,Others,3.1,Average,8,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1L9,37,45.5030720000,-73.5589699000,0,0
+Kem CoBa,"Desserts, Ice Cream",4.6,Excellent,204,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T 2M1,37,45.5230440000,-73.5950220000,0,0
+Les Givrés,"Desserts, Ice Cream",4.2,Very Good,113,$,10,1,Vieux-Rosemont,"Vieux-Rosemont, Montreal",Montreal,H1Y 1W5,37,45.5466790000,-73.5754740000,0,0
+Les Glaceurs - Vieux Montréal,"Coffee and Tea, Ice Cream",3.9,Good,138,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5047920000,-73.5558640000,0,0
+Ben and Jerry's,"Desserts, Ice Cream, Beverages",3.5,Good,43,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,H3B 1E2,37,45.5014820000,-73.5706610000,0,0
+Ca Lem,"Ice Cream, Desserts",3.3,Average,10,$,10,1,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4B 1P9,37,45.4599980000,-73.6354770000,0,0
+Chicha Restaurant,"Desserts, Asian, Bubble Tea",3.3,Average,12,$,25,2,Westmount,"Westmount, Montreal",Montreal,H4A 1T1,37,45.4763860000,-73.6064199000,0,0
+Bo Bec,Ice Cream,3.2,Average,14,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J1H3,37,45.5329872000,-73.5840638000,0,0
+Cacao 70,"Sandwich, Desserts",3.1,Average,19,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5093578000,-73.5733406000,0,0
+Dalla Rose,Ice Cream,3.1,Average,10,$,0,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 1S5,37,45.4735649660,-73.5881472474,0,0
+Trou De Beigne,"Desserts, Cafe",3.1,Average,9,$,0,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S 1K8,37,45.5330890000,-73.6106280000,0,0
+Pandan Creamery,"Ice Cream, Frozen Yogurt",3.0,Average,8,$,10,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 1H5,37,45.4797020000,-73.5842710000,0,0
+Noble Cafe,"Cafe, Desserts",3.0,Average,5,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Chocolats Favoris,Desserts,2.9,Average,5,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H5B,37,45.5082190000,-73.5649810000,0,0
+Monsieur Crémeux,"Ice Cream, Desserts",2.9,Average,4,$,15,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,,37,45.5307927000,-73.6081156000,0,0
+La Diperie,"Desserts, Ice Cream",2.9,Average,5,$,15,1,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A 1C9,37,45.4757100000,-73.6223490000,0,0
+Havre Aux Glaces,"Ice Cream, Desserts",2.8,Average,4,$,0,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C 2H6,37,45.4795550000,-73.5767540000,0,0
+Cacao 70,"Sandwich, Coffee and Tea, Desserts",2.7,Average,5,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5263136404,-73.5807979947,0,0
+Les Glaceurs,"Coffee and Tea, Ice Cream",0,Not rated,3,$,13,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Tartine et Chocolat,"Cafe, Sandwich, Belgian",0,Not rated,3,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H2J 2L4,37,0.0000000000,0.0000000000,0,0
+Zoe Dessert,Desserts,0,Not rated,3,$,15,1,Downtown,"Downtown, Montreal",Montreal,H3H 2J4,37,45.4949087701,-73.5813599175,0,0
+Les Gourmandises De Marie-Antoinette,"Desserts, Bakery",0,Not rated,3,$,0,1,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,,37,45.5528360000,-73.5398030000,0,0
+Café Au Bout De L'Isle,"Desserts, Ice Cream, Sandwich",0,Not rated,2,$,30,3,Beaconsfield,"Beaconsfield, Montreal",Montreal,H9X 1M3,37,45.4042650000,-73.9531420000,0,0
+Virevent,Ice Cream,0,Not rated,1,$,0,1,Sault-au-récollet,"Sault-au-récollet, Montreal",Montreal,H2C 1S5,37,45.5600000000,-73.6600000000,0,0
+Crèmerie - Café Oh! 3 Singes,Ice Cream,0,Not rated,0,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H7E 3N2,37,45.5929200000,-73.6687720000,0,0
+Hoche Glacé,"Ice Cream, Desserts",0,Not rated,2,$,15,1,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,QC H1V,37,45.5559680000,-73.5411080000,0,0
+Sapa,"Coffee and Tea, Ice Cream, Frozen Yogurt",0,Not rated,1,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W 1Y8,37,45.5172200000,-73.5801900000,0,0
+Patisserie Lajeunesse Vimont,"Portuguese, Patisserie",0,Not rated,2,$,0,1,Laval,"Laval, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Yogourtself,"Ice Cream, Desserts, Frozen Yogurt",0,Not rated,3,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5246336000,-73.5843354000,0,0
+Les Délices Lafrenaie,"Bakery, Desserts",0,Not rated,1,$,0,1,Rosemere,"Rosemere, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Dunkin' Donuts,"Sandwich, Coffee and Tea",0,Not rated,0,$,0,1,Verdun,"Verdun, Montreal",Montreal,H4G 1W8,37,45.4590860000,-73.5675960000,0,0
+La Tablette de Miss Choco,"Cafe, Desserts",0,Not rated,0,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J JX1,37,45.5260430485,-73.5807094818,0,0
+Tella's Crèmerie et bar à desserts,Desserts,0,Not rated,0,$,15,1,Marie-Victorin,"Marie-Victorin, Montreal",Montreal,H1M 1B1,37,45.5882950000,-73.5608830000,0,0
+Chocolats Favoris,"Desserts, Ice Cream",0,Not rated,0,$,0,1,Rosemere,"Rosemere, Montreal",Montreal,,37,45.6232510000,-73.8024150000,0,0
+L'Affaire est Chocolat!,Desserts,0,Not rated,0,$,25,2,Étienne-Desmarteau,"Étienne-Desmarteau, Montreal",Montreal,H2G 1N2,37,45.5476360000,-73.5925650000,0,0
+Chocolaterie Suisse  à La Pendulerie,Swiss,0,Not rated,0,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 2B8,37,45.4982318462,-73.5781077390,0,0
+Voghell,"Canadian, Desserts",0,Not rated,0,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.5038312794,-73.5688863045,0,0
+Churros & Churros Inc.,Desserts,0,Not rated,0,$,0,1,Laurentians,"Laurentians, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+A Gogo Lounge,American,3.2,Average,17,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X 2V4,37,45.5143770000,-73.5739220000,0,0
+C'Chocolat,"French, Desserts",3.0,Average,7,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G,37,45.4962030000,-73.5756060000,0,0
+Z Tapas Lounge - Hotel ZERO 1,Tapas,2.5,Average,5,$,0,1,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X 3Z5,37,45.5091990000,-73.5616650000,0,0
+Karina Club Lounge,Canadian,2.4,Poor,1,$,70,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G2B2,37,45.4976359000,-73.5765554000,0,0
+Whisky Café,"Tapas, Bar Food",0,Not rated,1,$,0,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2T 1T3,37,45.5272630000,-73.6024050000,0,0
+Resto Lounge L,"Greek, Bar Food",0,Not rated,1,$,0,1,Laval,"Laval, Montreal",Montreal,H7T 1R3,37,45.5574250000,-73.7665730000,0,0
+L'Appartement Resto Lounge,"Canadian, Bar Food",0,Not rated,1,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3C 1N6,37,45.4996639000,-73.5562079000,0,0
+L'Express,French,4.5,Excellent,759,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W2M1,37,45.5201388000,-73.5744838000,0,0
+Tavern on the Square,"French, Italian",4.5,Excellent,318,$,40,3,Westmount,"Westmount, Montreal",Montreal,H3Z2P9,37,45.4875758000,-73.5873509000,0,0
+Holder,French,4.3,Very Good,630,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y2G3,37,45.5003940000,-73.5573180000,0,0
+Le Quartier Général,French,4.3,Very Good,242,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J1R1,37,45.5308919000,-73.5815148000,0,0
+Burger Bar Crescent,"American, Burger",4.2,Very Good,327,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G2B2,37,45.4979850000,-73.5769780000,0,0
+Reservoir,"European, International",4.1,Very Good,227,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W1G6,37,45.5171620000,-73.5793970000,0,0
+Cafe Souvenir,Breakfast,4.1,Very Good,185,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2V3M8,37,45.5197990000,-73.6092570000,0,0
+Modavie Wine Bar Live Jazz,Mediterranean,4.0,Very Good,258,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1Y6,37,45.5062723000,-73.5534474000,0,0
+Marche 27,"French, Fusion",4.0,Very Good,210,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X1S4,37,45.5134782000,-73.5728609000,0,0
+Le Serpent,"Italian, Seafood",3.9,Good,89,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H3C1T6,37,45.4975236000,-73.5568782000,0,0
+Le St-Urbain,French,4.0,Very Good,111,$,70,4,Ahuntsic,"Ahuntsic, Montreal",Montreal,H3L1S8,37,45.5469856000,-73.6657817000,0,0
+St-Viateur Bagel & Cafe,Breakfast,4.0,Very Good,132,$,25,2,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A1E4,37,45.4753990000,-73.6231960000,0,0
+Philinos Restaurant Bar,"Greek, Seafood",4.0,Very Good,79,$,40,3,Outremont,"Outremont, Montreal",Montreal,H2V4E7,37,45.5181340000,-73.5927510000,0,0
+Garage Cafe,Coffee and Tea,4.0,Very Good,72,$,25,2,Verdun,"Verdun, Montreal",Montreal,H4G1S5,37,45.4650600000,-73.5672520000,0,0
+Code Ambiance,French,4.0,Very Good,50,$,40,3,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J1M6,37,45.4875534000,-73.5690440000,0,0
+The Rail Coal Fire Bistro,"Breakfast, Pizza",4.0,Very Good,17,$,40,3,Chateauguay,"Chateauguay, Montreal",Montreal,J0L1B0,37,45.3789040000,-73.7065370000,0,0
+Méchant Boeuf,"Burger, Steak",3.9,Good,242,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1Z3,37,45.5040328000,-73.5546140000,0,0
+Brasserie T!,"Burger, French",3.9,Good,176,$,40,3,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H5B1E4,37,45.5074690000,-73.5664570000,0,0
+Chez Lévêque,French,3.9,Good,153,$,40,3,Outremont,"Outremont, Montreal",Montreal,H2V2K8,37,45.5184060000,-73.5971340000,0,0
+Café Vasco Da Gama,"Coffee and Tea, Sandwich",3.9,Good,136,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A,37,45.5004580000,-73.5740510000,0,0
+La Fabrique,"French, Fusion",3.9,Good,115,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X3L6,37,45.5179510000,-73.5694420000,0,0
+Le Valois,"Breakfast, French",3.9,Good,77,$,25,2,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,H1W1S4,37,45.5474026000,-73.5431860000,0,0
+Restaurant Au Petit Extra,Others,3.9,Good,75,$,40,3,The Gay Village,"The Gay Village, Montreal",Montreal,H2K1T4,37,45.5256810000,-73.5593530000,0,0
+Café Les Entretiens,"French, Canadian",3.9,Good,80,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J3W5,37,45.5349350000,-73.5826240000,0,0
+La Boite Gourmande,"Breakfast, Coffee and Tea",3.9,Good,34,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J,37,45.5274434000,-73.5892454000,0,0
+Bistro Chez Lulu,"European, French",3.9,Good,32,$,40,3,Boucherville,"Boucherville, Montreal",Montreal,J4B8N5,37,45.5937300000,-73.4333190000,0,0
+Les Enfants Terribles,Breakfast,3.8,Good,273,$,25,2,Outremont,"Outremont, Montreal",Montreal,H2V3M8,37,45.5198430000,-73.6092190000,0,0
+Biiru,Japanese,3.9,Good,117,$,25,2,Latin Quarter,"Latin Quarter, Montreal",Montreal,H3A2E4,37,45.5049159000,-73.5686505000,0,0
+Chez Victoire,Seafood,3.8,Good,89,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J1Z1,37,45.5311120000,-73.5764918000,0,0
+Le H4C,French,3.8,Good,84,$,40,3,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C2R6,37,45.4777108000,-73.5855739000,0,0
+L'Usine de Spaghetti,Italian,3.8,Good,76,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1H2,37,45.5082050000,-73.5523160000,0,0
+Bistro Lustucru,International,3.8,Good,91,$,70,4,Outremont,"Outremont, Montreal",Montreal,H2V4G3,37,45.5202980000,-73.5968990000,0,0
+Bieres & Compagnie,"French, Bar Food",3.8,Good,103,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J2K8,37,45.5229353000,-73.5807178000,0,0
+Les Deux Gamins,French,3.8,Good,60,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X1B5,37,45.5155554000,-73.5711301000,0,0
+Wellington,French,3.8,Good,56,$,40,3,Verdun,"Verdun, Montreal",Montreal,H4G,37,45.4676177000,-73.5666776000,0,0
+Bistro Du Marche,Breakfast,3.8,Good,33,$,25,2,Ahuntsic,"Ahuntsic, Montreal",Montreal,H4N1J8,37,45.5351750000,-73.6583710000,0,0
+Galanga Bistro Thaï,Thai,3.8,Good,31,$,40,3,Outremont,"Outremont, Montreal",Montreal,H2V1P2,37,45.5211745000,-73.6103567000,0,0
+Bistro des bières Belge,European,3.8,Good,37,$,25,2,Longueuil,"Longueuil, Montreal",Montreal,J4T2H9,37,45.4994884000,-73.4866980000,0,0
+Cafe Lézard,"Coffee and Tea, Sandwich",3.8,Good,20,$,10,1,Vieux-Rosemont,"Vieux-Rosemont, Montreal",Montreal,H1Y1X8,37,45.5495380000,-73.5742130000,0,0
+Maestro S.V.P.,"Seafood, Tapas",3.7,Good,115,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X1V5,37,45.5142110000,-73.5728400000,0,0
+Vallier,Canadian,3.7,Good,173,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y2G5,37,45.5005040000,-73.5579790000,0,0
+Boris Bistro,Others,3.7,Good,149,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y4B4,37,45.5008410000,-73.5586200000,0,0
+Pastaga,French,3.7,Good,100,$,40,3,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S3C3,37,45.5300330000,-73.6078487000,0,0
+Entrecote St-Jean,"French, Steak",3.7,Good,134,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A3K1,37,45.5010720000,-73.5753410000,0,0
+Anton & James,"Pizza, Sandwich",3.7,Good,87,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B5K2,37,45.4993800000,-73.5739870000,0,0
+Nyks Pub & Grill,French,3.7,Good,66,$,25,2,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X2A1,37,45.5060670000,-73.5665320000,0,0
+Elixor,American,3.7,Good,54,$,40,3,Dollard-Des Ormeaux,"Dollard-Des Ormeaux, Montreal",Montreal,H9B1Z6,37,45.4829710000,-73.7954100000,0,0
+Bagatelle Bistro,"Breakfast, French",3.7,Good,39,$,40,3,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,H1V1K5,37,45.5529320000,-73.5396934000,0,0
+Bob's Café,"Sandwich, Healthy Food",3.7,Good,32,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H3C3W1,37,45.5003215000,-73.5597127000,0,0
+Cabotins,"Burger, French",3.7,Good,32,$,25,2,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,H1V3B1,37,45.5560160000,-73.5306690000,0,0
+Rockaberry,"Coffee and Tea, Desserts",3.7,Good,31,$,25,2,Saint-Léonard,"Saint-Léonard, Montreal",Montreal,H1S,37,45.5907620000,-73.5701060000,0,0
+Station F,French,3.7,Good,25,$,25,2,Vieux-Rosemont,"Vieux-Rosemont, Montreal",Montreal,H1W1A4,37,45.5455070000,-73.5603230000,0,0
+Restaurant Kabul BBQ,Afghani,3.7,Good,22,$,25,2,Longueuil,"Longueuil, Montreal",Montreal,J4J2B3,37,45.5304740000,-73.4845840000,0,0
+Les copains gourmands,"French, International",3.7,Good,14,$,40,3,Longueuil,"Longueuil, Montreal",Montreal,J4H2X8,37,45.5349070000,-73.5067900000,0,0
+Bistro on the Avenue,"American, French",3.6,Good,64,$,40,3,Westmount,"Westmount, Montreal",Montreal,H3Z2A5,37,45.4873820000,-73.5910090000,0,0
+Petite Marche,Breakfast,3.6,Good,113,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J2L8,37,45.5266320000,-73.5884630000,0,0
+Monsieur B,French,3.6,Good,81,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J2L5,37,45.5249840000,-73.5861550000,0,0
+Dirty Dogs,American,3.6,Good,64,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1N4,37,45.5204844000,-73.5861011000,0,0
+Papillon,Others,3.6,Good,64,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1G6,37,45.5065430000,-73.5532410000,0,0
+Chez Nick,"Breakfast, Burger",3.6,Good,57,$,25,2,Westmount,"Westmount, Montreal",Montreal,H3Z,37,45.4877280000,-73.5910790000,0,0
+Brasseur de Montreal,Canadian,3.6,Good,53,$,25,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3C1S9,37,45.4906900000,-73.5627390000,0,0
+La Récolte espace local,Breakfast,3.6,Good,29,$,40,3,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S1G6,37,45.5389447000,-73.6102512000,0,0
+Caffé in Gamba,Coffee and Tea,3.6,Good,37,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2V4G4,37,45.5209200000,-73.5988970000,0,0
+Cafe Gentile,Cafe,3.6,Good,20,$,10,1,Saint-Sulpice,"Saint-Sulpice, Montreal",Montreal,H2N,37,45.5383310000,-73.6543680000,0,0
+Le Grill St-Georges,"Mediterranean, Steak",3.6,Good,30,$,40,3,Laurentians,"Laurentians, Montreal",Montreal,J8E3J8,37,46.1186640000,-74.5927920000,0,0
+Robin Des Bois,"French, International",3.6,Good,39,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T1R4,37,45.5209130000,-73.5877520000,0,0
+Le Tire-Bouchon Bistro Parisien,French,3.6,Good,39,$,25,2,Laval,"Laval, Montreal",Montreal,H7T3B3,37,45.5645100000,-73.7458490000,0,0
+Caffè Art Java,"Coffee and Tea, Tea",3.6,Good,27,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A3H9,37,45.5047350000,-73.5724270000,0,0
+Restaurant de l'Institut,"European, French",3.6,Good,35,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X3P1,37,45.5177550000,-73.5689060000,0,0
+Le Grand Comptoir,French,3.6,Good,36,$,40,3,Latin Quarter,"Latin Quarter, Montreal",Montreal,H3B,37,45.5039303000,-73.5682936000,0,0
+Le Tire-Bouchon Bistro Gourmand,"French, Tapas",3.6,Good,31,$,25,2,Verdun,"Verdun, Montreal",Montreal,H4H1M9,37,45.4544800000,-73.5677512000,0,0
+Restaurant Le Coin G,Others,3.6,Good,38,$,40,3,Parc-Extension,"Parc-Extension, Montreal",Montreal,H2P2L2,37,45.5405090000,-73.6336910000,0,0
+Le Jurancon,"Breakfast, French",3.6,Good,29,$,25,2,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S1N1,37,45.5387960000,-73.6053080000,0,0
+Zagrum,"Breakfast, Coffee and Tea",3.6,Good,19,$,25,2,Sault-au-récollet,"Sault-au-récollet, Montreal",Montreal,H2B1H7,37,45.5685660000,-73.6534190000,0,0
+Montclair,Italian,3.6,Good,26,$,25,2,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4L3L3,37,45.5110530000,-73.6775680000,0,0
+En Cachette Speakeasy,"Bar Food, Tapas",3.6,Good,17,$,25,2,Latin Quarter,"Latin Quarter, Montreal",Montreal,H2X3K4,37,45.5158386000,-73.5649351000,0,0
+Les Menus Plaisirs,French,3.6,Good,18,$,70,4,Laval,"Laval, Montreal",Montreal,H7L1L9,37,45.6125270000,-73.7884160000,0,0
+Detour Bistro,French,3.6,Good,15,$,40,3,Étienne-Desmarteau,"Étienne-Desmarteau, Montreal",Montreal,,37,45.5487510000,-73.5915940000,0,0
+Le Petit Bouchon,Others,3.6,Good,13,$,40,3,Rosemere,"Rosemere, Montreal",Montreal,J7H1M9,37,45.6287840000,-73.8479470000,0,0
+Le Pois Penché,"Breakfast, French",3.5,Good,122,$,70,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G1M1,37,45.4994260000,-73.5762750000,0,0
+Greasy Spoon,Fusion,3.5,Good,127,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T2N4,37,45.5213050000,-73.5941290000,0,0
+Le Saint-Bock,Bar Food,3.5,Good,57,$,25,2,Latin Quarter,"Latin Quarter, Montreal",Montreal,H2X3K4,37,45.5154750000,-73.5638960000,0,0
+L'appartement,"Mediterranean, Steak",3.5,Good,62,$,40,3,Old Montréal,"Old Montréal, Montreal",Montreal,H3C,37,45.4997960000,-73.5562160000,0,0
+Le Bleu Raisin,French,3.5,Good,55,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J2L8,37,45.5278200000,-73.5910800000,0,0
+Les Cons Servent,French,3.5,Good,60,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2H1B3,37,45.5355950000,-73.5805350000,0,0
+Restaurant Gus,"French, Steak",3.5,Good,31,$,70,4,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S3A6,37,45.5307282000,-73.6079923000,0,0
+La Crème de la Crème Café,Coffee and Tea,3.5,Good,30,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y,37,45.5057620000,-73.5530680000,0,0
+L'Incrédule,French,3.5,Good,26,$,40,3,Longueuil,"Longueuil, Montreal",Montreal,J4H1E4,37,45.5375260000,-73.5103300000,0,0
+Bistro Tôt ou Tard,Breakfast,3.5,Good,16,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2L1H9,37,45.5218395000,-73.5666494000,0,0
+Au Bistro Gourmet,Others,3.5,Good,24,$,40,3,Downtown,"Downtown, Montreal",Montreal,H3H1H5,37,45.4947100000,-73.5810820000,0,0
+Auprès de Ma Blonde,Others,3.5,Good,14,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W2M3,37,45.5197350000,-73.5732070000,0,0
+Pizzedelic,"Italian, Pizza",3.5,Good,12,$,40,3,Laval,"Laval, Montreal",Montreal,H7S1M9,37,45.5697160000,-73.7239970000,0,0
+Tambour (Le) Traiteur,Sandwich,3.5,Good,6,$,25,2,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,H1V2P3,37,45.5532370000,-73.5414590000,0,0
+Resto La Menthe Poivrée,French,3.5,Good,6,$,40,3,Étienne-Desmarteau,"Étienne-Desmarteau, Montreal",Montreal,H2G1T9,37,45.5455874000,-73.5870681000,0,0
+L'aromate,Fusion,3.4,Average,59,$,70,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A1S8,37,45.5016820000,-73.5737430000,0,0
+Les Enfants Terribles,"Breakfast, French",3.4,Average,30,$,25,2,Verdun,"Verdun, Montreal",Montreal,H3E,37,45.4721472000,-73.5379207000,0,0
+Petite Ardoise,"Breakfast, French",3.4,Average,39,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T2N8,37,45.5207398000,-73.5948289000,0,0
+Restaurant Tandem,French,3.4,Average,19,$,70,4,Villeray,"Villeray, Montreal",Montreal,H2R2J3,37,45.5423920000,-73.6220110000,0,0
+Bistro des Moulins,"Mediterranean, Seafood",3.4,Average,20,$,40,3,Sault-au-récollet,"Sault-au-récollet, Montreal",Montreal,H2B2H3,37,45.5746876000,-73.6606031000,0,0
+Bistro Le République,"Breakfast, Coffee and Tea",3.4,Average,20,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2V1V1,37,45.5223060000,-73.6068580000,0,0
+Bouillon Bilk,Canadian,4.7,Excellent,213,$,70,4,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X 2S9,37,45.5110240000,-73.5659050000,0,0
+Leméac,French,4.5,Excellent,733,$,70,4,Outremont,"Outremont, Montreal",Montreal,H2V2L1,37,45.5182750000,-73.5972180000,0,0
+Le Club Chasse et Pêche,French,4.2,Very Good,357,$,70,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y3B6,37,45.5089230000,-73.5525050000,0,0
+Liverpool House,"French, Seafood",4.2,Very Good,249,$,70,4,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3J1N6,37,45.4829780000,-73.5754500000,0,0
+Moishes,Steak,4.1,Very Good,293,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W1Y2,37,45.5165450000,-73.5782280000,0,0
+Toqué!,French,4.1,Very Good,243,$,70,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y3X7,37,45.5028990000,-73.5607500000,0,0
+Europea,"French, Canadian",4.1,Very Good,255,$,70,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G1Z2,37,45.4975150000,-73.5738650000,0,0
+Cabane à sucre Au Pied de Cochon,"Bar Food, Canadian",4.1,Very Good,184,$,70,4,St-Eustache,"St-Eustache, Montreal",Montreal,J7N2S4,37,45.5730290000,-74.0520540000,0,0
+Ferreira Café,"Seafood, Portuguese",4.0,Very Good,343,$,70,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A1S8,37,45.5003870000,-73.5739860000,0,0
+Maison Boulud,"Breakfast, European, French",3.9,Good,104,$,70,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G1G2,37,45.5000910000,-73.5780680000,0,0
+Bis Ristorante,Italian,3.8,Good,78,$,70,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G1P1,37,45.4975250000,-73.5738850000,0,0
+Ristorante Primo & Secondo,Italian,3.8,Good,58,$,85,4,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S 3B6,37,45.5344180000,-73.6156633000,0,0
+Chez L'Epicier,French,3.7,Good,162,$,70,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y1H3,37,45.5087820000,-73.5520550000,0,0
+Hostaria,Italian,3.6,Good,51,$,40,3,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S1K9,37,45.5338553000,-73.6099012000,0,0
+Kitchenette,French,3.5,Good,109,$,75,4,The Gay Village,"The Gay Village, Montreal",Montreal,H2L2X1,37,45.5189710000,-73.5523520000,0,0
+Chez Ma Grosse Truie Chérie,"French, Seafood, Canadian",3.5,Good,54,$,70,4,The Gay Village,"The Gay Village, Montreal",Montreal,H2K1P5,37,45.5261390000,-73.5592820000,0,0
+Decca77,French,3.4,Average,73,$,80,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B 4X4,37,45.4973248000,-73.5711434000,0,0
+Laurie Raphael - Hôtel Le Germain,"French, Canadian",3.4,Average,27,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.5024920000,-73.5744500000,0,0
+HVOR,Canadian,3.3,Average,10,$,75,4,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H3C 1K9,37,45.4914530000,-73.5659080000,0,0
+Marconi,Italian,3.0,Average,7,$,75,4,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2S 1C1,37,45.5328346000,-73.6160955000,0,0
+Saiken Sushi,"Japanese, Teriyaki",3.0,Average,5,$,60,4,The Gay Village,"The Gay Village, Montreal",Montreal,H2K4C8,37,45.5233488000,-73.5523027000,0,0
+L'Atelier d'Argentine,Canadian,2.8,Average,7,$,0,1,Downtown,"Downtown, Montreal",Montreal,H3G 2B6,37,45.4977473000,-73.5770661000,0,0
+Scena,French,0,Not rated,2,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y,37,45.5070440000,-73.5507090000,0,0
+Restaurant JCer,Chinese,0,Not rated,2,$,75,4,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A 3C2,37,45.5056312000,-73.5709460000,0,0
+Chez BOSS & fils,Seafood,0,Not rated,2,$,75,4,Verdun,"Verdun, Montreal",Montreal,H4G 1T6,37,45.4676590000,-73.5660399000,0,0
+Restaurant Bungalow,French,0,Not rated,1,$,60,4,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 1Y4,37,45.5296687000,-73.5778383000,0,0
+Prime Steak Sushi Bar,"Steak, Sushi",0,Not rated,0,$,70,4,Laurentians,"Laurentians, Montreal",Montreal,J8E 1R9,37,46.1862580000,-74.5972000000,0,0
+Satay Brothers,"Asian, Malaysian, Thai",4.3,Very Good,377,$,25,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C1P8,37,45.4792705000,-73.5817716000,0,0
+Restaurant la Goulette,African,4.1,Very Good,34,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2L1E7,37,45.5219630000,-73.5696470000,0,0
+Kitchen73,"Breakfast, Italian, Pizza",3.9,Good,83,$,10,1,Laval,"Laval, Montreal",Montreal,H7S2N5,37,45.5662907000,-73.7269612000,0,0
+Le Cheese Casse Croute + Truck,Canadian,3.7,Good,65,$,10,1,Notre-Dame-de-Grâce,"Notre-Dame-de-Grâce, Montreal",Montreal,H4A1G8,37,45.4695844000,-73.6181306000,0,0
+Pas D'Cochon Dans Mon Salon,BBQ,3.7,Good,28,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Pho Hao,"Asian, Vietnamese",3.7,Good,26,$,10,1,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3S2A1,37,45.5011097000,-73.6327394000,0,0
+Ariel,"French, Tapas",3.6,Good,39,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G1W9,37,45.4997290000,-73.5768320000,0,0
+Buns Hamburger House,"BBQ, Burger, Fast Food",3.5,Good,58,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X,37,45.5146317000,-73.5738832000,0,0
+P.A. & Gargantua,Sandwich,3.5,Good,29,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Canada Hot Dog,"Burger, Sandwich",3.5,Good,7,$,10,1,Vieux-Rosemont,"Vieux-Rosemont, Montreal",Montreal,H1Y1W2,37,45.5461990000,-73.5759153000,0,0
+bistro de Lachine,"Breakfast, Canadian",3.4,Average,6,$,25,2,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H8T3H4,37,45.4668689000,-73.7148598000,0,0
+Camion Au Pied de Cochon,"BBQ, Sandwich, Canadian",3.3,Average,17,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2L1A9,37,45.5221862000,-73.5743725000,0,0
+Landry & Filles,,3.3,Average,14,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5343469000,-73.5776346000,0,0
+Super Truck,"Sandwich, Healthy Food",3.3,Average,15,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Crêperie Du Marché,French,3.2,Average,14,$,10,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S3S3,37,45.5366188000,-73.6145711000,0,0
+Roux,"French, Sandwich",3.1,Average,10,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+MuvBox Porchetta,"Italian, Sandwich",3.1,Average,8,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.4994906000,-73.5528799000,0,0
+Cafe Vox,"Coffee and Tea, Filipino, Canadian",3.1,Average,4,$,10,1,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3W1K3,37,45.4935190000,-73.6355270000,0,0
+Lucky's Truck,"Diner, Fast Food, Sandwich",3.0,Average,8,$,25,2,Parc-Extension,"Parc-Extension, Montreal",Montreal,H3N,37,45.5301882000,-73.6211723000,0,0
+Le Tuktuk,Thai,3.0,Average,8,$,10,1,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4E,37,45.4659901000,-73.5842923000,0,0
+Sushi Iki Iki,"Sushi, Healthy Food",3.0,Average,5,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A2A5,37,45.5039710000,-73.5723600000,0,0
+La Mangeoire Food Truck,Sandwich,3.0,Average,6,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Restaurant La Belle Province,"Burger, Fast Food",3.0,Average,2,$,10,1,Laval,"Laval, Montreal",Montreal,H7E3N2,37,45.5916660000,-73.6699200000,0,0
+Zoe's Food Truck,"Greek, Mediterranean, Sandwich",2.9,Average,6,$,10,1,Saint-Sulpice,"Saint-Sulpice, Montreal",Montreal,H2N1Y7,37,45.5361425000,-73.6471215000,0,0
+Le Smoking BBQ,"BBQ, Southern",2.9,Average,5,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Route 27,Others,2.8,Average,14,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X1S4,37,45.5133919000,-73.5730057000,0,0
+Le Smoking BBQ,"BBQ, Southern",2.8,Average,5,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3H 1M7,37,45.4903950000,-73.5830540000,0,0
+Café Mobile Dispatch,Coffee and Tea,2.8,Average,6,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Lucille's Seafood Co.,"Seafood, Canadian",2.7,Average,5,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+La Panthère Verte,"Middle Eastern, Beverages, Vegetarian",2.7,Average,4,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.4974020000,-73.5799390000,0,0
+Fornetti McGill,"Coffee and Tea, Desserts",2.7,Average,1,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B2Z7,37,45.5018212000,-73.5705180000,0,0
+Café Dépôt Sushi Spot,"Coffee and Tea, Sandwich, Sushi",2.4,Poor,7,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G1M9,37,45.4963400000,-73.5788830000,0,0
+Le Quai Roulant,"Fast Food, Seafood",0,Not rated,3,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Le Point Sans G,Canadian,0,Not rated,2,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Cafe Net-Work,"Asian, Mexican, Pizza",0,Not rated,1,$,10,1,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,,37,45.5244704000,-73.6719166000,0,0
+Jerry Ferrer Food Truck,Canadian,0,Not rated,1,$,15,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G 1Z2,37,45.4977179000,-73.5763494000,0,0
+Boîte À Fromages,Canadian,0,Not rated,1,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Gaufrabec,Others,0,Not rated,1,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Dilalo Food Truck,"Fast Food, Burger",0,Not rated,1,$,10,1,Ahuntsic,"Ahuntsic, Montreal",Montreal,H4E 2M1,37,45.4504290000,-73.5981940000,0,0
+Accords Le Bistro,Others,0,Not rated,2,$,40,3,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X1K4,37,45.5103130000,-73.5634028000,0,0
+Das Truck,German,0,Not rated,0,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Camion Unibroue,Canadian,0,Not rated,0,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Phoenix 1,Sandwich,0,Not rated,1,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+La Caravane de Seb,French,0,Not rated,1,$,30,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,J8E 3G4,37,46.1190920000,-74.5915610000,0,0
+Cheeseburger Cheeburger Mobile,"Burger, BBQ, Quebecois, American",0,Not rated,1,$,20,2,Vaudreuil-Soulanges,"Vaudreuil-Soulanges, Montreal",Montreal,J7V 4J5,37,0.0000000000,0.0000000000,0,0
+Bleu Homard,Canadian,0,Not rated,1,$,15,1,Downtown,"Downtown, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Nouveau Palais Winneburger,Burger,0,Not rated,0,$,0,1,Outremont,"Outremont, Montreal",Montreal,H2V4K8,37,45.5239090000,-73.6054586000,0,0
+Nomade So6,Others,0,Not rated,0,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Monsieur Crémeux,"Ice Cream, Desserts",0,Not rated,1,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Les Brigands,"Diner, Mexican",0,Not rated,1,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+La Panthère Mobile,"Sandwich, Vegetarian, Healthy Food",0,Not rated,0,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Fous Truck,Others,0,Not rated,0,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+O Soeurs Volantes,"Italian, Canadian",0,Not rated,0,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Europea,Canadian,0,Not rated,0,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+La Souris,"French, Tapas",0,Not rated,2,$,40,3,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G,37,45.4998842000,-73.5768950000,0,0
+L’Assommoir Mobile,"Sandwich, Seafood, Fusion",0,Not rated,3,$,10,1,Outremont,"Outremont, Montreal",Montreal,H2T2K1,37,45.5259082000,-73.6033323000,0,0
+Saigon Express,Others,0,Not rated,2,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A1T9,37,45.5044500000,-73.5720660000,0,0
+Camion Au Pied de Cochon,Canadian,0,Not rated,0,$,15,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2L 1A9,37,0.0000000000,0.0000000000,0,0
+L'express mobile,Asian,0,Not rated,0,$,0,1,Vieux-Rosemont,"Vieux-Rosemont, Montreal",Montreal,H1Y 1L7,37,0.0000000000,0.0000000000,0,0
+Crémy Mobile,Others,0,Not rated,0,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Smoothfruit,Beverages,0,Not rated,0,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Norman Luncheonette Urbaine,"Sandwich, Canadian",0,Not rated,0,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Lola's Petits Gateaux,Others,0,Not rated,0,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+"Saigon, Je Me Souviens",Vietnamese,0,Not rated,0,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Gourmand Vagabond,"Sandwich, Healthy Food",0,Not rated,0,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,,37,45.5086699000,-73.5539925000,0,0
+Sumo Ramen,"Asian, Japanese, Ramen",4.1,Very Good,176,$,25,2,Chinatown,"Chinatown, Montreal",Montreal,H2Z1J4,37,45.5079120000,-73.5591760000,0,0
+Noodle Factory,"Asian, Chinese",4.0,Very Good,172,$,10,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z1K6,37,45.5067430000,-73.5605960000,0,0
+Ramen Ya,"Japanese, Sushi, Ramen",3.7,Good,96,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W2R2,37,45.5185240000,-73.5831320000,0,0
+La Popessa,"Italian, Pizza",3.6,Good,45,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2W2M4,37,45.5193654000,-73.5725077000,0,0
+Pho Vietnam,Vietnamese,3.6,Good,44,$,10,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z1J4,37,45.5075000000,-73.5589070000,0,0
+Soupes et Nouilles,Chinese,3.6,Good,20,$,10,1,Chateauguay,"Chateauguay, Montreal",Montreal,J6J2R1,37,45.3605815000,-73.7338105000,0,0
+Ramen Misoya,"Japanese, Ramen",3.5,Good,100,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3G2E8,37,45.4977654000,-73.5785313000,0,0
+Pho Nguyen,"Asian, Vietnamese",3.5,Good,47,$,10,1,Downtown,"Downtown, Montreal",Montreal,H3H1M2,37,45.4941160000,-73.5800460000,0,0
+Nudo Noodle House,Chinese,3.4,Average,61,$,10,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z1J6,37,45.5082064000,-73.5601272000,0,0
+Noobox Quartier Dix30,Asian,3.4,Average,19,$,25,2,Brossard,"Brossard, Montreal",Montreal,J4Y,37,45.4440080000,-73.4396680000,0,0
+Pho Saigon Vietnam,Vietnamese,3.4,Average,13,$,10,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z1J6,37,45.5082535000,-73.5600676000,0,0
+Chef Noodle,Chinese,3.4,Average,12,$,0,1,Downtown,"Downtown, Montreal",Montreal,H3H1M1,37,45.4935204000,-73.5798173000,0,0
+Noobox,Asian,3.4,Average,9,$,25,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Z,37,45.5048470000,-73.5591980000,0,0
+Restaurant Zyng,Others,3.3,Average,31,$,25,2,Latin Quarter,"Latin Quarter, Montreal",Montreal,H2X3K4,37,45.5152410000,-73.5640870000,0,0
+Nos Thés,"Tea, Taiwanese, Bubble Tea",3.3,Average,18,$,25,2,The Gay Village,"The Gay Village, Montreal",Montreal,H2L2H1,37,45.5186628000,-73.5561563000,0,0
+Pho Moderne,"Asian, Vietnamese",3.3,Average,14,$,10,1,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4L,37,45.5125605000,-73.6801311000,0,0
+Noobox,Asian,3.3,Average,6,$,10,1,Chinatown,"Chinatown, Montreal",Montreal,H2Z1K4,37,45.5060220000,-73.5592640000,0,0
+Juste Nouilles,Others,3.2,Average,14,$,10,1,Vieux-Rosemont,"Vieux-Rosemont, Montreal",Montreal,H1Y,37,45.5508080000,-73.5730150000,0,0
+Just Noodles,Others,2.9,Average,14,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2X,37,45.5149020000,-73.5746270000,0,0
+Thai Express,Thai,2.9,Average,3,$,10,1,Chateauguay,"Chateauguay, Montreal",Montreal,J6K,37,45.3599170000,-73.7282120000,0,0
+Vie & Nam,Vietnamese,2.8,Average,4,$,10,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3B4W3,37,45.5010482000,-73.5722406000,0,0
+Mr Noodles,Others,2.8,Average,4,$,0,1,Outremont,"Outremont, Montreal",Montreal,H2V,37,45.5233810000,-73.6060100000,0,0
+Monsieur Noodles,Others,2.7,Average,1,$,0,1,Outremont,"Outremont, Montreal",Montreal,H2V,37,45.5233810000,-73.6060100000,0,0
+Gibeau Orange Julep,"American, Fast Food, Ice Cream",4.2,Very Good,169,$,10,1,Mont-Royal,"Mont-Royal, Montreal",Montreal,H4P2H4,37,45.4958390000,-73.6562320000,0,0
+Kagayaki Shabu Shabu,"Asian, Japanese, Fondue",3.9,Good,84,$,25,2,Chinatown,"Chinatown, Montreal",Montreal,,37,45.5123100000,-73.5543590000,0,0
+San Gennaro,"Italian, Bakery, Pizza",3.8,Good,33,$,0,1,Saint-Édouard,"Saint-Édouard, Montreal",Montreal,H2S 1K7,37,45.5327850000,-73.6111769000,0,0
+MOUSHI,Sandwich,3.5,Good,38,$,25,2,Côte-Des-Neiges,"Côte-Des-Neiges, Montreal",Montreal,H3W 3C4,37,45.4846230000,-73.6304760000,0,0
+Koa Lua,Hawaiian,3.1,Average,8,$,20,2,Sainte-Catherine,"Sainte-Catherine, Montreal",Montreal,H3G 1R3,37,45.4959258000,-73.5768790000,0,0
+La Maison Thai 1,"Asian, Thai",3.1,Average,14,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 1Y8,37,45.5303840000,-73.5770530000,0,0
+Double Pizza,"Fast Food, Pizza, Sandwich",2.9,Average,6,$,15,1,Villeray,"Villeray, Montreal",Montreal,H2R1V7,37,45.5419103000,-73.6122938000,0,0
+Vivalia Bistro Express,"Healthy Food, Sandwich",2.8,Average,4,$,20,2,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1T7,37,45.5024834056,-73.5582486635,0,0
+Mikes Lajeunesse,"Italian, Pizza, Sandwich",2.8,Average,4,$,25,2,Ahuntsic,"Ahuntsic, Montreal",Montreal,H3L2E4,37,45.5541419000,-73.6647987000,0,0
+Pizza Sherbrooke,"Pizza, Sandwich",2.7,Average,4,$,25,2,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,H1N 1C5,37,45.5803350000,-73.5448780000,0,0
+A & W,"Burger, Fast Food",0,Not rated,1,$,10,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 2L4,37,45.5241630000,-73.5829690000,0,0
+Al Pizzetta,"Pizza, Italian",0,Not rated,2,$,10,1,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1H9,37,45.5060530000,-73.5531250000,0,0
+Hippi Poutine,"American, French, Quebecois",0,Not rated,1,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H2X 3L3,37,45.5173620000,-73.5687290000,0,0
+Pizza plus,Pizza,0,Not rated,1,$,20,2,Verdun,"Verdun, Montreal",Montreal,H4G 1M3,37,45.4600000000,-73.5700000000,0,0
+Tête Carrée,Canadian,0,Not rated,1,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H2S 3S3,37,45.5365000000,-73.6146620000,0,0
+Pizzeria Toppings,Pizza,0,Not rated,1,$,10,1,Laval,"Laval, Montreal",Montreal,H7X 4G8,37,45.5342570000,-73.7913310000,0,0
+Cabane St-Louis,Pizza,0,Not rated,1,$,20,2,St-Eustache,"St-Eustache, Montreal",Montreal,J7R 1X8,37,45.5556510000,-73.8909310000,0,0
+Pita Pan,"Mediterranean, Lebanese",0,Not rated,1,$,20,2,Outremont,"Outremont, Montreal",Montreal,H2T 2L4,37,45.5239610000,-73.6007430000,0,0
+Cyclo Sandwichs Baguettes Vietnamiennes,"Sandwich, Bakery, Vietnamese, Asian",0,Not rated,1,$,0,1,Longueuil,"Longueuil, Montreal",Montreal,J4S 1H1,37,45.4763673891,-73.4749687558,0,0
+Mikes,Italian,0,Not rated,0,$,25,2,Laval,"Laval, Montreal",Montreal,H7P1T3,37,45.5801076000,-73.7875254000,0,0
+Vincent Pizza Sous-Marins,Pizza,0,Not rated,0,$,20,2,Laval,"Laval, Montreal",Montreal,H7M 2P4,37,45.5956870000,-73.7212460000,0,0
+Mikes,Italian,0,Not rated,0,$,25,2,Rosemere,"Rosemere, Montreal",Montreal,J7A2H2,37,45.6235217000,-73.8018266000,0,0
+Restaurant Japote,Japanese,0,Not rated,0,$,15,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A 3G4,37,45.5028600000,-73.5752360000,0,0
+Restaurant Zenobia,"Syrian, American, Beverages",0,Not rated,0,$,15,1,Saint-Laurent,"Saint-Laurent, Montreal",Montreal,H4L,37,0.0000000000,0.0000000000,0,0
+Mikes Promenades St-Bruno,Italian,0,Not rated,0,$,25,2,Longueuil,"Longueuil, Montreal",Montreal,J3V6P3,37,45.5009070000,-73.3749879000,0,0
+Frite Alors!,"Fast Food, Burger, Seafood",0,Not rated,0,$,0,1,Villeray,"Villeray, Montreal",Montreal,H2R 1G4,37,45.5387294047,-73.6244858151,0,0
+Resto & Traiteur Delight,"Burger, Lebanese, Mediterranean",0,Not rated,0,$,25,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Double Pizza,"Fast Food, Pizza, Sandwich",0,Not rated,0,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,,37,45.5010230000,-73.5644400000,0,0
+Valentine,"Burger, Canadian",0,Not rated,0,$,0,1,Old Montréal,"Old Montréal, Montreal",Montreal,H5A 1K6,37,45.5000000000,-73.5600000000,0,0
+Pizzeria Piccante,Pizza,0,Not rated,0,$,0,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H9B 1Z8,37,45.4867840000,-73.7978210000,0,0
+Mikes,Italian,0,Not rated,0,$,25,2,Longueuil,"Longueuil, Montreal",Montreal,J3V5J1,37,45.5281287000,-73.3466791000,0,0
+BENELUX Brewpub and Café,"Bar Food, Sandwich",3.7,Good,72,$,10,1,Quartier des Spectacles,"Quartier des Spectacles, Montreal",Montreal,H2X 1X7,37,45.5094620000,-73.5708490000,0,0
+Brasserie McAuslan Brewery,Others,3.4,Average,19,$,25,2,Sud-Ouest,"Sud-Ouest, Montreal",Montreal,H4C2G1,37,45.4687560000,-73.5901950000,0,0
+Archibald Microbrasserie,"Canadian, Burger",3.1,Average,10,$,0,1,Dorval,"Dorval, Montreal",Montreal,H4Y 1H6,37,45.4500000000,-73.7400000000,0,0
+L'Espace Public - Brasseurs De Quartier,Drinks Only,0,Not rated,3,$,40,3,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,,37,45.5455780000,-73.5442640000,0,0
+Le Blind Pig,Finger Food,0,Not rated,1,$,0,1,Hochelaga-Maisonneuve,"Hochelaga-Maisonneuve, Montreal",Montreal,,37,0.0000000000,0.0000000000,0,0
+Station Ho.st,Bar Food,0,Not rated,0,$,25,2,The Gay Village,"The Gay Village, Montreal",Montreal,H2L 1S3,37,45.5232759000,-73.5615879000,0,0
+Pizzeria Bottega,"Pizza, Italian",3.6,Good,60,$,25,2,Laval,"Laval, Montreal",Montreal,H7S 1N3,37,45.5646508000,-73.7345542000,0,0
+George Sous-Marins & Pizza,"Fast Food, Pizza, Sandwich",3.2,Average,12,$,10,1,Laval,"Laval, Montreal",Montreal,H7N,37,45.5656506000,-73.7008543000,0,0
+PIZZERIA MORETTI,"Italian, Pizza",0,Not rated,3,$,20,2,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3C 1V6,37,45.4935960000,-73.5574880000,0,0
+Pizzeria Marcello,"Pizza, Italian",0,Not rated,2,$,25,2,Pointe-Claire,"Pointe-Claire, Montreal",Montreal,H9R 3N4,37,45.4480588000,-73.8038525000,0,0
+Stella Pizzeria,"Pizza, Italian",0,Not rated,2,$,35,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 1H4,37,45.5333527000,-73.5841891000,0,0
+Lachine Arena Pizza,"Pizza, BBQ",0,Not rated,0,$,15,1,Lachine,"Lachine, Montreal",Montreal,H8S 1R2,37,45.4417440000,-73.6866360000,0,0
+Pannizza,Italian,0,Not rated,0,$,30,3,La Prairie,"La Prairie, Montreal",Montreal,J5R 0R3,37,0.0000000000,0.0000000000,0,0
+La Distillerie,Bar Food,3.8,Good,87,$,10,1,Latin Quarter,"Latin Quarter, Montreal",Montreal,,37,45.5147970000,-73.5654990000,0,0
+Bar Le Royal,Beverages,0,Not rated,1,$,0,1,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 1Y2,37,45.5290144000,-73.5780861000,0,0
+Bord'Elle,"Canadian, French",0,Not rated,2,$,50,4,Old Montréal,"Old Montréal, Montreal",Montreal,H2Y 1S1,37,45.5018928000,-73.5596771000,0,0
+École Privée,Drinks Only,0,Not rated,0,$,80,4,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5120332000,-73.5710617000,0,0
+Clébard,Canadian,0,Not rated,0,$,30,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2J 2L4,37,45.5244194000,-73.5836805000,0,0
+Perfecto,Bar Food,0,Not rated,0,$,40,3,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,,37,45.5166043000,-73.5797312000,0,0
+Imadake,"Japanese, Bar Food, Tapas",4.3,Very Good,540,$,25,2,Downtown,"Downtown, Montreal",Montreal,,37,45.4889040000,-73.5849080000,0,0
+La Table Des Gourmets,"French, Mediterranean",3.0,Average,5,$,40,3,Laurentians,"Laurentians, Montreal",Montreal,,37,46.0273001000,-74.2110761000,0,0
+Saint Cinnamon Bake Shoppes,"Fast Food, Desserts",0,Not rated,0,$,15,1,Golden Square Mile,"Golden Square Mile, Montreal",Montreal,H3A 3J5,37,45.5022980000,-73.5724690000,0,0
+VertU Bar Santé,"Beverages, Juices",3.0,Average,7,$,0,1,Outremont,"Outremont, Montreal",Montreal,H2T 2L2,37,45.5245580000,-73.6005060000,0,0
+Naturajuicery ,"Juices, Healthy Food",0,Not rated,0,$,25,2,Plateau Mont-Royal,"Plateau Mont-Royal, Montreal",Montreal,H2T 1P4,37,45.5221750000,-73.5844980000,0,0
